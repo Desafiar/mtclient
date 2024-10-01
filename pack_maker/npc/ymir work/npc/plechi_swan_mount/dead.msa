@@ -1,0 +1,14 @@
+ScriptType               MotionData
+
+MotionFileName           "D:\ymir work\npc\plechi_swan_mount\dead.GR2"
+MotionDuration           3.200000
+
+Group MotionEventData
+{
+    MotionEventDataCount     1
+    Group Event00
+    {
+        MotionEventType      8
+        StartingTime         3.008974
+    }
+}

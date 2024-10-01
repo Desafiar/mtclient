@@ -1,0 +1,13 @@
+ScriptType	MapSetting
+
+CellScale	200
+HeightScale	0.500000
+
+ViewRadius	128
+
+MapSize	2	6
+BasePosition	0	0
+TextureSet	textureset\plechito_pirate_cave.txt
+Environment	pirate_cave_dungeon.msenv
+TerrainVisible	0
+

@@ -1,0 +1,22 @@
+ScriptType               MotionData
+
+MotionFileName           "D:\ymir work\npc2\plechito_halloween2022\plechi_halloween2022_pet4\stay01.GR2"
+MotionDuration           4.166667
+Accumulation             0.00	0.00	0.00
+
+Group MotionEventData
+{
+    MotionEventDataCount     1
+    Group Event00
+    {
+        MotionEventType      1
+        StartingTime         1.600000
+        
+        IndependentFlag      0
+        AttachingEnable      1
+        AttachingBoneName    "Bip01-Prop1"
+        FollowingEnable      1
+        EffectFileName       "d:/ymir work/npc2/plechito_halloween2022/plechi_halloween2022_pet4/blood_splash.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+    }
+}

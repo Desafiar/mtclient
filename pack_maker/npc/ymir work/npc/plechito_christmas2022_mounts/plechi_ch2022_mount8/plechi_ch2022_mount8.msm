@@ -1,0 +1,296 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\plechi_ch2022_mount8.GR2"
+
+Group ShapeData
+{
+    PathName 		 ""
+    ShapeDataCount 		 0
+}
+Group AttachingData
+{
+    AttachingDataCount       21
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bone067"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           120.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bone067"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           130.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff_sleigh"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData03
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff_sleigh001"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData04
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff_sleigh002"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData05
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff_sleigh003"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData06
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "star_eff001"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData07
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "star_eff"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData08
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff2_2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData09
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff1_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData10
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff1_2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData11
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff2_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData12
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "bell_eff1_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\bell_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData13
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "foot_eff1_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData14
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "foot_eff1_2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData15
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "foot_eff2_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData16
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "hand_eff2_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData17
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "hand_eff2_2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData18
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "foot_eff2_2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData19
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "hand_eff1_1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData20
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "hand_eff1_2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechito_christmas2022_mounts\plechi_ch2022_mount8\foot_effect.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}

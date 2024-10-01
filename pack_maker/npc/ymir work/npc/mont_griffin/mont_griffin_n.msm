@@ -1,0 +1,60 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\mont_griffin\mont_griffin.GR2"
+
+Group ShapeData
+{
+    PathName 		 "D:\ymir work\npc\mont_griffin\"
+    ShapeDataCount 		 1
+	
+	Group ShapeData00
+ {
+  ShapeIndex   0
+
+	Model    "mont_griffin.gr2"
+	SourceSkin   "00.dds"
+	TargetSkin   "00.dds"
+	SourceSkin2   "gold.dds"
+	TargetSkin2   "gold.dds"
+ }
+}
+Group AttachingData
+{
+    AttachingDataCount       2
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip003-Spine2"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           78.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip003-Spine2"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           87.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+}

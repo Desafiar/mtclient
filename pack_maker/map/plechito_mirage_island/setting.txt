@@ -1,0 +1,12 @@
+ScriptType	MapSetting
+
+CellScale	200
+HeightScale	0.500000
+
+ViewRadius	128
+
+MapSize	9	9
+BasePosition	384000	2508800
+TextureSet	textureset\plechito_mirage_island.txt
+Environment	plechito_mirage_island.msenv
+
