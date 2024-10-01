@@ -1,0 +1,14 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="pack/patch_new_select_ui" BuildKeyfile="false" >
+		<File ArchivedPath="d:/ymir work/ui/public_intro.dds"><![CDATA[pack_maker/patch_new_select_ui/ymir work/ui/public_intro.dds]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/assassin_m.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/assassin_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/assassin_w.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/assassin_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/shaman_m.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/shaman_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/shaman_w.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/shaman_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/sura_m.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/sura_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/sura_w.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/sura_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/warrior_m.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/warrior_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/warrior_w.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/warrior_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/wolfman_m.tga"><![CDATA[pack_maker/patch_new_select_ui/ymir work/bin/icon/face/wolfman_m.tga]]></File>
+	</CreateEterPack>
+</ScriptFile>

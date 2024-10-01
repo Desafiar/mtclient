@@ -1,0 +1,39 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="pack/bgm" BuildKeyfile="false" >
+		<File ArchivedPath="bgm/another_way.mp3"><![CDATA[pack_maker/bgm/bgm/another_way.mp3]]></File>
+		<File ArchivedPath="bgm/a_rhapsody_of_war.mp3"><![CDATA[pack_maker/bgm/bgm/a_rhapsody_of_war.mp3]]></File>
+		<File ArchivedPath="bgm/back_to_back.mp3"><![CDATA[pack_maker/bgm/bgm/back_to_back.mp3]]></File>
+		<File ArchivedPath="bgm/blacksea.mp3"><![CDATA[pack_maker/bgm/bgm/blacksea.mp3]]></File>
+		<File ArchivedPath="bgm/catacomb_of_devil.mp3"><![CDATA[pack_maker/bgm/bgm/catacomb_of_devil.mp3]]></File>
+		<File ArchivedPath="bgm/characterselect.mp3"><![CDATA[pack_maker/bgm/bgm/characterselect.mp3]]></File>
+		<File ArchivedPath="bgm/death_of_landmark.mp3"><![CDATA[pack_maker/bgm/bgm/death_of_landmark.mp3]]></File>
+		<File ArchivedPath="bgm/demon_dungeon.mp3"><![CDATA[pack_maker/bgm/bgm/demon_dungeon.mp3]]></File>
+		<File ArchivedPath="bgm/desert.mp3"><![CDATA[pack_maker/bgm/bgm/desert.mp3]]></File>
+		<File ArchivedPath="bgm/dungeon_fire.mp3"><![CDATA[pack_maker/bgm/bgm/dungeon_fire.mp3]]></File>
+		<File ArchivedPath="bgm/enter_the_east.mp3"><![CDATA[pack_maker/bgm/bgm/enter_the_east.mp3]]></File>
+		<File ArchivedPath="bgm/fear_dungeon.mp3"><![CDATA[pack_maker/bgm/bgm/fear_dungeon.mp3]]></File>
+		<File ArchivedPath="bgm/follow_war_god.mp3"><![CDATA[pack_maker/bgm/bgm/follow_war_god.mp3]]></File>
+		<File ArchivedPath="bgm/last-war2.mp3"><![CDATA[pack_maker/bgm/bgm/last-war2.mp3]]></File>
+		<File ArchivedPath="bgm/lastplay.inf"><![CDATA[pack_maker/bgm/bgm/lastplay.inf]]></File>
+		<File ArchivedPath="bgm/login_window.mp3"><![CDATA[pack_maker/bgm/bgm/login_window.mp3]]></File>
+		<File ArchivedPath="bgm/lost_my_name.mp3"><![CDATA[pack_maker/bgm/bgm/lost_my_name.mp3]]></File>
+		<File ArchivedPath="bgm/m2bg.mp3"><![CDATA[pack_maker/bgm/bgm/m2bg.mp3]]></File>
+		<File ArchivedPath="bgm/metin2_summer.mp3"><![CDATA[pack_maker/bgm/bgm/metin2_summer.mp3]]></File>
+		<File ArchivedPath="bgm/misty_forest.mp3"><![CDATA[pack_maker/bgm/bgm/misty_forest.mp3]]></File>
+		<File ArchivedPath="bgm/monkey_temple.mp3"><![CDATA[pack_maker/bgm/bgm/monkey_temple.mp3]]></File>
+		<File ArchivedPath="bgm/mountain_of_death.mp3"><![CDATA[pack_maker/bgm/bgm/mountain_of_death.mp3]]></File>
+		<File ArchivedPath="bgm/mt.mp3"><![CDATA[pack_maker/bgm/bgm/mt.mp3]]></File>
+		<File ArchivedPath="bgm/only_my_battle.mp3"><![CDATA[pack_maker/bgm/bgm/only_my_battle.mp3]]></File>
+		<File ArchivedPath="bgm/open_the_gate.mp3"><![CDATA[pack_maker/bgm/bgm/open_the_gate.mp3]]></File>
+		<File ArchivedPath="bgm/plechi_desert_map01.mp3"><![CDATA[pack_maker/bgm/bgm/plechi_desert_map01.mp3]]></File>
+		<File ArchivedPath="bgm/save_me.mp3"><![CDATA[pack_maker/bgm/bgm/save_me.mp3]]></File>
+		<File ArchivedPath="bgm/wedding.mp3"><![CDATA[pack_maker/bgm/bgm/wedding.mp3]]></File>
+		<File ArchivedPath="bgm/wonderland.mp3"><![CDATA[pack_maker/bgm/bgm/wonderland.mp3]]></File>
+		<File ArchivedPath="bgm/xmas.mp3"><![CDATA[pack_maker/bgm/bgm/xmas.mp3]]></File>
+		<File ArchivedPath="bgm/yohara_01.mp3"><![CDATA[pack_maker/bgm/bgm/yohara_01.mp3]]></File>
+		<File ArchivedPath="bgm/yohara_02.mp3"><![CDATA[pack_maker/bgm/bgm/yohara_02.mp3]]></File>
+		<File ArchivedPath="bgm/yohara_03.mp3"><![CDATA[pack_maker/bgm/bgm/yohara_03.mp3]]></File>
+		<File ArchivedPath="bgm/yohara_04.mp3"><![CDATA[pack_maker/bgm/bgm/yohara_04.mp3]]></File>
+		<File ArchivedPath="bgm/yohara_05.mp3"><![CDATA[pack_maker/bgm/bgm/yohara_05.mp3]]></File>
+	</CreateEterPack>
+</ScriptFile>

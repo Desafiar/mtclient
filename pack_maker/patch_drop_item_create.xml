@@ -1,0 +1,39 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="pack/patch_drop_item" BuildKeyfile="false" >
+		<File ArchivedPath="d:/ymir work/worldard/dropitem.py"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/dropitem.py]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/post_ui_001.dds"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/post_ui_001.dds]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/public_guild_02.dds"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/public_guild_02.dds]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/public_intro.dds"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/public_intro.dds]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/acceptbutton00.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/acceptbutton00.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/acceptbutton01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/acceptbutton01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/acceptbutton02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/acceptbutton02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/canclebutton00.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/canclebutton00.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/canclebutton01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/canclebutton01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/canclebutton02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/canclebutton02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_block_button_default.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_block_button_default.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_block_button_down.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_block_button_down.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_block_button_over.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_block_button_over.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_default.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_default.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_over.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_over.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_select.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_select.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_write_confirm_default.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_write_confirm_default.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_write_confirm_down.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_write_confirm_down.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/post_write_confirm_over.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/post_write_confirm_over.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_first_prev_btn_01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_first_prev_btn_01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_first_prev_btn_02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_first_prev_btn_02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_last_next_btn_01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_last_next_btn_01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_last_next_btn_02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_last_next_btn_02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_next_btn_01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_next_btn_01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_next_btn_02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_next_btn_02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_pagenumber_00.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_pagenumber_00.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_pagenumber_01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_pagenumber_01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_pagenumber_02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_pagenumber_02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_prev_btn_01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_prev_btn_01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/private_prev_btn_02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/private_prev_btn_02.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/public_intro.dds"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/public_intro.dds]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/public_newbutton_01.dds"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/public_newbutton_01.dds]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/searchguildbutton00.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/searchguildbutton00.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/searchguildbutton01.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/searchguildbutton01.sub]]></File>
+		<File ArchivedPath="d:/ymir work/worldard/worldard_sub/searchguildbutton02.sub"><![CDATA[pack_maker/patch_drop_item/ymir work/worldard/worldard_sub/searchguildbutton02.sub]]></File>
+	</CreateEterPack>
+</ScriptFile>

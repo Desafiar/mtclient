@@ -1,0 +1,106 @@
+window = {
+	"name" : "SelectEmpireWindow",
+	"x" : 0,
+	"y" : 0,
+	"width" : SCREEN_WIDTH,
+	"height" : SCREEN_HEIGHT,
+	"children" : (
+		{
+			"name" : "BackGround",
+			"type" : "expanded_image",
+			"x" : 0,
+			"y" : 0,
+			"image" : "twix_work/selectempirewindow/background.tga",
+			
+			"x_scale" : float(SCREEN_WIDTH) / 1920.0,
+			"y_scale" : float(SCREEN_HEIGHT) / 1080.0,
+			"children" : (
+				{
+					"name" : "logo",
+					"type" : "image",
+					"x" : 0,
+					"y" : -330,
+					"horizontal_align" : "center",
+					"vertical_align" : "center",
+					"image" : "twix_work/selectempirewindow/logo.tga",
+				},
+				{
+					"name" : "board",
+					"type" : "image",
+					"x" : 0,
+					"y" : 0,
+					"horizontal_align" : "center",
+					"vertical_align" : "center",
+					"image" : "twix_work/selectempirewindow/board.tga",
+					"children" : (
+						{
+							"name" : "shinsoo_background",
+							"type" : "image",
+							"x" : 62-90,
+							"y" : 90+90+90,
+							"image" : "twix_work/selectempirewindow/shinsoo_background.tga",
+							"children" : (
+								{
+									"name" : "shinsoo",
+									"type" : "expanded_image",
+									"x" : 0,
+									"y" : 0,
+									"image" : "twix_work/selectempirewindow/shinsoo.tga",
+								},
+							),
+						},
+						{
+							"name" : "chunjo_background",
+							"type" : "image",
+							"x" : 347,
+							"y" : 90+90+90,
+							"image" : "twix_work/selectempirewindow/chunjo_background.tga",
+							"children" : (
+								{
+									"name" : "chunjo",
+									"type" : "expanded_image",
+									"x" : 0,
+									"y" : 0,
+									"image" : "twix_work/selectempirewindow/chunjo.tga",
+								},
+							),
+						},
+						{
+							"name" : "jinno_background",
+							"type" : "image",
+							"x" : 347+285+90,
+							"y" : 90+90+90,
+							"image" : "twix_work/selectempirewindow/jinno_background.tga",
+							"children" : (
+								{
+									"name" : "jinno",
+									"type" : "expanded_image",
+									"x" : 0,
+									"y" : 0,
+									"image" : "twix_work/selectempirewindow/jinno.tga",
+								},
+							),
+						},
+						{
+							"name" : "select",
+							"type" : "button",
+							"x" : 20,
+							"y" : 170+90,
+							"horizontal_align" : "center",
+							"vertical_align" : "center",
+							"default_image" : "twix_work/selectempirewindow/zvolit.tga",
+							"over_image" :  "twix_work/selectempirewindow/zvolit_1.tga",
+							"down_image" : "twix_work/selectempirewindow/zvolit_2.tga",
+						},
+						{
+							"name" : "exit",
+							"type" : "button",
+							"x" : 190,
+							"y" : 100,
+						},
+					),
+				},
+			),
+		},
+	),
+}

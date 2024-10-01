@@ -1,0 +1,4 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="pack/pack_maker" BuildKeyfile="false" >
+	</CreateEterPack>
+</ScriptFile>
