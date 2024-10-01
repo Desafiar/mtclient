@@ -1,0 +1,616 @@
+YES	Sí
+YES_1	Aceptar
+CANCEL	Cancelar
+CLOSE	Cerrar
+NOTICE	Observar
+PARTICIPATE	Participar
+QUEST_NAME	%s
+_N	%s
+ENTER	Entrar
+ENTER_DUNGEON	¿Quieres entrar a la mazmorra?
+INDIVIDUAL	Entrar solo
+PARTY	Entrar en grupo
+NO_PARTY	¡No estás en un grupo!
+ALONE	¿Quieres entrar solo?
+GROUP	¿Queréis entrar en grupo?
+NO_KEY	¡No tienes la llave para poder entrar!
+NO_PARTY_MEMBER	¡Algún jugador no está disponible!
+LOW_LEVEL	El jugador tiene el nivel bajo:
+COOLDOWN	El jugador tiene que esperar:
+NO_MEMBER_KEY	El siguiente jugador no tiene la llave:
+BACK_DUNGEON	Volver a donde estaba...
+CANT_BACK	Solo tenías 5 minutos para volver a entrar. ¡Ya no puedes!
+NO_CH	La mazmorra no ha sido abierta en este CH
+NO_CH2	Para poder entrar cambia al CH: %d
+DUNGEON_REMOVE	Sala no disponible, puedes volver a entrar desde el inicio.
+LEVEL_ERROR	¡Tu personaje no tiene el nivel necesario para entrar a esta mazmorra!
+BACK_QUESTION	¿Quieres entrar donde estabas?
+NO_MAP_LV	¡Tu nivel es demasiado bajo para estar en este mapa!. Serás enviado a la ciudad.
+MINUTE	minutos..
+1	No dispones de misiones para cambiar.
+2	Haz click en la misión que deseas cambiar la bonificación.
+3	Bonus recibido: %s
+4	¡No puedes elegir el mismo bonus!
+5	%s está asociado a tu personaje.
+6	Agregar bonificación 6/7
+7	Refinar Piedra de dragón
+8	Mazmorra de la Baronesa
+9	¡No puedes entrar! El nivel mínimo es 50 y el máximo 80
+10	Tiempo restante
+11	segundos
+12	¿Quieres empezar?
+13	Entrar en la sala
+14	¿Tienes la cabeza reducida?
+15	¡Vuelve cuando tengas el objeto!
+16	Catacumbas del Diablo
+17	Sala del Dragón
+18	Derrota al Beran Setaou
+19	Entrada al Inframundo
+20	Despertar al Am-Heh
+21	¡Has abierto un candado!
+22	No has derrotado a todos los demonios. ¡Búscalos!
+23	No has encontrado el engranaje. ¡Búscalo!
+24	No has derrotado a Ignidor. ¡Mátalo!
+25	Aun te faltan sellos por desbloquear. ¡Date prisa!
+26	No has destruido el Metin del purgatorio. ¡Vuelve!
+27	¡La pieza estaba rota!
+28	La Estela de Isfet ha desaparecido.
+29	El orden no es el correcto
+30	Atalaya de Nemere
+31	Empezar mazmorra
+32	¿Quieres empezar la mazmorra?
+33	El cubo ha desaparecido.
+34	Torre de Demonios
+12009	Con este certificado resetearás todas tus habilidades.
+12010	Resetear mis habilidades
+12011	¡Si! Estoy seguro.
+12012	Tu nivel debe ser 30 o más para hacer eso.
+12013	¿Seguro quieres resetear todas tus habilidades?
+35	Pueblos
+35_1	Shinsoo City 1
+35_2	Shinsoo City 2
+35_3	Jinno City 1
+35_4	Jinno City 2
+36	Valle de Orcos (Lv 30~50)
+36_1	Zona Centro
+36_2	Zona de Farm 1
+36_3	Zona de Farm 2
+36_4	Zona de Farm 3
+37	Desierto Yongbi (Lv 30~50)
+38	Monte Sohan (Lv 40~5)
+39	Tierra de Fuego (Lv 40~65)
+40	Cuevas de Arañas (Lv 45~70)
+40_1	Arañas 1 Inicio
+40_2	Arañas 1 Final
+40_3	Arañas 2 Inicio
+40_4	Arañas 2 Final
+41	Regiones Forestales (Lv 65~75)
+41_1	Bosque Encantado
+41_2	Bosque Rojo
+41_3	Zona de Farm 1 Bosque Rojo
+41_4	Zona de Farm 2 Bosque Rojo
+42	Gruta del Exilio (Lv 75~95)
+42_0	Debes ser nivel 75 para entrar a este mapa.
+42_1	Gruta 1 Inicio
+42_2	Gruta 1 Final
+42_3	Gruta 2 Inicio
+42_4	Gruta 2 Final
+43	Cabo de Dragón (Lv 90~105)
+43_0	Debes ser nivel 90 para entrar a este mapa.
+43_1	Cabo de Dragón
+43_2	Bahía Jade
+43_3	Montañas Estruendosas
+43_4	Acantilado de Gautama
+50	Defensa de la Nave
+51	¡Defiende el mástil para que no lo destruyan!
+52	La batalla comenzará pronto.
+53	Crear un Gremio
+53_0	Guardián de Gremios
+53_1	¡Ya estás en un gremio!
+53_2	No puedes crear otro hasta pasadas 24h
+53_3	¿Quieres crear tu gremio?
+53_4	Necesitas cumplir con los siguientes requisitos:
+53_5	10.000.000 Yang y Nivel: 55 o más
+53_6	Ingresa el nombre de tu futuro gremio:
+53_7	¡No tienes suficiente yang!
+53_8	¡Necesitas tener nivel 55 mínimo!
+53_9	Acabas de dejar un gremio...
+53_10	El nombre no puede contener caracteres especiales
+53_11	y una longitud de entre 3 y 11 caracteres.
+53_12	¿Seguro quieres crear el gremio?
+53_13	¡La cantidad de caracteres debe ser <2 o >11!
+53_14	¡El nombre no debe contener caracteres especiales!
+53_15	¡Ya existe un gremio con ese nombre!
+53_16	¡Hecho! El gremio se ha creado con éxito.
+54	Abandonar el Gremio
+54_0	¿Seguro quieres abandonar el gremio?
+54_1	¡Hecho!
+54_2	Ya no formarás parte de este gremio.
+55	Eliminar el Gremio
+55_0	¿Seguro que quieres eliminar el gremio?
+55_1	¡El gremio ha sido eliminado con éxito!
+60	¿Qué es una estola?
+60_0	Las estolas te ofrecen dos opciones:
+60_1	Combinación & Absorción.
+60_2	Puedes combinar dos estolas del mismo %
+60_3	de absorción. Si no falla obtendrás una
+60_4	con una absorción superior.
+60_5	En la Absorción, la estola coge los
+60_6	bonus de tu arma o armadura y los absorbe.
+60_7	Los objetos que se use para absorber sus
+60_8	bonus serán destruidos en el proceso.
+61	Combinar Estolas
+61_0	¿Quieres combinar dos estolas?
+62	Absorción de Bonus
+62_0	¿Quieres absorber el bonus de un arma
+62_1	o una armadura?
+63	Craftear Estolas y Aura
+63_0	Hola, soy Theowahdan:
+63_1	Puedo crear estolas para ti, pero para ello
+63_2	tienes que traerme los materiales necesarios.
+63_3	Puedes conseguirlos matando jefes.
+64	Entrenamiento de Habilidades a Perfect
+64_0	Actualmente no dispones de ninguna habilidad a G para entrenar
+64_1	No tienes ninguna habilidad para entrenar ahora.
+64_2	Ya que has leído el Pergamino de Exorcismo, puedes[[ENTER]continuar entrenando sin tener que tomar un descanso.
+64_3	Cuando termine su entrenamiento, debe descansar durante[ENTER]medio día. Vuelve a intentarlo más tarde o usa un Exorcismo[ENTER]
+64_4	Ninguna de tus habilidades está lo suficientemente bien entrenada[ENTER]para tratar de alcanzar el estatus de Gran maestro[ENTER]
+64_5	Elija una habilidad en la que le gustaría subir a Perfect.
+64_6	%s resultado entrenamiento:
+64_7	El entrenamiento de gran maestro consume puntos de rango.[ENTER]Así que es posible que su nivel caiga en un valor de puntos[ENTER]negativo.
+64_8	No tienes suficientes puntos de rango para entrenar.
+64_9	Cantidad necesaria de puntos de rango: %d -> %d 
+64_10	Tu nivel de puntos de rango está en negativo.[ENTER]Lo que significa que gastarás el doble de puntos de estado[ENTER]para entrenar tus habilidades.
+64_11	Puntos de rango necesarios: %d 
+64_12	Si entras una habilidad tu personaje entrará[ENTER]en un rango negativo de puntos. 
+64_13	¡Exito! 
+64_14	¡Enhorabuena! Lo has conseguido.
+64_15	%s ha subido a Perfect Master!
+64_16	Lo que significa que no podrás mejorar más[ENTER]esta habilidad.
+64_17	¡Enhorabuena! Lo has conseguido. 
+64_18	%s subió al nivel %s. 
+64_19	¡Has subido con éxito tu nivel de habilidad! 
+64_20	Has usado %s puntos de rango.
+64_21	El entrenamiento ha fallado...
+64_22	¡Sigue intentándolo!
+64_23	Has perdido puntos de rango al usar la Piedra Alma.
+65	Quiero Casarme
+65_1	Anciana:
+65_2	Ya hay una boda celebrándose ahora. Vuelve más tarde.
+65_3	Necesitas tener nivel 25 para poder casarte.
+65_4	¿Quieres casarte sin un anillo? ¡consigue uno!
+65_5	¿Vas a casarte así? ¡consigue un traje!
+65_6	Si quieres casarte necesitas llevar puesto:
+65_7	Necesitas 10kk para poder casarte.
+65_8	¡Estás impresionante!
+65_9	Escribe el nombre tu pareja
+65_10	¡Has escrito mal su nombre! prueba de nuevo...
+65_11	¿Seguro que quieres casarte?
+65_12	%s no está online.
+65_13	%s está demasiado lejos...
+65_14	La persona con la que quieres casarte ya está casada
+65_15	%s ya está casada.
+65_16	Tu pareja necesita tener nivel 25 o más.
+65_17	No puede haber más de 15 niveles de diferencia.
+65_18	Recordad tener los anillos a mano.
+65_19	¿Tu pareja tiene el anillo a mano?
+65_20	Tu pareja necesita tener el anillo preparado.
+65_21	Tu pareja no tiene la vestimenta adecuada.
+65_22	Necesita llevar un Traje de Boda
+65_23	Necesita llevar un Vestido de Boda
+65_24	¿Quieres casarte con
+65_25	¡Habéis recibido el anillo de casados!
+65_26	Tu pareja ha rechazado casarse contigo.
+65_27	Volver a la boda
+65_28	Tu pareja te está esperando. Te llevaré con ella.
+65_29	Planificadora de bodas:
+65_30	Estoy hablando con tu pareja, un momento.
+65_31	Algo está mal. No es la persona indicada.
+65_32	Ya está todo en orden. Podemos empezar.
+65_33	¡Que tengáis una buena ceremonia!
+65_34	Finalizar Boda
+65_35	¿Quieres finalizar la ceremonia?
+65_36	Permiso para Matrimonio
+65_37	No se puede finalizar porque tu pareja está offline
+65_38	Necesitamos el consentimiento de tu pareja.
+65_39	Tu pareja ha rechazado.
+65_40	Divorcio
+65_41	Guardián de la ciudad
+65_42	Sin tu pareja no puedo divorciaros...
+65_43	Para poder divorciaros necesitáis pagar 50kk
+65_44	¿Seguro que queréis divorciaros?
+65_45	Uno de los dos no tiene el anillo de boda.
+65_46	Uno de los dos no tiene 50kk para divorciarse.
+65_47	El divorcio ha sido cancelado.
+65_48	¡Ya estáis divorciados!
+65_49	Tu pareja ha rechazado divorciarse.
+65_50	Quitar anillo de Boda.
+65_51	Los anillos de Boda han sido eliminados.
+65_52	Divorcio Unilateral
+65_53	Necesitas 200kk para un divorcio forzoso.
+65_54	¿Quieres divorciarte?
+65_55	No tienes suficiente yang para divorciarte.
+65_56	Lista de Ceremonias
+65_57	Actualmente no hay ninguna boda celebrándose.
+65_58	Boda de
+65_59	 y 
+65_60	Eres un invitado, ¡pásalo bien!
+65_61	Todavía no están listos los papeles del divorcio.
+66	Cambio de Reino
+66_1	Con este artículo puedes cambiar de Reino.
+66_2	¡No puedes utilizar este artículo!
+66_3	¡Puedes cambiar de reino una vez!
+66_4	Los jugadores casados no se pueden cambiar de reino.
+66_5	Los jugadores transformados no pueden cambiar de reino.
+66_6	Los jugadores con gremio no pueden cambiar de reino.
+66_7	Necesitas tener 10.000.000 Yang.
+66_8	Shinsoo
+66_9	Jinno
+66_10	¿Seguro que quieres cambiarte?
+66_11	Cierra sesión para completar el cambio.
+66_12	%s -> %s
+66_13	¡Ya estás en este reino!
+66_14	No puedes cambiarte porque eras miembro de un gremio de aqui.
+66_15	No puedes cambiarte porque estabas casado aqui.
+66_17	GM: ¿Establecer el tiempo a 0?
+66_18	Se ha reestablecido el tiempo.
+66_19	Elige el reino al que quieras cambiarte:
+66_20	Espera hasta que el cambio de reino haya finalizado.
+66_21	Tienes que cumplir con los  requisitos.
+66_22	¡El cambio se ha realiado con éxito!
+67	Cambio de Sexo
+67_1	Solo podrás cambiarte de sexo siendo nivel 50 o más.
+67_2	No puedes cambiar de sexo si estás casado.
+67_3	No puedes cambiar de sexo si estás transformado.
+67_4	Solo puedes cambiar de sexo cada 3 días.
+67_5	Tiempo restante:
+67_6	¡Has cambiado de sexo con éxito!
+67_7	Con este pergamino puedes cambiar de sexo.
+67_8	Solo puedes cambiarte una vez cada 3 días.
+67_9	¿Seguro que quieres cambiarte?
+67_10	Tu HP y Maná seguirán igual
+67_11	Sólo cambiará tu apariencia física.
+67_12	Para ver el cambio tienes que reloguear.
+67_13	El cambio de sexo ha sido cancelado.
+68	Pase de Batalla
+68_1	¿Quieres activar el Pase de Batalla?
+68_2	Recuerda que debes finalizar todas las misiones
+68_3	antes de que acabe el mes o perderás la recompensa.
+68_4	¡Ya tienes activo el Pase de Batalla!
+68_5	¡No puedes usar este objeto!
+68_6	¿Quieres resetear el Pase de Batalla?
+68_7	Recuerda que podrás resetearlo y hacer de nuevo otro
+68_8	BattlePass con el mismo personaje.
+68_9	¡Cuidado!
+68_10	Asegúrate de haber terminado ya el BattlePass porque que
+68_11	si lo reseteas antes perderás todo el progreso y 
+68_12	todas las recompensas que no has reclamado todavía...
+69	Abrir tienda
+69_1	Mejorar la Caña
+69_2	Pescador
+69_3	Para mejorar la caña de pescar es necesario que
+69_4	tenga todos los puntos de pesca necesarios.
+69_5	¡Yo puedo mejorar la caña de pescar!
+69_6	¡Esta caña no se puede mejorar más!
+69_7	¡La caña no tiene los puntos suficientes!
+69_8	¿Quieres mejorar la caña de pescar?
+69_9	El nivel de la Caña de Pescar es: %d
+69_10	No estoy seguro de tener suficientes para mejorarla.
+69_11	Recuerda que la mejora puede fallar y bajar de nivel.
+69_12	La mejora ha fallado. Pero no ha perdido nivel.
+69_13	¡La mejora ha funcionado correctamente!
+69_14	La mejora ha fallado. La caña ha descendido un nivel.
+69_15	Por favor... ven más tarde...
+70	Bosque Encantado (lv 105~120)
+70_1	Hola! Veo que quieres descubrir nuevas tierras
+70_2	Yo puedo llevarte a una tierra muy lejana...
+70_3	Debes ser nivel 105 para entrar en este mapa.
+70_4	Teletransportarme
+70_5	NPC Shinsoo
+70_6	Mapa World Boss
+71	Mazmorra Meley
+963	¡Una técnica nueva!
+964	¡Lo he conseguido![ENTER]Por fin he podido desarrollar una técnica[ENTER]totalmente nueva.[ENTER]He logrado procesar objetos para extraer energía[ENTER]pura de ellos.[ENTER]¡Una cosa brillante!
+965	Si se destruye un objeto con ayuda de mi técnica,[ENTER]se reciben fragmentos de energía.[ENTER]Si se unen 30 de estos fragmentos, se obtiene un[ENTER]potente Cristal de Energía. Energía pura sin[ENTER]filtrar unida en una Gema. Este poder se filtra[ENTER]en todo tu equipamiento.[ENTER]¿Te interesa?
+966	Tráeme objetos de equipamiento, como armas, joyas[ENTER]y ropa, que encuentres en tus viajes. Yo los[ENTER]convertiré en fragmentos de energía. El futuro y[ENTER]la esperanza de nuestro reino dependen de esta[ENTER]técnica.[ENTER]¡Seremos invencibles!
+967	Extraer fragmentos de energía
+968	¿Ha funcionado? ¿Has obtenido fragmentos de[ENTER]energía?[ENTER]Tráeme más objetos y yo los descompondré con[ENTER]ayuda de la alquimia. Mi técnica todavía no está[ENTER]perfeccionada del todo, así que no te puedo decir[ENTER]seguro cuántos fragmentos recibirás.
+969	Sólo hay una condición: Tanto tu nivel como el[ENTER]del objeto tiene que ser al menos de 35.[ENTER]Bueno, ya veremos...
+970	¡Todavía no eres lo suficientemente fuerte![ENTER]Vuelve cuando hayas alcanzado el nivel 35.
+971	¡Ah, excelente! Ya eres fuerte y tienes[ENTER]experiencia. Dame el objeto que quieres que[ENTER]trate.
+972	Todavía no eres suficientemente fuerte como para[ENTER]dominar la energía de los fragmentos.[ENTER]Vuelve cuando hayas alcanzado como mínimo el[ENTER]nivel 35.
+973	Este objeto no es compatible con mi técnica.[ENTER]Tráeme otra cosa.
+974	Este objeto no tiene suficiente energía.[ENTER]Tráeme uno de nivel 35 como mínimo: sólo así mi[ENTER]técnica podrá extraer su energía.
+975	¿Quieres que destruya este objeto?
+976	¡Sí!
+977	¡No, todavía no!
+978	He fracasado. Lamentablemente no he podido[ENTER]extraer ningún fragmento de energía. Quizás lo[ENTER]logre la próxima vez.
+979	¡Excelente! He encontrado %d fragmentos de[ENTER]energía. Aquí tienes.
+980	Crear Cristal de Energía.
+981	¿Acaso ya has agotado tus reservas de energía? No[ENTER]deberías trabajar tan duramente y poner tu vida[ENTER]en riesgo tan a la ligera.[ENTER]Para crear tu Cristal de Energía necesito %d[ENTER]fragmentos de energía.
+982	Todavía no tienes suficientes fragmentos de[ENTER]energía. Con esto no puedo fabricar ningún[ENTER]Cristal de Energía.[ENTER]Vuelve cuando hayas reunido al menos %d[ENTER]fragmentos de energía.
+983	Muy bien, ya tienes los %d fragmentos de energía[ENTER]que necesitaba. Con ellos podré hacer un Cristal[ENTER]de Energía.[ENTER]Espera un segundo. Voy a intentarlo, pero no[ENTER]puedo asegurarte que funcione.
+984	Todo está listo para unir los fragmentos en un[ENTER]Cristal de Energía.[ENTER]Pero de algo tendré que vivir, ¿no? Y mis[ENTER]herramientas no caen del cielo sin más.[ENTER]Sólo piedo una contribución por gastos de %d[ENTER]Yang. ¿Quieres pagar?
+985	¡Por supuesto!
+986	Ahora, no.
+987	Está bien, respetaré tu decisión.[ENTER]Vuelve cuando hayas cambiado de opinión y[ENTER]necesites un Cristal de Energía.
+988	Lo siento, pero primero tienes que pagar. No soy[ENTER]de ninguna asociación de caridad.[ENTER]Así son los negocios: dame el dinero y luego yo[ENTER]me encargaré del trabajo.
+989	Aquí tienes tu Cristal de Energía. Sin embargo,[ENTER]sólo el primer intento es siempre exitoso. La[ENTER]alquimia es una ciencia imprevisible: ¡unas pocas[ENTER]diferencias pueden llevar al fracaso! Siempre hay[ENTER]un pequeño riesgo de que el experimento no salga[ENTER]bien.
+990	Me temo que el intento ha fallado. No he podido[ENTER]crear un Cristal de Energía. Mi técnica es[ENTER]brillante, pero su ejecución está llena de[ENTER]riesgos. No siempre sale todo según lo planeado.[ENTER]¡Seguro que la próxima vez sale mejor!
+991	¡Lo sabía! ¡Mi técnica es brillante![ENTER]Aquí tienes tu Cristal de Energía.[ENTER]¡Una maravilla! ¿Sientes la energía?
+992	Tu objeto dispone de %d o más bonificaciones.
+72	Crear Gaya
+72_1	Crear Trozo de Gaya
+72_2	Tienda Gaya
+72_3	Crear Gaya (x1)
+72_4	Crear Gaya (x5)
+72_5	Crear Gaya (x10)
+72_6	Crear Gaya (x25)
+72_7	Crear Gaya (x50)
+72_8	Crear Gaya (Max.)
+72_9	Para crear 1 Gaya necesitas:
+72_10	Gema Gaya x10
+72_11	Trozo de Gema Gaya x1
+72_12	500.000 Yang
+72_13	Para crear: 
+72_14	 Gaya necesitas:
+72_15	 Gemas de Gaya
+72_16	 Trozo de Gema Gaya
+72_17	¿Quieres crear 
+72_18	 Gaya?
+72_19	La creación de Gaya ha tenido éxito. Se te ha ingresado en tu cuenta.
+72_20	Crear trozo de Gaya (x1)
+72_21	Crear trozo de Gaya (x5)
+72_22	Crear trozo de Gaya (x10)
+72_23	Crear trozo de Gaya (x25)
+72_24	Crear trozo de Gaya (x50)
+72_25	Crear trozo de Gaya (Max)
+72_26	Para crear un Trozo de Gema Gaya necesitas:
+72_27	2 Piedras (de cualquier tipo) +0 - +3
+72_28	Vuelve cuando tengas suficientes Piedras.
+72_29	 Trozo de Gema Gaya necesitas:
+72_30	 Piedras +0 - +3
+72_31	 Trozo de Gema Gaya?
+72_32	La creación de Trozo de Gema Gaya ha tenido éxito.
+72_33	¡Se ha añadido Gaya x1 a tu cuenta!
+72_34	¡Se ha añadido Gaya x5 a tu cuenta!
+72_35	¡Se ha añadido Gaya x10 a tu cuenta!
+72_36	¡Se ha añadido Gaya x15 a tu cuenta!
+72_37	¡Se ha añadido Gaya x25 a tu cuenta!
+72_38	¡Se ha añadido Gaya x50 a tu cuenta!
+72_39	¡Se ha añadido Gaya x100 a tu cuenta!
+73	Vote4Buff
+73_1	¡Apoyar al servidor en los TOP es importante.[ENTER]A cambio de esto te damos unas bonificaciones[ENTER]temporales para que asi puedas avanzar cada día.
+73_2	Hicistes una selección del bonus anteriormente. Es posible[ENTER]que lo hayas aplicado otro personaje.
+73_3	[ENTER]Tiempo restante: 
+73_4	Tiempo de expiración del bonus: 
+73_5	¿Quieres activar el bonus: 
+73_6	Max. HP +%d
+73_7	Fuerza contra Monstruo +%d
+73_8	Fuerza contra Metines +%d
+73_9	Fuerza contra Jefes +%d
+73_10	Prob. de Doble Experiencia +%d
+73_11	Fuerza contra Medio Humanos +%d
+73_12	[ENTER]Por favor visia el sitio web y has tu votación.
+73_13	¡Gracias por darnos ese apoyo![ENTER] Recuerda que lo puedes hacer cada día.[ENTER]
+74	Tierra de Gigantes (lv 55~80)
+74_1	Zona Gigantes 1
+74_2	Zona Gigantes 2
+OX_1	Cuando empieza el campeonato, yo te puedo incluir[ENTER]como participante.[ENTER]Todavía no está decidido cuándo dará comienzo.[ENTER]Yo te avisaré, así que ve preparándote.
+OX_2	Eh - ¡Tú! Sí tú, pareces bastante listo/a.[ENTER]En una competición llamada Competición OX. Allí[ENTER]se pone a prueba tu conocimiento. Si ganas, te[ENTER]llevarás una buena recompensa.
+OX_3	¡Presta mucha atención a las preguntas! Y recuerda:[ENTER]
+OX_4	Si estás usando el caballo, te llevaré al establo,
+OX_5	no se permiten caballos en la Competición OX.[ENTER]
+OX_6	¡Ahora te teletransportaré a la Competencia OX!
+OX_7	Veo que solo quieres seguir el[ENTER]Competencia OX...
+OX_8	¡Espero que puedas aprender mucho[ENTER]de las preguntas![ENTER]
+OX_9	La competición ya ha comenzado. Esta vez, ¡no[ENTER]puedes participar ni observar! Aunque la siguiente[ENTER]competición podría empezar muy pronto. Serás[ENTER]informado.
+OX_10	Evento OX
+AURA_1	¿Qué es la Vestimenta del aura?
+AURA_2	La Vestimenta del aura se puede mejorar y alcanza[ENTER]niveles superiores gracias al desarrollo. Con[ENTER]ello, aumenta la tasa de absorción. Puedes[ENTER]mejorar tu Vestimenta del aura mediante Runas[ENTER]gélidas del aura, que los monstruos dejan caer.[ENTER]La posibilidad de desarrollo se activa en niveles[ENTER]concretos (49, 99, 149, 199, 249). La tasa de[ENTER]absorción de los valores depende de cada nivel.[ENTER]Puedes transferir valores de Pulseras, Collares,[ENTER]Pendientes y Escudos a tu Vestimenta del aura. Al[ENTER]realizar esta transacción, se destruirá el objeto[ENTER]desde el que transfieres los valores.
+AURA_3	Vestimenta del aura: Transferir valores
+AURA_4	¿Quieres transferir valores de Pulseras,[ENTER]Collares, Pendientes y Escudos a tu Vestimenta[ENTER]del aura?
+AURA_5	Vestimenta del aura: Mejora
+AURA_6	¿Quieres mejorar tu Vestimenta del aura?
+AURA_7	Vestimenta del aura: Desarrollo
+AURA_8	¿Quieres desarrollar tu Vestimenta del aura?
+12091	Un nuevo continente
+12092	Has llegado al nuevo continente Yohara.[ENTER]Ve a la estatua.
+12093	¿Quieres viajar al nuevo continente Yohara?
+12094	Sí
+12095	No
+12096	Ten cuidado.
+12618	Para acceder necesitas Nivel de campeón 1.
+12649	Convertirse en campeón
+12650	¿Quieres pasar al nivel de campeón?
+993	Tienes que esperar hasta que puedas volver a entrar en la mazmorra.
+994	Puedes volver a entrar en la mazmorra Nightmare en: %s
+995	Déjame hablar primero con tu líder.
+996	Algunas personas del grupo todavía
+997	tiene que esperar.
+998	Si quieres entrar en la mazmorra,
+999	cada miembro debe tener al menos el nivel 75.
+1000	Estos miembros no tienen nivel requerido:
+1001	Si quieres entrar en la mazmorra,
+1002	cada miembro debe tener un nivel máximo de 125.
+1003	Los siguientes miembros no tienen suficiente nivel:
+1004	Si quieres entrar en la mazmorra,
+1005	cada uno de los miembros debe tener:
+1006	Pase de pesadilla:
+1007	Estos miembros no tienen el 
+1008	Tienes que esperar hasta que puedas volver a entrar en la mazmorra.
+1009	debes tener
+1010	¡Hola guerrero!
+1011	Encontramos este lugar la semana pasada.
+1012	Lo llamamos mazmorra Nightmare. Este
+1013	el lugar es terrible, ojos grandes por todas partes,
+1014	puedes sentir el mal allí.
+1015	Es un lugar muy peligroso. Monstruos
+1016	se esconden en las sombras, nunca se sabe
+1017	desde donde somos atacados.
+1018	Tenemos que destruir este lugar.
+1019	Va a ser trabajo por mucho tiempo.
+1020	¿Puedes ayudarnos a destruir
+1021	este terrible lugar?
+1022	¡Muy bien! Ese lugar está encantado.
+1023	Tienes solo 60 minutos para terminar
+1024	el camino. Entonces serás teletransportado
+1025	aquí atrás.
+1026	¡Buena suerte!
+RESET	Resetear tiempo
+1027	Se ha puesto a cero la hora.
+1028	¿Quién eres?
+1029	¡Ay, hola!
+1030	Yo era sólo un sacerdote común, que
+1031	estaba descubriendo las bellezas de la naturaleza.
+1032	Pero estuve aquí en un mal momento.
+1033	El poder del mal me atrapó aquí.
+1034	Pero, me alegro por eso. encontré algo
+1035	nuevo, algo fuerte que nunca he visto.
+1036	Yo protejo a las personas que están perdidas, este lugar
+1037	es realmente malo.
+1038	Sólo el líder del grupo puede
+1039	continuar.
+1040	Si no me equivoco, tienes que atravesar la pared.
+1041	Necesitas un fuego de pesadilla para que puedas usar
+1042	el cañón. Puedo darte el fuego pero
+1043	Yo también necesito algo.
+1044	Tráeme el hacha y te doy el fuego.
+1045	¡Oh, lo hiciste muy bien!
+1046	No tengo absolutamente nada que decir.
+1047	Aquí está:
+1048	Fuego de pesadilla:
+1049	Gracias.
+1050	Una cosa más. Tal vez te hayas dado cuenta
+1051	de las setas de este lugar. Encuentra la
+1052	correcta y te teletransportare al
+1053	siguiente nivel. Es maravilloso, ¿no?
+1054	Como dije, protejo a las personas que están perdidas.
+1055	Todos aquí están perdidos.
+1056	Jajaja...
+1057	Puedo teletransportarte a otro escenario, pero
+1058	primero necesito Piedra del pavor.
+1059	Lo busco desde hace mucho tiempo.
+1060	Debería estar en este lugar, en cualquier lugar.
+1061	Entonces, si puedes encontrarlo para mí, lo haré
+1062	te movere de este lugar.
+1063	Difícil de leer
+1064	lee este mensaje.
+1065	Tienes que abrir todas las puertas.
+1066	Uno por uno y abre los monumentos de
+1067	detrás. Después de abrir el último monumento,
+1068	obtendrás la llave para destruir
+1069	este monumento.
+1070	Es la puerta de la etapa final.
+1071	¿Y ahora qué?
+1072	hablar con el cura
+1073	¡Ahora tengo todo lo que necesitaba!
+1074	¡Mi poder es lo suficientemente grande!
+1075	Puedo traer a vivir al peor monstruo
+1076	en el mundo!
+1077	Eres un tonto..
+1078	Tiene un hacha muy bonita, ¡la necesito!
+1079	El nivel mínimo para entrar a la mazmorra es %d.
+1080	El nivel máximo para ingresar a la mazmorra es %d.
+1081	¿Tú otra vez?
+1082	Algunos miembros todavía tienen que esperar[ENTER]hasta que puedan unirse a la mazmorra[ENTER]nuevamente.
+1083	Si quieres entrar a la cueva del troll mágico, [ENTER] déjame hablar primero con el líder del grupo...
+1084	Si quieres entrar a la cueva del troll mágico,[ENTER]debe haber al menos %d jugadores contigo...
+1085	Si quieres entrar a la cueva del troll mágico,[ENTER]cada miembro del grupo debe tener el nivel %d.[ENTER][ENTER]Los siguientes jugadores no tienen el nivel necesario:
+1086	Si desea ingresar a la cueva del troll mágico, [ENTER] cada miembro de cada grupo debe tener:
+1087	Los siguientes jugadores no tienen el elemento requerido:
+1088	Tienes que esperar hasta que puedas volver a entrar en la mazmorra.
+1089	Puedes ir allí de nuevo en: %s
+1090	Si quieres entrar a la cueva mágica de los trolls[ENTER]debes tener:
+1091	Puedo decirle eso solo al líder del grupo
+1092	La cueva se divide en 2 pates.[ENTER]Este es el primero.[ENTER]Para llegar a la segunda etapa necesitas[ENTER]romper un hechizo y destruir una puerta allí.[ENTER]Este es el único camino a la %s.
+1093	Necesito hablar con usted líder.
+1094	Este lugar está protegido por magia.[ENTER]Para matar al troll necesitas destruir[ENTER]3x %s. Pero primero tenemos que[ENTER]descubrirlos. Necesito una pieza específica[ENTER]de pergamino desde aquí. Estaba tirado[ENTER]en algún lugar aquí en el suelo.[ENTER]Tráemelo y digo la fórmula.
+1095	¡Gracias![ENTER]Voy a descubrir los sellos. ¡Prepárate![ENTER]No estoy muy seguro de lo que va a[ENTER]pasar.
+1096	¡Hola! [ENTER]¡Encantado de conocerte! Hace unos meses,[ENTER]una criatura muy extraña apareció[ENTER]en una cueva en el norte. Una especie de troll[ENTER]morado grande.[ENTER]Estaba cazando esta bestia desde que está allí,[ENTER]pero es tan fuerte...[ENTER]¡Está protegido por muchos [ENTER]monstruos agresivos y por magia! [ENTER]Las almas de los cadáveres reviven y [ENTER]son muy fuertes y poderosas.
+1097	Esos monstruos están empezando a salir[ENTER]de la cueva porque son demasiados.[ENTER]Es muy peligroso para todas las regiones.[ENTER]¡Tenemos que matar a esta bestia!
+1098	¿Crees que me puedes ayudar con eso?
+1099	[ENTER]Debes terminar la mazmorra en 30 minutos.[ENTER]De lo contrario, serás teletransportado[ENTER]fuera de la mazmorra.[ENTER][ENTER]¡Te deseo mucha suerte!
+1100	¿Es este el lugar?
+1101	Aquí no hay nada
+1102	No puedes hacer eso ahora.
+1103	Cueva mágica de trolls
+1104	[ENTER]Se ha reajustado la hora.
+1105	Administradora comercial
+1106	¿Qué pasa?
+1107	Debido al ataque de los monstruos, aquí no se[ENTER]puede inaugurar tiendas.
+1108	Dirígete al Bazar
+1109	Hay un sitio al que podríamos retirarnos durante[ENTER]un tiempo.[ENTER]Allí podrás usar tu tienda.[ENTER]¿Quieres ir?
+1110	Confirmar
+1111	Cancelar
+1112	Dirígete a la aldea
+1113	Regresa a la aldea si has terminado.[ENTER]¿Quieres ir?
+1114	Cuesta %d de Yang.
+1115	¿Qué? ¿No tienes suficiente Yang?[ENTER]Vuelve una vez tengas suficiente.[ENTER]
+1116	Comprueba si la cantidad es correcta: %d Yang.
+1117	No puedes cambiar el estado de un ticket si no eres gm.
+1118	No tienes permisos para responder tickets.
+1119	Respuesta enviada correctamente.
+1120	Has enviado el ticket correctamente.
+1121	No existe ningún personaje con ese nombre.
+1122	Ha ocurrido un error al crear el ticket. Inténtalo de nuevo más tarde.
+1123	No tienes permisos para hacer eso.
+1124	No puedes eliminar el administrador principal.
+1125	Miembro %s añadido con éxito.
+1126	Miembro %s borrado con éxito.
+1127	No puedes contestar al ticket si éste está cerrado o solucionado.
+1128	Debes esperar respuesta de un GM para poder enviar otro mensaje.
+1129	|cff00A8EB[Nuevo Jugador]|r: Ha llegado un nuevo %s con el nombre %s, ¡Bienvenido a Ava2!
+1130	Torneo PvP
+1131	Demuestra tus habilidades en este Torneo y demuestra[ENTER]que eres el mejor.
+1132	[ENTER]¿Quieres participar en el Torneo?
+1133	Ir al Torneo PVP, para activar el evento.
+1134	Registrarse en Torneo
+1135	¿Quieres registrarte en un duelo pvp?
+1136	El duelo tiene %s de yang para apostar.
+1137	[ENTER]¿Aún quieres registrarte?
+1138	Se ha registrado correctamente.
+1139	Algo va mal en el algoritmo
+1140	¡Evento no activo!
+1141	Tiempo de registro realizado.
+1142	¡Recuento de registros realizado!
+1143	¡No puedes unirte a pvp con tu personaje job!
+1144	¡Tu nivel es inferior al nivel mínimo!
+1145	Tu nivel es mayor que el máximo
+1146	No puedes registrarte en otro mapa.
+1147	¡No tienes suficiente precio de apuesta!
+1148	Ya te has registrado con este personaje
+1149	Solo puedes registrarte una vez por ordenador.
+1150	<GM> Torneo PVP: Estados
+1151	Seleccione lo que desea
+1152	<GM> Torneo PVP: Bloqueos
+1153	Bloquear vNum
+1154	Desbloquear vNum
+1155	Monstrar
+1156	Ingresa el vNUm del item.
+1157	¿Quieres poner esto?
+1158	Abrir Evento
+1159	Cerrar Evento
+1160	¡Cerrado con éxito!
+1161	¿Mejoras perfectas?
+1162	¿Has oido de los Encantos plus? Pues si es asi te explicaré.
+1163	¡Prestame mucha atención!
+1164	Hay 5 tipos de objetos los cuales tienen porcentajes entre:[ENTER]
+1165	Esto con el fin de mejorar las bonificaciones de tu objeto a perfecto.
+1166	[ENTER]Existe la posibilidad de que si usas de un porcentaje[ENTER]inferior al 100% tu objeto puede ser destruido.[ENTER]
+1167	Recuerda y ten en cuenta que no puedes encantar objetos[ENTER]para mejorar la (Media o Habilidad).[ENTER]
+1168	La unica forma de conseguir estos objetos es mediante[ENTER]mi cratfeo o en la Tienda de Articulos.[ENTER]
+1169	¡Buena suerte![ENTER]
+VIEW_CRAT	Ver crafteo
+NOT_CRAF	Después
+VIEW_SHOP	Ver tienda
+PROMOTION_TITLE_00	¡Pack del Set Joker!
+PROMOTION_TITLE_01	[ENTER]Ava2 te recompensa!
+PROMOTION_TITLE_02	Si has recargado 100€‚ desde el día 16-07-2023 hasta el[ENTER]20-07-2023 a las 23:59 puedes reclamar este pack[ENTER]contactando con un Administrador[ENTER]vía Discord: https://www.ava2.org/discord [ENTER]o en nuestro Sistema de Soporte Ingame.
+PROMOTION_TITLE_03	[ENTER]¡Gracias nuevamente por su apoyo![ENTER]
+SUNGMA_TEXT_00	Si os convertiréis en campeones y podréis subir 30 niveles[ENTER]más. Los puntos de experiencia necesarios los obtendréis en los mapas nuevos de Yohara.
+SUNGMA_TEXT_01	¡Aún no puedes usar este item!
+SUNGMA_TEXT_02	[ENTER]Espera %s para poder usarlo nuevamente.
+SUNGMA_TEXT_03	¡Enhorabuena! Recuerda que estara activo durante 2 días
+SUNGMA_TEXT_04	¿Quieres activar el bonus: 
+SUNGMA_TEXT_05	Ya tienes este efecto activado.

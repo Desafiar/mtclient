@@ -1,0 +1,110 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/events.tga]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. CALENDARIO DE EVENTOS [F8]
+
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13; CENTER_ALIGN]Para acceder al calendario de Eventos podrás hacerlo en el botón
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13; CENTER_ALIGN]del calendario de la taskbar o pulsando el botón F8.
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]2. TIPOS DE EVENTOS
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]Revisa en el Calendario los eventos que están activos.
+
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Principiante
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/begginer_event.tga; Y=170]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Todos los nuevos personajes reciben un Cofre
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] de Bienvenida con equipación de Itemshop por 7 días.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Cajas Luz de Luna
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/moonlight_event.tga; Y=240]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento está activo tu personaje dropeará Fragm. de Cajas Luz de luna.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Al juntar x10 Fragmentos se convertirán automaticamente en una Caja.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Bonificación
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/bonus_event.tga; Y=320]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando veas el icono de este evento activo, arrastra el ratón
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] sobre el icono en el calendario para ver el bonus que recibirás.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Pueden ser Eventos de Bonus Pvm, de bonus contra razas, etc...
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Doble Loot de Metines
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_metin_loot_event.tga; Y=400]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentra activo, tu personaje tendrá un +50%
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] de probabilidad de dropear x2 al destruir un metin.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Doble Loot de Jefes
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_boss_loot_event.tga; Y=480]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentra activo, tu personaje tendrá un +50%
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] de probabilidad de dropear x2 al matar cualquier jefe del servidor.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Drop Libros de Misiones
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/double_mission_book_event.tga; Y=570]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentra activo, tu personaje dropeará
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] cofres que contienen Libros de misiones.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Podrás activar hasta 5 misiones de caza a la vez.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Reducción de Enfriamiento de Mazmorras
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/dungeon_cooldown_event.tga; Y=660]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Durante el tiempo que esté activo el evento, al finalizar cualquier
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] mazmorra el tiempo de enfriamiento se reduce a la mitad.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] Por lo tanto si una mazmorra tiene 1h de Enfriamiento pasará a tener 30 min.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Drop de Llaves Misteriosas
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/keys_event.tga; Y=740]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentre activo, tu personaje dropeará un cofre
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] que contiene las llaves necesarias para abrir cofres misteriosos de mazmorras.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Cartas Okey
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/okey_event.tga; Y=830]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentre activo, tu personaje dropeará un cartas
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] que se convertirán en una baraja al juntar varias.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Al hacer click sobre el icono del evento cuando está activo se te abrirá
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] el panel del juego de cartas.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Cartas Atrapa al Rey
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/king_event.tga; Y=940]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentre activo, tu personaje dropeará un cartas
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] que se convertirán en una baraja al juntar varias.
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Al hacer click sobre el icono del evento cuando está activo se te abrirá
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] el panel del juego de cartas de Atrapa al Rey.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento Drop de Yang
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/money_drop_event.tga; Y=1030]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentre activo, tu personaje
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] ganará más yang al matar mobs o jefes.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento de Experiencia
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/exp_event.tga; Y=1110]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentre activo, tu personaje
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] ganará más experiencia al matar mobs o jefes.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=100]* Evento de Drop de Objetos
+[IMG=d:/ymir work/ui/game/event_calendar/icons/mini_gui/item_drop_event.tga; Y=1190]
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] *Cuando el evento se encuentre activo, tu personaje
+[Y_PADDING=8;X_PADDING = 100;FONT_SIZE=13] dropeará más objetos al matar mobs, jefes o metines.

@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/drops.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Basic Drop Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Index:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Informações de Drop Comum
+[X_PADDING=5;FONT_SIZE=14]* 2. Recursos
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informações de Drop Comum
+
+[CENTER_ALIGN;FONT_SIZE=14]No mundo da Ava2, há um grande número de equipamentos que mobs soltar
+[CENTER_ALIGN;FONT_SIZE=14]itens em você à medida que você se aprofunda em nosso mundo. Esses itens serão 
+[CENTER_ALIGN;FONT_SIZE=14]as armas, armaduras e acessórios que você precisará para melhorar seu personagem. 
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/drop1.tga; Y=310; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=440; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2.Recursos
+
+[X_PADDING=15;FONT_SIZE=14]* Os itens que você receberá serão sempre do nível aproximado de sua
+[X_PADDING=15;FONT_SIZE=14] personagem.
+[X_PADDING=15;FONT_SIZE=14]* Para um mob te derrubar, não precisa ser 10 Lv menor ou maior que você.
+[X_PADDING=15;FONT_SIZE=14]* Qualquer mob pode derrubar qualquer objeto seguindo as regras acima.
+[X_PADDING=15;FONT_SIZE=14]* A queda obtida com este sistema serão os equipamentos de
+[X_PADDING=15;FONT_SIZE=14] nível 1 ao nível 65.
+[X_PADDING=15;FONT_SIZE=14]*Os equipamentos de nível superior a 65 são obtidos apenas de Chefes.
+

@@ -1,0 +1,194 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/pets_wall.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Guía de Mascotas
+
+[COLOR=0xffd700;FONT_SIZE=18]Índice:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Introducción
+[X_PADDING=5;FONT_SIZE=14]* 2. Mascotas simples
+[X_PADDING=5;FONT_SIZE=14]* 3. Mascotas evolutivas
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introducción
+
+[CENTER_ALIGN;FONT_SIZE=14]En todos los juegos es sabido que no hay nada mejor que una 
+[CENTER_ALIGN;FONT_SIZE=14]mascota para acompañar a nuestro heroe en su aventura. Y si 
+[CENTER_ALIGN;FONT_SIZE=14]este acompañante te otorga poderosas bonificaciones, se 
+[CENTER_ALIGN;FONT_SIZE=14]convierte en un activo muy valioso para el jugador.
+
+[CENTER_ALIGN;FONT_SIZE=14]Existen 2 tipos de mascota en Ava2. Las mascotas simples que 
+[CENTER_ALIGN;FONT_SIZE=14]otorgan una bonificación PVM fija al jugador y tienen una 
+[CENTER_ALIGN;FONT_SIZE=14]duracion determinada o permanente y las mascotas Evolutivas, 
+[CENTER_ALIGN;FONT_SIZE=14]que suben de nivel y puedes ir mejorando para aumentar sus 
+[CENTER_ALIGN;FONT_SIZE=14]atributos.
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Mascotas simples
+
+[CENTER_ALIGN;FONT_SIZE=14]Las mascotas simples tinene la característica de que no suben 
+[CENTER_ALIGN;FONT_SIZE=14]de nivel y tienen unas bonificaciones PVM fijas. El fenix que 
+[CENTER_ALIGN;FONT_SIZE=14]se te otorga al comenzar una aventura en Ava2 es un buen ejemplo 
+[CENTER_ALIGN;FONT_SIZE=14]de este tipo de mascotas. Estas masctoas pueden tener una duración 
+[CENTER_ALIGN;FONT_SIZE=14]limitada o pueden ser permanentes. Puedes encontrar más de ellas en 
+[CENTER_ALIGN;FONT_SIZE=14]la Item Shop de Ava2.
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Mascotas evolutivas
+
+[CENTER_ALIGN;FONT_SIZE=14]Este tipo de mascotas son especiales y pueden acabar siendo muy 
+[CENTER_ALIGN;FONT_SIZE=14]poderosas si las vas evolucionando y entrenando con libros de 
+[CENTER_ALIGN;FONT_SIZE=14]habilidad de mascota y elixires. Un bune ejemplo de este tipo de 
+[CENTER_ALIGN;FONT_SIZE=14]mascota es el mono que obtienes al empezar a jugar a Ava2. Estas 
+[CENTER_ALIGN;FONT_SIZE=14]mascotas siempre vienen dentro de un huevo y debes nombrarlas al 
+[CENTER_ALIGN;FONT_SIZE=14]obtenerlas.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/inicial.tga; Y=770; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/1a.tga; Y=1290; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/2a.tga; Y=1430; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/3a.tga; Y=1680; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/4a.tga; Y=2018; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Duración.
+
+[CENTER_ALIGN;FONT_SIZE=14]Las mascotas empiezan con una duración de 30 días inicial al nacer. 
+[CENTER_ALIGN;FONT_SIZE=14]Para poder extender esta duración debes conseguir el item Componente 
+[CENTER_ALIGN;FONT_SIZE=14]Proteico que podras encontrar derrotando a los jefes de mazmorra.
+[CENTER_ALIGN;FONT_SIZE=14]Cada Componente Protéico incrementa la duración de la mascota en 7 dias.
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Evolucinar Mascota
+
+[CENTER_ALIGN;FONT_SIZE=14]Al llegar a niveles específicos la mascota requerirá cierta cantidad de 
+[CENTER_ALIGN;FONT_SIZE=14]algunos objetos para poder seguir subiendo de nivel. Esos niveles son 
+[CENTER_ALIGN;FONT_SIZE=14]el 40, el 75 y el 100. Los objetos que requerirá para poder superar esos 
+[CENTER_ALIGN;FONT_SIZE=14]niveles son:
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/evo_items.tga; Y=1570; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Bonus Pasivos
+
+[CENTER_ALIGN;FONT_SIZE=14]Estos bonus empiezan siendo de 0%, pero puedes ir subiéndolos dándole 
+[CENTER_ALIGN;FONT_SIZE=14]elixires a tu mascota. Existe un tipo de elixir para cada bonus y se 
+[CENTER_ALIGN;FONT_SIZE=14]distinguen con el color. Luego dentro de cada bonus hay 4 niveles de 
+[CENTER_ALIGN;FONT_SIZE=14]elixires que sirven para subir 5 LV del bonus cada uno de ellos. Los 
+[CENTER_ALIGN;FONT_SIZE=14]Elixires (S) te serviran para subir el bonus de lv 1 a lv 5, para seguir 
+[CENTER_ALIGN;FONT_SIZE=14]subiendo dicho bonus deberás utilizar los Elixires (M), (L) y finalmente 
+[CENTER_ALIGN;FONT_SIZE=14] Elixires (XL) hasta llegar al nivel máximo 20.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/elixirs.tga; Y=1870; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Habilidades de Mascota
+
+[CENTER_ALIGN;FONT_SIZE=14]Existen 29 Habilidades distintas para personalizar tu mascota a tu gusto.
+[CENTER_ALIGN;FONT_SIZE=14]Para que tu mascota aprenta estas habilidades primero debes desbloquear los 
+[CENTER_ALIGN;FONT_SIZE=14]slots de habilidades. A nivel de mascota 120, todas tienen un mínimo de 3 
+[CENTER_ALIGN;FONT_SIZE=14]Slots de habilidad desbloqueados y segun la mascota que tengas, le podrás 
+[CENTER_ALIGN;FONT_SIZE=14]desbloquear hasta un máximo de 15 espacios. Para ello necesitas el objeto 
+[CENTER_ALIGN;FONT_SIZE=14]Desbloquear Slot que podrás obtener en los cofres de jefes de mazmorra o en 
+[CENTER_ALIGN;FONT_SIZE=14]item shop.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/books.tga; Y=2210; CENTER_ALIGN]
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14]Para máximizar una habilidad de mascota debes utilizar 21 libros de esa 
+[CENTER_ALIGN;FONT_SIZE=14]habilidad. Los libros de habilidades de mascota se pueden encontrar derrotando 
+[CENTER_ALIGN;FONT_SIZE=14]jefes de mazmorra, obteniendo el cofre de Manuales de Mascota.
+
+
+

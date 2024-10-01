@@ -1,0 +1,9 @@
+[DELAY value;0]
+1. Poti paria pachete multiple intr-un joc pentru a castiga acelasi[ENTER]
+numar de cufere.[ENTER]
+[ENTER]
+2. Poti paria pana la 5 Pachete Rege.[ENTER]
+[ENTER]
+3. Pachetele Rege nu pot fi luate inapoi daca jocul a inceput.[ENTER]
+[ENTER]
+4. Instructiuni detaliate de joc pot fi gasite la 'Reguli'.

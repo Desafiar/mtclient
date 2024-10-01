@@ -1,0 +1,616 @@
+YES	Yes
+YES_1	Accept
+CANCEL	Cancel
+CLOSE	Close
+NOTICE	Notice
+PARTICIPATE	Participate
+QUEST_NAME	%s
+_N	%s
+ENTER	Enter
+ENTER_DUNGEON	Do you want to enter the dungeon?
+INDIVIDUAL	Alone
+PARTY	With Group
+NO_PARTY	You are not in a group!
+ALONE	Do you want to enter alone?
+GROUP	Do you want to enter group?
+NO_KEY	You don't have the key to enter!
+NO_PARTY_MEMBER	Some player is not available!
+LOW_LEVEL	The player has the low level:
+COOLDOWN	The player has to wait:
+NO_MEMBER_KEY	The next player does not have the key:
+BACK_DUNGEON	Go to where I was ...
+CANT_BACK	You just had 5 minutes to re -enter. You can't!
+NO_CH	The dungeon has not been opened in this cho
+NO_CH2	In order to enter, change the CH:
+DUNGEON_REMOVE	Not available room, you can re -enter from the beginning.
+LEVEL_ERROR	Your character does not have the necessary level to enter this dungeon!
+BACK_QUESTION	Do you want to enter where you were?
+NO_MAP_LV	Your level is too low to be on this map! You will be sent to the city.
+MINUTE	minutes...
+1	You do not have missions to change.
+2	Click on the mission you want to change the bonus.
+3	Bonus received: %s
+4	You can't choose the same bonus!
+5	%s is associated with your character.
+6	Add 6/7 bonus
+7	Refine dragon stone
+8	Spider Queen
+9	You can not get in! The minimum level is 50 and the maximum 80
+10	Time remaining:
+11	to log in again.
+12	Do you want to start?
+13	Enter the room
+14	Do you have a reduced head?
+15	Go back when you have the object!
+16	Devil's Catacomb
+17	Dragon Room
+18	Defeat Beran Setaou
+19	Entrance to the underworld
+20	Awaken the AM-Heh
+21	You have opened a lock!
+22	You have not defeated all demons. Look for them!
+23	You have not found the gear. Search it!
+24	You have not defeated ignitor. Make it!
+25	You still lack stamps to unlock. Hurry up!
+26	You have not destroyed the Purgatory Metin. Returns!
+27	The piece was broken!
+28	Isfet's wake has disappeared.
+29	Order is not correct
+30	Nemere Watchtower
+31	Start dungeon
+32	Do you want to start the dungeon?
+33	The cube has disappeared.
+34	Demon tower
+12009	With this certificate you will reset all your skills.
+12010	Reset my skills
+12011	Yes! I'm sure.
+12012	Your level must be 30 or more to do that.
+12013	Are you sure to reset all your skills?
+35	Citys
+35_1	Shinsoo City 1
+35_2	Shinsoo City 2
+35_3	Jinno City 1
+35_4	Jinno City 2
+36	Valley of Seungryong (Lv 30-50)
+36_1	Center
+36_2	Farm 1 zone
+36_3	Farm 2 zone
+36_4	Farm 3 zone
+37	Yongbi Desert (Lv 30-50)
+38	Mount Sohan (Lv 40-65)
+39	Fireland (Lv 40-65)
+40	Spider Caves (LV 45-70)
+40_1	Spider Cave 1 Start
+40_2	Spider Cave 1 Final
+40_3	Spider Cave 2 Start
+40_4	Spider Cave 2 Final
+41	Forest regions (Lv 65-75)
+41_1	Enchanted Forest
+41_2	Red Forest
+41_3	Red Forest Farm Zone
+41_4	Farm 2 Red Forest Zone
+42	Grotto of exile (Lv 75-95)
+42_0	You must be level 75 to enter this map.
+42_1	Grotto 1 Start
+42_2	Grotto 1 Final
+42_3	Grotto 2 Start
+42_4	Grotto 2 Final
+43	Cape Dragon (Lv 90-105)
+43_0	You must be level 90 to enter this map.
+43_1	Cape Dragon Fire
+43_2	Nephrite Bay
+43_3	Thunder Mountains
+43_4	Gautama Cliff
+50	Ship's defense
+51	Defend the mast so that they do not destroy it!
+52	The battle will begin soon.
+53	Create a guild
+53_0	Guild guard
+53_1	You are already in a guild!
+53_2	You can't create another until after 24h
+53_3	Do you want to create your guild?
+53_4	You need to meet the following requirements:
+53_5	10,000,000 yang and level: 55 or more
+53_6	Enter the name of your future guild:
+53_7	You don't have enough Yang!
+53_8	You need to have minimum level 55!
+53_9	You just left a guild ...
+53_10	The name cannot contain special characters
+53_11	and a length of between 3 and 11 characters.
+53_12	Do you surely want to create the guild?
+53_13	The amount of characters must be <2 or> 11!
+53_14	The name should not contain special characters!
+53_15	There is already a guild with that name!
+53_16	Done! The guild has been created successfully.
+54	Leave the guild
+54_0	Do you surely want to leave the guild?
+54_1	Done!
+54_2	You will no longer be part of this guild.
+55	Delete guild
+55_0	Are you sure you want to delete the guild?
+55_1	The guild has been successfully deleted!
+60	What is a sash?
+60_0	The sash offer you two options:
+60_1	Combination & absorption.
+60_2	You can combine two sash of the same %
+60_3	of absorption. If it does not fail you will get a
+60_4	With a higher absorption.
+60_5	In absorption, the stole takes the
+60_6	bonus of your weapon or armor and absorb them.
+60_7	The objects used to absorb your
+60_8	Bonus will be destroyed in the process.
+61	Combine Sash
+61_0	Do you want to combine two sash?
+62	Bonus absorption
+62_0	Do you want to absorb a gun bonus
+62_1	or an armor?
+63	Sash and Aura Outfit Crafting
+63_0	Hello, I'm Theowahdan:
+63_1	I can create sash for you, but for that
+63_2	You have to bring me the necessary materials.
+63_3	You can get them killing bosses.
+64	Perfect skills training
+64_0	You currently do not have any G skills to train
+64_1	You have no ability to train now.
+64_2	Since you have read the exorcism parchment, you can [ENTER] continue training without having to take a break.
+64_3	When your training ends, you must rest for [ENTER] half a day. Try again later or use an exorcism [ENTER]
+64_4	None of your skills is well trained enough [ENTER] to try to achieve the status of Grand Master [ENTER]
+64_5	Choose a skill in which you would like to climb Perfect.
+64_6	%s Result Training:
+64_7	Grand Master's training consumes range points. [ENTER] So it is possible that your level falls into a negative [ENTER] points.
+64_8	You don't have enough range points to train.
+64_9	Necessary amount of range points: %d -> %d
+64_10	Your level of rank points is negative. [Enter] which means that you will spend twice the state points [ENTER] to train your skills.
+64_11	Necessary range points: %d
+64_12	If you enter a skill your character will enter [Enter] in a negative range of points.
+64_13	Success!
+64_14	!! Congratulations!! You've got it.
+64_15	%s has climbed to Perfect Master!
+64_16	Which means that you will not be able to improve this skill anymore.
+64_17	!! Congratulations!! You've got it.
+64_18	%s rose to the %s level.
+64_19	You have successfully uploaded your skill level!
+64_20	You have used %s range points.
+64_21	The training has failed ...
+64_22	Keep trying!
+64_23	You have lost rank points when using the soul stone.
+65	I want to marry
+65_1	Old woman:
+65_2	There is already a wedding celebrating now. Return later.
+65_3	You need to have level 25 to get married.
+65_4	Do you want to marry without a ring? Get one!
+65_5	Are you going to marry like this? Get a suit!
+65_6	If you want to marry you need to wear:
+65_7	You need 10kk to get married.
+65_8	You look awesome!
+65_9	Write your partner name
+65_10	You have written your name badly! try again...
+65_11	Are you sure you want to marry?
+65_12	%s is not online.
+65_13	%s is too far ...
+65_14	The person you want to marry is already married
+65_15	%s is already married.
+65_16	Your partner needs to have 25 or more level.
+65_17	There can be no more than 15 levels of difference.
+65_18	Remember to have the rings by hand.
+65_19	Does your partner have the ring by hand?
+65_20	Your partner needs to have the ring prepared.
+65_21	Your partner does not have adequate clothing.
+65_22	You need to wear a wedding suit
+65_23	You need to wear a wedding dress
+65_24	Do you want to marry
+65_25	You have received the married ring!
+65_26	Your partner has refused to marry you.
+65_27	Wedding
+65_28	Your partner is waiting for you. I will take you with her.
+65_29	Wedding planner:
+65_30	I am talking to your partner, a moment.
+65_31	Something is wrong. It is not the right person.
+65_32	Everything is already in order. We can start.
+65_33	Have a good ceremony!
+65_34	Finish wedding
+65_35	Do you want to finish the ceremony?
+65_36	Permission for marriage
+65_37	You can't finish because your partner is offline
+65_38	We need your partner's consent.
+65_39	Your partner has rejected.
+65_40	Divorce
+65_41	Guardian of the city
+65_42	Without your partner I can't divorce you ...
+65_43	To be able to divorce you need to pay 50kk
+65_44	Are you sure you want to divorce?
+65_45	One of the two does not have the wedding ring.
+65_46	One of the two does not have 50kk to divorce.
+65_47	Divorce has been canceled.
+65_48	You are already divorced!
+65_49	Your partner has rejected divorce.
+65_50	Remove wedding ring.
+65_51	The wedding rings have been eliminated.
+65_52	Unilateral divorce
+65_53	You need 200kk for forced divorce.
+65_54	Do you want to divorce you?
+65_55	You don't have enough Yang to divorce.
+65_56	List of ceremonies
+65_57	There is currently no wedding celebrating.
+65_58	Wedding of
+65_59	Y
+65_60	You are a guest, spend it well!
+65_61	Divorce papers are not yet ready.
+66	Change the kingdom
+66_1	With this article you can change the kingdom.
+66_2	You can't use this article!
+66_3	You can change the kingdom once!
+66_4	Married players cannot change the kingdom.
+66_5	Transformed players cannot change the kingdom.
+66_6	Gremio players cannot change the kingdom.
+66_7	You need to have 10,000,000 Yang.
+66_8	Shinsao
+66_9	Jinno
+66_10	Are you sure you want to change?
+66_11	Close session to complete the change.
+66_12	%s -> %s
+66_13	You are already in this kingdom!
+66_14	You can't change because you were a member of a guild here.
+66_15	You can't change because you were married here.
+66_17	GM: ¿Restart time to 0?
+66_18	The time has been reset.
+66_19	Choose the kingdom you want to switch to:
+66_20	Wait until the kingdom change is complete
+66_21	You have to meet the requirements
+66_22	¡You have changed your kingdom!
+67	Sex change
+67_1	You can only change sex being level 50 or more.
+67_2	You can't change sex if you're married.
+67_3	You can't change sex if you are transformed.
+67_4	You can only change sex every 3 days.
+67_5	Time remaining:
+67_6	You have changed sex successfully!
+67_7	With this parchment you can change sex.
+67_8	You can only change once every 3 days.
+67_9	Are you sure you want to change?
+67_10	Your HP and Maná will remain the same
+67_11	You will only change your physical appearance.
+67_12	To see the change you have to watch.
+67_13	Sex change has been canceled.
+68	Battle pass
+68_1	Do you want to activate the battle pass?
+68_2	Remember to finish all the missions
+68_3	Before the end of the month or you will lose your reward.
+68_4	You already have the battle pass active!
+68_5	You can't use this object!
+68_6	Do you want to reset the BattlePass?
+68_7	Remember that you can reset it and make another one again
+68_8	BattlePass with the same character.
+68_9	Watch out!
+68_10	Make sure you have already finished the BattlePass as
+68_11	if you reset it before you will lose all progress and
+68_12	all the rewards you haven't claimed yet...
+69	Open Shop
+69_1	Improve fishing rod
+69_2	Fisherman
+69_3	To improve the fishing rod, it is necessary to
+69_4	have all the necessary fishing points.
+69_5	I can improve the fishing rod!
+69_6	This fishing rod it lv max!
+69_7	The fishing rod don't have enough points!
+69_8	Do you want to improve your fishing rod?
+69_9	The Fishing Rod level is:
+69_10	I'm not sure I have enough to improve it.
+69_11	Remember that the upgrade may fail and downgrade.
+69_12	The improvement has failed. But it has not lost level.
+69_13	The upgrade has worked succesfuly!
+69_14	The improvement has failed. The rod has dropped one level.
+69_15	Please... come later...
+70	Enchanted Forest (lv 105-120)
+70_1	Hey! I see you want to discover new lands
+70_2	I can take you to a land far away...
+70_3	You must be level 105 to enter in this map.
+70_4	Teleport me
+70_5	Shinsoo NPC
+70_6	World Boss Map
+71	Meley's Lair
+72	Create Gaya
+72_1	Create Glimmerstone Piece
+72_2	Gaya Shop
+72_3	Create Gaya (x1)
+72_4	Create Gaya (x5)
+72_5	Create Gaya (x10)
+72_6	Create Gaya (x25)
+72_7	Create Gaya (x50)
+72_8	Create Gaya (Max.)
+72_9	To create 1 Gaya you need:
+72_10	Gaya Glimmerstone x10
+72_11	Gaya Glimmerstone Piece x1
+72_12	500.000 Yang
+72_13	To create: 
+72_14	 Gaya you need:
+72_15	 Gaya Glimmerstone
+72_16	 Gaya Glimmerstone Piece
+72_17	Do you want to create 
+72_18	 Gaya?
+72_19	The creation of Gaya has been successful.
+72_20	Create Glimmerstone Piece (x1)
+72_21	Create Glimmerstone Piece (x5)
+72_22	Create Glimmerstone Piece (x10)
+72_23	Create Glimmerstone Piece (x25)
+72_24	Create Glimmerstone Piece (x50)
+72_25	Create Glimmerstone Piece (Max)
+72_26	To create a Glimmerstone Piece you need:
+72_27	2 Stones (of any type) +0 - +3.
+72_28	Come back when you have enough Stones.
+72_29	 To create a Glimmerstone Piece you need:
+72_30	 Stones +0 - +3
+72_31	 Gaya Glimmerstone Piece?
+72_32	The creation of Glimmerstone Piece has been successful.
+72_33	Gaya x1 has been added to your account!
+72_34	Gaya x5 has been added to your account!
+72_35	Gaya x10 has been added to your account!
+72_36	Gaya x15 has been added to your account!
+72_37	Gaya x25 has been added to your account!
+72_38	Gaya x50 has been added to your account!
+72_39	Gaya x100 has been added to your account!
+73	Vote4Buff
+73_1	Supporting the server at the TOP is important [ENTER]In exchange for this we give you temporary bonuses [ENTER]so that you can advance every day.
+73_2	You made a bonus selection earlier. It is possible [ENTER]that another character applied it.
+73_3	[ENTER]Time remaining: 
+73_4	Time of expiration of the bonus: 
+73_5	Do you want to save the bonus: 
+73_6	Max. HP +%d
+73_7	Strength against Monster +%d
+73_8	Strength against Metin Stone +%d
+73_9	Strength against Boss +%d
+73_10	Experience Bonus +%d
+73_11	Strength against Half Humans +%d
+73_12	[ENTER]Please visit the website and cast your vote.
+73_13	Thank you for your support! [ENTER] Remember that you can do it every day.[ENTER]
+963	A new technology!
+964	I've done it![ENTER]I have finally managed to develop a completely[ENTER]new technology.[ENTER]I've managed to process items and extract pure[ENTER]energy from them. It's absolutely brilliant!
+965	If you destroy an item using my new technology,[ENTER]you will receive an Energy Fragment. If you merge[ENTER]30 of these fragments, you will receive a[ENTER]powerful Energy Crystal! Pure, unfiltered energy,[ENTER]bundled with a Gemstone. This power will flow[ENTER]into your entire equipment.[ENTER]Are you interested in it?
+966	Bring equipment items such as weapons, jewellery[ENTER]and the clothing that you find whilst on the hunt[ENTER]to me. I will process them into Energy Fragments.[ENTER]Our kingdom's future and hope has been pinned on[ENTER]this technology. We will become invincible!
+967	Extract Energy Fragments
+968	Did it work? Did you receive Energy Fragments?[ENTER]Bring me more items and I will shatter them using[ENTER]alchemy. My technology has not quite been[ENTER]perfected yet. That's why I can never guarantee[ENTER]how many fragments you will receive.
+969	There is one condition: your own level as well as[ENTER]that of the item must have a minimum level of 35.[ENTER]Hm, let's take a look...
+970	You aren't strong enough yet! Come again, when[ENTER]you have reached a minimum level of 35.
+971	Ah, excellent! You are strong and experienced.[ENTER]Give me the item that you want me to process.
+972	You are not strong enough to control the power[ENTER]inside these Energy Fragments. Come again when[ENTER]you have reached a minimum level of 35.
+973	This item is not suitable for my technology.[ENTER]Bring me something else.
+974	This item does not have enough energy. Bring me[ENTER]one with a minimum level of 35 - that's the only[ENTER]way I'll be able extract its energy with my[ENTER]technology.
+975	Should I destroy this item?
+976	Yes!
+977	No, not yet!
+978	I have failed - unfortunately I could not extract[ENTER]any Energy Fragments. Perhaps I'll have better[ENTER]luck next time.
+979	Wonderful! I managed to find %d Energy Fragments.[ENTER]There you go.
+980	Produce Energy Crystal
+981	Have you used up all your power reserves already?[ENTER]You shouldn't work so hard and put your life on[ENTER]the line in such a careless way. I will need %d[ENTER]Energy Fragments to produce an Energy Crystal.
+982	You do not have enough Energy Fragments.[ENTER]I can't produce an Energy Crystal with that.[ENTER]Come again when you have collected at least %d[ENTER]fragments.
+983	Very good, you have got the %d required Energy[ENTER]Fragments. I can produce an Energy Crystal with[ENTER]that. Please wait a minute. I'll try, but I can't[ENTER]guarantee it will work.
+984	Everything's ready to melt the fragments into an[ENTER]Energy Crystal. However, I have to live on[ENTER]something too and my tools don't just fall from[ENTER]the sky. [ENTER] I require a small expenses[ENTER]charge of %d Yang. Are you willing to pay?
+985	Of course!
+986	No, not now.
+987	All right, I respect your decision.[ENTER]Come again when you have changed your mind and[ENTER]need an Energy Crystal after all.
+988	Sorry, you have to pay first. I'm not a charity.[ENTER]That's just business - give me the money and then[ENTER]I'll do my work.
+989	Tady máš svùj energetickı krystal. Ale jen[ENTER]první pokus je vdy úspìšnı. Alchymie[ENTER]je nepøedvídatelná vìda - drobné chyby vedou[ENTER]k neúspìchu! Vdy existuje malá šance,[ENTER]e se pokus nezdaøí.
+990	Pokus se bohuel nezdaøil. Nepodaøilo se mi[ENTER]vyrobit krystal energie. Moje technologie je[ENTER]geniální - ale proces je plnı rizik.[ENTER]Ne vdy se vìci daøí podle plánu. Pøíštì[ENTER]urèitì uspìjeme!
+991	Já to vìdìl! Moje technologie je geniální![ENTER]Tady je váš energetickı krystal. Je to urèitì pìknı exempláø! Cítíš jeho sílu?
+992	Tvùj pøedmìt má %d nebo více bonusù. Chceš ho ještì[ENTER]rozebrat?
+74	Zemì obrù (lv 55~80)
+74_1	Obøi Zóna 1
+74_2	Obøi zóna 2
+OX_1	A zaène mistrovství, mohu tì zaøadit[ENTER]jako úèastníka.[ENTER]Ještì není rozhodnuto, kdy zaène.[ENTER]Dám ti vìdìt, tak se pøiprav.
+OX_2	Ahoj! Jo, vypadáš docela chytøe.[ENTER]V soutìi s názvem OX Competition. Tam [ENTER] se testují tvé znalosti. Pokud vyhraješ, dostaneš pìknou odmìnu.
+OX_3	Dávej pozor na otázky! A nezapomeòte:[ENTER]
+OX_4	Pokud pouíváš konì, odvedu tì do stáje,
+OX_5	konì nejsou v soutìi OX povoleni[ENTER].
+OX_6	Nyní vás teleportuji do Soutìe OX!
+OX_7	Vidím, e chceš jen sledovat [ENTER]Soutì OX...
+OX_8	Doufám, e se z otázek dozvíš hodnì[ENTER]nového.
+OX_9	Soutì ji zaèala. Tentokrát se nemùete [ENTER]zúèastnit ani pøihlíet! Aèkoli další[ENTER]soutì mùe zaèít velmi brzy. Budete [ENTER]informováni.
+OX_10	Soutì OX
+AURA_1	Co je to obleèení Aura?
+AURA_2	Aura Outfit lze vylepšovat a díky vıvoji mùe dosáhnout [ENTER]vyšších stupòù. Tím se zvıší[ENTER]míra absorpce. Aura[ENTER]Outfit si mùete vylepšit pomocí Aura Ice Runes, které padají z[ENTER]pøíšer. Monost evoluce se[ENTER]odemyká na urèitıch úrovních (49, 99, 149, 199,[ENTER]249). Míra absorpce hodnot se liší[ENTER]v závislosti na jednotlivıch úrovních. Hodnoty náramku, náhrdelníku,[ENTER]náušnice a štítu lze pøenést na[ENTER]obleèení s aurou. Pøedmìt, jeho hodnoty jsou pøenášeny, je pøi tomto postupu znièen.
+AURA_3	Aura Outfit: Pøenos hodnot
+AURA_4	Chcete pøenést hodnoty náramkù,[ENTER]náhrdelníkù, náušnic a štítù na Aura[ENTER]Outfit?
+AURA_5	Aura Outfit: Zlepšení
+AURA_6	Chcete vylepšit svùj Aura Outfit?
+AURA_7	Aura Outfit: Evoluce
+AURA_8	Chceš vyvinout svou vıbavu Aura Outfit?
+12091	Novı kontinent
+12092	Dosáhli jste nového kontinentu Yohara.[ENTER]Jdìte k soše.
+12093	Chcete cestovat na novı kontinent Yohara?
+12094	Ano
+12095	Ne
+12096	Buïte opatrní.
+12618	Pro pøístup potøebujete úroveò Champion 1.
+12649	Stát se šampionem
+12650	Chcete se dostat na úroveò šampiona?
+993	Musíš poèkat, a budeš moci znovu vstoupit do dungeonu.
+994	Do dungeonu Nightmare mùeš znovu vstoupit v:
+995	Nejprve si promluvím s vaším vùdcem.
+996	Nìkteøí lidé ze skupiny stále
+997	musí poèkat.
+998	Pokud chceš vstoupit do dungeonu,
+999	kadı èlen musí mít alespoò 75. úroveò.
+1000	Tito èlenové nemají poadovanou úroveò:
+1001	Pokud chcete vstoupit do dungeonu,
+1002	musí mít kadı èlen maximálnì 125. úroveò.
+1003	Další èlenové nemají dostateènou úroveò:
+1004	Pokud chcete vstoupit do dungeonu,
+1005	musí mít kadı èlen:
+1006	prùkaz noèní mùry:
+1007	Tito èlenové nemají
+1008	Musíte poèkat, a budete moci znovu vstoupit do dungeonu.
+1009	musíte mít 
+1010	Ahoj bojovníku!
+1011	Toto místo jsme našli minulı tıden.
+1012	Pojmenovali jsme ho Noèní mùra dungeon. Tento
+1013	je strašné, všude jsou velké oèi,
+1014	je tam cítit zlo.
+1015	Je to velmi nebezpeèné místo. Pøíšery
+1016	se skrıvají ve stínech, nikdy nevíš.
+1017	odkud útoèí.
+1018	Musíme toto místo znièit.
+1019	Bude to práce na dlouhou dobu.
+1020	Mùeš nám pomoci se znièením
+1021	toto strašné místo?
+1022	Dobøe! To místo je oèarované.
+1023	Na dokonèení máte jen 60 minut.
+1024	cestu. Pak budete teleportováni
+1025	zpìt sem.
+1026	Hodnì štìstí!
+RESET	Restartovat Èas
+1027	Èas byl vynulován.
+1028	Kdo jste?
+1029	Ahoj!
+1030	Bıval jsem jen obyèejnı knìz, kterı
+1031	objevoval krásy pøírody.
+1032	Ale byl jsem tu v opravdu špatném èase.
+1033	Zlá moc mì dostala. Dostala sem všechno.
+1034	Ale jsem za to rád. Našel jsem nìco
+1035	nìco nového, nìco silného, co jsem nikdy nevidìl.
+1036	Chráním lidi, kteøí se ztratili, toto místo.
+1037	je opravdu špatné.
+1038	Jen vùdce skupiny mùe
+1039	pokraèovat.
+1040	Pokud mám pravdu, musíte projít zdí.
+1041	Potøebuješ oheò noèní mùry, abys mohl pouít
+1042	dìlo. Mohu ti dát oheò, ale
+1043	ale také nìco potøebuji.
+1044	Pøines mi sekeru a já ti dám oheò.
+1045	Ach, vedl sis skvìle!
+1046	Nemám vùbec co øíct.
+1047	Tady máš:
+1048	Oheò noèní mùry: 
+1049	Dìkuji ti.
+1050	Ještì jedna vìc. Moná jste si všimli.
+1051	houby na tomto místì. Najdìte
+1052	ten správnı a ten vás teleportuje na místo.
+1053	do další fáze. Je to úasné, e?
+1054	Jak jsem øekl, chráním lidi, kteøí se ztratili.
+1055	Všichni tady jsou ztracení.
+1056	Hahaha...
+1057	Mohu vás teleportovat do jiné fáze, ale
+1058	nejdøív potøebuji Kámen hrùzy.
+1059	Hledám ho opravdu dlouho.
+1060	Mìl by bıt na tomto místì, kdekoliv.
+1061	Take pokud ho pro mì najdeš.
+1062	pøesunu tì z tohoto místa.
+1063	Tìko se to ète
+1064	Pøeètìte si tuto zprávu.
+1065	Musíte otevøít všechny dveøe.
+1066	Jednu po druhé a otevøít památky.
+1067	za sebou. A otevøeš poslední památník,
+1068	získáš klíè ke znièení
+1069	tento monument.
+1070	Je to brána do závìreèné fáze.
+1071	Co teï?
+1072	Promluv si s knìzem
+1073	Nyní mám všechny vìci, které jsem potøeboval!
+1074	Má moc je dostateènì velká!
+1075	Mohu pøivést k ivotu i tu nejhorší nestvùru.
+1076	na svìtì!
+1077	Ty blázne..
+1078	Má opravdu pìknou sekeru, potøebuji ji!
+1079	Minimální úroveò pro vstup do dungeonu je %d.
+1080	Maximální úroveò pro vstup do dungeonu je %d.
+1081	Zase ty?
+1082	Nìkteøí èlenové musí ještì poèkat, ne se budou moci znovu pøipojit k dungeonu.
+1083	Pokud chcete vstoupit do jeskynì magickıch trollù,[ENTER]nechte mì nejdøíve promluvit s vùdcem skupiny...
+1084	Pokud chcete vstoupit do jeskynì Magického trolla,[ENTER]musí s vámi bıt alespoò %d hráèù...
+1085	Pokud chceš vstoupit do jeskynì Magického trolla,[ENTER]kadı èlen skupiny musí mít úroveò %d.[ENTER][ENTER]Další následující hráèi nemají potøebnou úroveò:
+1086	Pokud chcete vstoupit do jeskynì Magického trolla,[ENTER]kadı èlen skupiny musí mít:
+1087	Další následující hráèi nemají potøebnı pøedmìt: 1087 Další následující hráèi nemají potøebnı pøedmìt: 1087 Další následující hráèi nemají potøebnı pøedmìt: 1087 Další následující hráèi nemají potøebnı pøedmìt: 1087
+1088	Musíte poèkat, a budete moci znovu vstoupit do dungeonu.
+1089	Znovu tam mùeš jít za: %s
+1090	Pokud chcete vstoupit do kouzelné trollí jeskynì, musíte mít:
+1091	To mohu øíci pouze vedoucímu skupiny.
+1092	Jeskynì je rozdìlena na[ENTER]2 patra. Tohle je první,[ENTER]aby ses dostal do druhé patry, musíš[ENTER]zlomit kouzlo a znièit dveøe[ENTER]tamté. To je jediná[ENTER]cesta k %s.
+1093	Potøebuji s vámi mluvit vùdce.
+1094	Toto místo je chránìno kouzlem,[ENTER]abyste zabili trolla, musíte znièit[ENTER]3x %s. Nejprve je však musíme[ENTER]odhalit. Potøebuji odtud urèitı kus[ENTER]svitku. Leel[ENTER]nìkde tady na zemi.[ENTER]Pøines mi ho a já øeknu formuli.
+1095	Dìkuji! [ENTER]Odhalím peèetì. Buïte pøipraveni![ENTER]Nejsem si jistı, co se bude dít.
+1096	Ahoj![ENTER]Tìší mì! Pøed nìkolika mìsíci se v jedné jeskyni na severu objevil[ENTER]velmi podivnı tvor. Velkı fialovı[ENTER]druh trolla. Lovil jsem tu bestii od té doby, co tam byla, ale byla tak silná. Chrání ho mnoho [ENTER]agresivních pøíšer a magie! [ENTER]Duše mrtvıch tìl znovu oívají a jsou velmi silné a mocné.
+1097	Ty pøíšery zaèínají opouštìt jeskyni, protoe je jich tu pøíliš mnoho.[ENTER]Je to velmi nebezpeèné pro všechny kraje.[ENTER]Musíme tu pøíšeru zabít!
+1098	Myslíš, e mi s tím mùeš pomoci?
+1099	[ENTER]Musíte dokonèit dungeon do 30 minut, jinak budete teleportováni ven [ENTER]z dungeonu. [ENTER]Pøeji vám hodnì štìstí!
+1100	Je tohle to místo?
+1101	Nic tu není
+1102	To teï nemùete udìlat.
+1103	Magická trollí jeskynì
+1104	[ENTER]Èas byl vynulován.
+1105	Správce obchodu
+1106	Co je nového?
+1107	Kvùli útokùm nestvùr[ENTER]zde nemùeme otevøít obchod.
+1108	Vydejte se do bazaru
+1109	Je tu místo, kam se mùeme na[ENTER]chvíli stáhnout.[ENTER]Mùeš tam pouít svùj obchod.[ENTER]Chceš tam jít?
+1110	Potvrïte
+1111	Zrušit
+1112	Vydejte se do vesnice.
+1113	Jakmile budete pøipraveni, mùete se vrátit do vesnice. 1113 [ENTER]Chcete tam jít?
+1114	Stojí to %d yangù.
+1115	Coe? Nemáte dost yangù? [ENTER]Vra se, a jich budeš mít dost[ENTER].
+1116	Zkontroluj, zda je èástka správná: %d yangù.
+1117	Pokud nejste gm, nemùete zmìnit stav tipu.
+1118	Nemáte oprávnìní odpovídat na tipy.
+1119	Odpovìï byla úspìšnì odeslána.
+1120	Tiket jste úspìšnì odeslali.
+1121	Neexistuje ádnı znak s tímto jménem.
+1122	Pøi vytváøení tipu došlo k chybì. Zkuste to prosím pozdìji.
+1123	Nemáte k tomu oprávnìní.
+1124	Hlavního správce nemùete smazat.
+1125	Èlen %s byl úspìšnì pøidán.
+1126	Èlen %s byl úspìšnì odstranìn.
+1127	Nemùete odpovìdìt na tiket, pokud je uzavøen nebo vyøešen.
+1128	Pøed odesláním další zprávy musíte poèkat na odpovìï od správce.
+1129	|cff00A8EB[Novı hráè]|r: Vítejte v Ava2!
+1130	Turnaj PvP
+1131	Uka své schopnosti v tomto turnaji a doka [ENTER]e jsi nejlepší.
+1132	[ENTER]Chceš se zúèastnit turnaje?
+1133	Pøejdìte na PVP turnaj, abyste aktivovali událost.
+1134	Zaregistrujte se do turnaje
+1135	Chcete se zaregistrovat do pvp souboje?
+1136	Na souboj je tøeba vsadit jang %s.
+1137	[ENTER]Stále se chcete zaregistrovat?
+1138	Úspìšnì jste se zaregistrovali!
+1139	V algoritmu je nìco špatnì!
+1140	Událost není aktivní!
+1141	Èas registrace vypršel!
+1142	Poèet registrací je hotov!
+1143	Nemùete se pøipojit k pvp s povoláním vaší postavy!
+1144	Vaše úroveò je niší ne minimální úroveò!
+1145	Vaše úroveò je vyšší ne maximální úroveò!
+1146	Nemùeš se zaregistrovat s jinım mapovım indexem!
+1147	Nemáte dostateènou cenu sázky!
+1148	S touto postavou jste se ji zaregistrovali!
+1149	Pro jeden poèítaè se mùete zaregistrovat pouze jednou!
+1150	<GM> Nastavení stavu PvP souboje
+1151	Vyberte si, co chcete
+1152	<GM> Blok pøedmìtù pro PvP souboje
+1153	Pøidat blok pøedmìtu
+1154	Odebrat blokovanı pøedmìt
+1155	Zobrazit mi blokované pøedmìty
+1156	Vlote vnum poloky want!
+1157	Chcete vloit tento?
+1158	Otevøít událost
+1159	Zavøít událost
+1160	Úspìšnì zavøít!
+1161	Perfektní vylepšení?
+1162	Slyšeli jste o systému Encantos Plus? Pokud ano, vysvìtlím vám to.
+1163	Vìnujte mi zvıšenou pozornost!
+1164	Existuje 5 typù pøedmìtù, které mají procenta mezi: [ENTER]
+1165	To proto, abyste mohli vylepšit bonusy svého pøedmìtu na dokonalé.
+1166	[ENTER]Existuje monost, e pokud pouijete procento[ENTER]menší ne 100 %, mùe bıt váš pøedmìt znièen[ENTER].
+1167	Nezapomeòte a mìjte na pamìti, e nemùete pøedmìty oèarovat[ENTER]za úèelem zlepšení (prùmìru nebo schopnosti)[ENTER].
+1168	Jedinı zpùsob, jak tyto pøedmìty získat, je pomocí[ENTER]mého cratfea nebo v obchodì s pøedmìty[ENTER].
+1169	Hodnì štìstí![ENTER]
+VIEW_CRAT	Viz øemeslné práce
+NOT_CRAF	Pak
+VIEW_SHOP	Zobrazit obchod
+PROMOTION_TITLE_00	Joker Set Pack!
+PROMOTION_TITLE_01	[ENTER]Ava2	vás odmìní!
+PROMOTION_TITLE_02	Pokud jste od 16-07-2023 do[ENTER]20-07-2023 23:59 dobili 100€, mùete si tento balíèek vyzvednout[ENTER]kontaktováním administrátora [ENTER]pøes Discord: https://www.ava2.org/discord [ENTER]nebo v našem systému podpory ve høe.
+PROMOTION_TITLE_03	[ENTER]Ještì jednou dìkujeme za vaši podporu![ENTER]
+SUNGMA_TEXT_00	Pokud se stanete šampionem, budete moci získat o 30[ENTER]úrovní více. Potøebné zkušenostní body získáte na novıch mapách Yohara.
+SUNGMA_TEXT_01	Tento pøedmìt zatím nemùete pouívat!
+SUNGMA_TEXT_02	[ENTER]Poèkejte %s, ne jej budete moci znovu pouít.
+SUNGMA_TEXT_03	Gratulujeme! Nezapomeòte, e bude aktivní po dobu 2	dnù
+SUNGMA_TEXT_04	Chcete bonus aktivovat:
+SUNGMA_TEXT_05	Tento efekt ji máte aktivovanı.

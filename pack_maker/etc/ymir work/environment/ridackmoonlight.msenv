@@ -1,0 +1,96 @@
+ScriptType         EnvrionmentData
+ScriptVersion      1.0000
+
+Group DirectionalLight
+{
+    Direction     0.350156 4.562609 -0.748907
+
+    Group Background
+    {
+        Enable        1
+        Diffuse       0.137255 0.349020 0.474510 1.000000
+        Ambient       0.000000 0.000000 0.000000 1.000000
+    }
+    
+    Group Character
+    {
+        Enable        1
+        Diffuse       0.137255 0.349020 0.474510 1.000000
+        Ambient       0.150000 0.150000 0.150000 1.000000
+    }
+}
+Group Material
+{
+    Diffuse       0.603922 0.603922 0.603922 1.000000
+    Ambient       0.129412 0.129412 0.156863 1.000000
+    Emissive      0.184314 0.392157 0.521569 1.000000
+}
+
+Group Fog
+{
+    Enable        1
+    NearDistance  5000.000000
+    FarDistance   20000.000000
+    Color         0.156863 0.458824 0.631373 1.000000
+}
+
+Group Filter
+{
+    Enable        0
+    Color         0.129412 0.431373 0.592157 0.000000
+    AlphaSrc      1
+    AlphaDest     2
+}
+
+Group SkyBox
+{
+    bTextureRenderMode    0
+    Scale                 3500.000000 3500.000000 3500.000000
+    GradientLevelUpper    4
+    GradientLevelLower    1
+    FrontFaceFileName	   ""
+    BackFaceFileName	   ""
+    LeftFaceFileName	   ""
+    RightFaceFileName	   ""
+    TopFaceFileName	   ""
+    BottomFaceFileName	   ""
+    
+    CloudScale            200000.000000 200000.000000
+    CloudHeight           30000.000000
+    CloudTextureScale     4.000000 4.000000
+    CloudSpeed            0.010000 0.010000
+    CloudTextureFileName  "d:/ymir work/environment/ridack_moon2.dds"
+    List CloudColor
+    {
+        0.000000 0.000000 0.000000 0.000000
+        0.000000 0.000000 0.000000 0.000000
+    }
+    List Gradient
+    {
+        0.000000 0.121569 0.184314 0.000000
+        0.000000 0.156863 0.239216 0.000000
+        
+        0.000000 0.156863 0.239216 0.000000
+        0.003922 0.168627 0.258824 0.000000
+        
+        0.003922 0.172549 0.258824 0.000000
+        0.011765 0.239216 0.349020 0.000000
+        
+        0.011765 0.239216 0.352941 0.000000
+        0.027451 0.482353 0.737255 0.000000
+        
+        0.027451 0.482353 0.737255 0.000000
+        0.027451 0.482353 0.737255 0.000000
+    }
+}
+
+Group LensFlare
+{
+    Enable                     1
+    BrightnessColor            0.976471 0.976471 0.976471 1.000000
+    MaxBrightness              0.000001
+    MainFlareEnable            1
+    MainFlareTextureFileName   "d:/ymir work/environment/ridack_moon.dds"
+    MainFlareSize              0.060000
+}
+

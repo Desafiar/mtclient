@@ -1,0 +1,46 @@
+ASLAN_BUFF_TITLE_MAIN_BOARD	Shaman Info
+ASLAN_BUFF_TITLE_CREATE_BOARD	Configure Shamans
+ASLAN_BUFF_TITLE_LEARN_GRANDMASTER	Learn Grandmaster skill
+ASLAN_BUFF_TITLE_RESET_SKILL	Reset skill
+ASLAN_BUFF_TITLE_CHANGE_NAME	Change name
+ASLAN_BUFF_BUTTON_SUMMON	Call
+ASLAN_BUFF_BUTTON_UNSUMMON	Send away
+ASLAN_BUFF_BUTTON_EXPORT	Export
+ASLAN_BUFF_TITLE_SKILLS	Skills
+ASLAN_BUFF_SKILLPOINTS	Skill points: %d
+ASLAN_BUFF_INTELLIGENCE	INT: %d
+ASLAN_BUFF_TITLE_IMPROVE_CHANGE	Enhance and modify
+ASLAN_BUFF_BUTTON_TEXT_USE	Use
+ASLAN_BUFF_INPUT_NAME_TITLE	Enter name
+ASLAN_BUFF_CHANGE_NAME	Change name
+ASLAN_BUFF_CHANGE_SEX	Change gender
+ASLAN_BUFF_RESET_SKILL	Resetting skills
+ASLAN_BUFF_HOVER_EXP_INFO	Experience : %s / %s (%.2f%%)
+ASLAN_BUFF_CHAT_INFO_NAME_IS_EMPTY	You have to enter a name for your shaman.
+ASLAN_BUFF_SELECT_SKILL	Select skill
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_1	Congratulations!
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_2	Improving %s was successful!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_1	Unfortunately improving %s did not work!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_2	You got only half of the costs.
+ASLAN_BUFF_POPUP_GRANDMASTER_NO_SKILLS	You don't have a grandmaster skill that you can improve.
+ASLAN_BUFF_POPUP_NOT_ACTIVE_SHAMAN	You do not have a shaman active shaman.
+ASLAN_BUFF_POPUP_RESET_SKILL_1	You have reset the skill %s!
+ASLAN_BUFF_POPUP_RESET_SKILL_2	You have received %d skill points!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_1	Do you really want to export the shaman?
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_2	Tech levels of skills will be reset!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_3	The export costs for the level of your shaman: %s Yang
+ASLAN_BUFF_QUESTION_BEFORE_CHANGE_SEX	Do you want to change the gender of the shaman?
+ASLAN_BUFF_CHAT_NO_SKILL_ITEM	There is no skill book or soul stone available.
+ASLAN_BUFF_CHAT_NO_CHANGE_NAME_ITEM	You need tincture of the name to be able to change the name.
+ASLAN_BUFF_CHAT_NO_CHANGE_SEX_ITEM	You need change spell to be able to change sex.
+ASLAN_BUFF_CHAT_NO_RESET_SKILL_ITEM	You need skill redistribution to reset a skill.
+ASLAN_BUFF_SKILLBOARD_COST	Cost: %s Yang
+ASLAN_BUFF_SKILLBOARD_COST_EMPTY	Cost : ----
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS	Skill points : %d
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS_EMPTY	Skill points : ----
+ASLAN_BUFF_TOOLTIP_WITH_SOCKET_ZERO	This seal has not been broken yet! Be the first to release the spirit of this shaman!
+ASLAN_BUFF_TOOLTIP_MALE	Male
+ASLAN_BUFF_TOOLTIP_FEMALE	Female
+ASLAN_BUFF_TOOLTIP_LEVEL	Level : %s
+ASLAN_BUFF_TOOLTIP_SKILLPOINTS	Skill points : %s
+ASLAN_BUFF_TOOLTIP_INTELLIGENCE	Intelligence : %s

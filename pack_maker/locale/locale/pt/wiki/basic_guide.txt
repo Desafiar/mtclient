@@ -1,0 +1,117 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/mechanics.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Basic Ava2 Gameplay Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Content List:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Inventario
+[X_PADDING=5;FONT_SIZE=14]* 2. Equipamento
+[X_PADDING=5;FONT_SIZE=14]* 3. Progresso do personagem
+[X_PADDING=5;FONT_SIZE=14]* 4. Dicas Uteis
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Inventario
+
+[CENTER_ALIGN;FONT_SIZE=14]O Inventario normal e usado apenas para consumíveis, equipamentos e 
+[CENTER_ALIGN;FONT_SIZE=14]alguns outros itens. O resto dos itens que você adquirir serão colocados em 
+[CENTER_ALIGN;FONT_SIZE=14]o Inventário Especial conforme a categoria do ‘item’.
+
+[CENTER_ALIGN;FONT_SIZE=14]Você pode encontrar o Inventário Especial ao lado do inventário:
+
+
+[IMG=d:/ymir work/ui/game/special_inventory/normal_storage_0.tga; Y=315; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Equipamento
+
+[CENTER_ALIGN;FONT_SIZE=14]Itens do Ava2 tem um sistema de raridade,
+[CENTER_ALIGN;FONT_SIZE=14]Quando e deixado cair por um monstro:
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=858681]*Item Comum: No aumenta bonus base  |  Baixa Durabilidade
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=FFFFFF]*Item Incomum Item: +5% bonus base  |  Normal Durabilidade
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=39DDDA]*Item Raro: +10% bonus base  |  Bom Durabilidade
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E41414]*Item Epico: +20% bonus base  |  Muito Bom Durabilidade
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=3FFF19]*Item Relíquia: +25% bonus base  |  Excelente Durabilidade
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E328E9]*Item Lendário: +30% bonus base  |  Lendária Durabilidade
+
+[CENTER_ALIGN;FONT_SIZE=14]A durabilidade se perde a medida que recebe e faz dano
+[CENTER_ALIGN;FONT_SIZE=14]ao perder esta, só os bônus base
+[CENTER_ALIGN;FONT_SIZE=14]seguem funcionando, porem
+[CENTER_ALIGN;FONT_SIZE=14]seus bônus 1-7 não o fazem.
+
+[CENTER_ALIGN;FONT_SIZE=14]Você pode obter Reparos de Itens no armazém geral, no depósito do chefe e no 
+[CENTER_ALIGN;FONT_SIZE=14]a loja de itens:
+[IMG=d:/ymir work/ui/game/wiki/emoji/repair.tga; Y=650; CENTER_ALIGN]
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=700; CENTER_ALIGN]
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Progresso do personagem
+
+[CENTER_ALIGN;FONT_SIZE=14]A melhor opção para subir de nível de uma forma
+[CENTER_ALIGN;FONT_SIZE=14]equilibrada e sem encontrar dificuldades ou obstáculos
+[CENTER_ALIGN;FONT_SIZE=14]para o progresso e concentrar-se na caça de pedras
+[CENTER_ALIGN;FONT_SIZE=14]Metin e matar chefes para obter uma melhor equipe.
+
+[CENTER_ALIGN;FONT_SIZE=14]Não se esqueça de fazer as missões do biólogo que você 
+[CENTER_ALIGN;FONT_SIZE=14]encontrara no botão do minimapa! No painel de biólogos você 
+[CENTER_ALIGN;FONT_SIZE=14]também encontrara uma loja para obter os materiais  
+[CENTER_ALIGN;FONT_SIZE=14]necessários para completar cada missão.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/biologo.tga; Y=900; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=1220; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Dicas Uteis
+
+[X_PADDING=15;FONT_SIZE=14]* Matar pedras Metin, matar mais pedras Metin e, finalmente, matar ainda mais pedras Metin.
+[X_PADDING=15;FONT_SIZE=14]* Todos os chefes, mesmo aqueles na cidade 1 e 2 tem itens especiais. Aproveite-os.
+[X_PADDING=15;FONT_SIZE=14]* Não se concentre apenas em nivelar! Você precisara voltar mais tarde.
+[X_PADDING=15;FONT_SIZE=14]* Você pode fazenda com 2 contas em simultâneo, sera bom para você!
+[X_PADDING=15;FONT_SIZE=14]* Os chefes das masmorras soltam muitos dos itens que você encontrara na Loja de Itens.
+[X_PADDING=15;FONT_SIZE=14]* Pescar em Ava2 não o deixara indiferente! E muito fácil pescar e o peixe assado
+[X_PADDING=15;FONT_SIZE=14]  ter grandes bônus PVP e PVM.
+[X_PADDING=15;FONT_SIZE=14]* As pedras podem ser atualizadas com rolos de benção ate +5!
+[X_PADDING=15;FONT_SIZE=14]* Aproveite os eventos no calendário de eventos!
+[X_PADDING=15;FONT_SIZE=14]* Raridades! Um item Relíquia/Lendário pode ser melhor que um item de mais nível
+[X_PADDING=15;FONT_SIZE=14]* E o mais importante, aproveite a sua estadia no mundo do Ava2!
+

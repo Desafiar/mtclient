@@ -1,0 +1,67 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/skins.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Guia de Cosmeticos
+
+[COLOR=0xffd700;FONT_SIZE=18]Index:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Info. Basica
+[X_PADDING=5;FONT_SIZE=14]* 2. Refuerzos
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informacion Basica
+
+[CENTER_ALIGN;FONT_SIZE=14]En Ava2 podras conseguir atuendos tanto en el juego como en la ItemShop.
+[CENTER_ALIGN;FONT_SIZE=14]La diferencia que hay entre ambos es simplemente la duración.
+[CENTER_ALIGN;FONT_SIZE=14]Los atuendos gratuitos duran 15 dias y los de Itemshop son Permanentes.
+
+[CENTER_ALIGN;FONT_SIZE=14]Todos los atuendos, incluido los gratuitos se les puede agregar la misma
+[CENTER_ALIGN;FONT_SIZE=14]cantidad de bonificaciones. Para ello podras usar los Refuerzos de 
+[CENTER_ALIGN;FONT_SIZE=14]atuendos, skins y peinados.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/costume.tga; Y=350; CENTER_ALIGN]
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=650; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Refuerzos
+
+[CENTER_ALIGN;FONT_SIZE=14]Una larga lista de bonus puede ser agregada a cada atuendo, skin o peinado.
+[CENTER_ALIGN;FONT_SIZE=14]Todos estos refuerzos con bonus puedes encontrarlos en los cofres que dropean
+[CENTER_ALIGN;FONT_SIZE=14]los jefes. Cuanto mayor sea el nivel del jefe mas probabilidad tendras de
+[CENTER_ALIGN;FONT_SIZE=14]conseguir un refuerzo de mayor bonificacion
+
+[CENTER_ALIGN;FONT_SIZE=14]En resumidas cuentas. Hay 3 tipos de refuerzos, para peinados, para atuendos y
+[CENTER_ALIGN;FONT_SIZE=14]para skins de armas, cada uno cuenta con 3 grados de bonificacion de un mismo
+[CENTER_ALIGN;FONT_SIZE=14]bonus, El Refuerzo Azul otorga bonus bajos, el Refuerzo Verde bonus medios y el
+[CENTER_ALIGN;FONT_SIZE=14]Refuerzo Rojo bonus altos.
+
+[CENTER_ALIGN;FONT_SIZE=14]Puedes obtener todos los Refuerzos en la Itemshop.

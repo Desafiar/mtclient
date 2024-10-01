@@ -1,0 +1,70 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/mechanics.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Basic Ava2 Gameplay Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Content List:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Inventario
+[X_PADDING=5;FONT_SIZE=14]* 2. Equipamiento
+[X_PADDING=5;FONT_SIZE=14]* 3. Progreso del Personaje
+[X_PADDING=5;FONT_SIZE=14]* 4. Consejos utiles
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Inventario
+
+[CENTER_ALIGN;FONT_SIZE=14]El inventario normal se usa solo para consumibles, equipamiento y 
+[CENTER_ALIGN;FONT_SIZE=14]otros items. El resto de objetos que recojas seran depositados
+[CENTER_ALIGN;FONT_SIZE=14]en el inventario especial en su categoria correspondiente.
+
+[CENTER_ALIGN;FONT_SIZE=14]Puedes encontrar el inventario especial en el siguiente boton:
+
+
+[IMG=d:/ymir work/ui/game/special_inventory/normal_storage_0.tga; Y=315; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Equipamiento
+
+[CENTER_ALIGN;FONT_SIZE=14]En Ava2 todos los equipos tienen rareza. Cuando un objeto es dropeado
+[CENTER_ALIGN;FONT_SIZE=14]puede salir con una de las siguientes rarezas:
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=858681]*Objetos Comunes: Sin bonus extra
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=FFFFFF]*Objetos Poco comunes: +5% Bonus base extra
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=39DDDA]*Objetos Raros: +10% Bonus base extra
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E41414]*Objetos Epicos: +20% Bonus base extra
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=3FFF19]*Objetos Reliquia: +25% Bonus base extra
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E328E9]*Objetos Legendarios: +30% Bonus base extra
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Progreso del Personaje
+
+[CENTER_ALIGN;FONT_SIZE=14]Para subir de nivel en Ava2 y progresar con tu personaje, no es necesario
+[CENTER_ALIGN;FONT_SIZE=14]levear en las zonas comunes de Metin2. La mejor opcion para levear de 
+[CENTER_ALIGN;FONT_SIZE=14]manera equilibrada y sin encontrar dificultades y obstaculos para el progreso es
+[CENTER_ALIGN;FONT_SIZE=14]destruir en piedras metin y matar jefes para obtener un mejor equipo.
+
+[CENTER_ALIGN;FONT_SIZE=14]No olvides hacer las misiones de biologo que encontraras en el boton del minimapa!
+[CENTER_ALIGN;FONT_SIZE=14]En el panel del biologo tambien encontraras una tienda para conseguir los materiales
+[CENTER_ALIGN;FONT_SIZE=14]necesarios para completar cada mision.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Consejos utiles
+
+[X_PADDING=15;FONT_SIZE=14]* Destruye Metines, destruye mas Metine y finalmente destruye mas metines!
+[X_PADDING=15;FONT_SIZE=14]* Todos los jefes, incluso los de las ciudades 1 y 2, dropean objetos especiales.
+[X_PADDING=15;FONT_SIZE=14]* No te centres solo en subir de nivel! Tendras que volver mas tarde.
+[X_PADDING=15;FONT_SIZE=14]* Puede farmear con 2 cuentas al mismo tiempo, Esto es muy bueno para ti!
+[X_PADDING=15;FONT_SIZE=14]* Los jefes de las mazmorras dropean muchos objetos que encontraras en la Itemshop.
+[X_PADDING=15;FONT_SIZE=14]* La pesca en Ava2 no te dejara indiferente! Es muy facil de pescar
+[X_PADDING=15;FONT_SIZE=14]  y cocinar el pescado te dara bonificaciones PVM y PVP.
+[X_PADDING=15;FONT_SIZE=14]* Las piedras dropean en metines hasta +4 y no se pueden mejorar
+[X_PADDING=15;FONT_SIZE=14]* Aprovecha los eventos en el calendario de eventos!
+[X_PADDING=15;FONT_SIZE=14]* Mira las rarezas! Un bjeto con rareza puede ser mejor que un objeto de mayor nivel.
+[X_PADDING=15;FONT_SIZE=14]* Y lo mas importante, disfruta de tu estancia en el mundo de Ava2!
+

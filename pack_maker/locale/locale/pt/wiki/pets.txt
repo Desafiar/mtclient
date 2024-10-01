@@ -1,0 +1,194 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/pets_wall.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Guía de Pets
+
+[COLOR=0xffd700;FONT_SIZE=18]Índice:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Introdução
+[X_PADDING=5;FONT_SIZE=14]* 2. Pets simples
+[X_PADDING=5;FONT_SIZE=14]* 3. Pets evolutivos
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introdução
+
+[CENTER_ALIGN;FONT_SIZE=14]Em todos os jogos sabe-se que não há nada melhor do que um
+[CENTER_ALIGN;FONT_SIZE=14]pet para acompanhar nosso herói em sua aventura. E sim
+[CENTER_ALIGN;FONT_SIZE=14]este companheiro lhe dá bônus poderosos,
+[CENTER_ALIGN;FONT_SIZE=14]torna-se um bem muito valioso para o jogador.
+
+[CENTER_ALIGN;FONT_SIZE=14]Existem 2 tipos de pet no Ava2. Os pet simples que
+[CENTER_ALIGN;FONT_SIZE=14]conceder um bônus de PVM fixo ao jogador e ter um 
+[CENTER_ALIGN;FONT_SIZE=14]duração fixa ou pet permanentes e evolutivos, 
+[CENTER_ALIGN;FONT_SIZE=14]esse nível sobe e você pode melhorar para aumentar sua
+[CENTER_ALIGN;FONT_SIZE=14]atributos.
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Pet simples
+
+[CENTER_ALIGN;FONT_SIZE=14]Pet simples têm a característica de não escalarem
+[CENTER_ALIGN;FONT_SIZE=14]nível e têm bônus PVM fixos. a fênix que
+[CENTER_ALIGN;FONT_SIZE=14]é dado a você ao iniciar uma aventura no Ava2 é um bom exemplo
+[CENTER_ALIGN;FONT_SIZE=14]desses tipos de pet. Esses pets podem durar
+[CENTER_ALIGN;FONT_SIZE=14]limitada ou pode ser permanente. Você pode encontrar mais deles em
+[CENTER_ALIGN;FONT_SIZE=14]Loja de itens da Ava2.
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. pets evolutivas
+
+[CENTER_ALIGN;FONT_SIZE=14]Esses tipos de pet são especiais e podem acabar sendo muito
+[CENTER_ALIGN;FONT_SIZE=14]poderosas se forem evoluindo e treinando com livros de 
+[CENTER_ALIGN;FONT_SIZE=14]habilidade de pet e elixires. Um Bune exemplo deste tipo de 
+[CENTER_ALIGN;FONT_SIZE=14]pet é o Minimono que você começa ao começar a jogar Ava2. Estas 
+[CENTER_ALIGN;FONT_SIZE=14]pet sempre vêm dentro de um ovo e você deve nomeá-los para 
+[CENTER_ALIGN;FONT_SIZE=14]obtê-las.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/inicial.tga; Y=770; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/1a.tga; Y=1290; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/2a.tga; Y=1430; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/3a.tga; Y=1680; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/4a.tga; Y=2018; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]duração.
+
+[CENTER_ALIGN;FONT_SIZE=14]As pet começam com uma duração de 30 dias inicial ao nascer. 
+[CENTER_ALIGN;FONT_SIZE=14]Para estender esta duração você deve obter o item suplemento
+[CENTER_ALIGN;FONT_SIZE=14]Proteico que poderás encontrar derrotando os chefes das masmorras.
+[CENTER_ALIGN;FONT_SIZE=14]Cada componente protéico aumenta a duração da pet em 7 dias.
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Evoluir Pet
+
+[CENTER_ALIGN;FONT_SIZE=14]Ao atingir níveis específicos seu pet vai exigir uma certa quantidade de 
+[CENTER_ALIGN;FONT_SIZE=14]alguns objetos para continuar a subir de nível. Esses níveis são 
+[CENTER_ALIGN;FONT_SIZE=14]40, 75 e 100. Os objetos necessários para superar esses 
+[CENTER_ALIGN;FONT_SIZE=14]níveis são:
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/evo_items.tga; Y=1570; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Bonus Passivos
+
+[CENTER_ALIGN;FONT_SIZE=14]Estes bônus começam sendo de 0%, mas você pode ir subindo-los dando-lhe 
+[CENTER_ALIGN;FONT_SIZE=14]elixires para o seu pet. Existe um tipo de elixir para cada bônus e 
+[CENTER_ALIGN;FONT_SIZE=14]distinguem com a cor. Então dentro de cada bônus há 4 níveis de 
+[CENTER_ALIGN;FONT_SIZE=14]elixires que servem para subir 5 LV do bônus cada um deles. Os 
+[CENTER_ALIGN;FONT_SIZE=14]Elixires (S) servirão para subir o bônus de lv 1 a lv 5, para seguir 
+[CENTER_ALIGN;FONT_SIZE=14]O aumento deste bónus deve ser feito com os Elixires (M), (L) e 
+[CENTER_ALIGN;FONT_SIZE=14]finalmente Elixires (XL) até ao nível máximo 20.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/elixirs.tga; Y=1870; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Habilidades de Pet
+
+[CENTER_ALIGN;FONT_SIZE=14]Existem 29 Habilidades diferentes para personalizar o seu pet ao seu gosto.
+[CENTER_ALIGN;FONT_SIZE=14]Para que seu pet aprender essas habilid. primeiro você deve desbloquear os 
+[CENTER_ALIGN;FONT_SIZE=14]slots de habilid. Ao nivel 120, todos têm um mínimo de 3 
+[CENTER_ALIGN;FONT_SIZE=14]Slots de habilid. desbloqueados e segun pet que você tem, você pode
+[CENTER_ALIGN;FONT_SIZE=14]desbloquear até um máximo de 15 espaços. Para isso você precisa do objeto 
+[CENTER_ALIGN;FONT_SIZE=14]Desbloquear slot que você pode obter nos cofres de masmorra ou em 
+[CENTER_ALIGN;FONT_SIZE=14]Loja de itens.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/books.tga; Y=2210; CENTER_ALIGN]
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14]Para aperfeiçoar uma habilidade de pet deve usar 21 livros dessa 
+[CENTER_ALIGN;FONT_SIZE=14]habilidade. Os livros de habilid.de pet podem ser encontrados derrotando 
+[CENTER_ALIGN;FONT_SIZE=14]chefes de masmorra, obtendo o baú de Manuais de Mascote.
+
+
+

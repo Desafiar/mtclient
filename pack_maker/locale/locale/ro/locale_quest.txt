@@ -1,0 +1,616 @@
+YES	Da
+YES_1	Accepta
+CANCEL	Anulare
+CLOSE	Inchide
+NOTICE	Aviz
+PARTICIPATE	Participai
+QUEST_NAME	%s
+_N	%s
+ENTER	Intra
+ENTER_DUNGEON	Vrei sa intri in temnita?
+INDIVIDUAL	Intra singur
+PARTY	Intrati in grup
+NO_PARTY	Nu esti intr-un grup!
+ALONE	Vrei sa intri singur?
+GROUP	Vrei sa intri in grup?
+NO_KEY	Nu aveti cheia pentru a intra!
+NO_PARTY_MEMBER	Un jucator nu este disponibil!
+LOW_LEVEL	Jucatorul are nivelul prea mic:
+COOLDOWN	Jucatorul trebuie sa astepte:
+NO_MEMBER_KEY	Jucator nu are cheia:
+BACK_DUNGEON	Du-te unde eram ...
+CANT_BACK	Tocmai ai avut 5 minute sa intri din nou. Acum nu mai poti!
+NO_CH	Temnita nu a fost deschisa in acest CH
+NO_CH2	Pentru a intra, schimbati ch:
+DUNGEON_REMOVE	Nu este disponibila , poti sa incepi din nou.
+LEVEL_ERROR	Personajul tau nu are nivelul necesar pentru a intra in aceasta temnita!
+BACK_QUESTION	Vrei sa intri acolo unde ai fost?
+NO_MAP_LV	Nivelul tau este prea mic pentru a fi pe aceasta map! Vei fi trimis in oras.
+MINUTE	minute...
+1	Nu aveti misiuni de schimbat.
+2	Faceti clic pe misiunea pe care doriti sa schimbati bonusul.
+3	Bonus primit: %s
+4	Nu poti alege acelasi bonus!
+5	%s este asociat cu caracterul tau.
+6	Adauga bonus 6/7
+7	Rafinati Piatra de Dragon
+8	Temnita de Baroneasa
+9	Nu poti intra! nivelul minim este de 50 si maxim 80
+10	Timp ramas
+11	Secunde
+12	Vrei sa incepi?
+13	Intra in camera
+14	Ai un cap redus?
+15	Hai inapoi cand ai pasajul!
+16	Catacomba Diavolului
+17	Camera Dragonului
+18	Invingel pe Beran-Setaou
+19	Purgatorul Iadului
+20	Treziti-l pe am-heh
+21	Ai deschis un blocaj!
+22	Nu ai invins pe toti demonii. Cauta-i!
+23	Nu ati gasit echipamentul. cauta-l!
+24	Nu ai invins pe Ignition.
+25	Inca iti lipseste timbre de deblocat. grabiti-va!
+26	Nu ati distrus Metinul Iadului.
+27	Piesa este rupta!
+28	Trezirea lui isfet a disparut.
+29	Comanda nu este corecta
+30	Turnul lui Nemere
+31	Incepe temnita
+32	Vrei sa pornesti temnita?
+33	Cubul a disparut.
+34	Turnul demon
+12009	Cu acest certificat va veti reseta toate abilitatile.
+12010	Reseteaza-mi abilitatile
+12011	Da! sunt sigur.
+12012	Nivelul dvs. trebuie sa fie de 30 sau mai mult pentru a face acest lucru.
+12013	Esti sigur sa iti resetezi toate abilitatile?
+35	Orase
+35_1	Shinsoo map 1
+35_2	Shinsoo map 2
+35_3	Jinno map 1
+35_4	Jinno map 2
+36	Valea Seungryong (lv 30-50)
+36_1	Centrul
+36_2	Farm zone 1
+36_3	Farm zone 2
+36_4	Farm zone 3
+37	Desertul Yongbi (lv 30-50)
+38	Muntele Sohan (lv 40-65)
+39	Tara de Foc (lv 40-65)
+40	Pesterile Paianjenilor (lv 45-70)
+40_1	Pestera 1 Inceput
+40_2	Pestera 1 Final
+40_3	Pestera 2 Inceput
+40_4	Pestera 2 Final
+41	Paduri (lv 65-75)
+41_1	Padurea Stafiilor
+41_2	Padurea Rosie
+41_3	Farm zone 1
+41_4	Farm zone 2
+42	Grote (lv 75-95)
+42_0	Trebuie sa fiti nivelul 75 pentru a intra in aceasta zona.
+42_1	Grota 1 Inceput
+42_2	Grota 1 Final
+42_3	Grota 2 Inceput
+42_4	Grota 2 Final
+43	Piatra Dragonului (lv 90-105)
+43_0	Trebuie sa fiti nivelul 90 pentru a intra in aceasta zona.
+43_1	Peninsula Dragon Foc
+43_2	Trecatoarea Nephrite
+43_3	Muntii Thunder
+43_4	Guatama Cliff
+50	Apararea navei
+51	Aparati catargul, astfel incat sa nu-l distruga!
+52	Batalia va incepe curand.
+53	Creati o breasla
+53_0	Paznic de breasla
+53_1	Esti deja intr-o breasla!
+53_2	Nu puteti crea alta decat dupa 24 de ore
+53_3	Vrei sa-ti creezi breasla?
+53_4	Trebuie sa indeplinesti urmatoarele cerinte:
+53_5	10.000.000 yang si nivel: 55 sau mai mult
+53_6	Introduceti numele de Breasla:
+53_7	Nu ai suficient yang!
+53_8	Trebuie sa aveti nivel minim 55!
+53_9	Tocmai ai lasat o breasla ...
+53_10	Numele nu poate contine caractere speciale
+53_11	Si o lungime intre 3 si 11 caractere.
+53_12	Cu siguranta doriti sa creati breasla?
+53_13	Cantitatea de caractere trebuie sa fie <2 sau> 11!
+53_14	Numele nu ar trebui sa contina caractere speciale!
+53_15	Exista deja o breasla cu acest nume!
+53_16	Breasla a fost creata cu succes.
+54	Paraseste breasla
+54_0	Vrei sa parasesti breasla?
+54_1	Succes!
+54_2	Nu veti mai face parte din aceasta breasla.
+55	Sterge breasla
+55_0	Esti sigur ca vrei sa elimini breasla?
+55_1	Breasla a fost eliminata cu succes!
+60	Ce e o Esarfa?
+60_0	Esarfele va ofera doua optiuni:
+60_1	Combinatie si absorbtie.
+60_2	Puteti combina doua esarfe din acelasi %
+60_3	De absorbtie. Daca nu esueaza, vei primi una
+60_4	cu o absorbtie mai mare.
+60_5	In absorbtie, esarfa ia
+60_6	bonusul armei sau armurii tale.
+60_7	Obiectele utilizate pentru a absorbi
+60_8	bonusul va fi distrus in acest proces.
+61	Combinati Esarfe
+61_0	Vrei sa combini doua esarfe?
+62	Absorbtie bonus
+62_0	Vrei sa absorbi un bonus de arma
+62_1	Sau o armura?
+63	Craft Esarfe
+63_0	Buna ziua, sunt theowahdan:
+63_1	Pot crea esarfe pentru tine, dar pentru asta
+63_2	trebuie sa-mi aduci materialele necesare.
+63_3	Le poti gasi omorand sefi.
+64	Perfect Master
+64_0	In prezent nu ai nicio abilitate G de antrenat.
+64_1	Nu aveti capacitatea de a va antrena acum.
+64_2	Deoarece ati citit pergamentul exorcismului, puteti[enter]sa continuati antrenamentul fara a fi nevoie sa faceti o pauza.
+64_3	Cand antrenamentul dvs. se termina, trebuie sa va odihniti pentru a intra in jumatate de zi. incercati din nou mai tarziu sau utilizati un exorcism[enter]
+64_4	Niciuna dintre abilitatile tale nu este suficient de bine instruita enter]pentru a incerca sa obtii statutul de mare maestru[enter]
+64_5	Alegeti o abilitate in care doriti sa urcati la perfect.
+64_6	%s rezultat antrenament:
+64_7	Pregatirea grand master consuma puncte de actiune.
+64_8	Nu aveti suficiente puncte de actiune pentru a va antrena.
+64_9	Cantitatea necesara a punctelor de gama: %d -> %d
+64_10	Nivelul dvs. de puncte de rang este negativ. [enter] ceea ce inseamna ca veti cheltui de doua ori punctele de stat [enter] pentru a va antrena abilitatile.
+64_11	Puncte necesare: %d
+64_12	Daca introduceti o abilitate, personajul dvs. va intra in[enter]intr-o gama negativa de puncte.
+64_13	Succes!
+64_14	Felicitari!!
+64_15	%s a urcat spre maestrul perfect!
+64_16	Ceea ce inseamna ca nu veti mai putea imbunatati aceasta abilitate.
+64_17	Felicitari!!.
+64_18	%s a crescut la nivelul %s.
+64_19	Ti-ai incarcat cu succes nivelul de abilitati!
+64_20	Ai folosit puncte de gama %s.
+64_21	Antrenamentul a esuat...
+64_22	Continua sa incerci!
+64_23	Ai pierdut punctele de rang cand ai folositi piatra sufletului.
+65	Vreau sa ma casatoresc
+65_1	Femeie in varsta:
+65_2	Exista deja o nunta care sarbatoreste acum. intoarce -te mai tarziu.
+65_3	Trebuie sa aveti nivelul 25 pentru a va casatori.
+65_4	Vrei sa te casatoresti fara un inel? ia una!
+65_5	Ai de gand sa te casatoresti asa? ia -ti un costum!
+65_6	Daca doriti sa va casatoriti, trebuie sa purtati:
+65_7	Ai nevoie de 10kk pentru a te casatori.
+65_8	Arati nemaipomenit!
+65_9	Scrie-ti numele partenerului tau
+65_10	Ti-ai scris numele gresit! incearca din nou...
+65_11	Esti sigur ca vrei sa te casatoresti?
+65_12	%s nu este online.
+65_13	%s este prea departe ...
+65_14	Persoana cu care vrei sa te casatoresti este deja casatorita
+65_15	%s este deja casatorit.
+65_16	Partenerul dvs. trebuie sa aiba 25 sau mai mult nivel.
+65_17	Nu pot exista mai mult de 15 niveluri de diferenta.
+65_18	Nu uitati sa aveti inelele de mana.
+65_19	Partenerul tau are inelul de mana?
+65_20	Partenerul tau trebuie sa pregateasca inelul.
+65_21	Partenerul tau nu are imbracaminte adecvata.
+65_22	Trebuie sa porti un costum de nunta
+65_23	Trebuie sa porti o rochie de mireasa
+65_24	Vrei sa te casatoresti
+65_25	Ai primit inelul casatorit!
+65_26	Partenerul tau a refuzat sa se casatoreasca cu tine.
+65_27	Nunta
+65_28	Partenerul tau te asteapta. te voi lua cu ea.
+65_29	organizator de nunti:
+65_30	Vorbesc cu partenerul tau, un moment.
+65_31	Ceva este gresit. nu este persoana potrivita.
+65_32	Totul este deja in ordine. putem incepe.
+65_33	Sa aveti o ceremonie buna!
+65_34	Finalizati nunta
+65_35	Vrei sa termini ceremonia?
+65_36	Permisiunea pentru casatorie
+65_37	Nu poti termina pentru ca partenerul tau este offline
+65_38	Avem nevoie de acordul partenerului tau.
+65_39	Partenerul tau a respins.
+65_40	Divort
+65_41	Tutore al orasului
+65_42	Fara partenerul tau nu pot divorta de tine ...
+65_43	Pentru a putea divorta, trebuie sa platiti 50kk
+65_44	Esti sigur ca vrei sa divortezi?
+65_45	Unul dintre cei doi nu are verigheta.
+65_46	Unul dintre cei doi nu are 50kk la divort.
+65_47	Divortul a fost anulat.
+65_48	Esti deja divortat!
+65_49	Partenerul tau a respins divortul.
+65_50	Indepartati verigheta.
+65_51	Veritele de nunta au fost eliminate.
+65_52	Divortul unilateral
+65_53	Ai nevoie de 200kk pentru divort fortat.
+65_54	Vrei sa te divortezi?
+65_55	Nu ai suficient de yang pentru a divorta.
+65_56	lista ceremoniilor
+65_57	In prezent nu exista sarbatorirea nuntii.
+65_58	Nunta din
+65_59	y.
+65_60	Esti oaspete, cheltuiti -l bine!
+65_61	lucrarile de divort nu sunt inca gata.
+66	Schimbarea regatului
+66_1	Cu acest articol puteti schimba regatul.
+66_2	Nu poti folosi acest articol!
+66_3	Puteti schimba regatul doar o data!
+66_4	Jucatorii casatoriti nu pot schimba regatul.
+66_5	Jucatorii transformati nu pot schimba regatul.
+66_6	Jucatorii cu breasla nu pot schimba regatul.
+66_7	Trebuie sa aveti 10.000.000 yang.
+66_8	Shinsoo
+66_9	Jinno
+66_10	Esti sigur ca vrei sa te schimbi?
+66_11	Inchideti sesiunea pentru a finaliza schimbarea.
+66_12	%s -> %s
+66_13	Esti deja in acest regat!
+66_14	Nu te poti schimba pentru ca ai fost membru al unei bresle aici.
+66_15	Nu te poti schimba pentru ca te-ai casatorit aici.
+66_17	gm: stabiliti timp la 0?
+66_18	Timpul a fost redus.
+66_19	Alegeti regatul pe care doriti sa il schimbati:
+66_20	Asteptati pana cand s -a terminat schimbarea regatului.
+66_21	Trebuie sa indepliniti cerintele.
+66_22	Schimbarea a fost realizata cu succes!
+67	Schimbarea sexului
+67_1	Puteti schimba sexul doar fiind de nivel 50 sau mai mult.
+67_2	Nu poti schimba sexul daca esti casatorit.
+67_3	Nu poti schimba sexul daca esti transformat.
+67_4	Puteti schimba sexul doar la fiecare 3 zile.
+67_5	Timp ramas:
+67_6	Ai schimbat sexul cu succes!
+67_7	Cu acest pergament puteti schimba sexul.
+67_8	Puteti schimba o singura data la 3 zile.
+67_9	Esti sigur ca vrei sa te schimbi?
+67_10	hp -ul tau si maná vor ramane la fel
+67_11	Iti vei schimba doar aspectul fizic.
+67_12	Pentru a vedea schimbarea pe care trebuie sa o urmaresti.
+67_13	Schimbarea sexului a fost anulata.
+68	Battle Pass
+68_1	Vrei sa activezi Battle Pass?
+68_2	Nu uita sa terminati toate misiunile
+68_3	inainte de sfarsitul lunii sau iti vei pierde recompensa.
+68_4	Ai deja Battle Pass activ!
+68_5	Nu poti folosi acest obiect!
+68_6	Doriti sa resetati BattlePass-ul?
+68_7	Amintiti-va ca il puteti reseta si face altul din nou
+68_8	cu acelasi personaj.
+68_9	Atentie!
+68_10	Asigurati-va ca ati terminat deja BattlePass inainte.
+68_11	Daca il resetati inainte veti pierde tot progresul si
+68_12	toate recompensele pe care nu le-ati revendicat inca...
+69	Magazin
+69_1	Imbunatateste undita
+69_2	Pescarul
+69_3	Pentru a imbunatati undita de pescuit, este necesar
+69_4	sa ai toate punctele de pescuit necesare.
+69_5	Pot imbunatati undita de pescuit!
+69_6	Aceasta undita nu se mai poate imbunatati!
+69_7	Undita nu are suficiente puncte!
+69_8	Doriti sa va imbunatatesti undita?
+69_9	Nivelul unditei de pescuit este: %d
+69_10	Nu sunt sigur ca am destule pentru a o imbunatati.
+69_11	Nu uita ca updrage poate esua si poate fi retrogradata.
+69_12	imbunatatirea a esuat. Dar nu a pierdut nivelul
+69_13	Upgrade-ul a functionat bine!
+69_14	Upgrade-ul a esuat. Undita a coborat un nivel.
+69_15	Te rog... hai mai tarziu...
+70	Padurea Fermecata (lv 105-120)
+70_1	Slut! Vad ca vrei sa descoperi noi tinuturi
+70_2	Te pot duce intr-un taram foarte, foarte indepartat...
+70_3	Trebuie sa fii nivelul 105 pentru a intra pe aceasta harta.
+70_4	Teleporteaza-ma
+70_5	NPC Shinsoo
+70_6	Harta lui World Boss
+71	Temnita lui Meley
+72	Creati Gaya
+72_1	Creati Buc. Pietre Lucioase
+72_2	Magazin Gaya
+72_3	Creeaza Gaya (x1)
+72_4	Creeaza Gaya (x5)
+72_5	Creeaza Gaya (x10)
+72_6	Creeaza Gaya (x25)
+72_7	Creeaza Gaya (x50)
+72_8	Creeaza Gaya (Max.)
+72_9	Pentru a crea 1 Gaya aveti nevoie de:
+72_10	Pietre Lucioase x10
+72_11	Buc. Pietre Lucioase x1
+72_12	500.000 Yang
+72_13	Pentru a crea: 
+72_14	 Gaya aveti nevoie de:
+72_15	 Pietre Lucioase
+72_16	 Buc. Pietre Lucioase
+72_17	Vrei sa creezi 
+72_18	 Gaya?
+72_19	Crearea lui Gaya a fost un succes.
+72_20	Creaza Buc. Pietre Lucioase (x1)
+72_21	Creaza Buc. Pietre Lucioase (x5)
+72_22	Creaza Buc. Pietre Lucioase (x10)
+72_23	Creaza Buc. Pietre Lucioase (x25)
+72_24	Creaza Buc. Pietre Lucioase (x50)
+72_25	Creaza Buc. Pietre Lucioase (Max)
+72_26	Pentru a crea un Buc. Pietre Lucioase aveti nevoie de:
+72_27	2 Pietre (de orice tip) +0 - +3.
+72_28	Reveniti cand aveti suficiente pietre.
+72_29	 Pentru a crea o Buc. Pietre Lucioase x1 ai nevoie de:
+72_30	 Pietre +0 - +3
+72_31	 Buc. Pietre Lucioase?
+72_32	Crearea Buc. Pietre Lucioase a fost un succes.
+72_33	Gaya x1 a fost adaugat in contul tau!
+72_34	Gaya x5 a fost adaugat in contul tau!
+72_35	Gaya x10 a fost adaugat in contul tau!
+72_36	Gaya x15 a fost adaugat in contul tau!
+72_37	Gaya x25 a fost adaugat in contul tau!
+72_38	Gaya x50 a fost adaugat in contul tau!
+72_39	Gaya x100 a fost adaugat in contul tau!
+73	Vote4Buff
+73_1	Sustinerea serverului in TOP este importanta [ENTER]In schimbul acestui lucru va oferim bonusuri temporare [ENTER]astfel incat sa puteti avansa in fiecare zi.
+73_2	Ati facut o selectie bonus mai devreme. Este posibil [ENTER]ca un alt personaj sa o fi aplicat.
+73_3	[ENTER]Timp ramas: 
+73_4	Ora de expirare a bonusului: 
+73_5	Vrei sa salvezi bonusul: 
+73_6	Max. PV +%d
+73_7	Tare impotriva monstrilor +%d
+73_8	Tare impotriva Metine +%d
+73_9	Tare impotriva Sefi +%d
+73_10	Bonus de experienta +%d
+73_11	Tare impotriva semi-oamenilor +%d
+73_12	[ENTER]Va rugam sa vizitaai site-ul si sa va exprimaai votul.
+73_13	Va multumim pentru sprijinul dumneavoastra![ENTER]Amintiti-va ca puteti face acest lucru in fiecare zi.[ENTER]
+963	O noua tehnologie!
+964	Am reusit![ENTER]Am reusit in sfarsit sa creez o tehnologie[ENTER]absolut noua.[ENTER]Am reusit sa creez obiecte din care sa extrag[ENTER]energie pura din acestea. Este absolut minunat!
+965	Daca distrugi un obiect folosind noua mea[ENTER]tehnologie vei primi un Fragment de Energie.[ENTER]Daca unesti 30 de bucati din aceste fragmente vei[ENTER]obtine un puternic Cristal de Energie![ENTER]Energie pura, nefiltrata, stransa intr-o Piatra[ENTER]Pretioasa. Aceasta putere va avea efect asupra[ENTER]intregului tau echipament. Esti interesat?
+966	Poti aduce obiecte de echipament cum ar fi arme,[ENTER]bijuterii sau armuri pe care le vei gasi in timp[ENTER]ce vanezi. Le voi transforma in Fragmente de[ENTER]Energie. Viitorul regatului nostru si speranta[ENTER]acestuia depinde de aceasta tehnologie. Vom[ENTER]deveni invincibili!
+967	Extrage Fragmente de Energie
+968	A mers? Ai primit Fragmente de Energie?[ENTER]Adu-mi mai multe obiecte si le voi distruge[ENTER]folosind alchimia. Tehnologia mea nu este inca[ENTER]perfectionata. De aceea, nu pot garanta cate[ENTER]fragmente vei primi.
+969	Exista o conditie: nivelul tau dar la fel de bine[ENTER]si nivelul obiectului trebuie sa fie minim 35. Ia[ENTER]sa aruncam o privire...
+970	Nu esti inca suficient de puternic! Vino din nou[ENTER]atunci cand vei avea minim nivelul 35.
+971	Oh, perfect! Esti puternic si experimentat. Da-mi[ENTER]obiectul pe care doresti sa il procesez.
+972	Nu esti suficient de puternic pentru a avea[ENTER]control asupra Fragmentelor de Energie. Vino din[ENTER]nou atunci cand vei ajunge minim la nivel 35.
+973	Acest obiect nu este potrivit pentru tehnologia[ENTER]mea. Adu-mi alt obiect.
+974	Acest obiect nu are suficienta energie. Adu-mi un[ENTER]obiect de minim nivel 35 - este singura optiune[ENTER]prin care pot extrage energie cu noua mea[ENTER]tehnologie.
+975	Sa distrug acest obiect?
+976	Da!
+977	Nu, nu inca!
+978	Nu am reusit - din pacate nu am putut extrage[ENTER]niciun Fragment de Energie. Poate am mai mult[ENTER]noroc data viitoare.
+979	Minunat! Am reusit sa gasesc %d Fragmente de[ENTER]Energie. Poftim.
+980	Produce Cristal de Energie
+981	Ai terminat deja toate rezervele de energie?[ENTER]Nu ar trebui sa muncesti atat de mult si sa-ti[ENTER]pui viata in pericol intr-un asemenea mod. Am[ENTER]nevoie de %d Fragmente de Energie pentru a[ENTER]produce un Cristal de Energie.
+982	Nu am suficiente Fragmente de Energie. Nu pot[ENTER]produce un Cristal de Energie doar cu atatea.[ENTER]Vino din nou cand ai colectat cel putin %d[ENTER]fragmente.
+983	Foarte bine, ai adus %d Fragmente de Energie de[ENTER]care ai nevoie. Pot produce un Cristal de Energie[ENTER]cu acestea. Te rog asteapta putin. Voi incerca[ENTER]insa nu iti pot garanta ca va merge.
+984	Totul este pregatit pentru a topi fragmentele ca[ENTER]acestea sa se uneasca formand un Cristal de[ENTER]Energie. Dar chiar si asa, si eu trebuie sa[ENTER]supravietuiesc cumva iar uneltele mele nu au[ENTER]aterizat din cer. Imi trebuie o mica cantitate de[ENTER]%d Yang. Esti de acord sa platesti?
+985	Desigur!
+986	Nu, nu acum.
+987	Bine, iti respect decizia.[ENTER]Poti veni din nou atunci cand te razgandesti si[ENTER]ai nevoie de un Cristal de Energie.
+988	Imi pare rau, trebuie intai sa platesti. Nu fac[ENTER]opere de caritate. Asa se fac afacerile - imi dai[ENTER]banii iar eu imi fac treaba.
+989	Poftim, Cristalul de Energie. Intotdeauna prima[ENTER]incercare reuseste pe deplin. Alchimia este o[ENTER]stiinta imprevizibila - greselile minore pot duce[ENTER]la dezastre! Intotdeauna exista o mica sansa ca[ENTER]experimentul sa dea gres.
+990	Din pacate incercarea a esuat. Nu am putut[ENTER]produce Cristalul de Energie. Tehnologia mea este[ENTER]stralucitoare - insa procesul este plin de[ENTER]riscuri.[ENTER]Lucrurile nu merg intotdeauna conform planului.[ENTER]Data viitoare sunt sigur ca voi reusi!
+991	Stiam eu! Tehnologia mea e uimitoare! Poftim[ENTER]Cristalul de Energie. Este cu siguranta un obiect[ENTER]de valoare! Ii simti puterea?
+992	Obiectul tau are %d sau mai multe bonusuri. Mai dorii[ENTER]sa il dezasamblai.
+74	Taram Giganti (lv 55~80)
+74_1	Giganti Zona 1
+74_2	Giganti Zona 2
+OX_1	Te pot lasa sa participi atunci cand va incepe.[ENTER]Timpul de incepere nu a fost stabilit.[ENTER]Te voi anunþa de indata ce va fi gata,[ENTER]pregatete-te!
+OX_2	Hey, tu de colo! da, da, tu. Tu pari a fi foarte[ENTER]inteligent. Exista un concurs numit OX, care iþi[ENTER]verifica cunotinþele.[ENTER]Daca catigi, primeti o rasplata grozava.
+OX_3	Fii foarte ateni la intrebari! i nu uitai:[ENTER]
+OX_4	Daca foloseti calul, te voi duce la grajd.,
+OX_5	caii nu sunt admii in cConcursul OX.[ENTER]
+OX_6	Acum te teleporteaza la Concursul OX!
+OX_7	Vad ca vrei doar sa urmezi competiia [ENTER]OX...
+OX_8	Sper ca putei invaa multe[ENTER]din intrebari![ENTER]
+OX_9	Concursul a inceput deja. De data aceasta nu mai[ENTER]poþi participa! In scurt timp s-ar putea sa[ENTER]inceapa urmatorul concurs. Vei afla la momentul[ENTER]potrivit.
+OX_10	Concursul OX
+AURA_1	Ce este Costum Aura?
+AURA_2	Costum Aura poate fi imbunataþit i poate ajunge[ENTER]la grade mai inalte prin evoluþie. In acest fel[ENTER]crete rata de absorbþie. Iþi poþi imbunataþi[ENTER]Costumul Aura folosind Rune Aura de Gheaþa, pe[ENTER]care le poþi lua de la monºtri. Posibilitatea de[ENTER]evoluþie este deblocata la anumite nivele (49,[ENTER]99, 149, 199, 249). Rata de absorbþie a valorilor[ENTER]variaza in funcþie de fiecare nivel. Valorile de[ENTER]la Banderola, Colier, Cercel ºi Scut pot fi[ENTER]transmise pe un Costum Aura. Obiectul a caror[ENTER]valori sunt transmise este distrus in timpul[ENTER]acestei proceduri.
+AURA_3	Costum Aura: Transmiterea valorilor
+AURA_4	Vrei sa transmiþi valorile de la Banderola,[ENTER]Colier, Cercel i Scut pe un Costum Aura?
+AURA_5	Costum Aura: Imbunataþire
+AURA_6	Vrei sa imbunataþeti Costum Aura?
+AURA_7	Costum Aura: Evoluþie
+AURA_8	Vrei sa evoluezi Costum Aura?
+12091	Un Nou Continent
+12092	Ai gasit noul continent Yohara.[ENTER]Mergi la statuie.
+12093	Vrei sa calatoreti pe noul continent Yohara?
+12094	Da
+12095	Nu
+12096	Fii atent.
+12618	Este necesar Nivel Campion 1 pentru a intra.
+12649	Devino Campion
+12650	Vrei sa treci la Nivel Campion?
+993	Trebuie sa ateptai pana cand vei putea intra din nou in temnia.
+994	Poi intra din nou in temnia Nightmare dungeon in:
+995	Lasa-ma sa vorbesc mai intai cu liderul tau.
+996	Unii oameni din grup inca
+997	mai trebuie sa atepte.
+998	Daca dorii sa intrai in temnia,
+999	fiecare membru trebuie sa aiba cel puin nivelul 75.
+1000	Aceti membri nu au nivelul necesar:
+1001	Daca dorii sa intrai in temnia,
+1002	fiecare membru trebuie sa aiba nivelul maxim 125.
+1003	Urmatorii membri nu au un nivel suficient:
+1004	Daca dorii sa intrai in temnia,
+1005	fiecare membru trebuie sa aiba:
+1006	Permis de comar:
+1007	Aceti membri nu au
+1008	Trebuie sa ateptai pana cand vei putea intra din nou in temnia.
+1009	trebuie sa avei 
+1010	Buna ziua, razboinicule!
+1011	Am gasit acest loc saptamana trecuta.
+1012	L-am numit Temnia Comarului. Acest
+1013	locul e groaznic, ochi mari peste tot,
+1014	poi simi raul de acolo.
+1015	Este un loc foarte periculos. Montri
+1016	se ascund in umbra, nu tii niciodata
+1017	de unde ataca.
+1018	Trebuie sa distrugem acest loc.
+1019	Va fi o munca de lunga durata.
+1020	Ne poi ajuta sa distrugem
+1021	acest loc teribil?
+1022	Bine. Acest loc este fermecat.
+1023	Avei doar 60 de minute pentru a termina.
+1024	drumul. Apoi vei fi teleportat
+1025	inapoi aici.
+1026	Mult noroc!
+RESET	Reseteaza timpul
+1027	Timpul a fost resetat.
+1028	Cine eti tu?
+1029	Oh, buna ziua!
+1030	Am fost doar un preot obinuit, care...
+1031	care descoperea frumuseile naturii.
+1032	Dar am fost aici intr-un moment nepotrivit.
+1033	Puterea malefica m-a prins. A luat totul de aici.
+1034	Dar, ma bucur pentru asta. Am gasit ceva
+1035	ceva nou, ceva puternic pe care nu l-am vazut niciodata.
+1036	Protejez oamenii care sunt pierdui, acest loc
+1037	este foarte rau.
+1038	Doar liderul grupului poate
+1039	continua.
+1040	Daca am dreptate, trebuie sa treci prin zid.
+1041	Ai nevoie de un foc de comar ca sa poi folosi...
+1042	tunul. i pot da focul, dar...
+1043	dar mai am nevoie de ceva.
+1044	Adu-mi toporul, iar eu ii dau focul.
+1045	Oh, te-ai descurcat grozav!
+1046	Nu am absolut nimic de spus.
+1047	Uite:
+1048	Foc de comar: 
+1049	Mulumesc.
+1050	Inca un lucru. Poate ai observat
+1051	ciupercile din acest loc. Gasii
+1052	cea potrivita i te teleporteaza la
+1053	urmatoarea etapa. Este minunat, nu-i aa?
+1054	Aa cum am spus, protejez oamenii care se pierd.
+1055	Toata lumea de aici este pierduta.
+1056	Hahaha...
+1057	Pot sa te teleportez in alta etapa, dar...
+1058	dar mai intai am nevoie de Piatra Groazei.
+1059	Am cautat-o foarte mult timp.
+1060	Ar trebui sa fie in acest loc, oriunde.
+1061	Aa ca daca o poi gasi pentru mine, o voi face.
+1062	te voi muta din acest loc.
+1063	Greu de citit
+1064	citete acest mesaj.
+1065	Trebuie sa deschizi toate uile.
+1066	Una cate una i deschide monumentele.
+1067	in spate. Dupa ce deschidei ultimul monument,
+1068	vei obine cheia pentru a distruge
+1069	acest monument.
+1070	Este poarta catre etapa finala.
+1071	Si acum?
+1072	Vorbete cu preotul.
+1073	Acum am tot ce-mi trebuia!
+1074	Puterea mea este suficient de mare!
+1075	Pot aduce la viaa cel mai rau monstru.
+1076	din lume!
+1077	Tu, prostule...
+1078	Are un topor foarte frumos, am nevoie de el!
+1079	Nivelul minim pentru a intra in temnia este %d.
+1080	Nivelul maxim pentru a intra in temnia este %d.
+1081	Tu, din nou?
+1082	Unii membri mai trebuie sa atepte[ENTER]pana cand se pot alatura din nou temniei[ENTER]din nou.
+1083	Daca vrei sa intrai in petera trollului magic,[ENTER]lasai-ma sa vorbesc mai intai cu liderul grupului...
+1084	Daca dorii sa intrai in petera Trolului magic,[ENTER]trebuie sa fie cel puin %d jucatori cu voi...
+1085	Daca vrei sa intri in petera trolului magic,[ENTER]fiecare membru al grupului trebuie sa aiba nivelul %d.[ENTER][ENTER]Urmatorii jucatori care urmeaza nu au nivelul necesar:
+1086	Daca dorii sa intrai in petera trolului magic,[ENTER]fiecare fiecare membru al grupului trebuie sa aiba:
+1087	Urmatorii jucatori care urmeaza nu au obiectul necesar:
+1088	Trebuie sa ateptai pana cand vei putea intra din nou in temnia.
+1089	Putei merge din nou acolo in: %s
+1090	Daca vrei sa intri in petera magica a trolilor[ENTER]trebuie sa ai:
+1091	Pot spune asta doar liderului de grup.
+1092	Petera este imparita in[ENTER]2 patrs. Acesta este primul.[ENTER]Pentru a ajunge la a doua etapa trebuie[ENTER]sa rupei o vraja i sa distrugei o ua[ENTER]acolo. Aceasta este singura[ENTER]cale[ENTER]spre %s.
+1093	Trebuie sa vorbesc cu liderul tau.
+1094	Acest loc este protejat de magie.[ENTER]Pentru a ucide trolul trebuie sa distrugi[ENTER]3x %s. Dar mai intai trebuie sa[ENTER]ii descoperim. Am nevoie de o anumita bucata[ENTER]de pergament de aici. Zacea[ENTER]undeva aici, pe pamant.[ENTER]Adu-mi-o i voi spune formula.
+1095	Mulumesc![ENTER]O sa descopar sigiliile. Fii pregatii![ENTER]Nu sunt foarte sigur ce se va[ENTER]intampla.
+1096	Buna! Incantat de cunotina! Cu cateva luni in urma, o creatura foarte ciudata a aparut intr-o petera din nord. Un fel de trol mare i violet. Am vanat aceasta bestie inca de cand era acolo, dar era foarte puternica. Este protejat de muli montri agresivi i de magie! Sufletele trupurilor moarte traiesc din nou i sunt foarte puternice i puternice.
+1097	Acei montri au inceput sa paraseasca[ENTER]petera pentru ca sunt prea muli.[ENTER]Este foarte periculos pentru toate regiunile.[ENTER]Trebuie sa ucidem aceasta bestie!
+1098	Crezi ca ma poi ajuta cu asta?
+1099	[ENTER]Trebuie sa termini temnia in 30 de minute.[ENTER]Altfel vei fi teleportat in afara[ENTER]temniei.[ENTER][ENTER]i doresc mult noroc!
+1100	Asta e locul?
+1101	Nu e nimic aici.
+1102	Nu poi face asta acum.
+1103	Petera trolilor magici
+1104	[ENTER]Timpul a fost resetat.
+1105	Gestionara Negoþ
+1106	Ce e nou?
+1107	Nu putem deschide un magazin aici din cauza[ENTER]atacurilor montrilor.
+1108	Catre Bazar
+1109	Exista un loc in care ne putem retrage pentru o[ENTER]vreme.[ENTER]Poþi folosi magazinul acolo.[ENTER]Ai vrea sa mergi acolo?
+1110	Confirma
+1111	Anuleaza
+1112	Mergi in sat.
+1113	Odata ce eti gata, te poþi intoarce in sat.[ENTER]Ai vrea sa mergi acolo?
+1114	Costa %d de Yang.
+1115	Ce Nu e destul Yang? [ENTER]Intoarce-te cand vei avea destul.
+1116	Verificai daca suma este corecta: %d Yang.
+1117	Nu puteti schimba statutul unui bilet daca nu sunteti gm.
+1118	Nu aveti permisiuni pentru a raspunde la bilete.
+1119	Raspuns trimis cu succes.
+1120	Ati trimis cu succes biletul.
+1121	Nu exista niciun personaj cu acest nume.
+1122	A aparut o eroare in timpul crearii biletului. Va rugam sa incercati din nou mai tarziu.
+1123	Nu aveti permisiuni pentru a face acest lucru.
+1124	Nu puteti sterge administratorul principal.
+1125	Membrul %s a fost adaugat cu succes.
+1126	Membru %s eliminat cu succes.
+1127	Nu puteti raspunde la bilet daca acesta este inchis sau rezolvat.
+1128	Trebuie sa asteptati un raspuns din partea unui GM inainte de a putea trimite un alt mesaj.
+1129	|cff00A8EB[Jucator nou]|r: A sosit unul nou %s cu numele %s, Bine ati venit la Ava2!
+1130	Turneu PvP
+1131	Arata-ti abilitatile in acest turneu si demonstreaza [ENTER]ca esti cel mai bun.
+1132	[ENTER]Doriti sa participati la Turneu?
+1133	Mergeti la Turneul PVP, pentru a activa evenimentul.
+1134	Inscrieti-va la turneu
+1135	Doriti sa va inregistrati pentru un duel pvp?
+1136	Duelul are yang %s pentru a paria.
+1137	[ENTER]Mai doriti sa va inregistrati?
+1138	V-ati inregistrat cu succes.
+1139	Ceva nu este in regula cu algoritmul
+1140	Evenimentul nu este activ!
+1141	Timpul de inregistrare s-a incheiat.
+1142	Numaratoarea inregistrarilor a fost facuta!
+1143	Nu poti intra in pvp cu personajul tau de job!
+1144	Nivelul tau este mai mic decat nivelul minim!
+1145	Nivelul tau este mai mare decat nivelul maxim
+1146	Nu te poti inregistra pe o alta harta.
+1147	Nu ai suficient pret de pariu!
+1148	Te-ai inregistrat deja cu acest personaj
+1149	Te poti inregistra doar o singura data pe calculator.
+1150	<GM> Turneu PVP: State
+1151	Selectati ce doriti
+1152	<GM> Turneu PVP: Blocuri
+1153	Blocul vNum
+1154	Unblock vNum
+1155	Monstrar
+1156	Introduceti vNum obiectului.
+1157	Vreti sa puneti asta?
+1158	Deschidere eveniment
+1159	Inchidere eveniment
+1160	Inchis cu succes!
+1161	Imbunatatiri perfecte?
+1162	Ati auzit de Incantare plus? Daca da, va voi explica.
+1163	Fiti foarte atenti la mine!
+1164	Exista 5 tipuri de obiecte care au procente intre:[ENTER]
+1165	Acest lucru este in scopul de a imbunatati bonusurile obiectului dvs. la perfect.
+1166	[ENTER]Exista posibilitatea ca, in cazul in care utilizati un[ENTER]procent mai mica de 100%, obiectul dvs. poate fi distrus.[ENTER]
+1167	Amintiti-va si tineti minte ca nu puteti fermeca obiecte[ENTER]pentru a imbunatati (Media sau Abilitatea).[ENTER]
+1168	Singura modalitate de a obtine aceste obiecte este prin [ENTER]intermediul cratfeo meu sau in Magazinul de obiecte.[ENTER]
+1169	Mult noroc![ENTER]
+VIEW_CRAT	Vezi crafting
+NOT_CRAF	Apoi
+VIEW_SHOP	Vezi magazinul
+PROMOTION_TITLE_00	Pachetul Joker Set Pack!
+PROMOTION_TITLE_01	[ENTER]Ava2 va rasplateste!
+PROMOTION_TITLE_02	Daca ati reincarcat 100€ din 16-07-2023 pana la[ENTER]20-07-2023 la 23:59 puteti revendica acest pachet[ENTER]contactarea unui administrator [ENTER]prin Discord: https://www.ava2.org/discord [ENTER]sau in sistemul nostru de asistenta in joc.
+PROMOTION_TITLE_03	[ENTER]Va multumim din nou pentru sprijin![ENTER]
+SUNGMA_TEXT_00	Daca devii un campion, vei putea creste cu 30 de niveluri[ENTER]mai mult. Veti obtine punctele de experienta necesare pe noile harti Yohara.
+SUNGMA_TEXT_01	Nu puteti folosi acest obiect înca!
+SUNGMA_TEXT_02	[ENTER]Asteptati %s înainte de a-l putea folosi din nou.
+SUNGMA_TEXT_03	Felicitari! Amintiti-va ca va fi activ timp de 2 zile
+SUNGMA_TEXT_04	Doriti sa activati bonusul:
+SUNGMA_TEXT_05	Aveti deja acest efect activat.

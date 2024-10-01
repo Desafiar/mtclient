@@ -1,0 +1,1372 @@
+30000	Cebada	Una planta cultivada común usada para la elaboración de alimentos y cerveza.
+30001	Carta	Una carta de alguien
+30002	Salchicha Frita	Revuelto con vegetales y especias.
+30003	Nariz de Cerdo	La nariz de un cerdo
+30004	Diente de Jabalí	Un diente muy fuerte de jabalí.
+30005	Trozo de Armadura Rota	Fragmento de una armadura rota.
+30006	Diente de Orco	Un diente amarillento y pestilente de un Orco. En los bordes hay residuos crujientes indefinibles.
+30007	Amuleto de Orco	Un amuleto que da coraje a los orcos durante la batalla.
+30008	Cartilla Esotérica	El manual de principiantes de la Doctrina Esotérica.
+30009	Medicina Desconocida	Medicina desconocida con ingredientes desconocidos.
+30010	Bilis de oso	La Bilis de oso es conocida por reavivar el sentido del gusto.
+30011	Madeja	Una sedosa bola de hilo.
+30012	Botella de Vino	La botella contiene un vino muy aromático.
+30013	Jarra de Licor	Una jarra que se usa para añejar licor.
+30014	Piel de Yeti	Piel de la legendaria criatura, el Yeti, que protege del frío.
+30015	Recuerdo del Demonio	Un grotesco recuerdo de un Demonio que rezuma aire frío.
+30016	Gema del Demonio	Una gema conocida por contener las almas de los muertos.
+30017	Horquilla ornamental	Una horquilla decorada para mujer.
+30018	Coletero Rojo	Una cinta de fantasía para sujetar el pelo de una mujer.
+30019	Melena Llameante	Una melena llameante que es usada para hacer ropa de invierno.
+30020	Semilla de Melocotón	Usada para conseguir una piel saludable.
+30021	Trozo de Gema	Una gema separada por un sustancia dura.
+30022	Cola de Serpiente	La escamosa y multicolor cola de una serpiente de cascabel.
+30023	Piel de Tigre Blanco	Valorada como la piel de animal más preciada entre los coleccionistas.
+30024	Cola de Caballo	Una cola de caballo puede ser usada para hacer objetos de calidad tales como cepillos, sombreros y cuerda.
+30025	Saco de Veneno de Araña	El saco de veneno de una araña
+30026	Intestino de Lobo	Un ingrediente usado para hacer salchichas, una comida famosa en el reino.
+30027	Piel de Lobo	Los pelos más gruesos de la piel de lobo se usan para hacer para peines y cepillos.
+30028	Garra de Lobo	Una garra de lobo afilada se usa para hacer accesorios.
+30029	Hígado de Lobo	Un ingrediente usado para hacer salchichas, una comida famosa en el reino.
+30030	Hoja Oxidada	Una hoja de daga oxidada
+30031	Ornamentación	Un adorno favorito entre las chicas.
+30032	Uniforme Negro	Un uniforme negro usado.
+30033	Porcelana Rota	Una pieza de preciosa porcelana rota.
+30034	Coletero Blanco	Una cinta elegante para sujetar el pelo de una mujer.
+30035	Crema Facial	Las mujeres lo usan para mantener su piel joven.
+30036	Hierba Mística	Una hierba legendaria en este reino con efectos milagrosos.
+30037	Garra de Tigre	Algunos guerreros llevan una cadena de Garras de Tigre para demostrar su valentía.
+30038	Piel de Tigre	Una piel de animal favorita entre los coleccionistas.
+30039	Pieza de Tela	Tela usada para cubrir las heridas de alguien.
+30040	Hoja	Hoja de planta desconocida.
+30041	Shuriken	Un arma arrojadiza que usan los Ninjas.
+30042	Colmillo de Tigre	El sólido y brillante colmillo de ese gato montés.
+30043	Alubia	Un ingrediente usado en muchas recetas.
+30044	Arcilla	Arcilla usada para hacer porcelana.
+30045	Aguja de Escorpión	Una aguja que contiene veneno letal de escorpión.
+30046	Cola de Escorpión	Una cola de escorpión venenosa.
+30047	Libro Maldición	Un libro esotérico usado para maldecir a la gente.
+30048	Trozo de Hielo	Un macizo de agua helada que rezuma regularmente aire frío.
+30049	Cuerno Ballena Asesina	Es un material de escultura valioso.
+30050	Bola de Hielo	Una bola hecha de hielo. No se derrite en agua caliente.
+30051	Talismán Desconocido	Talismán desconocido, sólo los esotéricos lo pueden leer.
+30052	Bandera	Una bandera para marcar las tropas salvajes.
+30053	Piel de Pie de Oso	La comida vitamínica favorita de mucha gente.
+30054	Anillo de Boda	El único anillo que llevas hasta el fin de tus días.
+30055	Garra de Escorpión	La garra robusta del tentáculo de un escorpión.
+30056	Telaraña	Una araña usa su seda para hacer su casa.
+30057	Ojos de Araña	Los ojos de araña son algo preciado por los coleccionistas.
+30058	Saco de Huevos de Araña	Es usada como una atracción por las mujeres que no tienen hijos.
+30059	Patas de Araña	Los chamanes usan las patas peludas de las arañas en el trabajo.
+30060	Lengua de Rana	Una lengua elástica y muy pegajosa.
+30061	Ancas de Rana	Un ingrediente exótico de cocina, ¡que sabe como el pollo!
+30062	Bol de Medicinas	Un tazón de color claro usado por farmacéuticos.
+30063	Medicina para la Piel	Una medicina que cura enfermedades de la piel.
+30064	Piedra Afilada	Una piedra que es usada para hacer puntas de flecha.
+30065	Campana	Una pequeña campana que produce un campanilleo.
+30066	Chile	Un pimiento muy picante
+30067	Piel de Serpiente	La escamosa y brillante piel de una serpiente.
+30068	Filete de Tofu	Tofu cocinado con estilo fusionado
+30069	Garra de Lobo+	La garra afilada de lobo se usa para crear accesorios.
+30070	Piel de Lobo+	Los pelos más grandes de la piel de un lobo se usan para crear peines y cepillos.
+30071	Bilis de oso+	La Bilis de oso es conocida por reavivar el sentido del gusto.
+30072	Piel de Pie de Oso+	Comida vitamínica favorita de mucha gente.
+30073	Coletero Blanco+	Una cinta popular para sujetar el pelo de una mujer.
+30074	Uniforme Negro+	Un uniforme negro usado.
+30075	Shuriken+	Un arma arrojadiza usada por Ninjas.
+30076	Amuleto de Orco+	Un amuleto que alienta a los Orcos durante la batalla.
+30077	Diente de Orco+	Un diente de un Orco amarillento y pestilente. En los bordes hay residuos crujientes e indefinibles.
+30078	Cartilla Esotérica+	Un manual de principiante de la doctrina esotérica.
+30079	Talismán Desconocido+	Un Talismán desconocido, sólo esotéricos pueden leerlo.
+30080	Libro Maldición+	Este libro esotérico puede ser usado para maldecir a alguien.
+30081	Cola de Escorpión+	Una cola de escorpión venenosa.
+30082	Cola de Serpiente+	La escamosa y colorida cola de una serpiente de cascabel.
+30083	Medicina Desconocida+	Medicina desconocida de ingredientes desconocidos.
+30084	Talismán Desconocido+	Un talismán desconocido, sólo los Esotéricos pueden leerlo.
+30085	Trozo de Tela+	Una tela usada para cubrir las heridas de alguien.
+30086	Recuerdo del Demonio+	Un grotesco recuerdo de un Demonio.
+30087	Gema del Demonio+	Una gema que se conoce por contener las almas de los muertos.
+30088	Trozo de Hielo+	Agua helada que permanece rezumando aire frío.
+30089	Piel de Yeti+	La piel de la legendaria criatura, el Yeti, protege del frio.
+30090	Bola de Hielo+	Una bola hecha de hielo. No se derrite en el agua caliente.
+30091	Símbolo del Guerrero	El símbolo del Guerrero otorgado a los Guerreros legendarios.
+30092	Botín del Salvaje	Los despojos de la guerra.
+30194	Maza de Orco	Un arma deforme con espigones robustos.
+30195	Arena de Cuarzo	Esta arena parece servirles como sangre a las criaturas de piedra en el desierto.
+30196	Ceniza del Demonio	Incluso la ceniza del dragón contiene podres extraordinarios.
+30197	Semillas Mágicas	Estas semillas están chisporroteando de vitalidad.
+30198	Cristal de Agua	El corazón de una criatura malvada de hielo.
+30199	Cristal Azul	Un pedazo de cristal del Templo del Dragón que refuerza los poderes oscuros.
+51001	Fragmento de energía	Fragmento de un Cristal de Energía. Hecho a partir de objetos destruidos en el Alquimista.
+27992	Perla Blanca	El inmaculado tesoro blanco encontrado dentro de una concha marina.
+27993	Perla Azul	Una magnífica perla azul oscuro encontrada dentro de una concha marina.
+27994	Perla roja	Una perla de color rojo del interior de una concha marina.
+27987	Almeja	Un crustáceo con una bonita concha. A veces contiene una perla preciosa en su interior.
+71084	Objeto Encantado	Elimina las bonificaciones de uno de tus objetos y añade otras nuevas. Solo sirve para las bonificaciones de 1 a 5.
+71151	Magia Verde	Elimina los bonos de uno de tus objetos y añade nuevos. Solamente se puede utilizar en armas y armaduras de hasta nivel 40. Objeto del Baúl de Nivel, no comerciable.
+76023	Magia Verde	Elimina los bonos de uno de tus objetos y añade nuevos. Solamente se puede utilizar en armas y armaduras de hasta nivel 40. Objeto del Baúl de Nivel, no comerciable.
+80019	Tela delicada	Este material sirve para fabricar Estolas.
+
+50621	Diamante	La gema más fuerte y notoria que puede engarzarse en accesorios y joyería.
+50622	Ámbar	Una gema clara hecha de resina fosilizada, que brilla en tonos miel o dorados.
+50623	Madera Fósil	Una madera valiosa que puede añadirse en accesorios de madera.
+50624	Cobre	Usado a menudo para hacer monedas y bronce. Puede ser añadido en accesorios de cobre.
+50625	Plata	Metal brillante usado para hacer joyería. Puede ser añadido en accesorios de plata.
+50626	Oro	Metal dorado usado para hacer joyería. Puede ser añadido en accesorios de oro.
+50627	Jade	Un mineral valioso que ha sido usado durante unos 5000 años.  Puede ser añadido en accesorios y joyería.
+50628	Ébano	La madera más fuerte y ligera de todas. Puede ser añadido en accesorios y joyería.
+50629	Perla	Usada para hacer joyería. Puede ser añadido en accesorios y joyería.
+50630	Oro Blanco	Una dura y blanca aleación de oro que se usa a menudo para joyería.
+50631	Cristal	Una piedra dura hecha de cuarzo cristalino que puede ser encontrada con diferentes colores. Usada a menudo para joyería.
+50632	Amatista	Un cuarzo popular que puede ser encontrado en diferentes tonalidades de púrpura. Es a menudo usado para hacer joyería.
+50633	Lágrima de Cielo	Lluvia cristalizada del cielo. Puede ser usado para hacer joyería.
+50634	Cristal del alma	Un cristal puro como la propia alma. Puede utilizarse para fabricar joyas.
+50635	Rubí	Piedra preciosa roja con un filo excepcional. Puede trabajarse para fabricar una valiosa joya.
+50636	Granate	Piedra preciosa naranja con un filo excepcional. Puede trabajarse para fabricar una valiosa joya.
+50637	Esmeralda	Piedra preciosa verde con un filo excepcional. Puede trabajarse para fabricar una valiosa joya.
+50638	Zafiro	Piedra preciosa azul con un filo excepcional. Puede trabajarse para fabricar una valiosa joya.
+25100	Pergam. Piedra Espíritu	El pergamino te permite extraer la Piedra Espíritu de un arma o armadura. Deja una marca de extracción.
+27799	Espinas de Pescado	Las espinas de un pez
+27600	Hoguera	Madera que ha sido cortada para hacer una hoguera.
+27610	Bola de Pescar	Esta bola mágica revela el tipo de pez que está en el anzuelo.
+27800	Goma	Un cebo ligero y barato
+27801	Gusano	Cebo popular que atrae a los peces.
+39032	Fruta de la Vida	Incrementa los puntos de clasificación en 2000.
+71002	Reseteo de Atributos	Resetea todas las habilidades de tu personaje pudiendo elegir otra doctrina.
+71054	Tinta de los Reinos	Permite al personaje exiliarse a otro reino.
+71083	Manual de la Piedra	Elimina todas las piedras rotas de un objeto. Con eso tendrás otra oportunidad de mejorar tu arma o armadura.
+71085	Objeto de Coacción	Con algo de suerte añade un bonus a uno de tus objetos (hasta un máximo de 5 bonificaciones).
+55001	Protein Snack	Haz click derecho sobre el complemento para aumentar 7 días de duración a tu mascota.
+55008	Pet Name Scroll	Arrastra el pergamino encima de tu mascota para cambiarle el nombre
+55009	Pet Book Chest	Este cofre contiene libros para tu mascota. Al abrirlo recibirás uno de forma aleatoria
+55010	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Metines (Max 10%)
+55011	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Monstruos (Max 10%)
+55012	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Jefes (Max 10%)
+55013	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Aumenta el STR (Max +10)
+55014	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Aumenta la INT (Max +10)
+55015	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Aumenta la DEX (Max +10)
+55016	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Aumenta la VIT (Max +10)
+55017	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Animales (Max 15%)
+55018	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Orcos (Max 15%)
+55019	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Esotéricos (Max 15%)
+55020	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra No Muertos (Max 15%)
+55021	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Fuerza contra Demonios (Max 15%)
+55022	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Bonus de Experencia (Max 10%)
+55023	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Drop de Objetos (Max 10%)
+55024	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Drop de Yang (Max 20%)
+55025	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Medio Humanos (Max 5%)
+55026	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. Medio Humanos (Max 5%)
+55027	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Daño de Habilidad (Max 5%)
+55028	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. Daño de Habilidad (Max 5%)
+55029	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Daño de Media (Max 10%)
+55030	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. contra Daño de Media (Max 10%)
+55031	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. contra Críticos (Max 10%)
+55038	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. contra Penetración (Max 10%)
+55039	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Velocidad de Hechizo (Max 15%)
+55040	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Bloqueo de Ataques cuerpo a cuerpo (Max 10%)
+55041	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. Veneno (Max 10%)
+55042	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. Hielo (Max 10%)
+55043	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. Tierra (Max 10%)
+55044	LibroPet	Libro de habilidad para tu mascota, úsalo para mejorar sus habilidades.	Res. Oscuridad (Max 10%)
+55033	Pet Reverti	Elimina todas las habilidades de tu mascota.	Abre el panel de tu mascota y haz click derecho sobre el objeto para eliminarlas.
+55034	Pet Revertus	Elimina una habilidad de tu mascota.	Abre el panel de tu mascota y arrastra el objeto sobre la habilidad que quieras eliminar.
+55035	Tasty Treat+	Usa este objeto con tu mascota invocada para subirle un 50% de experiencia de golpe.
+55036	Pet Open Slot	Este objeto desbloquea un hueco de habilidades para tu mascota a partir de nivel 120.
+55101	Elixir of Vitality(S)	Incrementa el bonus HP de tu mascota.	[Lv 1-5]
+55102	Elixir of Vitality(M)	Incrementa el bonus HP de tu mascota.	[Lv 6-10]
+55103	Elixir of Vitality(L)	Incrementa el bonus HP de tu mascota.	[Lv 11-15]
+55104	Elixir of Vitality(XL)	Incrementa el bonus HP de tu mascota.	[Lv 16-20]
+55108	Elixir of Fight(S)	Incrementa el bonus de Fuerza contra monstruos de tu mascota.	[Lv 1-5]
+55109	Elixir of Fight(M)	Incrementa el bonus de Fuerza contra monstruos de tu mascota.	[Lv 6-10]
+55110	Elixir of Fight(L)	Incrementa el bonus de Fuerza contra monstruos de tu mascota.	[Lv 11-15]
+55111	Elixir of Fight(XL)	Incrementa el bonus de Fuerza contra monstruos de tu mascota.	[Lv 16-20]
+55115	Elixir of Power(S)	Incrementa el bonus de Probabilidad de golpes Críticos de tu mascota.	[Lv 1-5]
+55116	Elixir of Power(M)	Incrementa el bonus de Probabilidad de golpes Críticos de tu mascota.	[Lv 6-10]
+55117	Elixir of Power(L)	Incrementa el bonus de Probabilidad de golpes Críticos de tu mascota.	[Lv 11-15]
+55118	Elixir of Power(XL)	Incrementa el bonus de Probabilidad de golpes Críticos de tu mascota.	[Lv 16-20]
+39070	Fragmento gris	Este objeto te permite añadir el 6-7 bonus a los objetos.	Objetos de nivel 1-45
+39071	Fragmento blanco	Este objeto te permite añadir el 6-7 bonus a los objetos.	Objetos de nivel 46-75
+39072	Fragmento verde	Este objeto te permite añadir el 6-7 bonus a los objetos.	Objetos de nivel 76-105
+39073	Fragmento amarillo	Este objeto te permite añadir el 6-7 bonus a los objetos.	Objetos de nivel 106-120
+72064	Ampliación pequeña	Aumenta la probabilidad de insertar un bonu 6-7 en un 1%	Puedes usar 5 cada vez
+72065	Ampliación mediana	Aumenta la probabilidad de insertar un bonu 6-7 en un 2%	Puedes usar 5 cada vez
+72066	Ampliación grande	Aumenta la probabilidad de insertar un bonu 6-7 en un 4%	Puedes usar 5 cada vez
+72067	Ampliación potente	Aumenta la probabilidad de insertar un bonu 6-7 en un 10%	Puedes usar 5 cada vez
+72068	Ampliación potente	Aumenta la probabilidad de insertar un bonu 6-7 en un 100%	Objeto especial
+25163		Usado para entrar a la Torre de Demonios
+25164		Usado para entrar a la Baronesa Araña
+25165		Usado para entrar a la Sala del Dragón
+25166		Usado para entrar a las Catacumbas del Diablo
+25167		Usado para entrar a al Inframundo de Razador
+25168		Usado para entrar a la Torre de Nemere
+25169		Usado para entrar al navío de Hydra
+25169		Usado para entrar a la Fortaleza de Meley
+25180		Usa esta llave para entrar en la Sala del World Boss	Disponible en el Panel de Mazmorras pulsando F5
+25181		Usa esta llave para entrar en la Sala del World Boss	Disponible en el Panel de Mazmorras pulsando F5
+25182		Usa esta llave para entrar en la Sala del World Boss	Disponible en el Panel de Mazmorras pulsando F5
+25183		Usa esta llave para entrar en la Sala del World Boss	Disponible en el Panel de Mazmorras pulsando F5
+25184		Usa esta llave para entrar en la Sala del World Boss	Disponible en el Panel de Mazmorras pulsando F5
+25185		Usa esta llave para entrar en la Sala del World Boss	Disponible en el Panel de Mazmorras pulsando F5
+6880	Reparar5	Arrastra este objeto encima de un arma, armadura o accesorio desgastado o rota para repararla.	Aumenta 5% la durabilidad de tu objeto
+6881	Reparar5	Arrastra este objeto encima de un arma, armadura o accesorio desgastado o rota para repararla	Aumenta 25% la durabilidad de tu objeto
+6882	Reparar5	Arrastra este objeto encima de un arma, armadura o accesorio desgastado o rota para repararla	Aumenta 50% la durabilidad de tu objeto
+6883	Reparar5	Arrastra este objeto encima de un arma, armadura o accesorio desgastado o rota para repararla	Aumenta 100% la durabilidad de tu objeto
+6884	Reparar5	Arrastra este objeto encima de un arma, armadura o accesorio para cambiar su rareza de forma aleatoria.	La probabilidad de salir una rareza superior es igual a la del drop de los objetos por lo que al cambiar el bonus puede salir la misma rareza o incluso bajar el grado de rareza. 
+54706	1	Abre el cofre para recibir de forma aleatoria un arma de nivel 65 pvp desde +7 a +9 de cualquier raza.
+54707	2	Abre el cofre para recibir de forma aleatoria un arma de nivel 70 pvm desde +7 a +9 de cualquier raza.
+54708	3	Abre el cofre para recibir de forma aleatoria un arma de nivel 75 pvm desde +7 a +9 de cualquier raza.
+54709	4	Abre el cofre para recibir de forma aleatoria una armadura de nivel 66 desde +7 a +9 de cualquier raza.
+54710	5	Abre el cofre para recibir de forma aleatoria escudos, cascos, zapatos o cinturones desde +7 a +9.
+54711	5	Abre el cofre para recibir de forma aleatoria anillos, collares, pendientes o brazaletes desde +7 a +9.
+54712	5	Este paquete contiene todos los objetos del biólogo hasta el nivel 105.	Diente de Orco (x10) ~ Libro Maldición (x15) ~ Recuerdo del Demonio(x15) ~ Bola de Hielo (x20) ~ Rama de Zelkova (x25) ~ Panel Tugyi (x30) ~ Rama Arbol Rojo Fantasma (x40) ~ Notas del Líder (x50) ~ Joya de la Envidia (x10) ~ Joya de la Sabiduría (x20)
+54713	5	Esta bolsa contiene Elixires y Reloj del tiempo usados en las misiones del biólogo.	Elixir del Investigador (x10) ~ Elixir del Biólogo (x10)
+54714	5	Esta bolsa contiene Elixires y Reloj del tiempo usados en las misiones del biólogo.	Elixir del Investigador (x50) ~ Elixir del Biólogo (x50)
+54715	5	Este cofre contiene Objetos Encantados para dopar tu equipo	Objeto Encantado (x5000)
+54716	5	Este cofre contiene Objetos Encantados normales y de Talismán	Objeto Encantado (x5000) ~ Objeto Enc. Talismán (x500)
+54717	5	Este cofre contiene Objetos Encantados normales y de bonificaciones 6-7	Objeto Encantado (x5000) ~ Objeto encantado 6-7 (x20)
+77900	1	Este cofre contiene elixires (S) útiles para subir los bonus de tu mascota leveable.
+77901	1	Este cofre contiene elixires (M) útiles para subir los bonus de tu mascota leveable.
+77902	1	Este cofre contiene elixires (L) útiles para subir los bonus de tu mascota leveable.
+77903	1	Este cofre contiene elixires (XL) útiles para subir los bonus de tu mascota leveable.
+77904	1	Este cofre contiene lecturas, exorcismos y alubias zen para facilitar tu aprendizaje.
+77905	1	Este baúl contiene varios talismanes, ábrelo para recibir uno de forma aleatoria.
+77906	1	Este cofre contiene pendientes pvp, ábrelo para recibir uno de forma aleatoria.
+77907	1	Este cofre contiene brazaletes pvp, ábrelo para recibir uno de forma aleatoria.
+77908	1	Este cofre contiene collares pvp, ábrelo para recibir uno de forma aleatoria.
+77909	1	Este cofre contiene anillos pvp, ábrelo para recibir uno de forma aleatoria.
+77910	1	Abre este cofre para recibir de forla aleatoria uno de los refuerzos de cosméticos que tiene en su interior.
+77911	1	Abre este cofre para recibir de forla aleatoria uno de los refuerzos de cosméticos que tiene en su interior.
+77912	1	Abre este cofre para recibir de forla aleatoria uno de los refuerzos de cosméticos que tiene en su interior.
+77913	1	Este baúl contiene una alquimia legendaria mate de cada color.	Diam. Legendario mate +0(x1) ~ Rubi. Legendario mate +0(x1) ~ Jade Legendario mate +0(x1) ~ Zafiro Legendario mate +0(x1) ~ Granate Legendario mate +0(x1) ~ Onice Legendario mate +0(x1)
+77914	1	Este baúl contiene una alquimia legendaria mate de cada color.	Diam. Legendario mate +0(x5) ~ Rubi. Legendario mate +0(x5) ~ Jade Legendario mate +0(x5) ~ Zafiro Legendario mate +0(x5) ~ Granate Legendario mate +0(x5) ~ Onice Legendario mate +0(x5)
+77915	1	Este baúl contiene una alquimia legendaria mate de cada color.	Diam. Legendario mate +0(x10) ~ Rubi. Legendario mate +0(x10) ~ Jade Legendario mate +0(x10) ~ Zafiro Legendario mate +0(x10) ~ Granate Legendario mate +0(x10) ~ Onice Legendario mate +0(x10)
+77916	1	Este cofre contiene objetos especiales de la itemshop por valor de 140 coins.
+20050	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Enero
+20051	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Febrero
+20052	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Marzo
+20053	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Abril
+20054	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Mayo
+20055	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Junio
+20056	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Julio
+20057	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Agosto
+20058	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Septiembre
+20059	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Octubre
+20060	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Noviembre
+20061	1	Puedes canjear este voucher por un cosmético en la ventana del pase de batalla o en el npc de pase de batalla.	Diciembre
+25150	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Enero
+25151	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Febrero
+25152	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Marzo
+25153	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Abril
+25154	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Mayo
+25155	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Junio
+25156	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Julio
+25157	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Agosto
+25158	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Septiembre
+25159	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Octubre
+25160	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Noviembre
+25161	1	Haz clic con el botón derecho del ratón para iniciar el Battle Pass.	Diciembre
+25162	1	Usa este objeto para limpiar el Pase de Batalla una vez terminado y así poder realizarlo de nuevo con el mismo personaje.	¡Cuiado! Si usas el objeto antes de terminar el Pase de Batalla todo el progreso se borrará y las recompensas no reclamadas se perderán.
+70028	2	Usa este objeto para cambiar el bonus de una de las misiones del biólogo de nivel 60, 70, 80, 92 o 94.
+53998	2	Arrastra este objeto encima de tu skin de arma, atuendo o peinado para eliminar la última bonificación añadida.
+53999	2	Arrastra este objeto encima de tu skin de arma, atuendo o peinado para eliminar todas las bonificaciones.
+54001	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54002	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54003	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54004	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54005	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54006	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54007	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54008	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54009	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54010	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54011	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54012	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54013	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54014	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54015	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54016	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54017	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54018	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54019	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54020	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54021	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54022	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54023	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54024	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54025	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54026	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54027	2	Este objeto agrega a tu Atuendo el siguiente bonus:
+54028	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54029	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54030	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54031	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54032	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54033	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54034	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54035	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54036	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54037	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54038	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54039	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54040	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54041	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54042	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54043	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54044	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54045	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54046	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54047	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54048	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54049	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54050	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54051	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54052	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54053	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54054	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54055	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54056	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54057	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54058	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54059	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54060	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54061	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54062	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54063	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54064	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54065	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54066	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54067	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54068	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54069	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54070	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54071	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54072	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54073	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54074	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54075	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54076	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54077	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54078	2	Este objeto agrega a tu Peinado el siguiente bonus:
+54079	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54080	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54081	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54082	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54083	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54084	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54085	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54086	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54087	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54088	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54089	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54090	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54091	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54092	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54093	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54094	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54095	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54096	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54097	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54098	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54099	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54100	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54101	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54102	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54103	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54104	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54105	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54106	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54107	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54108	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54109	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54110	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54111	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54112	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54113	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54114	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54115	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54116	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54117	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54118	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54119	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54120	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54121	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54122	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54123	2	Este objeto agrega a tu Skin de Arma el siguiente bonus:
+54124	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54125	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54126	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54127	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54128	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54129	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54130	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54131	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54132	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54133	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54134	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54135	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54136	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54137	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54138	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54139	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54140	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54141	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54142	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54143	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54144	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54145	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54146	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54147	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54148	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54149	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54150	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54151	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54152	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54153	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54154	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54155	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54156	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54157	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54158	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54159	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54160	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54161	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54162	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54163	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54164	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54165	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54166	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54167	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54168	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54169	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54170	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54171	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54172	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54173	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54174	2	Este objeto agrega a tu Skin de Montura el siguiente bonus:
+54175	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54176	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54177	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54178	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54179	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54180	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54181	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54182	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54183	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54184	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54185	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54186	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54187	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54188	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54189	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54190	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54191	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54192	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54193	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54194	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54195	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54196	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54197	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54198	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54199	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54200	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54201	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54202	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54203	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54204	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54205	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54206	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54207	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54208	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54209	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54210	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54211	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54212	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54213	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54214	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54215	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54216	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54217	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54218	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54219	2	Este objeto agrega a tu Skin de Estola el siguiente bonus:
+54220	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54221	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54222	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54223	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54224	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54225	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54226	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54227	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54228	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54229	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54230	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54231	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54232	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54233	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54234	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54235	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54236	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54237	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54238	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54239	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54240	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54241	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54242	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54243	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54244	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54245	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54246	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54247	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54248	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54249	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54250	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54251	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54252	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54253	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54254	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54255	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54256	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54257	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54258	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54259	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54260	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54261	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54262	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54263	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54264	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54265	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54266	2	Este objeto agrega a tu Efecto el siguiente bonus:
+54267	2	Este objeto agrega a tu Efecto el siguiente bonus:
+50188	2	Este cofre contiene vouchers de atuendos, skins de arma y peinado. Además de un Huevo de Minimono	Disponible a nivel 45
+72319	Ampliación del inventario	Utiliza esta llave para desbloquear ranuras de la Tienda Offline
+72320	Ampliación del inventario	Utiliza esta llave para desbloquear ranuras en tu inventario normal y especial
+30220	Piedra Alma de Jinunggyi	Usada para terminar la misión del biólogo
+30221	Piedra Alma del Templo	Usada para terminar la misión del biólogo
+30222	Piedra Alma de Sagyi	Usada para terminar la misión del biólogo
+30223	Piedra Alma Aurtumryu	Usada para terminar la misión del biólogo
+30224	Piedra Alma de Gyimok	Usada para terminar la misión del biólogo
+30225	Piedra Alma de Tugyi	Usada para terminar la misión del biólogo
+30228	Piedra Alma de Beran-S.	Usada para terminar la misión del biólogo
+30229	Piedra Alma de Beran-S.	Usada para terminar la misión del biólogo
+30230	Piedra Alma de Beran-S.	Usada para terminar la misión del biólogo
+30231	Piedra Alma de Beran-S.	Usada para terminar la misión del biólogo
+30232	Piedra Alma de Beran-S.	Usada para terminar la misión del biólogo
+30250	Piedra Alma de Beran-S.	Usa este elixir para eliminar por completo el tiempo de entrega de un objeto del biólogo.
+71035	Elixir del Investigador	Mejora la calidad de los objetos de investigación que has recogido, por consiguiente incrementa la probabilidad de que sean aceptados.
+71153	Poción de la Sabiduría	Con esta poción podrás reunir en una hora de juego un 100% más de experiencia.
+71154	Poción de la Sabiduría	Con esta poción podrás reunir en una hora de juego un 100% más de experiencia
+300000	2	Un diente amarillo y pestilente de un Orco. En los bordes hay residuos crujientes indefinibles.
+300001	2	Un libro esotérico usado para maldecir a la gente.
+300002	2	Un grotesco recuerdo de un Demonio que rezuma aire frío.
+300003	2	Una bola hecha de hielo. No se derrite en agua caliente ni con el calor.
+300004	2	Una rama verde usada para crear brebajes de magia.
+300005	2	Un trozo de panel con poderes mágicos usado por los magos.
+300006	2	Un trozo de rama de un árbol rojo fantasma que vaga por el mundo.
+300007	2	Un trozo de la legendaria palabra de un líder hacia sus fieles súbditos.
+300008	2	Un diente impregnado de maldad y codicia.
+300009	2	Este diamante está envuelto por un aura serena y noble.
+300010	2	Una pluma muy ligera, arrancada a un fénix.
+300011	2	Usado para la investigación por el biólogo para mejorar su técnica.
+300012	2	Unas recetas muy antiguas que esconden apuntes valiosos de biología.
+31104		Junta 5 trozos para convertirlo en una Gema Esmeralda.
+31105		Junta 7 trozos para convertirlo en una Gema Turmalina.
+31106		Junta 10 trozos para convertirlo en una Gema Zafiro.
+31107		Usado para mejora de objetos o como moneda de cambio en algunos npcs.
+31108		Usado para mejora de objetos o como moneda de cambio en algunos npcs.
+31109		Usado para mejora de objetos o como moneda de cambio en algunos npcs.
+31110		Junta 10 trozos para convertirlo en una Perla blanca.
+31111		Junta 10 trozos para convertirlo en una Perla azul.
+31112		Junta 10 trozos para convertirlo en una Perla roja.
+31113		Junta 10 trozos para convertirlo en una Gema Rubí.
+31114	Cuero simple	Material de refinamiento
+31115	Yunque	Material de refinamiento
+31116	Diseño de armadura IM	Diseño de armadura IM
+31117	Hilaza fina	Material de refinamiento
+31118	Medalla de la gloria	Material de refinamiento
+31119	Diseño de arma IM	Diseño de arma IM
+31120	Lija	Material de refinamiento
+31121	Acero	Material de refinamiento
+31122	Tela	Material de refinamiento
+31123	Cuero fino	Material de refinamiento
+31124	Hilo fino	Material de refinamiento
+31125	Hilo grueso	Material de refinamiento
+31126	Cráneo de dragón	Material de refinamiento
+31127	Diente de dragón	Material de refinamiento
+31128	Cuerno de Arrador	Material de refinamiento
+31129	Cuerno de Nemere	Material de refinamiento
+31130	Espinas afiladas	Material de refinamiento
+31131	Seda	Material de refinamiento
+31132	Fragmentos	Material de refinamiento
+31133	Tinte común	Material de refinamiento
+31134	Tinte mejorado	Material de refinamiento
+31135	Tinte especial	Material de refinamiento
+55401	Huevo de mono	Haz clic con el botón derecho del ratón sobre el huevo para que eclosione y salga tu mascota.	No Comerciable
+55402	Huevo de araña	Haz clic con el botón derecho del ratón sobre el huevo para que eclosione y salga tu mascota.
+55403	Huevo de Arrador	Haz clic con el botón derecho del ratón sobre el huevo para que eclosione y salga tu mascota.
+55404	Huevo de Nemere	Haz clic con el botón derecho del ratón sobre el huevo para que eclosione y salga tu mascota.
+55405	Huevo de dragón azul	Haz clic con el botón secundario del ratón sobre el huevo para que eclosione y salga tu mascota.
+55407	Huevo de Azraelito	Haz clic con el botón secundario del ratón sobre el huevo para que eclosione y salga tu mascota.
+55701	Minimono	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.	No Comerciable
+55702	Miniaraña	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.
+55703	Miniarrador	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.
+55704	Mininemere	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.
+55705	Minidragón	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.
+55706	Minidragón	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.
+55707	Azraelito	Llama a tu mascota con un clic derecho. Pulsa la tecla "P" para abrir su ventana.
+86004	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86008	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86014	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86018	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86024	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86028	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86034	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86038	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86044	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86048	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86054	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86058	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86064	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86065	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+86066	Lord Sash (custom)	Este Atuendo de Estola otorga a tu estola normal un aspecto diferente.
+71097	Objeto Encantado	Este objeto cambia los bonus de las Piedras de Alquimia.	Objeto especial
+72726	Elixir del Sol (E)	Usa esta pocion para curarte
+72730	Elixir de la Luna (E)	Usa esta pocion para recuperar mana
+72731	Elixir de la Luna (E)	Usa esta pocion para recibir velocidad de ataque
+53001	Sello del fénix de fuego	Con este sello puedes invocar a tu amigo el Fénix de fuego.
+25040	Pergamino Bendición	Elimina el riesgo de destruir un objeto si la mejora falla. El coste de esto es que la calidad es reducida en 1 punto.
+25041	Piedra mágica	Un pedazo del metal legendario puede aumentar la probabilidad de mejorar un objeto. El objeto mejorado no podrá ser destruido ni reducido de nivel.
+71301	2	Usa este objeto para añadir los bonus 1º-5º a tu Talismán.
+71302	2	Usa este objeto encantado para cambiar los bonus a tu Talismán de forma aleatoria.
+53002	1	Con este sello puedes invocar una mascota para que te acompañe.
+53003	1	Con este sello puedes invocar una mascota para que te acompañe.
+53004	1	Con este sello puedes invocar una mascota para que te acompañe.
+53005	1	Con este sello puedes invocar una mascota para que te acompañe.
+53006	1	Con este sello puedes invocar una mascota para que te acompañe.
+53007	1	Con este sello puedes invocar una mascota para que te acompañe.
+53008	1	Con este sello puedes invocar una mascota para que te acompañe.
+53009	1	Con este sello puedes invocar una mascota para que te acompañe.
+53010	1	Con este sello puedes invocar una mascota para que te acompañe.
+53011	1	Con este sello puedes invocar una mascota para que te acompañe.
+53012	1	Con este sello puedes invocar una mascota para que te acompañe.
+53013	1	Con este sello puedes invocar una mascota para que te acompañe.
+71124	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71500	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71501	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71502	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71503	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71504	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71505	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71506	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71507	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71508	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71509	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71510	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71511	León Blanco	Una feroz y leal montura que te seguira a donde vayas, cuidala.
+71512	León Blanco	Aspecto de montura.
+71513	León Blanco	Aspecto de montura.
+53042	León Blanco	Aspecto de montura.	No comerciable
+80025	TicketAtuendo	Alma perdida de jugador muerto ,inactivo o que ha abandonado el servidor.
+80026	TicketAtuendo	Canjea este ticket por una skin de armaen el NPC de la ciudad.	No comerciable
+80027	TicketAtuendo	Canjea este ticket por un peinado en el NPC de la ciudad.	No comerciable
+40101	Espada dentada		No comerciable
+40102	Daga dentada		No comerciable
+40103	Arco dentado		No comerciable
+40104	Guja dentada		No comerciable
+40105	Campana dentada		No comerciable
+40106	Abanico dentado		No comerciable
+45003	Headdress (m)		No comerciable
+45004	Headdress (f)		No comerciable
+41003	luchadora desierto		No comerciable
+41004	luchador desierto		No comerciable
+45005	cresta	
+45006	frequillo	
+45057	Fedora Bogart	
+45058	Peinado floral	
+41119	Traje Salsa	
+41120	Vestido Salsa	
+41121	Traje Caballero	
+41122	Vestido Coctel	
+34090	Traje Egipcio Antiguo (M)	
+34091	Traje Egipcio Antiguo (F)	
+34092	Arm. de Anubis (M)		Temporal
+34093	Arm. de Anubis (F)		Temporal
+45500	Casco Egipcio Antiguo (M)	
+45501	Casco Egipcio Antiguo (F)	
+45502	Cabeza de Anubis (M)		Temporal
+45503	Cabeza de Anubis (F)		Temporal
+40600	Skin Espada Egipcia	
+40601	Skin Sable Egipcio	
+40602	Skin Daga Egipcia	
+40603	Skin Arco Egipcio	
+40604	Skin Lanza Egipcia	
+40605	Skin Campana Egipcia	
+40606	Skin Fan Egipcio	
+40610	Skin Espada de Anubis		Temporal
+40611	Skin Sable de Anubis		Temporal
+40612	Skin Daga de Anubis		Temporal
+40613	Skin Arco de Anubis		Temporal
+40614	Skin Lanza de Anubis		Temporal
+40615	Skin Campana de Anubis		Temporal
+40616	Skin Fan de Anubis		Temporal
+34094	Atuendo Demoníaco (M)
+34095	Atuendo Demoníaco (F)
+45504	Cuernos Demoníacos (M)
+45505	Cuernos Demoníacos (F)
+40620	Sable Demoníaco
+40621	Espada Demoníaca
+40622	Puñal Demoníaco
+40623	Arco Demoníaco
+40624	Lanza Demoníaca
+40625	Campana Demoníaca
+40626	Fan Demoníaco
+45309	cristal magico	
+45310	cristal magico	
+34044	cristal magico	
+34045	cristal magico	
+40431	cristal magico	
+40432	cristal magico	
+40433	cristal magico	
+40434	cristal magico	
+40435	cristal magico	
+40436	cristal magico	
+40437	cristal magico	
+34500	Atuendo pvp	
+34501	Atuendo pvp	
+34502	Peinado pvp	
+34510	Peinado pvp	
+34503	Skin pvp	
+34504	Skin pvp	
+34505	Skin pvp	
+34506	Skin pvp	
+34507	Skin pvp	
+34508	Skin pvp	
+34509	Skin pvp	
+40445	Skin pvp	
+40446	Skin pvp	
+40447	Skin pvp	
+40448	Skin pvp	
+40449	Skin pvp	
+40450	Skin pvp	
+40129	Skin pvp	
+40130	Skin pvp	
+40131	Skin pvp	
+40132	Skin pvp	
+40133	Skin pvp	
+40134	Skin pvp	
+40135	Skin pvp	
+85001	Estola señorial (simple)	La Estola absorbe un 1% de las bonificaciones del arma o armadura que selecciones para ello.
+85002	Estola señorial (eleg.)	La Estola absorbe un 5% de las bonificaciones del arma o armadura que selecciones para ello.
+85003	Estola señorial (noble)	La Estola absorbe un 10% de las bonificaciones del arma o armadura que selecciones para ello.
+85004	Estola señorial (pers.)	La Estola absorbe entre un 11% y un 25% de las bonificaciones del arma o armadura que selecciones para ello.
+85005	Estola magistral (simp.)	La Estola absorbe un 1% de las bonificaciones del arma o armadura que selecciones para ello.
+85006	Estola magistral (eleg.)	La Estola absorbe un 5% de las bonificaciones del arma o armadura que selecciones para ello.
+85007	Estola magistral (noble)	La Estola absorbe un 10% de las bonificaciones del arma o armadura que selecciones para ello.
+85008	Estola magistral (pers.)	La Estola absorbe entre un 11% y un 25% de las bonificaciones del arma o armadura que selecciones para ello.
+85009	certificado	El Titulo de retroceso te permite eliminar bonificaciones de una Estola. Una vez eliminadas, puedes mejorar la Estola absorbiendo nuevas bonificaciones de otra arma o armadura.
+85011	Estola dinástica (simp.)	La Estola absorbe un 1% de las bonificaciones del arma o armadura que selecciones para ello.
+85012	Estola dinástica (eleg.)	La Estola absorbe un 5% de las bonificaciones del arma o armadura que selecciones para ello.
+85013	Estola dinástica (noble)	La Estola absorbe un 10% de las bonificaciones del arma o armadura que selecciones para ello.
+85014	Estola dinástica (pers.)	La Estola absorbe entre un 11% y un 25% de las bonificaciones del arma o armadura que selecciones para ello.
+85015	Estola real (simple)	La Estola absorbe un 1% de las bonificaciones del arma o armadura que selecciones para ello.
+85016	Estola real (elegante)	La Estola absorbe un 5% de las bonificaciones del arma o armadura que selecciones para ello.
+85017	Estola real (noble)	La Estola absorbe un 10% de las bonificaciones del arma o armadura que selecciones para ello.
+85018	Estola real (pers.)	La Estola absorbe entre un 11% y un 25% de las bonificaciones del arma o armadura que selecciones para ello.
+70043	Guantes de Ladrón	Duplica la probabilidad de saquear objetos.
+100000	Elixir del tiempo (P)	Completa la duración de una Piedra dragón.
+100001	Elixir del tiempo (M)	Completa la duración de una Piedra dragón.
+100002	Elixir del tiempo (G)	Completa la duración de una Piedra dragón.
+100100	Tenaza de dragón	Un herramienta útil que aumenta la probabilidad de éxito al retirar una Piedra dragón.
+100200	Tenaza del tiempo	Extrae la duración de la Piedra dragón.
+100500	Alubia rosa del dragón	La probabilidad de mejorar con éxito en un nivel la Piedra dragón aumenta en un 10%.
+100300	Blue Dragon Bean	Usada para mejorar la alquimia
+100400	Blue Dragon Bean	Aumenta la probabilidad de mejora de una alquimia en un nivel.
+100500	Pink Dragon Bean	Aumenta un 10% la probabilidad de mejora de una alquimia.
+70038	Capa de valor	Al usar la capa de valor atraeras a todos los monstruos de tu alrededor, ten cuidado.	Ilimitado
+76042	Teleportation Ring	Usa el anillo para viajar por los mapas del servidor.
+27863	Lucioperca Asado	Un pez muy valioso ya que vive en aguas profundas donde abunda el oro del río	Precio 100k yang en NPC
+27864	Pez Mandarín Asado	Un pez muy valioso ya que vive en aguas profundas donde abunda el oro del río	Precio 200k yang en NPC
+27865	Lucioperca Grande Asado	Un pez muy valioso ya que vive en aguas profundas donde abunda el oro del río	Precio 300k yang en NPC
+27866	Carpa Asada	Puedes comerte este pescado para recibir el siguiente bonus	20% Vel. Movimiento (10min)
+27867	Salmón Asado	Puedes comerte este pescado para recibir el siguiente bonus	10% Fuerza vs Monstruos (10min)
+27868	Carpa Herbívora Asada	Puedes comerte este pescado para recibir el siguiente bonus	20% Vel. Ataque (10min)
+27869	Trucha de Arroyo Asada	Puedes comerte este pescado para recibir el siguiente bonus	20% Vel. Hechizo (10min)
+27870	Anguila Asada	Puedes comerte este pescado para recibir el siguiente bonus	10% Envenenamiento (10min)
+27871	Trucha Arco Iris Asada	Puedes comerte este pescado para recibir el siguiente bonus	80 Valor de Ataque (10min)
+27872	Trucha de Río Asada	Puedes comerte este pescado para recibir el siguiente bonus	80 Valor de Ataque Mágico (10min)
+27873	Gardí Asado	Puedes comerte este pescado para recibir el siguiente bonus	80 Defensa (10min)
+27874	Perca Asada	Puedes comerte este pescado para recibir el siguiente bonus	Elimina el Veneno
+27875	Tenchi Asado	Puedes comerte este pescado para recibir el siguiente bonus	10% Daño PVP (10min)
+27876	Barbo Asado	Puedes comerte este pescado para recibir el siguiente bonus	30% Experiencia (10min)
+27877	Locha Asado	Puedes comerte este pescado para recibir el siguiente bonus	10% Resitencia contra habilidad (10min)
+27878	Pez Loto Asado	Puedes comerte este pescado para recibir el siguiente bonus	Restaura 7000HP al instante
+27879	Ayu Asado	Puedes comerte este pescado para recibir el siguiente bonus	Max. HP +2000 (10min)
+27880	Eperlano Asado	Puedes comerte este pescado para recibir el siguiente bonus	10% Daño de Habilidad (10min)
+27881	Shiri Asado	Puedes comerte este pescado para recibir el siguiente bonus	20% Daño de Media (10min)
+27882	Carpa Espejo Asada	Un pez muy valioso ya que vive en aguas profundas donde abunda el oro del río	Precio 10kk yang en NPC
+27883	Carpa Dorada Asada	Un pez muy valioso ya que vive en aguas profundas donde abunda el oro del río		Precio 20kk yang en NPC
+65000	brilloarma	Añade un efecto a tu arma.
+65001	brilloarma	Añade un efecto a tu arma.	No Comerciable
+65002	brilloarma	Añade un efecto a tu arma.
+65003	brilloarma	Añade un efecto a tu arma.
+65004	brilloarma	Añade un efecto a tu arma.
+65005	brilloarma	Añade un efecto a tu arma.
+65006	brilloarma	Añade un efecto a tu arma.
+65007	brilloarma	Añade un efecto a tu arma.
+65008	brilloarma	Añade un efecto a tu arma.
+65009	brilloarma	Añade un efecto a tu arma.
+65010	brilloarma	Añade un efecto a tu arma.
+65011	brilloarma	Añade un efecto a tu arma.
+65012	brilloarma	Añade un efecto a tu arma.
+65013	brilloarma	Añade un efecto a tu arma.
+65014	brilloarma	Añade un efecto a tu arma.
+65015	brilloarma	Añade un efecto a tu arma.
+65100	brilloarmadura	Añade un efecto a tu armadura.
+65101	brilloarmadura	Añade un efecto a tu armadura.	No Comerciable
+65102	brilloarmadura	Añade un efecto a tu armadura.
+65103	brilloarmadura	Añade un efecto a tu armadura.
+65104	brilloarmadura	Añade un efecto a tu armadura.
+65105	brilloarmadura	Añade un efecto a tu armadura.
+65106	brilloarmadura	Añade un efecto a tu armadura.
+65107	brilloarmadura	Añade un efecto a tu armadura.
+65108	brilloarmadura	Añade un efecto a tu armadura.
+65109	brilloarmadura	Añade un efecto a tu armadura.
+65110	brilloarmadura	Añade un efecto a tu armadura.
+65111	brilloarmadura	Añade un efecto a tu armadura.
+65112	brilloarmadura	Añade un efecto a tu armadura.
+65113	brilloarmadura	Añade un efecto a tu armadura.
+65114	brilloarmadura	Añade un efecto a tu armadura.
+65115	brilloarmadura	Añade un efecto a tu armadura.
+71221	Kashmir Bundle	Al activar el paquete podrás decorar tu Offline Shop durante 30 días.
+70002	1	Este artículo activa Auto Pickup Premium que le permite a tu personaje recoger artículos en rango doble sin presionar la letra Z durante 30 días.	Solo se puede activar en un personaje.
+71222	1	Aspecto de Montura
+71223	1	Aspecto de Montura
+71224	1	Aspecto de Montura
+71225	1	Aspecto de Montura
+71226	1	Aspecto de Montura
+71227	1	Aspecto de Montura
+71228	1	Aspecto de Montura
+71229	1	Aspecto de Montura
+71230	1	Aspecto de Montura
+71231	1	Aspecto de Montura
+71232	1	Aspecto de Montura
+71233	1	Aspecto de Montura
+71234	1	Aspecto de Montura
+71235	1	Aspecto de Montura
+71236	1	Aspecto de Montura
+71237	1	Aspecto de Montura
+71238	1	Aspecto de Montura
+71239	1	Aspecto de Montura
+71240	1	Aspecto de Montura
+71241	1	Aspecto de Montura
+71242	1	Aspecto de Montura
+71243	1	Aspecto de Montura
+71244	1	Aspecto de Montura
+71245	1	Aspecto de Montura
+71246	1	Aspecto de Montura
+71247	1	Aspecto de Montura
+71248	1	Aspecto de Montura
+71249	1	Aspecto de Montura
+71250	1	Aspecto de Montura
+71251	1	Aspecto de Montura
+71252	1	Aspecto de Montura
+71253	1	Aspecto de Montura
+71254	1	Aspecto de Montura
+71255	1	Aspecto de Montura
+71256	1	Aspecto de Montura
+71257	1	Aspecto de Montura
+71258	1	Aspecto de Montura
+71259	1	Aspecto de Montura
+71260	1	Aspecto de Montura
+71261	1	Aspecto de Montura	
+71262	1	Aspecto de Montura	
+71263	1	Aspecto de Montura
+71264	1	Aspecto de Montura
+86067	Lord Sash (custom)	
+34096	Atuendo  (M)	
+34097	Atuendo  (F)	
+45510	Cuernos  (M)	
+45511	Cuernos  (F)	
+40630	Sable 	
+40631	Espada 	
+40632	Puñal 	
+40633	Arco 	
+40634	Lanza 	
+40635	Campana 	
+40636	Fan 	
+50187	Box		Nivel 1
+50188	Box		Nivel 20
+50189	Box		Nivel 35
+50190	Box		Nivel 45
+50191	Box		Nivel 55
+30600	Patrón	
+30601	Diseño de armadura	
+30602	Tinte azul	
+30603	Tinte rojo	
+30604	Tinte gris	
+30605	Placas de oro	
+30606	Placas de plata	
+30607	Placas de cobre	
+30608	Placas de acero	
+30609	Placas de bronce	
+30610	Mitrilo	
+30611	Bandas resistentes	
+30612	Cordones sólidos	
+30613	Piedra de la dríada	Esta misteriosa piedra que emite un brillo verdoso contiene el alma de una dríada, un espíritu arbóreo. La dríada conoce las palabras secretas que permiten acceder al Érebo.
+30614	Tinte negro	
+30615	Tinte blanco	
+30616	Dióxido de titanio	El cristal prismático sirve para refinar objetos de equipamiento.
+30617	Ágata	La misteriosa gema brillante sirve para refinar objetos de equipamiento.
+30618	Adularia	Esta gema en forma de gota encierra luz de luna resplandeciente. Sirve para refinar un objeto de equipamiento.
+30619	Tinte dorado metalizado	
+30620	Cuerno rojo de dragón	Los cuernos de dragón están hechos de uno de los materiales más duros que se conocen.
+30621	Escama roja de dragón	Las escamas de dragón están entre los materiales más duros que se conocen.
+30622	Diseño armadura: casco	Este objeto es necesario para la fabricación de cascos.
+30623	Libro de la sabiduría	Enorme tomo, cuyas inscripciones parecen brillar. Sirve para refinar un objeto de equipamiento.
+30624	Alma de la sabiduría	Un alma bondadosa, cautiva para toda la eternidad en una bola de cristal. Sirve para refinar un objeto de equipamiento.
+30625	Padparadscha	Padparadscha es el nombre que reciben unos zafiros poco comunes y extremadamente valiosos. Sirve para refinar un objeto de equipamiento.
+30626	Cianita	Gema azulada extraída de las minas del Monte Sohan. Sirve para refinar un objeto de equipamiento.
+30627	Fruto de los dioses	Fruto dulce del jardín del Dios Dragón. Sirve para refinar un objeto de equipamiento.
+30628	Flor divina	Flor sagrada del jardín del Dios Dragón. Sirve para refinar un objeto de equipamiento.
+30629	Elixir de los dioses	Esta botella contiene un misterioso líquido brillante. Sirve para refinar un objeto de equipamiento.
+30630	Alas de dragón	Las alas de dragón cambiante permiten refinar un objeto de equipamiento.
+30639	Esquirla enigmática	Fabrica los diseños de la Tienda de Iutnori a partir de las esquirlas. Para abrir la Ventana de refinamiento, haz clic sobre la Mesa de Iutnori.
+30640	Diseño de Halloween (m)	Diseño para fabricar una Caja de Halloween (m)
+30641	Dis. somb. Halloween (m)	Diseño para fabricar una Sombrerera de Halloween (m)
+30642	Diseño mascota terroríf.	Diseño para fabricar una Caja de mascota terrorífica
+30643	Diseño montura terroríf.	Diseño para fabricar una Caja de montura terrorífica
+30644	Diseño de joya	Diseño para fabricar un Cofre de joyas
+30645	Diseño de mascota	Diseño para fabricar una Caja de mascotas
+30646	Diseño de estola	Diseño para fabricar una Caja de estolas
+30647	Diseño de adorno	Diseño para fabricar una Caja de adornos
+30648	Diseño de manual mascota	Diseño para fabricar una Caja de manuales mascota
+30649	Diseño dentado+	Diseño para fabricar una Caja dentada+
+30650	Diseño de cor draconis	Diseño para fabricar una Caja de cor draconis
+30651	Diseño de Gaya	Diseño para fabricar una Caja de Gaya
+30652	Caja de misterio	Diseño para fabricar una Caja de misterios
+30653	Diseño de caja de rubíes	Diseño para fabricar una Caja de rubíes
+30654	Diseño de Halloween (f)	Diseño para fabricar una Caja de Halloween (f)
+30655	Dis. somb. Halloween (f)	Diseño para fabricar una Sombrerera de Halloween (f)
+30656	Escama de Asmodeus	Material para fabricar un Escudo de condena.
+30657	Hombreras de Asmodeus	Material para fabricar un Escudo de condena.
+30658	Cuerno de Asmodeus	Material para mejorar un Escudo de condena.
+30659	Alma condenada	Material para fabricar un Escudo de condena.
+30660	Libro de los inánimes	Material para fabricar un Escudo de condena.
+30661	Corazón pétreo: Asmodeus	Material para fabricar o mejorar un Escudo de condena.
+30662	Garras del salvador	Material necesario para invocar al Fénix de la salvación.
+30663	Pluma de cola ostentosa	Material necesario para invocar al Fénix de la salvación.
+30664	Melena de Asmodeus	Material para fabricar un Escudo de condena.
+30665	Talismán del Otro Mundo	Te protege de la maldición de Asmodeus en Condena. l El talismán se obtiene como botín del Mensajero del viento. l La protección dura 20 minutos.
+30666	Escamas de titanio	Material necesario para la fabricación de un Cinturón de titanio.
+30667	Cordel resistente+	Material necesario para la mejora de un Cinturón de titanio.
+30668	Nudo resistente+	Material necesario para la mejora de un Cinturón de titanio.
+39063	Resturarmercadogaya	Usa este objeto para reiniciar el Mercado Gaya
+39064	Ampliaciongayamarket	Usa este objeto para desbloquear slots en el Mercado Gaya
+30400	GemaGaya	Usada para la fabricación de Gaya
+30401	TrozoGemaGaya	Creado a partir de la destrucción de Piedras +0 - +3 en el Mercader de Gaya. Se usa para la fabricación de Gaya.
+30402	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x1
+30403	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x5
+30404	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x10
+30405	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x15
+30406	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x25
+30407	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x50
+30408	BolsaGaya	Esta bolsa Contiene Gaya en su interior.	Gaya x100
+71138	Piruleta	Una piruleta muy dulce que te otorga bonus durante 1d y 12h
+86068	Lord Sash (custom)	
+34098	Atuendo  (M)	
+34099	Atuendo  (F)	
+45512	Cuernos  (M)	
+45513	Cuernos  (F)	
+40640	Sable 	
+40641	Espada 	
+40642	Puñal 	
+40643	Arco 	
+40644	Lanza 	
+40645	Campana 	
+40646	Fan 	
+80008	Terron Oro 	Puede ser vendido en cualquier NPC por un valor de 75k yang.
+80060	Terron Oro 	Puede ser vendido en cualquier NPC por un valor de 100k yang.
+80061	Terron Oro 	Puede ser vendido en cualquier NPC por un valor de 250k yang.
+80062	Terron Oro 	Puede ser vendido en cualquier NPC por un valor de 500k yang.
+80063	Terron Oro 	Puede ser vendido en cualquier NPC por un valor de 1kk yang.
+79505	Carta okey coleccionable	Al reunir 24 Cartas okey coleccionables obtienes automáticamente un Set de cartas okey.
+79506	Set de cartas okey	El set de cartas te permite iniciar una ronda okey y se eliminará de tu inventario automáticamente al comenzar el juego.
+79603	Cartas del rey	Reúne 25 Cartas del rey para completar una baraja.
+79604	Baraja del rey	Baraja del rey completa para una ronda de Atrapa al rey. Se consume al utilizarla.
+50928	Botín del rey de oro	Has obtenido 450 puntos o más en Atrapa al rey. Abre la recompensa y descubre qué has ganado.
+50929	Botín del rey de plata	Has obtenido entre 300 y 449 puntos en Atrapa al rey. Abre la recompensa y descubre qué has ganado.
+50930	Botín del rey de bronce	Has obtenido entre 10 y 299 puntos en Atrapa al rey. Abre la recompensa y descubre qué has ganado.
+71194	Caja okey de oro	Una caja obtenida en el Evento de Cartas Okey. Ábrelo para descubrir lo que esconde en su interior.
+71195	Caja okey de plata	Una caja obtenida en el Evento de Cartas Okey. Ábrelo para descubrir lo que esconde en su interior.
+71196	Caja okey de bronce	Una caja obtenida en el Evento de Cartas Okey. Ábrelo para descubrir lo que esconde en su interior.
+77917	Cofremisiones	Abre el cofre para recibir un pergamino de misiones de forma aleatoria.
+77918	Cofre	Este cofre de bronce contiene objetos especiales en su interior, pero no puedes verlos.	Utiliza una Llave de Bronce para abrirlo
+77919	Cofre	Este cofre de plata contiene objetos especiales en su interior, pero no puedes verlos.	Utiliza una Llave de Plata para abrirlo
+77920	Cofre	Este cofre de oro contiene objetos especiales en su interior, pero no puedes verlos.	Utiliza una Llave de Oro para abrirlo
+77921	Llave	Una llave hecha de bronce que se obteniene sólo en eventos, usada para abrir cofres misteriosos.	Úsala para Abrir un Cofre de Bronce
+77922	Llave	Una llave hecha de plata que se obteniene sólo en eventos, usada para abrir cofres misteriosos.	Úsala para Abrir un Cofre de Plata
+77923	Llave	Una llave hecha de oro que se obteniene sólo en eventos, usada para abrir cofres misteriosos.	Úsala para Abrir un Cofre de Oro
+77924	Llave	Este cofre contiene en su interior llaves para abrir los cofres misteriosos. Al abrir el cofre recibirás de forma aleatoria una de las llaves que contenga dentro.
+77925	Fragm. Luz Luna	Un cofre destrozado que no tiene uso. Junta 10 cofres para convertirlo en una Caja Luz de Luna
+50307	Mision1	Contiene una misión fácil que será recompensada tras ser completada con éxito. Pulsa el botón "F11" para abrir el panel de misiones	Nivel 30-75 recomendado.
+50308	Mision1	Contiene una misión normal que será recompensada tras ser completada con éxito. Pulsa el botón "F11" para abrir el panel de misiones	Nivel 76-99 recomendado.
+50309	Mision1	Contiene una misión difícil que será recompensada tras ser completada con éxito. Pulsa el botón "F11" para abrir el panel de misiones	Nivel 100-120 recomendado.
+50310	Mision1	Contiene una misión experta que será recompensada tras ser completada con éxito. Pulsa el botón "F11" para abrir el panel de misiones	Nivel 100-120 recomendado.
+54718	5	Este regalo de bienvenida se entrega a los jugadores nuevos cuando el evento de principiante esté activo	No comerciable
+76048	Pergamino de Skin	Haz click en el pergamino para escoger una skin de arma para ayudarte en tu desarrollo en el servidor.	No comerciable
+76049	Pergamino de Atuendo	Haz click en el pergamino para escoger un atuendo para ayudarte en tu desarrollo en el servidor.	No comerciable
+77926	Cofre de Principiante	Este cofre se otorga únicamente a los nuevos jugadores cuando el Evento de Principiante está activo. Contiene objetos especiales para desarrollar tu personaje de forma más rápida.	No comerciable
+77927	Pergamino Bonificación	Arrastra este pergamino sobre el cosmético que quieras absorber los bonus y una vez absorbido arrástralo sobre uno de la misma característica para transferirle la bonificación al completo.
+50348	Bloqueador Bonificación	Haz click derecho sobre el objeto y elige de la lista que bonus quieres que bloquee, después, arrástralo al objeto con bonificación y bloqueará ese bonus. (Una vez bloqueado el bonus éste no cambiará al aplicar cambios de bonificaciónes sobre el objeto).
+50349	Desbloqueador Bonificación	Haz click derecho sobre el objeto y elige de la lista que bonus quieres desbloquear, después, arrástralo al objeto con bonificación y desbloqueará ese bonus.
+86069	Lord Sash (custom)	
+34100	Atuendo  (M)	
+34101	Atuendo  (F)	
+45514	Cuernos  (M)	
+45515	Cuernos  (F)	
+40650	Sable 	
+40651	Espada 	
+40652	Puñal 	
+40653	Arco 	
+40654	Lanza 	
+40655	Campana 	
+40656	Fan 	
+71998	Sello de chamán	Este sello contiene el espíritu de un chamán.
+71999	Sello de chamán	Este sello contiene el espíritu de un chamán.
+7000500	Fragm.Anillo	Junta varios fragmentos para cambiarlos por un anillo de experiencia.
+7004300	Fragm.Anillo	Junta varios fragmentos para cambiarlos por un guante de ladrón.
+30098	BaulMinerales	Este baúl contiene minerales necesarios para craftear joyerías.
+30099	BaulMinerales	Este baúl contiene minerales necesarios para craftear joyerías.
+30100	BaulMinerales	Un cofre lleno de hierbas y flores útiles para creación de pociones.
+50801	Jugo Flor Melocotón	Este zumo se hace con Flor Melocotón. Te sana
+50802	Jugo Harebell	Esta poción hecha de campánulas incrementa tu fuerza en 5 puntos durante 3 minutos.
+50803	Jugo Flor Kaki	Zumo hecho de flores Kaki. Aumenta la habilidad de concentración.
+50804	Jugo Raíz Gango	Este zumo esta hecho de Raíces-Gango. Cura heridas pequeñas.
+50805	Jugo Lila	Este zumo está hecho de lilas
+50806	Resina Fungicida	Es una resina hecha con Setas-Tue
+50807	Jugo Rosa Alpina	Zumo hecho de Rosas Alpinas.
+50808	Jugo Mulberry	Este zumo está hecho de moras
+50809	Jugo Diente León	Zumo hecho de dientes de león
+50810	Jugo Thistle	Este zumo está hecho de cardos.
+50811	Resumen fecha	Este zumo está hecho de dátiles.
+50812	Jugo Planta Sam-Zi	Zumo hecho con plantas Sam-Zi
+50813	Agua sim	Una poción hecha con Jugo flor melocotón y Lilas que aumenta la probabilidad de asestar un golpe penetrante en un 10 %.
+50814	Agua dok	Una poción hecha con Jugo harebell y Lilas que aumenta la probabilidad de asestar un golpe crítico en un 10 %.
+50815	Agua Bo	Poción hecha con zumo Flor Kaki + Seta-Tue. Incrementa inteligencia
+50816	Agua Joven	Poción hecha con Raíz-Gango + Seta-tue. Aumenta destreza
+50817	Agua Zin	Una poción hecha de Agua Sim y Rosas Alpinas, que aumenta tu valor de ataque en 50 puntos durante 3 minutos.
+50818	Agua SamBO	Una poción hecha de Agua Dok y Rosas Alpinas, que aumenta tu defensa en 70 puntos durante 3 minutos.
+50819	Agua Mong	Una poción hecha de Agua Bo y Moras, que aumenta tu defensa mágica en un 10% durante 3 minutos.
+50820	Agua Hwal	Una poción hecha de Agua Joven y Moras, que aumenta tu velocidad de ataque en 3 puntos durante 3 minutos.
+50601	Piedra Diamante	Puedes utilizar el horno del gremio para extraer un Diamante de esta roca.
+50602	Piedra Ámbar	Puedes utilizar el horno del gremio para extraer una joya de Ámbar dorado de esta roca en bruto.
+50603	Tronco Fósil	Puedes utilizar el horno del gremio para extraer Madera fósil de este tronco.
+50604	Mineral Cobre	Puedes utilizar el horno del gremio para extraer Cobre de esta mena.
+50605	Mineral Plata	Puedes utilizar el horno del gremio para extraer Plata de esta mena.
+50606	Mineral Oro	Puedes utilizar el horno del gremio para extraer Oro de esta mena.
+50607	Mineral Jade	Puedes utilizar el horno del gremio para extraer Jade de esta mena.
+50608	Mineral Ébano	Puedes utilizar el horno del gremio para extraer Ébano de esta mena.
+50609	Pieza de Perla	Puedes utilizar el horno del gremio para extraer una Perla de esta pieza.
+50610	Mineral Oro Blanco	Puedes utilizar el horno del gremio para extraer Oro blanco de esta mena.
+50611	Mineral Cristal	Puedes utilizar el horno del gremio para extraer un Cristal de esta mena.
+50612	Mineral de Amatista	Puedes utilizar el horno del gremio para extraer una Amatista de esta mena.
+50613	Mineral Lágrima de Cielo	Puedes utilizar el horno del gremio para extraer una Lágrima de cielo de esta mena.
+50614	Mena de Cristal del Alma	Puedes utilizar el horno del gremio para extraer un Cristal del Alma de este mineral.
+50615	Mena de Rubí	Puedes utilizar el horno del gremio para extraer un Rubí de este mineral.
+50616	Mena de Granate	Puedes utilizar el horno del gremio para extraer un Granate de este mineral.
+50617	Mena de Esmeralda	Puedes utilizar el horno del gremio para extraer una Esmeralda de este mineral.
+50618	Mena de Zafiro	Puedes utilizar el horno del gremio para extraer un Zafiro de este mineral.
+50619	Mineral de turmalina	Puedes utilizar el horno del gremio para extraer una Turmalina de este mineral.
+50701	Flor Melocotón	Antiguamente las flores melocotón se usaban para hacer cremas faciales especiales.	Investigación
+50702	Campánula	Esta flor es muy conocida por su propiedad curativa contra el resfriado y la tos.	Investigación
+50703	Flor Kaki	El mito dice que las mujeres que la ponen alrededor de su cuello consiguen a un hijo.	Investigación
+50704	Raíz Gango	La Raíz-Gango fortalece el sistema inmune y la energía que resiste en el cuerpo	Investigación
+50705	Lila	Aumenta la concentración y las habilidades de la memoria.	Investigación
+50706	El Fungicida	Esta extraña seta se utiliza como medicina curativa y ayuda contra insomnio	Investigación
+50707	Rosa Alpina	Esta planta fortalece el sistema nervioso	Investigación
+50708	Mulberry	La mora da fuerza y reanima.	Investigación
+38014	AutoCaza	Este objeto activa el sistema de AutoCaza para que puedas dejar tu personaje subiendo de nivel sin necesidad de estar pendiente de él.	Cada vez que uses el pergamino sumará +24h al sistema de autocaza.
+38015	AutoCaza(7d)	Este objeto activa el sistema de AutoCaza para que puedas dejar tu personaje subiendo de nivel sin necesidad de estar pendiente de él.	Cada vez que uses el pergamino sumará +7 días al sistema de autocaza.
+20171	Autocaza (7d))	Este objeto activa el sistema de AutoCaza para que puedas dejar tu personaje subiendo de nivel sin necesidad de estar pendiente de él.	Cada vez que uses el pergamino sumará +7 días al sistema de autocaza.
+20172	Autocaza (14d)	Este objeto activa el sistema de AutoCaza para que puedas dejar tu personaje subiendo de nivel sin necesidad de estar pendiente de él.	Cada vez que uses el pergamino sumará +14 días al sistema de autocaza.
+20173	Autocaza (1d)	Este objeto activa el sistema de AutoCaza para que puedas dejar tu personaje subiendo de nivel sin necesidad de estar pendiente de él.	Cada vez que uses el pergamino sumará +1 día al sistema de autocaza.
+99157	Auto Hunting (1d)	Las monedas tigre se consiguen completando el Battle Pass.	Sirven para canjear por cosas de la tienda del Batte Pass
+49001	Vestimenta de aura común	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede mejorar hasta el nivel 49 y desarrollar a partir del nivel 50.
+49002	Vestim. de aura sencilla	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 99.
+49003	Vestim. de aura noble	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 149.
+49004	Vestim. aura brillante	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 199.
+49005	Vestim. de aura lujosa	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 249.
+49006	Vestim. aura reluciente	Puedes transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta.
+49990	Runas gélidas del aura	Material necesario para mejorar tu Vestimenta del aura. Acude a Theowahdan para mejorar tu Vestimenta del aura.
+49991	Runas de fuego aura: 10	Material necesario para mejorar tu Vestimenta del aura. Acude a Theowahdan para mejorar tu Vestimenta del aura.
+49992	Runas de fuego aura: 50	Material necesario para mejorar tu Vestimenta del aura. Acude a Theowahdan para mejorar tu Vestimenta del aura.
+49993	Runas de fuego aura: 100	Material necesario para mejorar tu Vestimenta del aura. Acude a Theowahdan para mejorar tu Vestimenta del aura.
+49994	Runas de fuego aura: 250	Material necesario para mejorar tu Vestimenta del aura. Acude a Theowahdan para mejorar tu Vestimenta del aura.
+49995	Runas de fuego aura: 500	Material necesario para mejorar tu Vestimenta del aura. Acude a Theowahdan para mejorar tu Vestimenta del aura.
+49011	Vestimenta de aura común	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede mejorar hasta el nivel 49 y desarrollar a partir del nivel 50.
+49012	Vestim. de aura sencilla	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 99.
+49013	Vestim. de aura noble	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 149.
+49014	Vestim. aura brillante	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 199.
+49015	Vestim. de aura lujosa	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 249.
+49016	Vestim. aura reluciente	Puedes transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta.
+49021	Vestimenta de aura común	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede mejorar hasta el nivel 49 y desarrollar a partir del nivel 50.
+49022	Vestim. de aura sencilla	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 99.
+49023	Vestim. de aura noble	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 149.
+49024	Vestim. aura brillante	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 199.
+49025	Vestim. de aura lujosa	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 249.
+49026	Vestim. aura reluciente	Puedes transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta.
+49031	Vestimenta de aura común	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede mejorar hasta el nivel 49 y desarrollar a partir del nivel 50.
+49032	Vestim. de aura sencilla	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 99.
+49033	Vestim. de aura noble	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 149.
+49034	Vestim. aura brillante	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 199.
+49035	Vestim. de aura lujosa	Es posible transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta. Puedes mejorar la Vestimenta del aura mediante Runas gélidas del aura. Se puede desarrollar a partir del nivel 249.
+49036	Vestim. aura reluciente	Puedes transferir valores de accesorios a la Vestimenta del aura con una tasa de absorción concreta.
+49980	Objeto de Potenciador	Elimina el potenciador de tu Vestimenta de aura.
+49981	Potenciador del aura (1d)	Aumenta el valor de tu índice de absorción en tu Vestimenta de aura con un 1% durante 1 día. El tiempo del aumento expira mientras está equipado.
+49982	Potenciador del aura (3d)	Aumenta el valor de tu índice de absorción en tu Vestimenta de aura con un 2% durante 3 días. El tiempo de la mejora expira durante el equipamiento.
+49983	Potenciador del aura (5d)	Aumenta el valor de tu índice de absorción en tu Vestimenta de aura con un 3% durante 5 días. El tiempo del impulso expira durante el equipamiento.
+49984	Potenciador del aura (perm.)	Aumenta el valor de tu índice de absorción en tu Vestimenta de aura con 5% de manera permanente.
+31136	Litocaos simple	Material de refinamiento
+31137	Litocaos pulido	Material de refinamiento
+31138	Litocaos lujoso	Material de refinamiento
+25050	Bendiespecial	Usa esta Bendición para mejorar la rareza de tu equipo, si falla bajará a una rareza inferior.
+25051	Bendiespecial	Usa esta Bendición para mejorar la rareza de tu equipo, si falla bajará a una rareza inferior.	Aumenta la probabilidad de mejora en un +5%
+25052	Bendiespecial	Usa esta Bendición para mejorar la rareza de tu equipo, si falla bajará a una rareza inferior.	Aumenta la probabilidad de mejora en un +10%
+25053	Bendiespecial	Usa esta Bendición para mejorar la rareza de tu equipo, si falla bajará a una rareza inferior.	Aumenta la probabilidad de mejora en un +15%
+25054	MetalEspecial	Usa este Metal Mágico de Rareza para mejorar la rareza de tu equipo, si falla no bajará a una rareza inferior.
+25055	MetalEspecial	Usa este Metal Mágico de Rareza para mejorar la rareza de tu equipo, si falla no bajará a una rareza inferior.	Aumenta la probabilidad de mejora en un +5%
+25056	MetalEspecial	Usa este Metal Mágico de Rareza para mejorar la rareza de tu equipo, si falla no bajará a una rareza inferior.	Aumenta la probabilidad de mejora en un +10%
+25057	MetalEspecial	Usa este Metal Mágico de Rareza para mejorar la rareza de tu equipo, si falla no bajará a una rareza inferior.	Aumenta la probabilidad de mejora en un +15%
+30669	Materialrareza	Objeto usado para mejorar la rareza de un arma, armadura o accesorio.
+30670	Materialrareza	Objeto usado para mejorar la rareza de un arma, armadura o accesorio.
+30671	Materialrareza	Objeto usado para mejorar la rareza de un arma, armadura o accesorio.
+50182	Baúl bendito	Un baúl bendito con un contenido especial por el mes de ramadán.
+50183	Dulces	Estos dulces tienen un efecto especial:	+2.000HP, +10% Fuerza contra Monstruos,+10% Doble drop de Objetos, +10% Bonus de Experiencia. Tiene una duración de 30 minutos.
+30315	Pan	Pan para el ayuno.
+30316	Plato de ofrenda	Un plato con un adorno muy fino.
+30317	Alimento para la ofrenda	Alimento que se ofrece durante el ayuno.
+30318	Fruto de la bendición	Un fruto muy especial. Reúne varios para obtener una recompensa.
+70005	Anillo de exp. (1 h)	Aumenta la ganancia de experiencia en un 50% durante 60 minutos.
+70043	Guantes de ladrón	Duplican la probabilidad de saquear objetos.
+39017	Vida del Dios Dragón	Incrementa tus HP máximos en un 20% durante 30 minutos.
+39018	Ataque del Dios Dragón	Incrementa tu valor de ataque en un 20% durante 30 minutos.
+39019	Intel. del Dios Dragón	Incrementa en un 20% tus SP máximos durante 30 minutos.
+39020	Defensa del Dios Dragón	Reduce en un 20% el daño recibido en combate durante 30 minutos.
+39024	Lucha Crítica	Se eleva la posibilidad de obtener un crítico golpeado en una pelea en el 20% durante 10 minutos.
+39025	Lucha Perforadora	Se eleva la posibilidad de obtener un golpe penetración en el 20% durante 10 minutos.
+34108	1	[Permanente]
+34109	1	[Permanente]
+45522	1	[Permanente]
+45523	1	[Permanente]
+40690	1	[Permanente]
+40691	1	[Permanente]
+40692	1	[Permanente]
+40693	1	[Permanente]
+40694	1	[Permanente]
+40695	1	[Permanente]
+40696	1	[Permanente]
+33030	Arqueta del zodíaco azul	Material de mejora de tu equipamiento del zodíaco.
+33031	Flor elemental	Piedra preciosa en forma de flor para mejorar tus Talismanes elementales.
+33032	Prisma del despertar (Q)	Devuelve a la vida a un compañero o a ti mismo en el Templo del Zodíaco.
+33033	Cofre dorado del zodíaco	Un cofre misterioso que puede contener armas, equipamiento o cintas del zodíaco.
+31160	Llave en espiral (ET)	Esta llave mágica activa el portal del Templo del Dragón.
+31161	Piedra de la dríada (ET)	Esta misteriosa piedra que emite un brillo verdoso contiene el alma de una dríada, un espíritu arbóreo. La dríada conoce las palabras secretas que permiten acceder al Érebo.
+31162	Madera noble (ET)	Madera noble
+31163	Rocío de En-Tai (ET)	Rocío de En-Tai
+31164	Espí. de la tierra (ET)	Espíritu de la tierra
+31165	Esmeralda arbórea (ET)	Agua bendita de la purificación
+31166	Bolsa de medicinas (ET)	Bolsa de medicinas
+31167	Engranaje dorado (ET)	Activad el mecanismo oculto en la Estela de Isfet.
+31168	Piedra de Maat (ET)	Como diosa de la justicia, Maat se encarga de poner orden en el caos.
+31169	Llave de escarcha (ET)	La llave está fría como el hielo y abre el tercer piso de la Torre de vigilancia de Nemere. Solo la pueden utilizar los Chamanes.
+31170	Estrella Polar (ET)	Piedra sello de hielo puro. Abre el sexto piso de la Torre de vigilancia de Nemere.
+31171	Llave flor escarch. (ET)	Una llave de hielo que abre el noveno piso de la Torre de vigilancia de Nemere.
+31180	Llave en espiral (IM)	Esta llave mágica activa el portal del Templo del Dragón.
+31181	Piedra de la dríada (IM)	Esta misteriosa piedra que emite un brillo verdoso contiene el alma de una dríada, un espíritu arbóreo. La dríada conoce las palabras secretas que permiten acceder al Érebo.
+31182	Madera noble (IM)	Madera noble
+31183	Rocío de En-Tai (IM)	Rocío de En-Tai
+31184	Espí. de la tierra (IM)	Espíritu de la tierra
+31185	Esmeralda arbórea (IM)	Agua bendita de la purificación
+31186	Bolsa de medicinas (IM)	Bolsa de medicinas
+31187	Engranaje dorado (IM)	Activad el mecanismo oculto en la Estela de Isfet.
+31188	Piedra de Maat (IM)	Como diosa de la justicia, Maat se encarga de poner orden en el caos.
+31189	Llave de escarcha (IM)	La llave está fría como el hielo y abre el tercer piso de la Torre de vigilancia de Nemere. Solo la pueden utilizar los Chamanes.
+31190	Estrella Polar (IM)	Piedra sello de hielo puro. Abre el sexto piso de la Torre de vigilancia de Nemere.
+31191	Llave flor escarch. (IM)	Una llave de hielo que abre el noveno piso de la Torre de vigilancia de Nemere.
+31196	IM: Boceto de espada	Diseño para fabricar una espada.
+31197	IM: Boceto de filo	Diseño para fabricar un filo.
+31198	IM: Boceto de puñal	Diseño para fabricar un puñal.
+31199	IM: Boceto de arco	Diseño para fabricar un arco.
+31200	IM: Boceto de hoja	Diseño para fabricar una hoja.
+31201	IM: Boceto de campana	Diseño para fabricar una campana.
+31202	IM: Boceto de garra	Diseño para fabricar una garra.
+31203	IM: Boceto de abanico	Diseño para fabricar un abanico.
+31204	IM: Boceto arm. Guerrero	Diseño para fabricar una armadura de Guerrero.
+31205	IM: Boceto arm. Ninja	Diseño para fabricar una armadura de Ninja.
+31206	IM: Boceto arm. Sura	Diseño para fabricar una armadura de Sura.
+31207	IM: Boceto arm. Chamán	Diseño para fabricar una armadura de Chamán.
+31208	IM: Boceto arm. Lícano	Diseño para fabricar una armadura de Lícano.
+31209	IM: Boc. casco Guerrero	Diseño para fabricar un casco de Guerrero.
+31210	IM: Boceto casco Ninja	Diseño para fabricar un casco de Ninja.
+31211	IM: Boceto casco Sura	Diseño para fabricar un casco de Sura.
+31212	IM: Boceto casco Chamán	Diseño para fabricar un casco de Chamán.
+31213	IM: Boceto casco Lícano	Diseño para fabricar un casco de Lícano.
+31216	Placa de metal en bruto	Material para fabricar y mejorar accesorios.
+31217	Cuerno de trol	Material mejorar accesorios.
+31218	Placa de hierro forjado	Material para fabricar y mejorar accesorios.
+31219	Hierba demoníaca	Una planta tóxica peligrosa. ¡Lo mejor es tocarla solo con guantes!
+31220	Mensaje	Un montón de cartas amarillentas. Están cerradas.
+31221	Núcleo anímico depurado	Este Núcleo anímico ha pasado por un proceso minucioso de depuración. Hay que manipularlo con cuidado.
+31222	Helecho águila	Un tipo de helecho de gran tamaño. Es tóxico: ¡no dejes que tu montura lo mordisquee!
+31223	Brújula epidémica	Señala el área contaminada en el mapa
+31224	Placa de acero ornado	Material mejorar accesorios.
+31225	Piedra rúnica	Material para fabricar guantes.
+31226	Núcleo corrompido	Rebosa de energía maligna.
+31227	Diente de argos	Material para fabricar accesorios de Jadita noche.
+31228	Escama de argos	Material para fabricar accesorios de Jadita humo.
+31229	Piedra alma corrompida	Rebosa de energía maligna.
+31230	Núcleo purificado	Seguro que a Chaegirab le interesa.
+31231	Cristal de Metin	Seguro que a Chaegirab le interesa.
+31232	Helecho oscuro	Seguro que a Chaegirab le interesa.
+31233	Piedra serpentina	Material para mejorar el equipamiento serpentino.
+31234	Piedra serpentina+	Material para mejorar el equipamiento serpentino.
+31235	Cabeza de dragón blanco	Material para mejorar las armas serpentinas.
+31236	Escama de dragón blanco	Material para mejorar las armas serpentinas.
+31237	Piedra alma tramontana	Material para mejorar las armas serpentinas.
+31238	Molusco brillante	Dentro de este molusco podría haber una perla brillante.
+31239	Perla blanca brillante	Espléndido tesoro que se encuentra en el interior de un molusco brillante.
+31240	Perla azul brillante	Espléndido tesoro que se encuentra en el interior de un molusco brillante.
+31241	Perla roja brillante	Espléndido tesoro que se encuentra en el interior de un molusco brillante.
+31242	Piedra arma tramontana	Material para mejorar las armas serpentinas.
+31243	Piedra arma tramontana+	Material para mejorar las armas serpentinas.
+31244	Piedra guante tramontana	Material para mejorar los guantes serpentinos.
+31245	Cuero robusto	Material para fabricar guantes.
+31246	Patrón de guantes	Material para fabricar guantes.
+31247	Runa de SungMa roja	Material para fabricar Guantes de poder.
+31248	Runa de SungMa lila	Material para fabricar Guantes ágiles.
+31249	Runa de SungMa azul	Material para fabricar Guantes blindados.
+31250	Runa de SungMa verde	Material para fabricar Guantes protectores.
+31251	Endurecedor de cuero	Material para fabricar y mejorar guantes.
+31252	Endurecedor de cuero+	Material para mejorar guantes.
+31253	Baúl de maestro gnoll	Contiene un objeto aleatorio.
+31254	Baúl de maestro ahtrin	Contiene un objeto aleatorio.
+31255	Baúl con adornos de oro	Contiene un objeto aleatorio.
+31256	Baúl laberíntico	Contiene un objeto aleatorio.
+31257	Patrón serpentino	Material para fabricar equipamiento serpentino.
+31258	Seda serpentina	Material para fabricar equipamiento serpentino.
+31259	Yunque de tramontana	Material para mejorar las armas serpentinas.
+31260		
+31261	Piedra misteriosa	Material para mejorar un Talismán misterioso.
+31262	Barniz serpentino	Material necesario para fabricar equipamiento serpentino.
+31263	Piedra afilar tramontana	Material para mejorar las armas serpentinas.
+31270	Esencia de talismán	Un poderoso material para fabricar un Talismán misterioso.
+70411	Baúl dragón tramon. (F)	Caja del tesoro arrebatada de las garras de Alastor.
+70412	Baúl dragón tramon. (D)	Una lujosa caja del tesoro arrebatada de las garras de Alastor.
+70422	Llave serpentina	Llave para desbloquear la Columna Serpentina.
+70423	Fragmento serp. fuego	Parece encajar en la Cabeza de serpiente de fuego.
+70424	Fragmento serp. hielo	Parece encajar en la Cabeza de serpiente de hielo.
+70425	Fragmento serp. viento	Parece encajar en la Cabeza de serpiente de viento.
+70426	Fragmento serp. tierra	Parece encajar en la Cabeza de serpiente de tierra.
+70427	Llave de calabozo	Parece abrir algún calabozo.
+70428	Polvo de serpiente	Añade 1 minuto al cronómetro de la mazmorra. Material para mejorar el equipamiento serpentino.
+70429	Tesoro serpentino	Tesoro rescatado de lo más profundo del Templo Serpentino.
+70430	Acceso Templo Serpentino	Ticket de ingreso a la Mazmorra del Templo Serpentino.
+70431	Acceso Dragón Blanco	Ticket de ingreso a la Mazmorra del Dragón Blanco.
+376	Espada serpentina(fabr.)	Material para fabricar una Espada serpentina para Guerreros, Ninjas o Suras. No se apila.
+396	Hoja serpentina(fabr.)	Material para fabricar una Hoja serpentina para Suras. No se apila.
+1226	Puñal serpentino(fabr.)	Material para fabricar un Puñal serpentino para Ninjas. No se apila.
+2246	Arco serpentino(fabr.)	Material para fabricar un Arco serpentino para Ninjas. No se apila.
+3266	Gran esp. serpen.(fabr.)	Material para fabricar una Gran espada serpentina para Guerreros. No se apila.
+5216	Campana serpen.(fabr.)	Material para fabricar una Campana serpentina para Chamanes. No se apila.
+7346	Abanico serpen.(fabr.)	Material para fabricar un Abanico serpentino para Chamanes. No se apila.
+21326	Manto serpentino (fabr.)	Material para fabricar un Manto serpentino para Guerreros. No se apila.
+21346	Jubón serpentino (fabr.)	Material para fabricar un Jubón serpentino para Ninjas. No se apila.
+21366	Manto serp. vil (fabr.)	Material para fabricar un Manto serpentino vil para Suras. No se apila.
+21386	Manto serp.puro (fabr.)	Material para fabricar un Manto serpentino puro para Chamanes. No se apila.
+39085	Fragmento casco div. I	Material para un Fragmento de casco divino II.
+39086	Fragmento casco luj. I	Material para un Fragmento de casco lujoso II.
+39087	Fragmento casco ref. I	Material para un Fragmento de casco refinado II.
+39088	Fragmento casco div. II	Material que el Herrero de set utiliza para imbuir un casco de un efecto de set divino.
+39089	Fragmento casco luj. II	Material que el Herrero de set utiliza para imbuir un casco de un efecto de set lujoso.
+39090	Fragmento casco ref. II	Material que el Herrero de set utiliza para imbuir un casco de un efecto de set refinado o bien para un Fragmento de casco ostentoso II.
+39091	Fragmento armad. div. I	Material para un Fragmento de armadura divino II.
+39092	Fragmento armad. luj. I	Material para un Fragmento de armadura lujoso II.
+39093	Fragmento armad. ref. I	Material para un Fragmento de armadura refinado II.
+39094	Fragmento armad. div. II	Material que el Herrero de set utiliza para imbuir una armadura de un efecto de set divino.
+39095	Fragmento armad. luj. II	Material que el Herrero de set utiliza para imbuir una armadura de un efecto de set lujoso.
+39096	Fragmento armad. ref. II	Material que el Herrero de set utiliza para imbuir una armadura de un efecto de set refinado o bien para un Fragmento de armadura ostentoso II.
+39097	Fragmento arma div. I	Material para un Fragmento de arma divino II.
+39098	Fragmento arma luj. I	Material para un Fragmento de arma lujoso II.
+39099	Fragmento arma ref. I	Material para un Fragmento de arma refinado II.
+39100	Fragmento arma div. II	Material que el Herrero de set utiliza para imbuir un arma de un efecto de set divino.
+39101	Fragmento arma luj. II	Material que el Herrero de set utiliza para imbuir un arma de un efecto de set lujoso.
+39102	Fragmento arma ref. II	Material que el Herrero de set utiliza para imbuir un arma de un efecto de set refinado o bien para un Fragmento de arma ostentoso II.
+39103	Fragmento casco ost. II	Material que el Herrero de set utiliza para imbuir un casco de un efecto de set ostentoso o bien para un Fragmento de casco majestuoso II.
+39104	Fragmento armad. ost. II	Material que el Herrero de set utiliza para imbuir una armadura de un efecto de set ostentoso o bien para un Fragmento de armadura majestuoso II.
+39105	Fragmento arma ost. II	Material que el Herrero de set utiliza para imbuir un arma de un efecto de set ostentoso o bien para un Fragmento de arma majestuoso II.
+39106	Fragmento casco maj. II	Material que el Herrero de set utiliza para imbuir un casco de un efecto de set majestuoso.
+39107	Fragmento armad. maj. II	Material que el Herrero de set utiliza para imbuir una armadura de un efecto de set majestuoso.
+39108	Fragmento arma maj. II	Material que el Herrero de set utiliza para imbuir un arma de un efecto de set majestuoso.
+39110	Patrón de set: casco	Material que el Herrero de set utiliza para imbuir un casco de un efecto de set.
+39111	Patrón de set: armadura	Material que el Herrero de set utiliza para imbuir una armadura de un efecto de set.
+39112	Patrón de set: arma	Material que el Herrero de set utiliza para imbuir un arma de un efecto de set.
+50640	Mena jadita niebla (mi.)	Mena brillante singular (objeto de misión)
+50641	Mena jadita sol	Se puede refinar a Jadita sol en los terrenos del gremio.
+50642	Mena jadita noche	Se puede refinar a Jadita noche en los terrenos del gremio.
+50643	Mena jadita humo	Se puede refinar a Jadita humo en los terrenos del gremio.
+50644	Mena jadita niebla	Se puede refinar a Jadita niebla en los terrenos del gremio.
+50661	Jadita sol	Material para fabricar accesorios de Jadita sol.
+50662	Jadita noche	Material para fabricar accesorios de Jadita noche.
+50663	Jadita humo	Material para fabricar accesorios de Jadita humo.
+50664	Jadita niebla	Material para fabricar accesorios de Jadita niebla.
+50943	Runas gélidas del aura	Material necesario para mejorar tu Vestimenta del aura.	Contenido del Paquete (x2000)
+50938	Runas de fuego aura: 10	Material necesario para mejorar tu Vestimenta del aura.	Contenido del Paquete (x2000)
+50939	Runas de fuego aura: 50	Material necesario para mejorar tu Vestimenta del aura.	Contenido del Paquete (x2000)
+50940	Runas de fuego aura: 100	Material necesario para mejorar tu Vestimenta del aura.	Contenido del Paquete (x2000)
+50941	Runas de fuego aura: 250	Material necesario para mejorar tu Vestimenta del aura.	Contenido del Paquete (x2000)
+50942	Runas de fuego aura: 500	Material necesario para mejorar tu Vestimenta del aura.	Contenido del Paquete (x2000)
+50733	Flamínea	Una planta alterada por el poder de Sung Mahi. | Se necesita para hacer Elixir de llamas.
+50734	Hielácea	Una planta alterada por el poder de Sung Mahi. | Se necesita para hacer Elixir de escarcha.
+50735	Truesgo	Una planta alterada por el poder de Sung Mahi. | Se necesita para hacer Elixir de truenos.
+50736	Tramulenta	Una planta alterada por el poder de Sung Mahi. | Se necesita para hacer Elixir de tramontana.
+50737	Terrarza	Una planta alterada por el poder de Sung Mahi. | Se necesita para hacer Elixir de tierra.
+50738	Ospino	Una planta alterada por el poder de Sung Mahi. | Se necesita para hacer Elixir de oscuridad.
+50739	Elixir de fuerza vacío	Un frasco vacío necesario para hacer Elixir de fuerza.
+50740	Elixir de resist. vacío	Un frasco vacío necesario para hacer Elixir de resistencia.
+50741	Hierba dorada	Una planta especialmente valiosa que se utiliza para fabricar elixires muy potentes.
+83032	Baúl de ninfa acuática	Un baúl del reino de los espíritus acuáticos. Ábrelo con una Llave de ninfa acuática.
+83051	Baúl: talismán perfecto	Este baúl bien cerrado contiene un talismán. Para abrirlo se necesita una llave perfecta.
+83052	Baúl: collar perfecto	Este baúl bien cerrado contiene un collar. Para abrirlo se necesita una llave perfecta.
+83053	Baúl: pendiente perfecto	Este baúl bien cerrado contiene un par de pendientes. Para abrirlo se necesita una llave perfecta.
+83054	Llave perfecta	Una exquisita llave hecha a partir de un cristal mágico. Se necesita para abrir un baúl perfecto.
+70446	Cofre: arqueta roja	Material de mejora de tus armas del zodíaco.	Contenido del Paquete (x100)
+70447	Cofre: arqueta azul	Material de mejora de tus armas del zodíaco.	Contenido del Paquete (x100)
+33029	Arqueta del zodíaco roja	Material de mejora de tus armas del zodíaco.
+33030	Arqueta del zodíaco azul	Material de mejora de tu equipamiento del zodíaco.
+80064	Almeja mágica	Esta ostra contiene perlas de colores.	¡Cuidado puede salir rota!
+50821	Rocío rojo	Se eleva la posibilidad de obtener un crítico golpeado en una pelea en el 20% durante 10 minutos.
+50822	Rocío naranja	Se eleva la posibilidad de obtener un golpe penetración en el 20% durante 10 minutos.
+50823	Rocío amarillo	Incrementa tu velocidad de ataque +8% durante 30 minutos.
+50824	Rocío verde	Incrementa tu resistencia a magia en un 10% durante 30 minutos.
+50825	Rocío azul	Incrementa tu valor de ataque en un +120 durante 30 minutos.
+50826	Rocío blanco	Incrementa tus defensa en un +200 durante 30 minutos.
+79051	Lucha Crítica	Se eleva la posibilidad de obtener un crítico golpeado en una pelea en el 20%.	[Permanente]
+79052	Lucha Perforadora	Se eleva la posibilidad de obtener un golpe penetración en el 20%.	[Permanente]
+79053	Vida del Dios Dragón	Incrementa tus HP máximos en un 20%.	[Permanente]
+79054	Ataque del Dios Dragón	Incrementa tu valor de ataque en un 20%.	[Permanente]
+79055	Intel. del Dios Dragón	Incrementa en un 20% tus SP máximos.	[Permanente]
+79056	Defensa del Dios Dragón	Reduce en un 15% el daño recibido en combate.	[Permanente]
+79057	Rocío rojo	Se eleva la posibilidad de obtener un crítico golpeado en una pelea en el 20%.	[Permanente]
+79058	Rocío naranja	Se eleva la posibilidad de obtener un golpe penetración en el 20%.	[Permanente]
+79059	Rocío amarillo	Incrementa tu velocidad de ataque +8%.	[Permanente]
+79060	Rocío verde	Incrementa tu resistencia a magia en un 10%.	[Permanente]
+79061	Rocío azul	Incrementa tu valor de ataque en un +120.	[Permanente]
+79062	Rocío blanco	Incrementa tus defensa en un +200.	[Permanente]
+71003	Pergamino del Chamán	Puedes reiniciar una habilidad de tu Buffi, ya aprendida para redistribuir los puntos de nuevo.	[Chamán de apoyo]
+98609	Encantamiento plus(10%)	Elimina las bonificaciones de uno de tus objetos y añade otras nuevas. Puede seleccionar cada bonificación manualmente y, a continuación, decidir si desea aceptar las bonificaciones mostradas. Solo se aplica a 5 o más bonificaciones.	[Si el encantamiento falla, perderás tu objeto.]
+98610	Encantamiento plus(20%)	Elimina las bonificaciones de uno de tus objetos y añade otras nuevas. Puede seleccionar cada bonificación manualmente y, a continuación, decidir si desea aceptar las bonificaciones mostradas. Solo se aplica a 5 o más bonificaciones.	[Si el encantamiento falla, perderás tu objeto.]
+98611	Encantamiento plus(40%)	Elimina las bonificaciones de uno de tus objetos y añade otras nuevas. Puede seleccionar cada bonificación manualmente y, a continuación, decidir si desea aceptar las bonificaciones mostradas. Solo se aplica a 5 o más bonificaciones.	[Si el encantamiento falla, perderás tu objeto.]
+98612	Encantamiento plus(70%)	Elimina las bonificaciones de uno de tus objetos y añade otras nuevas. Puede seleccionar cada bonificación manualmente y, a continuación, decidir si desea aceptar las bonificaciones mostradas. Solo se aplica a 5 o más bonificaciones.	[Si el encantamiento falla, perderás tu objeto.]
+98613	Encantamiento plus(100%)	Elimina las bonificaciones de uno de tus objetos y añade otras nuevas. Puede seleccionar cada bonificación manualmente y, a continuación, decidir si desea aceptar las bonificaciones mostradas. Solo se aplica a 5 o más bonificaciones.	[El encantamiento siempre tendrá éxito.]
+95500	PergaminoEnc	Material necesario para crear un Encantamiento Plus.	[Este item equivale por unidad a 2.000.000.000 de Yang.]
+94355	Baúl del Joker	Este bául contiene el "Set de Skins completo del Joker". El cual puedes visualizarlos en los NPC de tu pueblo.	Contenido del Paquete (Set Joker Completo)
+96335	Bául serpentino	Bául rescatado de lo más profundo del Templo Serpentino.
+30284	Poción de SungMa	Si el valor de vuestra voluntad de SungMa es demasiado bajo, os desplazaréis más despacio (RES), os costará más acabar con monstruos (STR), se os restarán HP (VIT) y sufriréis efectos de estado negativo más fácilmente (INT). Cuanto mayor sea vuestra voluntad de SungMa, mejores serán vuestras capacidades para enfrentaros a los monstruos y más rápido os moveréis.	[ Usa esta poción para mejorar temproralmente tu voluntad.]

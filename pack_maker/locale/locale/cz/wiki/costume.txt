@@ -1,0 +1,67 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/skins.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Skins & Costumes Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Content List:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Basics
+[X_PADDING=5;FONT_SIZE=14]* 2. Reinforcements
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Basics
+
+[CENTER_ALIGN;FONT_SIZE=14]In the world of Ava2 you can get cosmetics both in game and in the item shop.
+[CENTER_ALIGN;FONT_SIZE=14]The difference lies only in the duration of the cosmetics. The 15-day cosmetics
+[CENTER_ALIGN;FONT_SIZE=14]can be found on sale for Red Gems at an NPC in the city.
+
+[CENTER_ALIGN;FONT_SIZE=14]Special bonuses can be added to all Ava2 Skins, Costumes and hairstyles, 
+[CENTER_ALIGN;FONT_SIZE=14]both permanent and temporary. All of them have 3 Slots in which you can add 
+[CENTER_ALIGN;FONT_SIZE=14]a Reinforcements.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/costume.tga; Y=350; CENTER_ALIGN]
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=650; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Reinforcements
+
+[CENTER_ALIGN;FONT_SIZE=14]A large number of bonuses are available to customize skins and outfits to 
+[CENTER_ALIGN;FONT_SIZE=14]your liking. All of them can be obtained from chests that you will find by 
+[CENTER_ALIGN;FONT_SIZE=14]killing bosses. The higher the level of the boss, the higher the probability of 
+[CENTER_ALIGN;FONT_SIZE=14]obtaining better quality reinforcements.
+
+[CENTER_ALIGN;FONT_SIZE=14]In essence there are 3 kinds of Reinforcements, those of weapon skin, hairstyles 
+[CENTER_ALIGN;FONT_SIZE=14]and costumes, and there are 3 grades for each of them: Red Reinforcements give 
+[CENTER_ALIGN;FONT_SIZE=14]a high Bonus, Green Reinforcements give a medium bonus and blue Reinforcements 
+[CENTER_ALIGN;FONT_SIZE=14]give a small bonus.
+
+[CENTER_ALIGN;FONT_SIZE=14]You can also get Red Reinforcements in the item shop.

@@ -1,0 +1,194 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/pets_wall.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Pet Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Index:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Introduction
+[X_PADDING=5;FONT_SIZE=14]* 2. Normal Pets
+[X_PADDING=5;FONT_SIZE=14]* 3. Leveable Pets
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introduction
+
+[CENTER_ALIGN;FONT_SIZE=14]In all games, it is a well-known fact that there is nothing 
+[CENTER_ALIGN;FONT_SIZE=14]better than a pet to accompany our hero on his adventure. And if
+[CENTER_ALIGN;FONT_SIZE=14]this companion grants you powerful bonuses, it will be 
+[CENTER_ALIGN;FONT_SIZE=14]becomes a very valuable asset for the player
+
+[CENTER_ALIGN;FONT_SIZE=14]There are 2 types of pet in Ava2. Simple pets that 
+[CENTER_ALIGN;FONT_SIZE=14]give a fixed MVP bonus to the player and have a 
+[CENTER_ALIGN;FONT_SIZE=14]duration and Evolutionary pets, which level up and 
+[CENTER_ALIGN;FONT_SIZE=14]can be upgraded to increase their PVM bonuses. attributes.
+[CENTER_ALIGN;FONT_SIZE=14] 
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Normal Pets
+
+[CENTER_ALIGN;FONT_SIZE=14]Simple pets have the characteristic that they do not level up 
+[CENTER_ALIGN;FONT_SIZE=14]level and have fixed PVM bonuses. The Phoenix that 
+[CENTER_ALIGN;FONT_SIZE=14]given to you at the start of a quest in Ava2 is a good example
+[CENTER_ALIGN;FONT_SIZE=14]of this type of pet. These pets can have a duration of 
+[CENTER_ALIGN;FONT_SIZE=14]limited duration or they can be permanent. You can find more of them at
+[CENTER_ALIGN;FONT_SIZE=14]the Item Shop of Ava2.
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Leveable Pets
+
+[CENTER_ALIGN;FONT_SIZE=14]These types of pets are special and can end up being very 
+[CENTER_ALIGN;FONT_SIZE=14]powerful if you evolve them and train them with books of 
+[CENTER_ALIGN;FONT_SIZE=14]pet skill books and elixirs. A good example of this kind of 
+[CENTER_ALIGN;FONT_SIZE=14]pet is the monkey you get when you start playing Ava2. 
+[CENTER_ALIGN;FONT_SIZE=14]These pets always come inside an egg and you must name 
+[CENTER_ALIGN;FONT_SIZE=14]them to the get them.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/inicial.tga; Y=770; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/1a.tga; Y=1290; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/2a.tga; Y=1430; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/3a.tga; Y=1680; CENTER_ALIGN]
+[IMG=d:/ymir work/ui/game/wiki/emoji/4a.tga; Y=2018; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Lifetime.
+
+[CENTER_ALIGN;FONT_SIZE=14]Pets start with an initial duration of 30 days at birth. 
+[CENTER_ALIGN;FONT_SIZE=14]In order to extend this duration you must obtain the Protein
+[CENTER_ALIGN;FONT_SIZE=14]Complement which can be found by defeating dungeon bosses or ItemShop.
+[CENTER_ALIGN;FONT_SIZE=14]Each Protein Complement increases the pet's lifetime by 7 days.
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Evolve your Pet
+
+[CENTER_ALIGN;FONT_SIZE=14]Upon reaching specific levels the pet will require a certain amount of 
+[CENTER_ALIGN;FONT_SIZE=14]some items in order to level up further. These levels are 
+[CENTER_ALIGN;FONT_SIZE=14]40, 75 and 100. The items it will require in order to pass these
+[CENTER_ALIGN;FONT_SIZE=14]leves are:
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/evo_items.tga; Y=1570; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Passive Bonus
+
+[CENTER_ALIGN;FONT_SIZE=14]These bonuses start at 0%, but you can increase them by giving
+[CENTER_ALIGN;FONT_SIZE=14]elixirs to your pet. There is one type of elixir for each bonus 
+[CENTER_ALIGN;FONT_SIZE=14]and it will be distinguished by colour. Then within each bonus 
+[CENTER_ALIGN;FONT_SIZE=14]there are 4 levels of elixirs which each serve to raise 5 LV of the bonus. 
+[CENTER_ALIGN;FONT_SIZE=14]The Elixirs (S) will be used to raise the bonus from lv 1 to lv 5, to keep 
+[CENTER_ALIGN;FONT_SIZE=14]the bonus from lv 1 to lv 5. to continue raising the bonus you will need to 
+[CENTER_ALIGN;FONT_SIZE=14]use Elixirs (M), (L) and finally Elixirs (XL) until you reach max level 20.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/elixirs.tga; Y=1870; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E51313]Pet Skills
+
+[CENTER_ALIGN;FONT_SIZE=14]There are 29 different Books of Abilities to customise your pet.
+[CENTER_ALIGN;FONT_SIZE=14]In order for your pet to learn these abilities you must first unlock the 
+[CENTER_ALIGN;FONT_SIZE=14]skill slots. At pet level 120, all of them have a minimum of 3 skills
+[CENTER_ALIGN;FONT_SIZE=14]slots unlocked and depending on the pet you have, you will be able to
+[CENTER_ALIGN;FONT_SIZE=14]unlock up to a maximum of 15 slots. For this you need the object 
+[CENTER_ALIGN;FONT_SIZE=14]Unlock Slot item which you can get from dungeon boss chests or from 
+[CENTER_ALIGN;FONT_SIZE=14]Item Shop.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/books.tga; Y=2210; CENTER_ALIGN]
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=14]To max a pet skill you must use 21 books of that skill.
+[CENTER_ALIGN;FONT_SIZE=14]Books of pet skills can be found by defeating 
+[CENTER_ALIGN;FONT_SIZE=14]dungeon bosses to obtain the Pet Manuals chest or ItemShop.
+
+
+

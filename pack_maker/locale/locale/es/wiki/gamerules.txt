@@ -1,0 +1,83 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/rules.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Reglas del Juego
+
+
+
+[FONT_SIZE=16;COLOR=58ADFF]1. Venta/Compra/Intento
+[FONT_SIZE=14]1. No está permitido vender o comprar y/o intercambiar items virtuales por dinero real
+[FONT_SIZE=14]    ($, £, €, Paysafe, PayPal, Bitcoins etc.), items en otros servidores/juegos.
+[FONT_SIZE=14]2. Tampoco está permitido vender una cuenta por yang/dinero real.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]2. Lenguaje ofensivo y comportamiento tóxico
+[FONT_SIZE=14]1. Se prohíbe el lenguaje ofensivo, la difusión de mentiras, el odio, el racismo
+[FONT_SIZE=14]    o el abuso verbal y serán castigados - según el caso.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]3. Información privada de la vida real
+[FONT_SIZE=14]1. Difamar o filtrar información privada/de la vida real de los miembros del equipo
+[FONT_SIZE=14]    o jugadores está estrictamente prohibido.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]4. Bugs y elusión del sistema
+[FONT_SIZE=14]1. Un bug encontrado debe ser reportado inmediatamente miembro del Equipo de Ava2.
+[FONT_SIZE=14]    Cualquier tipo de uso/abuso de bugs que afecte al flujo del juego será castigado.
+[FONT_SIZE=14]    Cualquier tipo de elusión de un sistema para obtener una ventaja será castigado.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]5. Aplicaciones de terceros
+[FONT_SIZE=14]1. Las Aplicaciones de Terceros (Hacks, Bots, Softwares Ilegales) son programas o 
+[FONT_SIZE=14]    archivos que no son parte de nuestro servidor.
+[FONT_SIZE=14]    Tomar ventaja o usar tales cosas será castigado. Todos los jugadores deben jugar limpio
+[FONT_SIZE=14]2. Las macros pueden ser usadas siempre y cuando no se obtenga ventaja sobre los jugadores 
+[FONT_SIZE=14]    que estén activamente sentados frente al ordenador.
+[FONT_SIZE=14]    Nos reservamos el derecho de castigar a las personas que usen macros de una manera 
+[FONT_SIZE=14]    que no podemos tolerar.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]6. Publicidad de terceros
+[FONT_SIZE=14]1. La publicidad de otros servidores no está permitida de ninguna manera y será castigada.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]7. Seguridad de la cuenta
+[FONT_SIZE=14]1. Cada uno debe ser responsable de sus cuentas y objetos del juego.
+[FONT_SIZE=14]    Por ello, los miembros del equipo no pueden garantizar la ayuda de ningún tipo si 
+[FONT_SIZE=14]    un usuario pierde algo porque confió en su compañero/amigo.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]8. Reportar a un jugador
+[FONT_SIZE=14]1. Si quieres denunciar a un usuario con la ayuda de una captura de pantalla o un vídeo, 
+[FONT_SIZE=14]    el nombre del servidor tiene que ser visible todo el tiempo.
+[FONT_SIZE=14]    De lo contrario no podremos utilizarlo como prueba.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]9. Instrucción del Equipo de Ava2
+[FONT_SIZE=14]1. Hay que seguir las instrucciones de los miembros del personal. Desobedecer a un miembro 
+[FONT_SIZE=14]    del personal puede ser castigado.
+[FONT_SIZE=14]    Además, cada Miembro del Staff y cada jugador deben ser tratados con respeto.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]10. Compañeros de promoción
+[FONT_SIZE=14]1. stá prohibido influir deliberadamente en el livestream de un Compañero de Promoción de 
+[FONT_SIZE=14]    forma negativa y evitar que el streamer promocione activamente el servidor.
+[FONT_SIZE=14]2. Esta regla no son significa que los promotores tienen completa libertad y total protección.
+[FONT_SIZE=14]3. Esta regla sólo se aplica si se puede demostrar claramente que el jugador sigue al streamer 
+[FONT_SIZE=14]    en su stream y le impide promocionar activamente.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]11. Nombres de usuario inapropiados
+[FONT_SIZE=14]1. Nombres inapropiados de nicks, nombres de monturas y mascotas, nombres de tiendas y 
+[FONT_SIZE=14]    nombres de gremios no están permitidos.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]12. Uso de Vpn/proxy
+[FONT_SIZE=14]1. El uso de un vpn/proxy para obtener una ventaja sobre otros jugadores no está permitido.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]13. Reserva de cambios
+[FONT_SIZE=14]1. El equipo se reserva el derecho de cambiar o ampliar las reglas sin anunciarlo públicamente.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]14. Multi-Farm Block
+[FONT_SIZE=14]1. No se permite el uso de máquinas virtuales o segundos PC's para saltarse el Multi-farm.

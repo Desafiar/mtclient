@@ -1,0 +1,278 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/Bonus67.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Guia bonus 6-7
+
+
+[X_PADDING=15;FONT_SIZE=25]                                  Equipamiento
+
+
+
+
+[X_PADDING=15;FONT_SIZE=25]Bonus
+
+
+
+[X_PADDING=15;FONT_SIZE=15]* 500 MAX HP
+
+[X_PADDING=15;FONT_SIZE=15]* 250 MAX SP
+
+[X_PADDING=15;FONT_SIZE=15]* 5 VIT
+
+[X_PADDING=15;FONT_SIZE=15]* 5 INT
+
+[X_PADDING=15;FONT_SIZE=15]* 5 STR
+
+[X_PADDING=15;FONT_SIZE=15]* 5 DEX
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Golpes Criticos
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Golpes Penetrantes
+
+[X_PADDING=15;FONT_SIZE=15]* 50 Valor de Ataque
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Fuerza vs Monstruos
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Daño vs jugadores
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Vel. de ataque
+
+[X_PADDING=15;FONT_SIZE=15]* 8% Vel. de Movimiento
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Envenenamiento
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Fuerza vs Animales
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Fuerza vs Orcos
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Fuerza vs Esotéricos
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Fuerza vs No Muerto
+
+[X_PADDING=15;FONT_SIZE=15]* 5% Fuerza vs Demonio
+
+[X_PADDING=15;FONT_SIZE=15]* 8% Regeneracion HP
+
+[X_PADDING=15;FONT_SIZE=15]* 8% Regeneracion SP
+
+[X_PADDING=15;FONT_SIZE=15]* 8% Bonus Experiencia
+
+[X_PADDING=15;FONT_SIZE=15]* 8% Bonus Doble Yang
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/00270.tga; Y=120; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/11680.tga; Y=120; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/12380.tga; Y=120; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/13040.tga; Y=120; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/14200.tga; Y=120; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/15080.tga; Y=120; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/16180.tga; Y=120; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/17160.tga; Y=120; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/19080.tga; Y=120; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=210; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=210; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=210; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=210; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=210; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=210; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=210; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=210; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=210; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=238; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=238; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=238; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=238; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=238; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=238; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=238; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=238; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=238; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=265; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=265; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=265; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=265; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=265; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=265; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=265; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=265; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=265; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=293; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=293; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=293; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=293; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=293; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=293; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=293; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=293; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=293; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=320; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=320; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=320; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=320; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=320; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=320; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=320; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=320; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=320; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=347; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=347; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=347; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=347; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=347; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=347; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=347; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=347; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=347; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=374; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=374; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=374; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=374; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=374; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=374; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=374; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=374; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=374; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=404; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=404; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=404; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=404; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=404; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=404; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=404; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=404; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=404; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=431; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=431; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=431; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=431; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=431; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=431; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=431; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=431; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=431; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=458; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=458; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=458; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=458; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=458; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=458; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=458; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=458; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=458; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=485; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=485; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=485; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=485; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=485; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=485; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=485; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=485; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=485; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=511; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=511; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=511; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=511; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=511; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=511; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=511; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=511; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=511; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=538; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=538; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=538; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=538; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=538; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=538; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=538; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=538; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=538; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=564; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=564; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=564; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=592; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=592; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=592; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=620; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=620; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=620; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=647; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=647; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=647; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=673; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=673; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=673; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=701; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=701; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=701; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=727; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=727; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=727; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=727; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=727; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=727; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=727; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=727; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=727; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=754; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=754; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=754; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=754; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=754; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=754; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=754; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=754; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=754; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=781; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=781; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=781; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=781; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=781; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=781; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=781; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=781; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=781; X=420]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=808; X=180]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=808; X=210]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=808; X=240]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=808; X=270]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=808; X=300]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=808; X=330]
+[IMG=d:/ymir work/ui/game/wiki/emoji/visto.tga; Y=808; X=360]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=808; X=390]
+[IMG=d:/ymir work/ui/game/wiki/emoji/cancel.tga; Y=808; X=420]

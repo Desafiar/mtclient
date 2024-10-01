@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/drops.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Guía de Drop Básico
+
+[COLOR=0xffd700;FONT_SIZE=18]Contenido:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Info Drop Común
+[X_PADDING=5;FONT_SIZE=14]* 2. Características del Drop
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Info Drop Comun
+
+[CENTER_ALIGN;FONT_SIZE=14]En el mundo de Ava2 existen una gran cantidad de piezas de equipamiento que 
+[CENTER_ALIGN;FONT_SIZE=14]te irán soltando los mobs a medida que vayas adentrándote en nuestro mundo.
+[CENTER_ALIGN;FONT_SIZE=14]Estos objetos serán las armas, armaduras y accesorios que necesitarás para 
+[CENTER_ALIGN;FONT_SIZE=14]mejorar tu personaje. 
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/drop1.tga; Y=310; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=440; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Características del Drop
+
+[X_PADDING=15;FONT_SIZE=14]* Los items que te caerán serán siempre del nivel aproximado de tu personaje
+[X_PADDING=15;FONT_SIZE=14]* Para que un mob te dropee no tiene que ser 10 Lv inferior o superior a ti
+[X_PADDING=15;FONT_SIZE=14]* Cualquier mob puede dropear cualquier objeto siguiendo la regla anterior.
+[X_PADDING=15;FONT_SIZE=14]* El drop obtenido de este sistema serán las piezas de equipamiento de 
+[X_PADDING=15;FONT_SIZE=14] nivel 1 hasta nivel 65.
+[X_PADDING=15;FONT_SIZE=14]* Las piezas de equipamiento de nivel superior a 65 se consiguen únicamente 
+[X_PADDING=15;FONT_SIZE=14] de Jefes.
+

@@ -1,0 +1,124 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/bio_wall.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Índice:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. General
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Misiones y Recompensas
+[COLOR=0x63FFB2;FONT_SIZE=14]*3. Cambiador de Recompensa
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. General
+[Y_PADDING=10;X_PADDING = 55;FONT_SIZE=13]*Encontrarás el panel del biologo en el minimapa o pulsando F7.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*Los objetos del biologo los puedes comprar en la tienda del panel.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*Las Gemas finales de cada mision se encuentran en la misma tienda.
+[IMG=d:/ymir work/ui/game/wiki/emoji/btn_biolog_normal.png; Y=140; X=13]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.1 Objetos especiales del Biologo
+[Y_PADDING=10;X_PADDING = 75;FONT_SIZE=13]*Hay dos objetos especiales que te ayudaran a acelerar tus misiones:
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]*Elixir del Investigador que aumenta la calidad del item al entregarlo.
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]*Elixir del biologo que elimina el tiempo de cooldown entre entregas.
+[ITEM=71035; IS_LINK=1; Y=209; X=5]
+[ITEM=30250; IS_LINK=1; Y=209; X=35]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.2 Información Básica
+[Y_PADDING=10;X_PADDING = 75;FONT_SIZE=13]*Las misiones empiezan a nivel 30 y todas dan Bonus Permanentes de 
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]recompensa al terminarlas. No debes olvidarte de entregar la gema 
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]al final de cada misión para completarla.
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=320; CENTER_ALIGN]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]2. Misiones y Recompensas
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]*Debes acabar una misión para poder empezar la siguiente.
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mision de nivel. 30 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: 10x Diente de Orco
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 10 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa: Defensa +30
+[ITEM=300000; IS_LINK=1; Y=402; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 40 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x15 Libro Maldición
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 10 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa: Valor de Ataque +40
+[ITEM=300001; IS_LINK=1; Y=470; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 50 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x15 Recuerdo del Demonio
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 15 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa: Fuerza vs Monstruos: +5%
+[ITEM=300002; IS_LINK=1; Y=535; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 60 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x20 Bola de Hielo
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 15 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): 4% Fuerza vs Jefes | 4% Fuerza vs Metins
+[ITEM=300003; IS_LINK=1; Y=601; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 70 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x25 Ramas de Zelkova
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 30 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): 6% Fuerza vs Jefes | 6% Fuerza vs Metins
+[ITEM=300004; IS_LINK=1; Y=673; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 80 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x30 Paneles Tugyi
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas:	30 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa: +1000HP or 10% Cooldown
+[ITEM=300005; IS_LINK=1; Y=733; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 85 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x40 Rama de Arbol Rojo
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 45 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa: Resistencia Vs Medio humanos +10%
+[ITEM=300006; IS_LINK=1; Y=801; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 90 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x50 Notas de Lider
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 60 Minutos
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa: Fuerza Vs Medio Humanos +10%
+[ITEM=300007; IS_LINK=1; Y=862; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 92 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x10 Joya de la Envidia
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 2 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): Max. HP +1200 | +120 Defensa | +50 Valor de Ataque
+[ITEM=300008; IS_LINK=1; Y=933; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 94 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x20 Joya de la Sabiduria
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 2 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): Max. HP +1500 | +140 Defensa | +60 Valor de Ataque
+[ITEM=300009; IS_LINK=1; Y=998; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 98 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x35 Plumas de Fénix
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 3 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): Fuerza vs Monstruos +10% | Resistencia vs Medio Humanos +10%
+[ITEM=300010; IS_LINK=1; Y=1063; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 100 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x35 Monóculos Rojos
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 3 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): Fuerza vs Metines +10% | Daño Mágico +10%
+[ITEM=300011; IS_LINK=1; Y=1128; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Mision de nivel. 105 
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x35 Recetas Antiguas
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Tiempo entre entregas: 3 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Recompensa (a elegir uno): Fuerza vs Jefes +10% | Fuerza vs Medio Humanos +10%
+[ITEM=300012; IS_LINK=1; Y=1193; X=10]
+
+
+
+
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]3. Cambiador de Recompensas
+[Y_PADDING=10;X_PADDING = 55;FONT_SIZE=13]*Puedes cambiar la recompensa de una mision con el item Hombre Sabio.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*Debes seleccionar cual de las misiones deseas resetear al usarlo.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*Solo puedes resetear la recompensa de una mision cada vez con el item.
+[ITEM=70028; IS_LINK=1; Y=1258; X=250]
+
+

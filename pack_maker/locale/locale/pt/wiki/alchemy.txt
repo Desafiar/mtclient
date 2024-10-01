@@ -1,0 +1,261 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/alchemy.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Índice:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. Geral
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Obtenção de Pedras de Dragão
+[COLOR=0x63FFB2;FONT_SIZE=14]*3. Bónus
+[COLOR=0x63FFB2;FONT_SIZE=14]*4. Refinamento
+[COLOR=0x63FFB2;FONT_SIZE=14]*5. Duração e Extracção
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. Geral
+[CENTER_ALIGN; FONT_SIZE=13]O sistema Dragonstone Alchemy é um sistema concebido para jogadores de alto nível.
+[CENTER_ALIGN; FONT_SIZE=13]o objectivo de reforçar o seu carácter numa determinada direcção.
+
+
+[CENTER_ALIGN; COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.1 Formas de acesso ao painel de alquimia
+[CENTER_ALIGN; FONT_SIZE=13]*Pressionar a letra " O " no teclado
+[CENTER_ALIGN; FONT_SIZE=13]*Pressionar o botão verde do inventário
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/dss_boton.tga; Y=290; CENTER_ALIGN]
+
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]2 Obtenção de Pedras de Dragão
+[CENTER_ALIGN; FONT_SIZE=13]A partir do Nível 1, qualquer personagem pode fazer uso do Sistema de Alquimia de Pedra de Arrasto.
+[CENTER_ALIGN; FONT_SIZE=13]Isto exigirá a recolha de 10x Fragmento de Dragonstone que se tornará automaticamente 
+[CENTER_ALIGN; FONT_SIZE=13]Cor Draconis (em bruto)
+
+
+[ITEM=30270; IS_LINK=1; Y=420; X=220]
+[ITEM=50252; IS_LINK=1; Y=420; X=280]
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=470; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]3. Bónus
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]Os bónus apresentados correspondem aos bónus máximos.
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Diam. Dragão Mítico
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Inteligência +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência Gelo +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Danos de Habilidade +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Dano Mágico +60
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Regeneração SP +30%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Monstros +15%
+[ITEM=115400; IS_LINK=1; Y=590; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Rubi Dragão Mítico
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Força +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência ao fogo +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa contra Guerreiros +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Guerreiros +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Experiência +25%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa +150
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Valor de Ataque +180
+[ITEM=125400; IS_LINK=1; Y=710; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Jade Dragão Mítico
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Max SP +1500
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência ao Vento +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa contra Suras +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Suras +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa contra Danos de Habilidade +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa Magia +30
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Danos absorvidos pela HP +12%
+[ITEM=135400; IS_LINK=1; Y=840; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Safira Dragão Mítico
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*DEX +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência Terra +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa contra Chamanes +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Chamanes +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Max. HP +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Regeneração HP +30%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Metins +12%
+[ITEM=145400; IS_LINK=1; Y=970; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Granate Dragão Mítico
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Max. HP +3000
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência ao relâmpago +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defesa contra Ninjas +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Ninjas +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência contra Danos Médios +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Max. SP +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Força contra Chefes +12%
+[ITEM=155400; IS_LINK=1; Y=1100; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Onice Dragão Mítico
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Vitalidade +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência à escuridão +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Prob. bloqueio de ataques +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência contra golpe crítico +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistência contra golpes penetrantes +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Danos Médios +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Probabilidade de evitar Setas +15%
+[ITEM=165400; IS_LINK=1; Y=1230; X=10]
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=1320; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]4. Refinamento
+[CENTER_ALIGN; FONT_SIZE=13]As pedras do dragão têm 3 aspectos diferentes que podem ser actualizados:
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Classe
+[CENTER_ALIGN; FONT_SIZE=13]Áspero, Raro, Raro, Antigo, Lendário e Mítico.
+[CENTER_ALIGN; FONT_SIZE=13]Quanto maior for a classe, mais bónus terá a pedra.
+[CENTER_ALIGN; FONT_SIZE=13]As pedras de arrastão só são comercializáveis nas classes Antigas, Lendárias e Míticas.
+
+[CENTER_ALIGN; FONT_SIZE=13]Para refinar a classe de uma pedra, é necessária mais uma pedra do mesmo tipo.
+[CENTER_ALIGN; FONT_SIZE=13]À medida que a classe aumenta, tornam-se disponíveis bónus adicionais.
+[CENTER_ALIGN; FONT_SIZE=13]e bónus adicionais que podem variar entre 3-5 aleatoriamente. 
+[IMG=d:/ymir work/ui/game/wiki/emoji/class.tga; Y=1560; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Grau de pureza
+[CENTER_ALIGN; FONT_SIZE=13]Mate, Claro, Limpo, Brilhante, Brilhante, Excelente
+[CENTER_ALIGN; FONT_SIZE=13]Quanto maior for o grau de pureza, maior será o bónus da pedra.
+[CENTER_ALIGN; FONT_SIZE=13]Para refinar a pureza (Matt * Claro * Limpo * Brilhante * Brilhante * Excelente)
+[CENTER_ALIGN; FONT_SIZE=13]pedras dragônicas com a mesma pureza, cor e classe devem estar disponíveis. 
+[CENTER_ALIGN; FONT_SIZE=13]À medida que a pureza aumenta, o efeito dos bónus que a pedra possui aumenta.
+[CENTER_ALIGN; FONT_SIZE=13]Se o processo falhar, recebe uma única pedra de arrastamento com o mesmo grau de pureza.
+[IMG=d:/ymir work/ui/game/wiki/emoji/clarity.tga; Y=1940; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Nivel de +0 a +6
+[CENTER_ALIGN; FONT_SIZE=13]Quanto maior for o nível, maiores serão os bónus da pedra.
+[CENTER_ALIGN; FONT_SIZE=13]O nível só pode ser visto na descrição do item.
+
+[CENTER_ALIGN; FONT_SIZE=13]Para este tipo de refinamento, é necessário um item adicional chamado Alubia.
+[ITEM=100300; IS_LINK=1; Y=2320; X=200]
+[ITEM=100400; IS_LINK=1; Y=2320; X=250]
+[ITEM=100500; IS_LINK=1; Y=2320; X=300]
+[CENTER_ALIGN; FONT_SIZE=13]Coloque o feijão e uma pedra de dragão nos espaços correspondentes e clique em "Refinar".
+[CENTER_ALIGN; FONT_SIZE=13]O refinamento pode falhar, caso em que o nível da pedra pode ser reduzido ou permanecer inalterado.
+[IMG=d:/ymir work/ui/game/wiki/emoji/alchemy_level.tga; Y=2380; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]5. Duração e Extracção
+[CENTER_ALIGN; FONT_SIZE=13]Quando a vida de uma pedra de dragão se extingue, ela NÃO desaparece.
+[CENTER_ALIGN; FONT_SIZE=13]mas é incapacitado e os bónus que possui deixam de ter qualquer efeito.
+
+[CENTER_ALIGN; FONT_SIZE=13]O processo para aumentar o tempo de vida das pedras baseia-se na "extracção" do tempo de 
+[CENTER_ALIGN; FONT_SIZE=13]vida de uma dragonstone sem interesse e "transferência" desse tempo para a dragonstone.
+[CENTER_ALIGN; FONT_SIZE=13]que DO querem ser melhorados. Para tal, serão necessários os seguintes itens: 
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Pinça do Tempo
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*(A encontrar na loja do Alquimista)
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Ao arrastar o Pincer sobre uma Dragonstone, a Dragonstone desaparece e receberá em troca
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]   um dos seguintes elixires do tempo:
+[ITEM=100200; IS_LINK=1; Y=2830; X=10]
+[ITEM=100000; IS_LINK=1; Y=2880; X=200]
+[ITEM=100001; IS_LINK=1; Y=2880; X=250]
+[ITEM=100002; IS_LINK=1; Y=2880; X=300]
+
+
+
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Pinça Dragão
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*(A encontrar na loja do Alquimista)
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Arraste esta pinça sobre uma alquimia equipada para fazer o processo de extracção
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]   é 100% seguro e não deixa de o remover.
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Cuidado! Se extrair uma Dragonstone sem uma pinça, pode falhar.
+[ITEM=100100; IS_LINK=1; Y=2960; X=10]

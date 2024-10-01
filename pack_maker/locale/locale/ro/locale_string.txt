@@ -1,0 +1,1408 @@
+1	Duelul s-a terminat pentru ca adversarul a fost deconectat.
+2	Nu exista nicio limita in potiuni.
+3	Se pot utiliza minim %din potiuni.
+4	Duelul va incepe in 10 secunde.
+5	Duelul a inceput.
+6	Duelul se incheie din cauza problemelor din arena duelului.
+7	Duelul s-a terminat din cauza timpului de asteptare.
+8	In 10 secunde vei fi teleportat in oras.
+9	Duelul se opreste, din cauza timpului de asteptare.
+10	Exista probleme in duel. duelul s-a terminat
+11	Duelul se incheie pentru probleme cu duelistii.
+12	%s a castigat duelul.
+13	%s a castigat.
+14	In 10 secunde vei fi teleportat in oras.
+15	In 10 secunde incepe runda urmatoare.
+16	Duelul s-a terminat. jucatorul s-a deconectat.
+17	Nu poate fi intrerupt. batalia a inceput.
+18	Au mai ramas 5 minute pentru a ataca monstri!
+19	Exista un minut pentru a-i ataca pe monstri!
+20	Monstrii au inceput sa atace castelul
+21	Energia maligna se acumuleaza pe altarul central
+22	Monstrii prezinta semne de retragere
+23	Monstrii au inceput sa se retraga
+24	Ma voi intoarce in sat dupa un timp
+25	A aparut capitanul monstrilor
+26	Invinge ghost spirit master in 30 de minute
+27	Ai invins pe gwimokyeongju si pe toti oamenii lui
+28	Demon sinor s-a retras
+29	Monstrii se indreapta spre castelul% s
+30	Vom ataca castelul in 10 minute
+31	Exista %s pentru a apara farurile.
+32	%s a reusit sa se apere
+33	De acum inainte, aveti 30 de minute %s. obtineti distrugerea farului
+34	Au trecut 30 de minute. beaconii au disparut.
+35	O lumina aprinsa in %s pentru a anunta o lupta.
+36	%s a distrus farul.
+37	%s ai pierdut razboiul, pentru ca nu ti-ai aparat castelul.
+38	%s in toate balizele distruse.
+39	Anulati finalizat.
+40	Va rugam sa va echipati cu o sapa.
+41	Acesta nu este un loc de pescuit
+42	Va rugam sa alegeti o undita de pescuit.
+43	Mai intai setati momeala in carlig.
+44	Nu poti pescui fara o undita de pescuit!
+45	Nu poti face un grup, deoarece jucatorul nu este online.
+46	Serverul nu poate prelucra sarcina grupului.
+47	Nu poti face un grup cu jucatori dintr-un alt regat.
+48	Nu poti invita intr-o temnita.
+49	Nu poti invita daca sunteti in modul spectator.
+50	Poti invita doar jucatori cu niveluri -30 sau +30 decat al vostru.
+51	Nu poti invita acest jucator, nivelul sau este prea scazut.
+52	Nu poti invita acest jucator, nivelul sau este prea mare.
+53	Poti invita orice grup de jucatori
+54	Doriti sa va alaturati grupului de %s?
+55	Jucatorul nu este in grup.
+56	Grupul este complet
+57	Nu poti invita pe nimeni
+58	%s respinge invitatia catre grup.
+59	%s este deja in grup.
+60	Nu poti accepta nicio invitatie intr-o temnita.
+61	Nu poti accepta invitatia.
+62	Invitatia dvs. a fost refuzata
+63	%s s-a alaturat grupului tau.
+64	%s s-a alaturat grupului.
+65	Ai introdus o parola incorecta.
+66	Depozitul este deja deschis.
+67	Trebuie sa astepti 10 secunde pentru a deschide din nou depozitul.
+68	Esti prea departe pentru a arbrir depozitul.
+69	Nu poti teleporta jucatorul.
+70	Jucatorul nu este online.
+71	Jucatorul este pe canalul %d. (canalul dvs. actual este: %d).
+72	Dupa deschiderea depozitului, trebuie sa astepti %d secunde pentru a calatori.
+73	Dupa comert nu poti merge intr-un alt loc pentru o vreme ...
+74	Nu poti merge intr-un alt loc dupa %d secunde dupa efectuarea unei actiuni.
+75	Nu poti folosi pergamentul imediat dupa comert, asteapta putin mai mult.
+76	Fereastra guillotine este deja deschisa
+77	Inainte de a putea inchide fereastra de absorbtie a frunzelor.
+78	Inainte de a putea inchide fereastra de recoltare guillotine.
+79	Nu poti adauga elemente blocate.
+80	Nu poti adauga elemente legate.
+81	Poti combina doar frunze de acelasi grad.
+82	Aceasta banda are deja probabilitatea maxima de absorbtie.
+83	Poti absorbi doar bonusuri de armura si arme.
+84	Nu ai suficient yang.
+85	Noua rata de absorbtie:% d%.
+86	Succes
+87	A esuat
+88	Vot_coins_while_playing
+89	Nu poti face acest lucru cat mai exista o fereastra deschisa!
+90	Poti efectua aceasta operatie dupa %d secunde
+91	Nu poti face acest lucru in timp ce faceti o cerere de inchidere a sesiunii! cererea dvs. de plecare a fost anulata.
+92	Ai nevoie de %d yang pentru a deschide magazinul.
+93	Nu poti deschide un magazin intr-o temnita!
+94	Aveti deja un magazin deschis
+95	Nu va poti decora magazinul fara sa activezi pachetul Kashmir
+96	Chat-ul mp a fost blocat de un GM. Luati legatura cu un administrator.
+97	Interdictia dvs. de chat a fost eliminata.
+98	Nu ai pierdut experienta pentru binecuvantarea zeului dragon.
+99	Nu ati pierdut niciun obiect din cauza binecuvantarii zeului dragon.
+100	In timpul unui razboi de breasci obtineti puncte de experienta.
+101	Daune suplimentare de penetrare: %d
+102	Bloc %s! (%d %%)
+103	%e evaziv! (%d %%)
+104	%s [ %d] atacat de la: %d %d
+105	Rocadragón piept nu este activat
+106	Nu poti calari un cal in timp ce esti jos
+107	Nu poti calari un cal daca esti transformat
+108	Nu poti calari aici.
+109	Nu poti calari daca porti un costum de nunta sau subtire.
+110	Nu ai cal.
+111	Calul tau este mort.
+112	Rezistenta calului este prea mica.
+113	Apelul de cai a esuat.
+114	%s cal
+115	Imbunatatirea armelor poate fi utilizata doar la brate la nivelul 20.
+116	Aceasta imbunatatire nu este posibila.
+117	Acest articol nu poate fi imbunatatit.
+118	Nu aveti suficient yang pentru a imbunatati acest obiect.
+119	Nu aveti suficient material pentru fabricatie.
+120	Aceasta binecuvantare a imbunatatirii nu este de a face imbunatatiri.
+121	Nu poate fi imbunatatit in acest sens.
+122	Acest articol nu poate fi actualizat.
+123	Poate fi rasplatit pentru munca in torre del demon odata.
+124	Acest articol nu poate fi imbunatatit in acest fel.
+125	Nu te poti alatura acest lucru.
+126	Poti combina „binecuvantarea” si „metalul mitic”
+127	Nu exista piatra de eliminat.
+128	Aceasta locatie nu poate fi salvata.
+129	Nu exista suficient spatiu in inventarul dvs.
+130	Nivelul dvs. este prea scazut pentru a utiliza acest obiect.
+131	Nu poti teleporta intr -un punct sigur intr -un imperiu strain.
+132	Nu aveti suficient hp.
+133	Nu ai suficient sp.
+134	Nu poti utiliza acest obiect intr -un duel.
+135	Nu poti face foc aici.
+136	Nu poti face foc in apa.
+137	Ai deja Kashmirul activat.
+138	Ai activat pachetul decorativ. Poti decora magazinul pe timp de 30 de zile! %d
+139	Trebuie sa te opresti putin. incercati din nou acest proces in cateva secunde.
+140	Animalul dvs. de companie a ramas fara zile de utilizare, hrana %s pentru a-l putea invoca din nou.
+141	zilele de utilizare a animalului dvs. de companie sunt la maximum. nu-l mai poti extinde
+142	Animalul dvs. de companie a crescut timpul de utilizare in %din zile.
+143	Nu poti face acest lucru fara sa va invocati animalul de companie!
+144	Nu va poti imbunatati bonusurile cu aceasta potiune!
+145	Nivelul animalului dvs. de companie este insuficient pentru a face acest lucru. nivelul necesar: %d.
+146	Nu exista spatii goale!
+147	Animalul dvs. de companie a invatat abilitatea %!
+148	Abilitatea %s este la nivel maxim.
+149	Abilitatea %s a fost crescuta cu succes!
+150	Abilitatea %s a fost eliminata corect.
+151	Ati marit cheltuielile pentru animalul dvs. de companie cu 50%!
+152	Animalul dvs. de companie a atins nivelul maxim!
+153	Animalul dvs. de companie nu are nicio abilitate invatata.
+154	Toate abilitatile animalului dvs. de companie au fost resetate!
+155	Blocat. trebuie sa gasiti cheia.
+156	Acest articol nu poate fi deschis cu o cheie.
+157	Aceasta este cheia potrivita.
+158	Ai primit %d yang.
+159	O lumina misterioasa iese din cutie.
+160	Ati primit %d experienta.
+161	In piept era un monstru!
+162	Daca fumul din cutia rosie este inhalat, viteza creste!
+163	Cutia exploateaza brusc! tp-ul dvs. a scazut.
+164	Daca inhalezi fumul cutiei verzi, otrava este distribuita de corpul tau!
+165	Aveti %s si %d piese.
+166	Exista %s in cutie.
+167	Aceasta cheie nu pare sa se potriveasca.
+168	Inca nu poti exclude aurul.
+169	Pentru a deschide acest baul, trebuie sa ajungeti la nivelul 30 si sa aveti misiunea alchimiei!
+170	Nu ai primit nimic.
+171	Nu ai primit nimic.
+172	Ti-ai redus nivelul de abilitati.
+173	Nu va poti reduce nivelul de abilitati.
+174	Nu poti citi carti in timp ce transformati.
+175	Efectul actioneaza.
+176	Acest lucru poate fi utilizat doar intr-un coffeshop.
+178	Nu poate fi utilizat in campul duelului.
+179	Purtati un tort de luna.
+180	%d au fost adaugate la bijuterie.
+181	Nu poti creste durata acestei bijuterii.
+182	Obiect blocat
+183	Obiect blocat cu succes
+184	Obiect deblocat cu succes.
+185	Nu poti purta inelul casatorit aici.
+186	Nu poti purta o verigheta, daca nu esti casatorit.
+187	Detectorul de evenimente nu functioneaza de aici.
+188	Detectorul de evenimente a aparut cu o lumina misterioasa.
+189	Detectorul de evenimente a disparut.
+190	Detector activat, dar nu a fost detectata nicio piatra spirituala.
+191	In scoica era o bucata de piatra
+192	Clama era goala.
+193	Ati primit o perla alba.
+194	Ati primit o perla albastra.
+195	Ati primit o perla rosie.
+196	Nu poti schimba starea, daca sunteti transformat.
+197	Aceasta carte este greu de inteles.
+198	Aceasta carte nu va va ajuta.
+199	Nivelul 30 este necesar, pentru a intelege asta.
+200	Nivelul 50 este necesar, pentru a intelege asta.
+201	Nu poti antrena mai multe combos.
+202	Intelegeti deja limbajul fluent.
+203	Aceasta abilitate este prea mare!
+204	Trebuie sa va mariti nivelul pentru a intelege aceasta carte.
+205	Nu te poti antrena cu aceasta carte.
+206	Nu aveti nivelul potrivit, pentru a invata antrenamentul pentru a se asambla.
+207	Ai scapat din blestemul spiritului rau cu ajutorul unui exorcism pergament.
+208	Nu poti citi mai multe carti de calarie.
+209	Obtineti puncte de calarie dupa ce aveti instructiuni de calarie.
+210	Va poti imbunatati nivelul de montare obtinand mai multe puncte.
+211	Nu a inteles instructiunile lui equitaon.
+212	Mintea ta este clara. acum va poti concentra bine.
+213	Gama dvs. a crescut %d.
+214	Inca nu o poti folosi din nou.
+215	Timpul de testare al serverului de testare a fost depasit
+216	Bunul si raul nu mai pot fi ridicate.
+217	Nu exista niciun spirit de obtinut
+218	Nu poti vopsi coafura actuala.
+219	Trebuie sa aveti nivelul %d pentru a va putea vopsi parul.
+220	Acest obiect nu poate deschide decat sexul opus.
+221	Monarhul si-a folosit binecuvantarea: %s de hp si sp va fi restaurat.
+222	Binecuvantarea imparatului este activa.
+223	Nu poti schimba bonusul in acest obiect.
+224	Bonusul a fost schimbat.
+225	Eroare
+226	Nu poti schimba bonusul in acest obiect.
+227	Ati adaugat un bonus special obiectului.
+228	Nu mai poti adauga mai mult bonus la acest obiect.
+229	Nu poti schimba bonusul in acest obiect.
+230	Obiectul nu are un plus de bonus.
+231	Nu poti profita de pozitia actuala.
+232	Nu poti folosi piesa de pornire, deoarece este gata de miscare
+233	Veti fi teleportat inapoi la locatia initiala.
+234	%s%s nu poate fi utilizat intr-o temnita.
+235	Pietrele spirituale +3 nu pot fi imbunatatite cu acest obiect.
+236	Pietrele spirituale nu pot fi actualizate cu acest obiect.
+237	Nu poti schimba bonusul intr -un obiect blocat.
+238	A fost adaugat cu succes.
+239	Acest obiect are deja tot bonusul 1-5, nu poti adauga mai multe.
+240	Obiectul nu are niciun bonus de schimbat.
+241	Ati schimbat bonusul cu succes.
+242	Nu poti face acest lucru pentru ca obiectul este blocat
+243	Nu poti face acest lucru pana cand obiectul nu se va dezlantui.
+244	Nu exista piatra de curatat.
+245	Trebuie sa astepti %din minute pentru a o face din nou. (%d minute ramase)
+246	Este mai mare decat nivelul aplicatiei si nu poate fi utilizat.
+247	Poate fi folosit doar in arme si armuri.
+248	Imbunatatirea a fost adaugata corect.
+249	Nu a putut fi adaugat.
+250	Nu se pot adauga mai multe socluri.
+251	Acest articol nu poate fi adaugat.
+252	Echipat cu succes.
+253	Nu putea fi echipat.
+254	Trebuie sa utilizati un diamant pentru a crea o priza.
+255	Nu exista priza pentru a -l echipa.
+256	Pentru a adauga o priza, trebuie sa folositi un diamant.
+257	Nu poti adauga mai rafinat.
+258	Acest obiect nu poate fi echipat.
+259	Nu poti schimba momeala in timp ce pescuiesti.
+260	Schimbati momeala curenta pentru: %s.
+261	Ati plasat: %s in carlig.
+262	Acest obiect este legat
+263	Acest obiect este in proces de decuplare
+264	Acest obiect nu poate fi legat
+265	Obiectul a fost legat cu succes!
+266	Acest obiect nu este legat
+267	Ati dezlantuit cu succes obiectul. procesul dureaza 3 zile.
+268	Materialul lipseste pentru amestecul de potiune.
+269	Nu aveti suficiente materiale de (%s).
+270	Nu aveti suficiente sticle goale.
+271	Elaborarea potiunii nu a functionat.
+272	Nu poti adauga mai multe pietre de acelasi tip.
+273	Aceasta piatra nu poate fi introdusa intr-o armura.
+274	Nu poti introduce aceasta piatra intr-o arma.
+275	Nu exista o versiune gratuita.
+276	Ai adaugat stone reusit!
+277	Piatra s-a rupt cand incearcai sa o insertezi.
+278	Nu poti retrage obiectul dopadorului, inventarul dvs. este complet.
+279	Nu poti utiliza acest obiect, deoarece nu indepliniti cerintele.
+280	Nu poti folosi acest element, deoarece sexul dvs. nu se potriveste.
+281	Poti utiliza panoul de luna la fiecare 5 secunde.
+282	In batalia regatelor, nu poti folosi defilarea de intoarcere.
+283	Trebuie sa astepti %d secunde pentru a utiliza pergamentul dupa deschiderea unui magazin.
+284	Nu poti folosi pergamentul avand o fereastra deschisa.
+285	In procente de secunde de la actualizarea articolului, nu poti utiliza unitatea de retur sau unitatea de memorie de recuperare.
+286	Trebuie sa astepti %d secunde pentru a utiliza pergamentul daca ati tranzactionat recent.
+287	Nu poti utiliza defilarea de intoarcere, deoarece distanta este prea mica.
+288	Trebuie sa astepti %d secunde pentru a utiliza o defilare de retur.
+289	Nu poti deschide niciun comert in timp ce aveti o alta fereastra deschisa.
+290	Nu poti utiliza acest obiect daca efectuati misiuni.
+291	Nu poti arunca obiectul pentru ca este legat
+292	Nu poti arunca bijuteria.
+293	Nu poti renunta la obiectul sigiliu.
+294	Nu poti renunta la acest obiect.
+295	Articolul va disparea in 5 secunde.
+296	Elementele cazute vor disparea dupa %din minute.
+297	Eroare 3 contactati un administrator.
+298	Nu poti muta obiectul activ in switchbot.
+299	Acest obiect nu poate fi adaugat la Switchbot.
+300	Nu ai suficient spatiu pentru a va scoate costumul.
+301	Ai deja o bijuterie de acest tip echipata.
+302	Eroare 2
+303	Nu poti lua acest obiect daca faceti misiuni.
+304	Ai primit: %s.
+305	Ai primit: %s.
+306	Inventarul este plin.
+307	Obiect primit: %s, %s
+308	Trimite obiect: %s, %s
+309	Nu poti purta haine in timp ce calaresti pe un cal.
+310	Nu poti schimba obiectul echipat, in timp ce acesta este transformat.
+311	Folositi deja o montare.
+312	Trebuie sa fiti inca sa folositi o montare.
+313	Nu poti echipa pielea armelor.
+314	Nu poti lua acest obiect daca faceti misiuni
+315	Nu poti imbunatati un obiect legat.
+316	Nu-ti poti hrani calul cu ierburi daca esti in viata.
+317	Nu poti hrani un cal mort.
+318	Ai hranit calul cu ierburi.
+319	Ai hranit calul.
+320	Nivelul tau este prea scazut pentru a transporta aceasta coafura.
+321	Folositi deja aceasta coafura.
+322	Nu te poti transforma aici.
+323	Te-ai transformat deja.
+324	Nu poate fi transformat.
+325	Acest obiect este gresit.
+326	Nu te poti transforma in ceva care are mai mult nivel decat tine.
+327	Nivelul tau este prea scazut pentru a-l echipa.
+328	Nu esti suficient de puternic pentru a te echipa.
+329	Integrarea dvs. este prea mica pentru a o echipa.
+330	Mobilitatea dvs. este prea mica pentru a o echipa.
+331	Vitalitatea ta este prea mica pentru a o echipa.
+332	Nu poti echipa acest articol de doua ori.
+333	Nu poti utiliza acest articol daca nu sunteti casatorit.
+334	Trebuie sa dezasamblati mai intai.
+335	Nu poti antrena aceasta abilitate.
+336	Ati scapat din blestemul spiritului malign cu ajutorul unui exorcism pergament.
+337	Aceasta abilitate nu poate fi instruita.
+338	Esti deja profesor in aceasta abilitate. nu te mai poti antrena.
+339	Abilitatea ta nu este suficient de mare pentru formarea unui mare stapan.
+340	Oh, asta nu a functionat, la naiba!
+341	Esec de citire. va rugam sa incercati din nou mai tarziu.
+342	Corpul meu si-a recuperat puterea, pot citi din nou carti!
+343	S-a intamplat ceva.
+344	V-ati finalizat cu succes pregatirea cu cartea.
+345	Nu poti citi din cauza lipsei de experienta.
+346	Nu te poti antrena mai mult cu aceasta carte.
+347	Aceasta abilitate nu este suficient de ridicata pentru a se antrena cu o carte.
+348	V-ati finalizat cu succes pregatirea cu cartea.
+349	Ati invatat deja o parte din aceasta abilitate, dar inca va lipseste mai mult.
+350	Acest lucru este foarte greu de invatat.
+351	Trebuie sa muncesti din greu pentru a invata acest lucru.
+352	Ati citit cartea %d cu succes.
+353	Nu poti schimba statutul, daca este transformat.
+354	Caderea teleportarii.
+355	Nu exista un cal disponibil. va rugam sa intrebati baiatul stabil.
+356	Va rugam sa folositi obiectul pentru a apela calul.
+357	%s fp-consum %d
+358	Ard inauntru, dar corpul meu se calmeaza putin ... chi -ul meu creste.
+359	un pic lent ... dar fara pauza ... fara sa te opresti!
+360	Daca asta se simte bine. corpul meu este plin de chi.
+361	Am citit-o acum. chi s-a raspandit in corpul meu.
+362	Pregatirea a fost finalizata.
+363	Sunt pe ultima pagina a cartii. formatia este aproape completa.
+364	Este aproape ... doar putin mai mult!
+365	Sunt iluminat! aproape ca am propulsat citind-o.
+366	Exista doar cateva pagini.
+367	Ma simt reinnoit.
+368	Acum inteleg!
+369	Ei bine, trebuie sa pastrez concentrarea!
+370	Am citit aceeasi linie din nou si din nou. trebuie sa ma odihnesc.
+371	Nu pot continua sa invat.
+372	Este mai complicat si mai dificil sa intelegi ce am crezut.
+373	Nu pot invata asa.
+374	%s a capturat pavilionul %s!
+375	%s union %s a capturat steagul.
+376	Va rugam sa introduceti intreaga comanda.
+377	Nu poti face acest lucru in timp ce esti incarcat pe cal.
+378	Nu poti face asta daca cazi.
+379	In visele mele?
+380	Ridica-te la inceput.
+381	Te lupti pentru viata ta. ramai concentrat.
+382	Aceasta comanda nu exista.
+383	Nu poate fi utilizat in campul duelului.
+384	Nu poti folosi nicio emotie daca porti un cal.
+385	Poti face asta doar cu o masca de emotii.
+386	Doar femeile o pot folosi.
+387	Aceasta persoana nu exista.
+388	Nu poti folosi emotii in timp ce utilizati o montare.
+389	Esti prea aproape.
+390	Esti prea departe.
+391	Aceasta actiune se poate face doar cu un sex diferit.
+392	Pentru aceasta actiune, este necesar consimtamantul celuilalt jucator.
+393	Nu poti comanda inventarul daca aveti ferestre deschise.
+394	Poti sa va comandati inventarul la %02d secunde.
+395	Aveti un inventar complet, acesta nu poate fi comandat.
+396	Ai nevoie de %d chei.
+397	Nu poti efectua aceasta actiune, deoarece sunteti deja montat pe o montare.
+398	Pentru a incarca pe cal, trebuie sa -l numiti mai intai
+399	Ti-ai intors calul la grajd.
+400	Trebuie sa cobori de pe cal
+401	Nu poti hrani calul in timp ce sunteti montat.
+402	Ai dat %s calului.
+403	Este incer %s.
+404	Restul de secunde pentru a pleca: %d
+405	Jocul se va inchide dupa %din secunde.
+406	Secunde restante: %d
+407	Inchiderea sesiunii a fost anulata.
+408	In proces de deconectare, asteapta.
+409	Jocul se va inchide. te rog asteapta...
+410	Schimbati personajul. te rog asteapta.
+411	Vino putin mai mult si coborati.
+412	Nu poti calari acolo.
+413	Vino putin mai mult si calareste.
+414	Nu este posibil
+415	Nu este posibil sa reinvie in oras. (secta d. sect)
+416	Ati pierdut ocazia de a reinvia. du-te inapoi in oras.
+417	Nu poti folosi acest lucru daca sunteti transformat
+418	Eroare!
+419	Jucatorul este intr-un duel.
+420	Acest lucru nu apartine breslei.
+421	Nu sunteti autorizat sa schimbati nivelul abilitatilor de breasla.
+422	Nu poti parasi niciun grup intr-o temnita.
+423	Ati fost eliminat din grup.
+424	Breasla ta participa deja la un alt razboi.
+425	Nu poti face un razboi de breasla.
+426	Aceasta breasla nu exista.
+427	Aceasta breasla este deja in razboi.
+428	Nu aveti suficient yang pentru a va alatura unui razboi de breasla.
+429	Breasla nu are suficient yang pentru a se alatura unui razboi de breasla.
+430	Aceasta breasla este in razboi.
+431	Breasla este deja rezervata pentru un alt guerrra.
+432	Breasla este deja intr-un razboi.
+433	Nivelul breslei este prea scazut pentru a participa la un razboi.
+434	Cel putin %dintre jucatori trebuie sa participe la un razboi de breasla.
+435	Breasla nu are suficiente puncte de clasificare pentru a participa la un razboi
+436	Breasla nu are suficienti membri pentru a participa la un razboi.
+437	Liderul breslei este deconectat!
+438	%s a declinat invitatia.
+439	Nu poate fi descarcat din cauza inventarului complet.
+440	Nu aveti suficienta putere mentala pentru a vedea echipa altor oameni.
+441	Invitatia nu poate fi acceptata de cand sunteti in grup.
+442	Aceasta functie poate fi folosita doar de imparat.
+443	Eroare de traducere: 443 %d sec.
+444	Nu sunt destui bani in trezorerie. curent: %sau cantitate: %u
+445	Comanda: warpto <nume personaj>
+446	Nu poti merge la un jucator dintr-un alt regat.
+447	Jucatorul %d a fost adaugat la canal. (canal de cadou %d)
+448	Nu se poate muta in acea zona ".
+449	Jucator de deformare %s.
+450	Sua: trasnferencia <nume>
+451	Jucatorii altor regate nu pot fi recrutati.
+452	Jucatorul %s este localizat pe canalul %s. (canalul tau: %d)
+453	Nu poti chema acea zona.
+454	Ati recrutat la %s.
+455	Nu exista niciun jucator cu acest nume.
+456	Nu te poti recruta.
+457	Date monarh
+458	[ %smonarch]: %s yang curent %lld
+459	[ %smonarch]: %s
+460	Informatii imparatului
+461	Poti utiliza doar imparatul.
+462	Alegeti o valoare numerica intre: 1-50.
+463	Impozitul este stabilit la % d %.
+464	Aceasta functie este disponibila numai pe teritoriul propriu.
+465	Acest monstru nu poate fi numit, introduce id -ul mafiei.
+466	Eroare de traducere: 466
+467	Puncte de atac +%d
+468	Mana +%d puncte
+469	Rezistenta +%d
+470	Inteligenta +%d
+471	Forta +%d
+472	Miscare +%d
+473	Viteza de atac +%d
+474	Viteza de miscare %d
+475	Reutilizare -%d
+476	PV +%d recuperare
+477	SP +%d recuperare
+478	Caseling %d
+479	Stun +%d
+480	Reducerea vitezei +%d
+481	Probia atacuri critice%d %%
+482	Reduce probabilitatea critica a adversarului in %d %%
+483	Probabilitate penetrare a erorilor%d %%
+484	Probabilitatea atacului penetrant al adversarului este redusa cu %d %%
+485	Forta impotriva monstrului +%d %%
+486	Forta impotriva monstrului +%d %%
+487	Forta impotriva wonggui +%d %%
+488	Forta impotriva lui milgyo +%d %%
+489	Forta impotriva zombie +%d %%
+490	Rezistenta impotriva raului +%d %%
+491	Hp%d %% absorbtie in timpul atacului.
+492	Hp%d %% absorbtie in timpul atacului.
+493	Probabilitatea de%d %% va fi preluata de la inamic.
+494	Absorbiti cu o probaiitate de%d %% din maná.
+495	%d %% posibilitatea de a bloca un atac
+496	Probabilitatea de a bloca un atac la distanta%d %%
+497	Apararea sabiei%d %%
+498	2-aparare la mana%d %%
+499	2-aparare la mana%d %%
+500	Apararea campana%d %%
+501	Rezistenta sageata%d %%
+502	Fernangriff-latime%d %%
+503	Rezistenta la foc%d %%
+504	Rezistenta la energie electrica%d %%
+505	Rezistenta magica%d %%
+506	Rezistenta la vant%d %%
+507	Rezistenta la gheata %d %%
+508	Rezistenta la pamant %d %%
+509	Rezistenta la intuneric %d %%
+510	Reflecta atacul direct:%d %%
+511	Reflecta:%d %%
+512	Rezistenta la otrava%d %%
+513	Recuperare manna prin uciderea inamicilor%d %%
+514	Cresterea experientei daca castigati adversarul%d %%
+515	Cresterea yang daca castigi adversarul%d %%
+516	Cresterea dubla scadere daca castigati adversarul%d %%
+517	Cresterea penetrarii daca castigati adversarul%d %%
+518	Cresterea regenerarii hp daca castigi adversarul%d %%
+519	Imun a brugon%d %%
+520	Imun la intarziere%d %%
+521	Imun la caderi%d %%
+522	Valoarea atacului + %d
+523	Aparare + %d
+524	Atac magic + %d
+525	Aparare magica + %d
+526	Rezistenta maxima+ %d
+527	Forta impotriva razboinicilor +%d %%
+528	Forta impotriva ninja +%d %%
+529	Forta impotriva sura +%d %%
+530	Forta impotriva samanului +%d %%
+531	Forta impotriva monstrilor +%d %%
+532	Atac +%d %%
+533	Aparare +%d %%
+534	Cu experienta %%
+535	Probabilitatea scaderii obiectelor %. 1f
+536	yang %probabilitatea scaderii. 1f
+537	Hp maxim +%d %%
+538	Hp maxim 2 +%d %%
+539	Daune de indemanare%d %%
+540	Jumatate%daune d %%
+541	Rezistenta impotriva daunelor de indemanare%d %%
+542	Mediu%dame daune d %%
+543	Rezistenta impotriva atacurilor razboinice%d %%
+544	Rezistenta impotriva atacurilor ninjas%d %%
+545	Rezistenta impotriva atacurilor suuras%d %%
+546	Rezistenta impotriva atacurilor samanilor%d %%
+547	Expirare: %d j- %d m - %d t
+548	Trebuie sa invocati animalul de companie.
+549	Nu poti evolua animalul de companie chiar acum
+550	Obiect necesar:
+551	%s lanseaza zarurile si lanseaza %d. (%d-%d)
+552	Spears %d. (%d-%d)
+553	Nu poti deschide depozitul intr-o temnita sau un razboi.
+554	Sua: channel <new channel>
+555	Va rugam sa introduceti un canal valid.
+556	Sunteti deja pe canal: %d. "
+557	Harta in care este localizata este de mai multe canale, schimbarea nu poate fi facuta.
+558	Nu poti schimba canalul intr-o temnita.
+559	Ati schimbat cu succes numele animalului dvs. de companie!
+560	Obiectul necesar: %s ( %dx)
+561	Ati deblocat un slot pentru animalul dvs. de companie.
+562	Trebuie sa aveti nivelul 30 pentru a atribui o misiune.
+563	Nu ai suficiente %s pentru a termina misiunea.
+564	Nu poti livra un obiect daca timpul de asteptare nu a trecut. poti reduce timpul folosind %s.
+565	Obiectul %s are o calitate buna si a dat rezultate pozitive!
+566	Obiectul %s a fost in conditii proaste, aduceti -mi mai mult.
+567	Nu poti termina misiunea fara sa -mi aduci obiectul sacru: %s!
+568	Efectul %s a fost procedat cu succes la caracter.
+569	Ati primit cu succes bonusul misiunii!
+570	Ti-ai terminat toate misiunile. sper sa ne vedem foarte curand cu misiuni noi.
+571	Numele breslei nu este valabil.
+572	(%s) a fost creat. [Temporar]
+573	Aceasta breasla este in razboi.
+574	%s: aceasta breasla nu exista.
+575	O alianta cu acest nume sau numar nu exista.
+576	Cladirea nu exista.
+577	Aceasta cladire poate fi construita o singura data.
+578	Trebuie sa pastrati mai intai cladirea principala.
+579	Constructia a esuat din cauza unui pret gresit.
+580	Nu aveti suficient yang pentru a construi cladirea.
+581	Nu aveti suficient material pentru a construi cladirea.
+582	Nu poti construi nicio cladire in acest loc.
+583	Personajul nu exista.
+584	Duelul nu a fost anulat.
+585	Duelul a fost anulat cu succes.
+586	Duelul a inceput cu succes.
+587	Exista o problema pentru a incepe duelul.
+588	Nu exista duelisti.
+589	Nu exista puncte de stat.
+590	Punctele de stat ramase sunt prea mici.
+591	Ati introdus o valoare incorecta.
+592	Comanda este incorecta.
+593	Obligatie rupta intre jucatorul %d si %d.
+594	Informatii de succes ale celor bogati.
+595	Selectati informatiile despre harta pamantului santa %d calificare %d %d %d
+596	Informatii despre campul de lupta al regatului.
+597	O statistica initiala nu poate fi stabilita.
+598	Jucatorii au fost inregistrati in evenimentul ox
+599	Motoarele ramase nu au fost inregistrate in evenimentul ox
+600	Participanti ramasi: %d
+601	Restul de secunde pentru a iesi din razboiul total: %d
+602	Ramase secunde pentru a intra in razboiul total: %d
+603	Retragerea dvs. a fost anulata pentru ca v-au ucis!
+604	Trebuie sa astepti [%zile] [%d ore] [%d min] [%d sec] pentru a intra.
+605	Razboiul total nu a inceput inca.
+606	Trebuie sa aveti nivelul: %d pentru a participa la razboiul total.
+607	Nu ati atins limita monstrilor morti. ( %d de la %d).
+608	Nu va poti retrage din razboiul total daca nu aveti mai mult de: %d puncte.
+609	Nu poti pleca sa fii mort.
+610	Incercarea de retragere este inca activa.
+611	Retragerea dvs. a fost anuntata, trebuie sa supravietuiti %din minute.
+612	un jucator si-a anuntat plecarea, a cautat-o si a omorat-o.
+613	Razboiul s-a terminat, felicitari tuturor jucatorilor!
+614	Ati ucis un monstru, stare actuala: ( %d de %d).
+615	Nu ati primit punctele, astepti ca %d sa omoare din nou acelasi jucator.
+616	Ati adaugat %din puncte. totalul se ridica la: %d.
+617	Ai pierdut jumatate din puncte. totalul odihnei: %d.
+618	Inca nu poti retrai. trebuie sa astepti %din secunde.
+619	Inca nu poti retrai. trebuie sa astepti %din secunde.
+620	Aveti nevoie de obiect: %s pentru a retrai automat.
+621	Ora serverului: %s
+622	Nu poti utiliza aceasta potiune pe aceasta harta.
+623	Efectul este activ.
+624	Nu ai obiecte in cutie.
+625	Versiunea dvs. de client nu este corecta. va rugam sa actualizati jocul din patchr.
+626	Fereastra de fabricatie este deja deschisa.
+627	Nu poti face asta daca este deschisa o alta fereastra comerciala.
+628	Fereastra de fabricatie nu este deschisa.
+629	Nu ai materialul potrivit.
+630	Nu ai suficient yang sau niciun spatiu in inventar.
+631	Fabricarea a esuat.
+632	%d timpul de joc va fi adaugat la ceuta. (plata nr %d)
+633	Cineva a accesat contul dvs. veti fi deconectat de la server.
+634	Dragonul va muri in %d secunde.
+635	Nu poti extrage timpul dintr-o piatra echipata.
+636	Nucleul dragonului nu a putut fi extras.
+637	Extragerea a avut succes.
+638	Nu ai suficient spatiu in inventarul dvs.
+639	Ati extras cu succes alchimia!
+640	Alchimia s-a rupt cand a incercat sa o extragi.
+641	Alchimia s-a rupt cand a incercat sa o extragi.
+642	Piatra din sufletul dragonului nu a putut fi extrasa.
+643	Nu ai un material necesar pentru imbunatatirea calificarii.
+644	Nu ai suficient yang pentru a imbunatati acest obiect.
+645	Imbunatatirea clasei a avut succes!
+646	Imbunatatirea a esuat.
+647	Nu ai un material necesar pentru imbunatatirea esalonata.
+648	Aceasta este o piatra de suflet a dragonului care nu poate fi actualizata.
+649	Puritatea pietrei a crescut cu succes!
+650	Imbunatatirea a esuat.
+651	Nu este un material necesar pentru a consolida.
+652	Aceasta este o piatra de suflet a dragonului care nu poate fi intarita.
+653	Alchimia a crescut de nivel!
+654	Imbunatatirea a esuat.
+655	Nu a reusit sa actioneze.
+656	Cand fereastra comerciala este deschisa, nu poti tranzactiona cu alti jucatori.
+657	Acest jucator nu poate tranzactiona in acest moment.
+658	Jucatorul a blocat comertul.
+659	Nu poti da.
+660	Nu poti tranzactiona daca faci misiuni
+661	Nu poti tranzactiona daca celalalt jucator face misiuni.
+662	Cealalta persoana nu are suficient yang sau nu are spatiu in inventar.
+663	Nu ai suficient spatiu in inventar.
+664	Comertul cu %s a avut succes!
+665	Punctele trestiei de pescuit au crescut! (%d/%d)
+666	Nu va poti imbunatati trestia de pescuit.
+667	Imbunatateste trestia de pescuit in pescarul orasului.
+668	Ai pierdut momeala.
+669	Ai peste un peste (%s)!
+670	Lungimea pestilor prinsi este %.2cm.
+671	Activitatea de pescuit „cel mai bun pescar”
+672	In activitatea de pescuit, rabdarea este forta '
+673	%s: %d
+674	Ai luat %d de %d.
+675	Pestele a scapat intre adancurile apei.
+676	In peste exista o scoica.
+677	In peste exista un vierme.
+678	Aveti %in nevoie.
+679	Pre %sau "
+680	Post %sau "
+681	Imbunatatirea a esuat si trestia a pierdut 10 %% din gradele sale de master. "
+682	Lider
+683	Membru
+684	Experienta oferita este superioara experientei ramase.
+685	Mesajul nu poate fi sters.
+686	Nu exista suficienta energie de scurgere. ( %d, %d)
+687	Nu poti folosi capacitatea breslei.
+688	%d capacitate folosita ( %d, %d) pentru %sau
+689	Jucatorul este pe canalul %d. (canal curent: %d)
+690	Jucatorul nu este online.
+691	Doar liderul breslei poate folosi abilitati de breasla.
+692	Capacitatea de breasla poate fi folosita doar in razboi.
+693	Puterea de dragon a guild %sau a fost restaurata.
+694	Va rugam sa incercati din nou mai tarziu.
+695	Doar liderul poate scoate yang-ul din cofrele de breasla.
+696	Nu ai suficient yang.
+697	Cealalta parte nu poate primi cereri de invitatie
+698	Jucatorul a respins invitatia catre breasla ta.
+699	Nu sunteti autorizat sa invitati pe cineva la breasla.
+700	Jucatorii unui alt regat nu pot fi invitati la breasla.
+701	Poti reveni la un alt jucator dupa %din zile.
+702	Poti recruta noi uniuni dupa %din zile.
+703	Persoana apartine deja unei alte bresle.
+704	Ati ajuns la numarul minim de utilizatori.
+705	Breasla este in prezent in razboi.
+706	Noile inscriptii sunt in prezent inactive.
+707	Numele breslei nu este valabil.
+708	Acest nume de breasla este utilizat.
+709	Nu poti crea breasla.
+710	uniunea %s a declarat razboi pentru uniunea %s!
+711	Breasla %s a respins razboiul.
+712	Razboiul dintre %si %s va incepe in cateva minute!
+713	Razboiul dintre %si %s a inceput!
+714	Razboiul dintre %s si %s s-a incheiat la egalitate.
+715	Breasla %s a castigat razboiul catre uniunea %.
+716	Razboiul a fost anulat.
+717	Razboiul dintre %si %s a fost anulat.
+718	Batalia clanurilor nu poate fi inceputa, deoarece serverul nu este online.
+719	Razboiul s-a terminat.
+720	Guild a obtinut %d puncte.
+721	Nu poti deschide depozitul cu o alta fereastra deschisa.
+722	Parola de depozit a fost schimbata.
+723	Ati introdus o parola incorecta.
+724	Timpul dvs. de joc expira in %din minute.
+725	%d (s) %d timp (s) %d minut (s).
+726	%d timp (s) %d minut (s).
+727	%d minut (s).
+728	Trezoreria %s are %sau yang
+729	%s are %din yang disponibil.
+730	Nu ai suficient yang.
+731	Monarhul a fost schimbat cu %s.
+732	Rata scaderii articolului este%d %%
+733	Rata de scadere a lui yang este%d %%
+734	Rata de scadere a lui yang este%d %%
+735	Rata experientei este%d %%
+736	Pot fi batalii fortate pe aceasta harta.
+737	Daca nu sunteti de acord cu aceasta prevedere
+738	Va rugam sa va intoarceti cu propriul dvs. profesor si tata.
+739	Chatul tau este inchis.
+740	Chat dezactivat pentru %d %d minute %d secunde
+741	Chat dezactivat de %d %d secunde
+742	Chat dezactivat pentru %d minute %d secunde
+743	Chat dezactivat pentru %d secunde
+744	Nu poti trimite mesaje in razboiul total, dar le primiti.
+745	Aceasta functie nu este disponibila.
+746	%s este necesara.
+747	Nu poti efectua actiunea.
+748	Aveti nevoie de nivelul %d pentru a putea vorbi de chat general.
+749	Nu este in grup.
+750	Nu te-ai alaturat breslei.
+751	Jucatorul nu vrea sa -l adauge ca prieten.
+752	Nu poti adauga un gm ca prieten.
+753	%s nu este in joc.
+754	Trebuie sa astepti %d secunde pentru a deschide un magazin ..
+755	Nu pot face fata cu monarhul "
+756	Nu o poti face din nou pentru %din secunde.
+757	Aveti mai mult de 2.000.000.000 yang. nu poti negocia.
+758	Nu poti deschide depozitul daca interactionati cu ceilalti.
+759	Jucatorul are mai mult de 2.200.000.000 yang. nu poate fi negociat cu el.
+760	Atac: nume [%s] vnum [%d] nu poate fi utilizat.
+761	Acest obiect nu poate muta depozitul
+762	Nu este posibil sa faci asta.
+763	Acest obiect nu poate fi stocat.
+764	Eroare 2 contactati un administrator.
+765	Eroare 3 contactati un administrator.
+766	Jucatorul nu este online.
+767	Doar liderul grupului poate schimba asta.
+768	Jucatorul nu este membru al grupului tau.
+769	Grupul de atac nu a putut fi configurat. "
+770	Nu poti expulza pe nimeni intr-o temnita.
+771	Nu poti expulza pe nimeni intr-o temnita.
+772	Grupul nu se poate dizolva deoarece exista un membru al grupului in temnita.
+773	Ati fost expulzat din grup.
+774	Nu poti iesi dintr -un grup intr-o temnita.
+775	Nu poti expulza membrii grupului dvs.
+776	Nu poti publica dupa %din zilele de dizolvare.
+777	Nu poti publica dupa %din zilele de parasire a breslei.
+778	Breasla [%s] a fost creata cu succes!
+779	Nu a reusit sa creeze breasla.
+780	Abilitatile sunt disponibile numai pentru liderul grupului.
+781	Scopul nu se gaseste.
+782	Cantitatea de yang este incorecta.
+783	Nu gasesti acest jucator.
+784	Nu poti parasi un membru al breslei in timpul unei batalii de breasla.
+785	Jucatorul nu apartine breslei tale.
+786	Nu poti expulza membrii breslei dvs.
+787	Ati expulzat un membru.
+788	Nu poti schimba numele de rang.
+789	Pozitia master guild nu poate fi schimbata.
+790	Intervalul nu este valabil
+791	Nu aveti permisiuni pentru a face acest lucru.
+792	Nu o poti schimba.
+793	Nu poti dona experienta pentru ca ati activat anti-exp!
+794	Breasla este deja la cel mai inalt nivel.
+795	%sau experienta a fost investita.
+796	Aplicatia de experienta a esuat.
+797	Nu exista suficient yang.
+798	Spiritul de dragon al breslei tale a fost restaurat.
+799	Nu poti face un anunt.
+800	Nu aveti permisiuni pentru a face asta.
+801	Nu o poti schimba.
+802	Nu o poti schimba, doar vezi.
+803	Nu poti selecta breasla master.
+804	Nu poti selecta un alt profesor de breasla.
+805	Nu o poti face cu o fereastra de comert deschis.
+806	Timpul sau online acumulat a trecut deja %din ore.
+807	Timpul sau acumulat online a ajuns deja la %din ore.
+808	Inchideti conexiunea cat mai curand posibil si faceti o pauza pentru sanatatea dvs.
+809	Sunteti deja intr-o stare de oboseala a jocului.
+810	Venitul jocului este redus la 50% din valoarea normala.
+811	Pentru sanatatea dvs., inchideti conexiunea cat mai curand posibil.
+812	Da-ti sa te odihnesti si sa studiezi.
+813	Sunteti deja intr-o stare de oboseala a jocului.
+814	Venitul jocului este redus la 50% din valoarea normala.
+815	Pentru sanatatea dvs., inchideti conexiunea cat mai curand posibil.
+816	Da -ti sa te odihnesti si sa studiezi.
+817	%d ore
+818	%d minute
+819	Timpul dvs. fara conexiune acumulata este %s.
+820	Timpul sau online acumulat este zero. poti obtine un efect 100%.
+821	Timpul sau acumulat este offline este %s, iar timpul online acumulat este %s.
+822	Timpul ramas pana la deconectarea dopului %s %d
+823	Timpul pretului de piatra: %s a expirat.
+824	A existat o eroare critica pe server. serverul va reporni automat
+825	In 10 secunde se va deconecta automat.
+826	Pot fi conectate dupa 5 minute.
+827	Cealalta parte nu poate primi completari de la prieteni.
+828	Jucatorul %s a fost anadid ca prieten.
+829	Jucatorul %s a fost sters din lista de prieteni.
+830	Pre %u
+831	Post %u
+832	Imbunatatirea a esuat, varful a pierdut 10% din punctele sale de master. "
+833	Punctele dvs. miniere au crescut cu: (%d).
+834	Punctele dvs. de descompunere cresc odata cu nivelul minim.
+835	Va poti imbunatati sapa in lumberjack.
+836	Punctele dvs. miniere au crescut! (%d/%d)
+837	Fara o sapa nu o poti face.
+838	Nu este nimic de degradat
+839	Degradarea a avut succes.
+840	Degradarea a esuat.
+841	Datorita binecuvantarii monarhilor, energia se reflecta din nou.
+842	Nu aveti gama imparatului.
+843	Dupa %d sec, poti folosi binecuvantarea monarhului.
+844	Nivel de impozitare: %d
+845	Razboiul regatului tocmai a inceput,
+846	Daca doriti sa participati la razboi, discutati cu portarul guardian
+847	Razboiul regatului s-a terminat!
+848	Toti participantii vor fi teleportati in regatul lor
+849	Acest obiect nu poate fi folosit aici!
+850	Regatul %s a castigat razboiul ",
+851	Toti jucatorii din regatul %pot sa -si retraga recompensa din depozitul de itemhop .. "
+852	Razboiul regatului s-a incheiat fara a castiga regatul!
+853	Abilitatea a atins nivelul: %d "
+854	Abilitatea a atins nivelul maxim!
+855	Animalul tau de companie a invatat o noua abilitate!
+856	Animalul dvs. de companie nu poate invata alte abilitati!
+857	Animalul dvs. de companie a atins evolutia maxima!
+858	Abilitatea este in racire! ramanand ds.
+859	Poti utiliza capacitatea cu hp <= 20%!
+860	Hp s-a restaurat!
+861	Abilitatea este in racire! sunt: %d sec.
+862	Ai devenit nemuritor!
+863	Ati eliminat efectele negative!
+864	Schimbarea bonusului de: %s (slot: %d) s-a incheiat! "
+865	Dapator automat s-a oprit. nu aveti suficienti schimbatori de bonus.
+866	Dapator automat s-a oprit. nu ai destui bani.
+867	Nu au fost gasite magazine, contact cu asistenta de joc
+868	Nu poti inchide magazinul daca nu ati eliminat toate obiectele
+869	Nu poti adauga articolul %s
+870	Nu poti retrage banii cu magazinul inchis, trebuie sa fie deschis.
+871	Nu poti deschide un magazin in acest loc!
+872	Nu poti debloca slotul pentru ca nu aveti obiectul necesar
+873	Real!
+874	Fals!
+875	Numar total de poate: %d
+876	Intrebarile vor continua in 10 secunde.
+877	Raspunsul corect este:
+878	Da (O)
+879	Nu (X)
+880	Dupa 5 sec. cei care au raspuns prost vor fi descalificati.
+881	urmatoarea intrebare va incepe in 5 secunde.
+882	Cere:
+883	Daca este adevarat (sau) daca este fals (x).
+884	Corect!
+885	Grupul s-a dizolvat.
+886	Nu poate fi numit.
+887	Nu poti apela pozitia dvs. actuala, membrii grupului.
+888	Grupul colaboreaza si primeste un bonus de experienta suplimentar.
+889	Animalul dvs. de companie este evoluat la maxim.
+890	Eroare de transformare
+891	Ai invatat complet transformarea.
+892	%s guild%s a crescut cu%d %%!
+893	%s guild %s a revenit la normal.
+894	%s a crescut %s cu un %din %%!
+895	%s %s a revenit la normal.
+896	Batalia cu %s a inceput!
+897	Te-a provocat la un duel!
+898	Ai contestat %e un duel!
+899	Toti jucatorii vor fi teleportati in oras.
+900	Monarhul si-a folosit binecuvantarea: %s de hp si sp va fi restaurat.
+901	Binecuvantarea imparatului este activa.
+902	Gata. este posibil sa -l utilizati dupa %d
+903	Prin puterea sa-za-hu, jucatorul %s a crescut puterea de atac timp de 3 minute.
+904	Prin puterea sa-za-hu, jucatorul %s a crescut cu 10 %% apararea timp de 3 minute
+905	Aceasta functie poate fi folosita doar in castel.
+906	Ficatul de aur a fost platit cu banii din regatul tau.
+907	In cofrele regatului tau exista: %d
+908	Nu poti returna un lingou in bolta imparatiei voastre.
+909	Jucatorul %s este localizat pe canalul %s. (canalul tau: %d)
+910	A fost trimisa o cerere de citare
+911	%s este aproape.
+912	Eroare de traducere: 912
+913	Eroare de traducere: 913
+914	Ati primit %d yang.
+915	O lumina misterioasa apare in copac.
+916	Ai primit %d experienta.
+917	Nu poti negocia daca este deschisa o fereastra comerciala.
+918	Acum nivelul tau de campion este: 1!
+919	Ai nevoie de nivelul 120 pentru a se schimba la nivelul campionului.
+920	Aplicatia este incarcata. fii rabdator.
+921	Inchide
+922	Ai deja recompensa ta, nu vei primi altceva.
+923	Ceva nu a mers, consultati un administrator!
+924	Nu poti gasi obiectul %in inventar.
+925	Ati crescut procentul alchimiei voastre
+926	Inca nu poti retrage aurul.
+927	Esti prea departe de magazin pentru a cumpara.
+928	Esti prea departe de magazin pentru a vinde.
+929	Articolul pe care il utilizati nu poate fi vandut.
+930	Nu poti vinde obiectul selectat
+931	Are mai mult de 2 milioane de yang, deci nu o poti face.
+932	Vanzarea este agravata cu un%din impozite.
+933	Din cauza sistemului off, acesta se va inchide in 10 minute.
+934	kingdom shinsoo
+935	Regatul chunjo
+936	Regatul jinno
+937	Puncte actuale shinsao: %d chunjo: %d jinno: %d
+938	Diavolul locului sacru
+939	Nu ai dreptul sa fiti aici! [introduceti] [introduceti] dupa 10 secunde veti merge in satul principal.
+940	Regatul %s a fost invins si eliminat din batalia de la regate.
+941	Daca ii invingi pe gardienii tarii sfinte, [intra], ai avea acest loc.
+942	Poti participa la batalia de breasla din modul observator.
+943	Cand selectati personajul, apare o pictograma.
+944	Nu exista adversari.
+945	Nu exista dusmani, razboiul va fi incheiat automat.
+946	Razboiul s-a incheiat devreme, de aceea exista o remiza.
+947	Nunta se va incheia in curand.
+948	Iese automat.
+949	Rularea pentru urmatorul articol: %16s
+950	Rularea %s: %16s
+951	-> %16s - spune scor: %05d
+952	Trebuie sa astepti %d secunde pentru a deschide din nou calendarul.
+999	Nu poti utiliza schimbarea canalului pe aceasta harta.
+1069	Reduce efectele Baronesei distrugand ouale!
+1070	Ai suparat pe baroneasa!
+1002	Daunele tale cresc, dar apararea ta scade.
+1003	Ai terminat Temnita cu succes! vei fi trimis afara.
+1004	Gasiti statuia testoasei.
+1005	Distruge toate metinele.
+1006	Invinge toate tatarii.
+1007	Deblocati toate timbrele.
+1008	Invinge-l pe Azrael
+1009	Invinge-l pe Azrael!
+1010	Invinge-l pe Beran-Setaou!
+1011	Consultati portalul am-heh din centrul hartii.
+1012	Omoara toti demonii din camera!
+1013	Gasiti echipamentul de aur.
+1014	Invinge ignitul!
+1015	Deblocati timbrele in ordinea corecta.
+1016	Distruge metinul din purgatoriu.
+1017	Invinge Razador!
+1018	Obiectiv atins!, revine la portalul am-he pentru a merge mai departe.
+1019	Invinge toti monstrii.
+1020	Misiune completa!
+1021	Distruge metinul rece.
+1022	Gasiti cheia potrivita.
+1023	Aceasta cheie nu este corecta.
+1024	Rezolvati ordinea corecta a cuburilor.
+1025	Distrugeti coloana dragonului de nord.
+1026	Invinge nemere!
+1027	Omoara-l pe Estel pentru a merge mai departe.
+1028	Distruge piatra metinului.
+1029	Distruge Piatra Metin corecta.
+1030	Obtineti o cheie pentru a debloca pilonii.
+1031	Invinge pe Demon Rege Mandru
+1032	Distruge toate metinele mortii (%d/%d)
+1033	Gasiti cheia zin sa gui si sparge-o la pilar.
+1034	Ati distrus metoda corecta.
+1035	Piatra falsa de metin a disparut.
+1036	Inca iti lipseste timbre vechi, tine -l.
+1037	Vei fi teleportat la etajul urmator.
+1038	Distrugeti Metinul Crimerlor pana cand obtineti Harta pentru Pesterea Zin. (%d)
+1039	Omoara-l pe Ingerul cu Coasa!
+1040	Aceasta metoda nu continea niciun pergament.
+1041	Ati gasit pergamentul corect. vei fi teleportat
+1042	Eroare informata persoanelor autorizate!
+1043	Ai distrus o piatra metin (%d/%d)
+1044	%s a finalizat pasul de lupta!
+1045	Ati primit recompensa de la subteranul pasului de lupta!
+1046	Buna treaba! ati terminat o misiune a pasului de lupta.
+1047	Sunteti pe nava ocupata de hydra si pe hochmenii sai!
+1048	Pregateste-te pentru batalia navala!
+1049	Apara nava!
+1050	Ati aparat cu succes catargul. Foarte bine! pregatiti-va pentru urmatorul val.
+1051	Ati aparat cu succes catargul. Dar acest lucru nu s-a terminat inca
+1052	Ati aparat cu succes catargul. Adunati-va recompensa pieptului!
+1053	Hydra si armata au sosit pregatiti. protejati nava impotriva lor.
+1054	Nu s-au saturat sa continue sa atace. continuati sa aparati nava!
+990	|cff00A8EB[Magazin]|r |cffFFFFFFItemshop a fost actualizat!|r
+991	|cff00A8EB[Magazin]|r |cffFFFFFFNu ai monede suficiente!|r
+992	|cff00A8EB[Magazin]|r |cffFFFFFFAi cumparat de la itemshop obiectul:|r |cffF7BD48%sx%d|r |cffFFFFFFfor|r |Eishop/mini_coin|e |cffF7BD48%d|r |cffFFFFFFMonede. Il poti gasi in inventar.|r
+993	|cff00A8EB[Magazin]|r |cffFFFFFFAti cumparat urmatorul articol din magazin:|r |cffF7BD48%s|r |cffFFFFFFfor|r |Eishop/mini_coin|e |cffF7BD48%d|r |cffFFFFFFMonede. Il poti gasi in inventar.|r
+994	|cff00A8EB[Magazin]|r |cffFFFFFFNu poti depasi limita saptamanala. Limita saptamanala: %d|r
+995	|cff00A8EB[Magazin]|r |cffFFFFFFNu poti depasi limita lunara. Limita lunara: %d|r
+996	Nu ai suficiente bilete pentru ruleta.
+997	Nu ai suficiente monede pentru ruleta.
+998	Ruleta se invarte!
+961	|cFFffe700[Eveniment]|r: Eveniment bonus activ!
+962	|cFFffe700[Eveniment]|r: Evenimentul bonus a terminat!
+963	|cFFffe700[Eveniment]|r: Eveniment dublu de loot al sefilor activ!
+964	|cFFffe700[Eveniment]|r: Evenimentul dublu de loot al sefilor a terminat!
+965	|cFFffe700[Eveniment]|r: Eveniment dublu loot de metine activ!
+966	|cFFffe700[Eveniment]|r: Lot dublu loot de metine a terminat!
+967	|cFFffe700[Eveniment]|r: Cartea dubla a misiunilor activ!
+968	|cFFffe700[Eveniment]|r: Evenimentul de carte dubla a misiunilor a terminat!
+969	|cFFffe700[Eveniment]|r: Evenimentul de reducere la coldown la temnite activ!
+970	|cFFffe700[Eveniment]|r: Evenimentul de reducere la coldown la dungeons a terminat!
+971	|cFFffe700[Eveniment]|r: Eveniment mazorras fara bilet de intrare activ!
+972	|cFFffe700[Eveniment]|r: Evenimentul mazorras fara bilet de intrare a terminat!
+973	|cFFffe700[Eveniment]|r: Evenimentul Cufar Lumina Lunii activ!
+974	|cFFffe700[Eveniment]|r: Evenimentul Cufar Lumina Lunii a terminat!
+975	Nu poti sa faci asta!
+976	Nu ai suficient spatiu in inventar!
+1000	|cff00A8EB[Magazin]|r |cffFFFFFFAcest obiect nu se mai poate cumpara!|r
+1001	Nu poti deschide mai multe sloturi de abilitati pentru acest animal de companie!
+1055	Imi pare rau. nu poti schimba bonusul cu acest obiect.
+1056	Nu poti utiliza acest obiect in acest articol.
+1057	Ai adaugat un bonus de succes!
+1058	Ai eliminat cu succes ultimul bonus.
+1059	Ai eliminat toate bonusurile de succes.
+1060	Nu exista niciun bonus de eliminat in acest obiect.
+1061	Ups! ceva nu a mers. Luati legatura cu un administrator.
+1062	Nu poti adauga mai multe bonuse la acest obiect!
+1063	Acest bonus este deja adaugat la obiect.
+1067	Ati schimbat bonusul in talismanul dvs. cu succes.
+1068	Poti activa sau dezactiva Multi-Farm %d in secunde.
+1071	Ati schimbat cu succes raritatea obiectului!
+1072	Ati crescut cu succes durabilitatea obiectului!
+1073	Acest obiect are deja durabilitatea la maxim!
+1074	Aveti deja acest obiect activ!
+1075	Ati crescut cantitatea de conturi pentru a avea succes!
+1076	Acum poti face fata cu mai mult de 2 conturi la acea vreme. trebuie doar sa activati picatura.
+1077	Nu poti imbunatati mai multe pietre in acelasi timp. separati-le inainte.
+1078	|cFFffe700[Eveniment]|r: Evenimentul Bonus a fost activat!
+1079	|cFFffe700[Eveniment]|r: Evenimentul Bonus s-a incheiat!
+1080	|cFFffe700[Eveniment]|r: Evenimentul Double Loot Bosses a fost activat!
+1081	|cFFffe700[Eveniment]|r: Evenimentul Double Loot Bosses s-a incheiat!
+1082	|cFFffe700[Eveniment]|r: Evenimentul Metin Double Loot a fost activat!
+1083	|cFFffe700[Eveniment]|r: Evenimentul Metin Double Loot s-a incheiat!
+1084	|cFFffe700[Eveniment]|r: Evenimentul Mission Book Double Loot a fost activat!
+1085	|cFFffe700[Eveniment]|r: Evenimentul Mission Book Double Loot s-a incheiat!
+1086	|cFFffe700[Eveniment]|r: Evenimentul Dungeon Cooldown Reduction a fost activat!
+1087	|cFFffe700[Eveniment]|r: Evenimentul Dungeon Cooldown Reduction s-a incheiat!
+1088	|cFFffe700[Eveniment]|r: Evenimentul Dungeon Ticket Drop a fost activat!
+1089	|cFFffe700[Eveniment]|r: Evenimentul Dungeon Ticket Drop s-a incheiat!
+1090	|cFFffe700[Eveniment]|r: Evenimentul Moonlight Box Drop a fost activat!
+1091	|cFFffe700[Eveniment]|r: Evenimentul Moonlight Box Drop s-a incheiat!
+1092	|cFF00FF4F[Temnita]|r: %s a ucis pe %s cu grupul in Temnita.
+1093	|cFF00FF4F[Temnita]|r: %s a ucis pe %s in Temnita.
+1094	|cffe5d500[Sef]|r: %s a ucis pe %s cu grupul.
+1095	|cffe5d500[Sef]|r: %s a ucis pe %s.
+1096	Ai deschis cufere. Total deschise %d
+1097	Nu poti dezechipa Mountul daca ai Skin de Mount pus pe tine
+1098	Nu poti echipa Skin de Mount daca nu ai invocat un Mount.
+1099	Ai deja acest efect. Nu poti folosi acelasi item de doua ori.
+1100	Auto Pickup Premium a fost activat pe durata de %d zile.
+1101	Nu ai suficient spatiu in inventar!
+1102	Distruge Statuile Dragonului!
+1103	Distruge toate Ouale Dragonului
+1104	Învinge Monstrul Mutant!
+2500	|cFF00FF4F[Seful mondial]|r: %s e in viata
+2501	|cFF00FF4F[Seful mondial]|r: %s va aparea in 30 secunde.
+2502	|cFF00FF4F[Seful mondial]|r: %s a aparut
+2503	|cFF00FF4F[Seful mondial]|r: %s a fost invis - Timp de reaparitie: %s
+2504	|cFFFDE696[Sef]|r: %s a ucis pe %s
+2505	|cFFFDE696[Sef]|r: %s e in viata
+2506	|cFFFDE696[Sef]|r: %s va aparea in 30 secunde.
+2507	|cFFFDE696[Sef]|r: %s a aparut
+2508	Puteti face acest lucru numai cu ajutorul inventarului. Mai intai mutati piatra in inventarul normal.
+1105	Nu poti face asta cu fereastra Okey Card deschisa
+1106	Nu ai suficient yang.
+1107	Nu ai niciun set de carti.
+1108	Nu ai spatiu in maini.
+1109	Nu ai carti.
+1110	Poti avea doar 5 carti pe masa.
+1111	|cFFffe700[Eveniment]|r: Evenimentul Okey Card a fost activat!
+1112	|cFFffe700[Eveniment]|r: Evenimentul Okey Card s-a incheiat!
+1113	|cFFffe700[Eveniment]|r: Evenimentul Prinderea Regelui a fost activat!
+1114	|cFFffe700[Eveniment]|r: Evenimentul Prinderea Regelui s-a incheiat!
+1115	|cFFffe700[Eveniment]|r: Evenimentul Cheia a fost activat!
+1116	|cFFffe700[Eveniment]|r: Evenimentul Cheia s-a incheiat!
+1117	Felicitari, ai primit un pachet de bun venit!
+1118	|cFFffe700[Eveniment]|r: Evenimentul pentru incepatori a fost activat!
+1119	|cFFffe700[Eveniment]|r: Evenimentul pentru incepatori s-a incheiat!
+1120	|cFFffe700[Eveniment]|r: Evenimentul Ramadan a inceput!
+1121	|cFFffe700[Eveniment]|r: Evenimentul Ramdhan s-a incheiat!
+9074	În prezent nu aveti un taman activ.
+9075	În prezent aveti un taman activ.
+9076	Tamanul tau a atins nivelul maxim!
+9077	Nu puteti chema tamanul. Acesta nu trebuie sa depateasca nivelul tau.
+9078	Tamanul nu trebuie sa fie cu mai mult de %d nivel peste tine pentru a-l chema.
+9079	Tamanul a fost concediat. Nu trebuie sa depateasca nivelul tau.
+9080	Tamanul a fost concediat. tamanul nu trebuie sa fie cu mai mult de %d nivel peste tine.
+9081	Ai dezactivat abilitatea.
+9082	Ai activat abilitatea.
+9083	Tamanul tau te-a intarit cu 'Binecuvantare'!
+9084	Tamanul tau te-a intarit cu 'Reflect'!
+9085	Tamanul tau te-a intarit cu 'Dragon's Aid'!
+9086	Tamanul tau ti-a refacut %s din HP cu 'Vindecare'!
+9087	Tamanul tau te-a intarit cu 'Speed'!
+9088	Tamanul tau te-a intarit cu 'Attack+'!
+9089	Trebuie sa folosetti un pergament de exorcism.
+9090	Nu ai suficient Yang.
+9091	Trebuie sa indepartezi echipamentul tamanului.
+9092	Ai reuit sa eliberezi cu succes spiritul tamanului. Acesta te va urmari de acum inainte ti te va ajuta mereu.
+9093	Ai reuit sa alungi spiritul tamanului intr-un sigiliu.
+9094	Acest obiect nu este destinat tamanilor.
+9095	Acest obiect nu poate fi folosit de acest gen.
+9096	Nivelul tamanului este prea mic pentru acest obiect.
+9097	Nu poi scoate obiectul din slot.
+9098	Nu poi folosi acest nume. Încearca altul.
+9099	Ai reuit sa eliberezi cu succes spiritul sigiliului. De acum incolo, tamanul se va numi '%s'.
+9100	Ai reuit sa schimbi cu succes numele tamanului in '%s'.
+9101	Nu avei suficient spaiu in inventar.
+9102	Nu poi pune acest obiect aici.
+9103	A aparut o eroare i tamanul nu poate fi gasit.
+9104	<OxEvent>x %d are raspunsurile corecte.
+9105	Felicitari catigatorului concursului %s!
+9106	<OxManager> Evenimentul nu este in curs de desfaturare.
+9107	<OxManager> Evenimentul este deschis, ateptand jucatori.
+9108	<OxManager> Starea evenimentului, ui inchise.
+9109	<OxManager> Întrebare de execuie.
+9110	<OxManager> Parola este prea lunga.
+9111	<OxManager> Parola nu este valida, nu se poate conecta.
+9112	<OxManager> Eroare la incarcarea fiierului oxquiz.lua, va rugam sa verificai fiierele i sa incercai din nou.
+9113	<OxManager> a incarcat cu succes oxquiz.lua.
+9114	<OxManager> Start eveniment!
+9115	|cFFffe700[Eveniment]|r: Evenimentul OX incepe in cateva minute.
+9116	|cFFffe700[Eveniment]|r: Vorbii cu Uriel pentru a intra in provocare!
+9117	|cFFffe700[Eveniment]|r: Concursul OX este acum inchis. Mult noroc tuturor participanilor.
+9118	|cFFffe700[Eveniment]|r: Concursul OX s-a incheiat, toata lumea va fi trimisa in satele lor in 15 secunde.
+9119	<OxManager> La o intrebare nu s-a putut raspunde.
+9120	<OxManager> Întrebare trimisa cu succes.
+9121	<OxManager>(s) problema cu dimensiunea contului.
+9122	<OX> Participanii care au catigat concursul OX:
+9123	<OxManager> Nu se poate gasi acest obiect in baza de date.
+9124	|cFFffe700[Eveniment]|r: <OX> Ne cerem scuze pentru acest lucru, evenimentul a fost anulat de urgena, vom reveni cu un nou eveniment.
+9125	Corect!
+9126	Sistemul a detectat ca folosii mai multe conturi, vei fi deconectat in scurt timp...
+9127	Numarul total de raspunsuri a raspuns %d
+9128	Rezultatul va fi dezvaluit in 10 secunde.
+9129	Raspunsul corect este:
+9130	Dupa 5 secunde, toi cei care au dat un raspuns incorect vor fi eliminai.
+9131	Suntei gata pentru urmatoarea intrebare?
+9132	Numarul intrebarii: %d
+9133	Daca este corecta, plasai-va pe O, daca este incorecta, plasai-va pe X.
+9134	Nivel: %d - Întrebare: %s - Raspuns: TRUE
+9135	Nivel: %d - Întrebare: %s - Raspuns: FALSE
+9136	Întrebare:
+9137	Schimbarea canalului se face in %d.
+9138	Nu putei face acest lucru inca, trebuie sa ateptai un moment.
+9139	Va rugam sa introducei un numar de canal valid, avei voie sa introducei doar pana la CH4.
+9140	Suntei deja pe canalul %d.
+9141	În acest canal nu putei efectua aceasta aciune, trecei la o alta harta.
+9142	Nu poi antrena aceasta abilitate cu o carte.
+9143	Nu poi citi aceasta abilitate din cauza lipsei de experiena.
+9144	Ai scapat de blestemul fantomei malefice cu ajutorul unui Pergament de exorcizare.
+9145	Ai terminat incheiat cu succes antrenamentul cu Cartea.
+9146	Fac progrese, dar inca nu ineleg totul.
+9147	Aceste introduceri sunt greu de ineles. Trebuie sa continui sa studiez.
+9148	Acest capitol l-am ineles, dar trebuie sa continui sa muncesc din greu.
+9149	Trebuie sa mai citeti %d manuale de indemanare pentru a imbunatai aceasta indemanare.
+9150	Corpul meu este plin de putere!
+9151	Antrenamentul pare sa-i faca efectul...
+9152	Nu a funcionat. La naiba!
+9153	Eti deja un maestru in aceasta abilitate. Nu o mai poi antrena.
+9154	Îndemanarea ta nu este suficient de mare pentru a deveni un Mare Maestru.
+9155	Trebuie sa foloseti un Pergament de Exorcism.
+9156	[Autohunt] A crescut timpul de utilizare.
+9157	[Autohunt] A aparut o eroare. Va rugam sa contactai un administrator.
+9158	<OX Event> Este interzisa stergerea elementelor din OX.
+9159	<OX Event> Este interzisa stergerea emoiilor din OX.
+9160	<OX Event> Este interzisa utilizarea chat-ului comun in OX.
+9161	<OX Event> Este interzisa efectuarea de modificari ale echipamentului in OX.
+9162	<OX Event> Este interzis sa trimitei mesaje private in OX.
+9163	<OX Event> Este interzisa tranzacionarea in OX.
+9164	<OX Event> Invitaiile de grup sunt interzise in OX.
+9165	<OX Event> Invitaiile de breasla sunt interzise in OX.
+9166	<OX Event> Duelurile sunt interzise in OX.
+9167	<OX Event> Este interzisa adaugarea de contacte in OX.
+9168	<OX Event> Este interzisa invocarea de monturi/calarei in OX.
+9169	<Aura> Suntei prea departe pentru a deschide fereastra de aura.
+9170	<Aura> Trebuie sa deschidei mai intai fereastra specifica de rafinare a aurei.
+9171	<Aura> Închidei toate ferestrele pentru a continua procesul.
+9172	<Aura> Procesul de rafinare a aurei a intampinat o eroare i nu poate continua.
+9173	<Aura> Nu putei absorbi acest obiect.
+9174	<Aura> Nu putei atasati obiecte echipate pentru a absorbi.
+9175	<Aura> A aparut o eroare nedefinita.
+9176	<Aura> Nu putei atasati acest obiect pentru absorbie.
+9177	<Aura> Acest obiect este folosit, nu il puteti atasati pentru absorbie.
+9178	<Aura> Acest obiect este ataat de sufletul tau, nu poate fi atasatit pentru absorbie.
+9179	<Aura> În acest slot putei ataa doar imbracaminte cu aura.
+9180	<Aura> Aceasta imbracaminte cu aura are deja valori de absorbie.
+9181	<Aura> În acest slot putei atasati doar scuturi, bratari, coliere ti cercei.
+9182	<Aura> Nu puteti imbunatai aceasta aura.
+9183	<Aura> Nu puteti atasati acest obiect pentru a-l imbunatati.
+9184	<Aura> Nu puteti atasati obiecte echipate pentru a le imbunatati.
+9185	<Aura> Acest obiect este in uz, nu putei ataa acest obiect pentru upgrade.
+9186	<Aura> Acest obiect este legat de suflet, nu poate fi atasatit pentru upgrade.
+9187	<Aura> Nu poti imbunatai acest obiect cu aura.
+9188	<Aura> Acest obiect de aura i-a atins nivelul i gradul maxim.
+9189	<Aura> Folositi fereastra de perfecionare pentru pati ulteriori.
+9190	<Aura> Mai intai trebuie sa atasati o haina de aura..
+9191	<Aura> În acest slot putei ataa doar materiale de aura.
+9192	<Aura> Nu putei rafina aceasta aura.
+9193	<Aura> Nu putei atasati obiecte echipate pentru a evolua.
+9194	<Aura> Acest obiect este folosit, nu il puteti atasati pentru a evolua.
+9195	<Aura> Acest obiect este atasatit la sufletul tau, nu poate fi atasatit pentru a evolua.
+9196	<Aura> Nu poi rafina inca acest echipament de aura.
+9197	<Aura> Trebuie sa fii la nivelul %d cu %d puncte de experiena.
+9198	<Aura> În acest slot putei atasati doar un anumit material de rafinare.
+9199	<Aura> Care este: %s - %u;
+9200	<Aura> Nu puteti face acest lucru in timp ce nu exista o fereastra de aura deschisa.
+9201	<Aura> Nu puteti face acest lucru in timp ce o alta fereastra de aura este deschisa.
+9202	<Aura> Ataat obiecte la fereastra.
+9203	<Aura> Nu puteti folosi obiecte echipate.
+9204	<Aura> Nu poti folosi obiecte care sunt atatate de sufletul tau.
+9205	<Aura> Absorbia este completa.
+9206	<Aura> Nu puteti imbunatai acest echipament de aura.
+9207	<Aura> Aceasta tinuta de aura i-a atins nivelul i gradul maxim.
+9208	<Aura> Upgrading is complete.
+9209	<Aura> Nu puteti rafina acest costum de aura.
+9210	<Aura> Folosii fereastra de imbunataire pentru pai suplimentari.
+9211	<Aura> Nu avei suficient Yang pentru a va rafina tinuta de aura.
+9212	<Aura> Nu avei materialele necesare pentru a va rafina tinuta de aura.
+9213	<Aura> Upgrade-ul a avut succes.
+9214	<Aura> Upgrade-ul a euat.
+9215	<Aura> Nu poti indeparta sporul de la tinuta ta de aura deoarece este atatata de sufletul tau.
+9216	<Aura> Nu exista nici un amplificator pe tinuta ta de aura.
+9217	<Aura> Boost-ul de aura a fost introdus cu succes.
+9218	<Aura> Nu poti adauga amplificator de aura la acest obiect.
+9219	<Aura> Nu puteti muta obiecte pana cand fereastra de aura este inca deschisa.
+9220	<Aura> Nu puteti atata acest obiect pentru a-l imbunatati.
+9221	<Aura> Doar o singura fereastra de rafinare a aurei poate fi deschisa la un moment dat.
+9222	Nu a fost posibil sa se creeze fragmentul de energie.
+9223	Fragmentul de energie a fost creat cu succes.
+9224	Runele Aura Gelid au fost create cu succes.
+9225	Nu a fost posibil sa se creeze Runele Aura Gel.
+9226	Obiectul a fost indepartat cu succes.
+9227	Acest eveniment nu este activ in prezent.
+9228	Numarul de pariuri nu este valid, va rugam sa incercati din nou.
+9229	Nu aveti suficient yang pentru a incepe acest joc.
+9230	Nu aveti suficiente seturi pentru a incepe acest joc.
+9231	[Rafinare raritate] Nu puteti rafina acest tip de obiect.
+9232	[Rafinare raritate] Raritatea acestui obiect este deja maxima.
+9233	Nu puteti adauga sau modifica bonusul acestui obiect.
+9234	[Cautare in magazine] Ati introdus un nume de obiect care nu se gaseste in magazine.
+9235	Buna treaba! Veti fi teleportat in cateva secunde.
+9236	A mai ramas %d jef!
+9237	Ai luat toporul! Da-i-l preotului!
+9238	Mai sunt inca %d pietre ramase!
+9239	Ai grija! Vine un val de monstri!
+9240	Unii ochi se uita la tine!
+9241	O gura se deschide!
+9242	Buna treaba!
+9243	Sa trecem la urmatoarea etapa!
+9244	Ai luat piatra!
+9245	Distruge toate pietrele!
+9246	Buna treaba! Poti deschide prima usa!
+9247	Au mai ramas %d oua!
+9248	Buna treaba! Poti deschide o alta usa!
+9249	Un alt val de monstri!
+9250	Ai gasit ciuperca potrivita!
+9251	Vei sari in cateva secunde in urmatoarea etapa.
+9252	Pregatii-va!
+9253	Asta nu era ciuperca.
+9254	Doar liderul grupului poate distruge acest monument.
+9255	Au mai ramas 3 monumente!
+9256	Au mai ramas 2 monumente!
+9257	Ucideti tosi mon?trii acum!
+9258	A mai ramas un monument!
+9259	Ucideti monstrii pana cand veti gasi cheia!
+9260	Ati distrus toate monumentele!
+9261	Poti distruge %s acum!
+9262	Poti deschide ultima usa!
+9263	Vei sari la etajul superior in cateva secunde.
+9264	Ati reuit!!!
+9265	Vei fi teleportat afara din temnita in 2 minute!
+9266	Atenie, vine un alt val!
+9267	Mai trebuie sa omori %d monstri pentru a merge mai departe.
+9268	Ai ucis toi monstrii!
+9269	Vine %s! Omoara-l!!!
+9270	Oh, uite, o creatura ciudata acolo!
+9271	Uite, din nou %s! Hai sa vorbim cu el.
+9272	Acum, distruge %s!
+9273	Acum, omoara-i pe amandoi %s!
+9274	Vine %s!
+9275	Ai grija!
+9276	Ucideti toti monstrii!
+9277	Distrugeti toate pietrele!
+9278	Monumentul tau este acolo, la sfartit.
+9279	Sa-l verificam.
+9280	Au mai ramas 30 de minute!
+9281	Au mai ramas 20 de minute!
+9282	Au mai ramas 10 minute!
+9283	Grabii-va!
+9284	Au mai ramas doar 5 minute!
+9285	Timpul se scurge!
+9286	A mai ramas doar un minut!
+9287	Aproape ai ratat!
+9288	Timpul a expirat
+9289	Vei fi teleportat in afara dungeon.
+9290	Vorbete cu %s
+9291	Ucidei toi montrii!
+9293	Vine un alt val!
+9294	Ati ucis toi monstrii.
+9295	Distruge cristalele pana cand vei gasi adevarata cheie!
+9296	Trebuie sa o faci in 5 minute!!!!!
+9297	A disparut %d %s!
+9298	Ai o alta cheie! Sa o introducem in %s
+9299	Aceasta cheie a fost doar o iluzie.
+9300	Gasete-o pe cea adevarata!
+9301	Deschide usa pentru a continua!
+9302	Gasete un %s!
+9303	Da-i-o lui %s
+9304	Omoara monstrii pana cand vei obine o cheie!
+9305	Ai luat cheia!
+9306	Introducei-l in %s!
+9307	Buna treaba! Distruge toate %s acum!
+9308	Buna treaba! Vin monstrii! Omoara-i!
+9309	Ai luat ultima cheie! Sa o introducem in %s.
+9310	Se cutremura pamantul!
+9311	Vine o bestie adevarata!
+9312	Ai reuit sa ucidei monstrul %s
+9314	Au mai ramas 20 de minute!
+9315	Mai sunt 10 minute! Grabiti-va!!!
+9316	Mai sunt 5 minute! Ceasul ticaie!
+9317	A mai ramas doar un minut... Aproape ai ratat...
+8100	Doar liderul grupului poate incepe temnita.
+8101	Temnita va fi disponibila timp de %d minute.
+8102	Toti membrii grupului vor avansa la urmatoarea etapa.
+8103	Corect Metin distrus, distruge inca %d.
+8104	Ati distrus metinii in ordinea gretita. Camera se repornete.
+8105	Învingei toi monstrii.
+8106	Învingei eful.
+8107	Toata lumea va fi teleportata in 60 de secunde.
+8108	Ati deblocat un fierar, mai deblocati inca un %d fierar(i).
+8109	Mergei la fierarul serpentin.
+8110	Stalpul a fost distrus in ordine greita.
+8111	Eroare la crearea coordonatelor! Raporteaza la Staff.
+8112	Doar liderul grupului poate solicita o noua camera.
+8113	Eti deja inregistrat in alt grup.
+8114	Nu aparii niciunui grup.
+8115	Doar liderul grupului poate crea temnita.
+8116	A aparut o eroare in timpul crearii dungeon.
+8117	Grupul tau s-a desfiinat, ce caui aici
+8118	Ai eliberat un pilon, mai elibereaza inca un %d pilon(uri).
+9318	Nu avei voie sa creai magazine pe aceasta harta, contactai administratorul de comer?.
+9319	|cfff4b624[Duelul PvP]|r Nu poti folosi asta in aceasta harta!
+9320	|cfff4b624[Duelul PvP]|r Nu poti incepe cu acest nucleu!
+9321	[Duelul PvP] Toti jucatorii vor pleca in %d secunde.
+9322	|cfff4b624[Duelul PvP]|r Inregistrarea este de start. Timp de inregistrare: %d minute. inregistrare maxima: %d
+9323	|cfff4b624[Duelul PvP]|r Duelul poate inregistra doar: %s
+9324	|cfff4b624[Duelul PvP]|r Duelul poate inregistra toate personajele.
+9325	|cfff4b624[Duelul PvP]|r Pretul pariului pentru duel este %d yang.
+9326	|cfff4b624[Duelul PvP]|r Duelul nu are pariu.
+9327	|cfff4b624[Duelul PvP]|r Puteti intra de la Batlle Bailiff npc din oras!
+9328	|cfff4b624[Duelul PvP]|r Procesul de inregistrare s-a incheiat! Numar total de inregistrari: %d / %d
+9329	|cfff4b624[Duelul PvP]|r Suma totala a pariului este de %lld yang.
+9330	|cfff4b624[Duelul PvP]|r Turneul va incepe in cateva secunde, noroc!
+9331	|cfff4b624[Duelul PvP]|r Evenimentul este deja in desfasurare!
+9332	|cfff4b624[Duelul PvP]|r Trebuie sa setati timpul maxim de inregistrare!
+9333	|cfff4b624[Duelul PvP]|r Trebuie sa setati numarul de inregistrari!
+9334	|cfff4b624[Duelul PvP]|r Trebuie sa setati nivelul minim!
+9335	|cfff4b624[Duelul PvP]|r Trebuie sa setati nivelul maxim!
+9336	|cfff4b624[Duelul PvP]|r PvP final va incepe in %d sec.
+9337	|cfff4b624[Duelul PvP]|r Semifinala PvP va incepe in %d sec.
+9338	|cfff4b624[Duelul PvP]|r PvP din sferturile de finala va incepe in %d sec.
+9339	|cfff4b624[Duelul PvP]|r PvP va incepe in %d sec.
+9340	|cfff4b624[Duelul PvP]|r %s %d - %d %s - Felicitari %s.
+9341	|cfff4b624[Duelul PvP]|r %s %d - %d %s. Urmatoarea runda va incepe in %d secunde.
+9342	|cfff4b624[Duelul PvP]|r Duel PvP incheiat! Castigatorul este %s. Castiga %lld yang.
+9343	|cfff4b624[Duelul PvP]|r Duel PvP incheiat! Castigatorul este %s.
+9344	|cfff4b624[Duelul PvP]|r Evenimentul se va inchide de la GM!
+9345	|cfff4b624[Duelul PvP]|r Nu avem destui inscrisi pentru pvp.
+9346	[Duelul PvP] %s a fost exclus din duel de catre GM.
+9347	|cfff4b624[Duelul PvP]|r %s a parasit Duelul PvP. Felicitari %s.
+9348	|cfff4b624[Duelul PvP]|r Numaratoarea inregistrarilor la Turneul PvP s-a incheiat!
+9349	|cfff4b624[Duelul PvP]|r Nu puteti trimite cerere de petrecere in aceasta harta!
+9350	Nu poti citi noua carte de misiune.
+9351	Nu poti obtine mai multe misiuni pe aceasta carte!
+9352	Misiunea ta s-a terminat!
+9353	Ai primit deja recompensa!
+9354	Mai intâi trebuie sa termini misiunea!
+9355	Misiunea a fost eliminata cu succes!
+9356	Ai primit cu succes recompensa!
+9357	Vraja a avut succes!
+9358	Vrajirea a esuat! Obiectul a fost distrus.
+9359	Poti folosi acest tip de vrajitorie doar pe un obiect care are deja 5 sau mai multe bonusuri.

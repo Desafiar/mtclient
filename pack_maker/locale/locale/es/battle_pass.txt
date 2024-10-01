@@ -1,0 +1,21 @@
+1	Mata Mobs	Mata %d Mobs	Destruye %d Mob para completar la mision y desbloquear la recompensa
+2	Mata x Mobs	Mata %d %s	Destruye %d %s para completar la mision y desbloquear la recompensa
+3	Destruye Metines	Destruye %d Metines	Destruye %d Metines para completar la mision y desbloquear la recompensa	
+4	Mata Jefes	Elimina %d Jefes	Elimina %d para completar la mision y desbloquear la recompensa
+5	Pescar	Pescar %d peces	Pesca %d Peces para completar la mision y desbloquear la recompensa
+6	Cocina Peces	Cocina %d peces	Cocina %d Peces para completar la mision y desbloquear la recompensa
+7	Puntos TotalWar	Obtiene %d puntos en total war	Obtiene %d puntos en total war para completar la mision y desbloquear la recompensa
+8	Mata TotalWar	Mata %d Pj TotalWar	Mata %d Players en el total war para completar la mision y desbloquear la recompensa
+9	Daño Mobs	Daño %d a Mobs	Realiza %d de daño a mobs para completar la mision y desbloquear la recompensa
+10	Daño Metines	Daño %d a Metines	Realiza %d de daño a mobs para completar la mision y desbloquear la recompensa
+11	Daño Jefes	Daño %d a Jefes	Realiza %d de daño a mobs para completar la mision y desbloquear la recompensa
+12	Gana Duelos	Gana %d Duelos	Gana %d duelos pvp para completar la mision y desbloquear la recompensa
+13	Mata Players Reino	Mata %d Players	Mata %d player del reino contrario para completar la mision y desbloquear la recompensa
+14	Craftea Items	Craftea %d items	Craftea %d items para completar la mision y desbloquear la recompensa
+15	Agrega Bonus Skins	Agrega %d Bonus a Skins	Agrega %d Bonus a skins para completar la mision y desbloquear la recompensa
+16	Cambiar Bonus Skins	Cambia %d Bonus a Skins	Cambia %d Bonus a skins para completar la mision y desbloquear la recompensa
+17	Cambiar Bonus Acces	Cambia %d Bonus a Acces	Cambia %d Bonus a Accesorios para completar la mision y desbloquear la recompensa
+18	Completa x Dungeon	Completa %d %s	Completa Dungeon %d %s para completar la mision y desbloquear la recompensa
+19	Abre Cofres	Abre %d Cofres	Abre %d Cofres para completar la mision y desbloquear la recompensa
+20	Cratear x Item	Craftea %d %s	Craftea %d %s para completar la mision y desbloquear la recompensa
+21	Gasta Tokens	Gasta %d Tokens	Gasta %d Tokens en itemshop para completar la mision y desbloquear la recompensa

@@ -1,0 +1,67 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/skins.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Disfarces e Penteados
+
+[COLOR=0xffd700;FONT_SIZE=18]Content List:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Fundamentos
+[X_PADDING=5;FONT_SIZE=14]* 2. Bónus
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Fundamentos
+
+[CENTER_ALIGN;FONT_SIZE=14]No mundo de Ava2 você pode obter cosméticos tanto no jogo quanto na loja de itens.
+[CENTER_ALIGN;FONT_SIZE=14]A diferença esta apenas na duração dos disfarces. Os disfarces de 15 dias
+[CENTER_ALIGN;FONT_SIZE=14]Pode ser encontrado a venda por Gema Rubi em um NPC na cidade.
+
+[CENTER_ALIGN;FONT_SIZE=14]Bônus especiais podem ser adicionados a todas os skins 
+[CENTER_ALIGN;FONT_SIZE=14]trajes e penteados do Ava2 ,permanente e temporária. Todos tem 3 slots
+[CENTER_ALIGN;FONT_SIZE=14]em que você pode adicionar a Bônus.
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/costume.tga; Y=350; CENTER_ALIGN]
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=650; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Bonus nos Disfarces e Penteados
+
+[CENTER_ALIGN;FONT_SIZE=14]Um grande numero de bonus estao disponiveis para personalizar sus
+[CENTER_ALIGN;FONT_SIZE=14]disfarces ao seu gosto. Todos eles podem ser obtidos a partir de baas
+[CENTER_ALIGN;FONT_SIZE=14]ue você vai encontrar matando chefes. Quanto maior o nivel do chefe
+[CENTER_ALIGN;FONT_SIZE=14]maior a probabilidade de obter reforcos de melhor qualidade.
+
+[CENTER_ALIGN;FONT_SIZE=14]Em essência, existem 3 tipos de reforcos: disfarces, arma e penteado
+[CENTER_ALIGN;FONT_SIZE=14]e ha 3 graus para cada um deles: Reforcos vermelhos dao um bonus alto
+[CENTER_ALIGN;FONT_SIZE=14]Reforcos verdes dao um bonus médio e Reforcos azuis
+[CENTER_ALIGN;FONT_SIZE=14]ao um pequeno bonus.
+
+[CENTER_ALIGN;FONT_SIZE=14]Você tambem pode obter reforcos vermelhos na loja de itens.

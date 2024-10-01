@@ -1,0 +1,11 @@
+1	Ucide Beran	Ucideri rãmase: %s	Monstru: |cffff9d9d|H|h%s|h|r	Omoarã |cffff9d9d|H|h%s|h|r pentru	a completa misiunea si castiga recompense	nepretuite pentru caracterul tãu.
+2	Ucide Tanaka	Ucideri rãmase: %s	Monstru: |cffff9d9d|H|h%s|h|r	Omoarã |cffff9d9d|H|h%s|h|r pentru	a completa misiunea si castiga recompense	nepretuite pentru caracterul tãu.
+3	DMG Monstrii	DMG rãmase: %s	Monstru: |cffff9d9d|H|h%s|h|r	Loveste |cffff9d9d|H|h%s|h|r cu un DMG	pana cand misiunea ta e terminata	succes.
+4	Foloseste Obiectul	Obiect(e) de folosit: %s	Obiect: |cffff9d9d|H|h%s|h|r	Deschide |cffff9d9d|H|h%s|h|r	pentru a completa misiunea si castiga	recompense valoroase.
+5	Vinde Obiectul	Obiect(e) de vandut: %s	Obiect: |cffff9d9d|H|h%s|h|r	Vinde |cffff9d9d|H|h%s|h|r la Magazin General	pentru a completa misiunea si castiga	recompense valoroase.
+6	Îmbunãtãteste Obiectul	Obiect(e) de plusat: %s	Obiect: |cffff9d9d|H|h%s|h|r	Pluseazã |cffff9d9d|H|h%s|h|r	Faci Sabie Rege +9	pentru a completa misiunea.
+7	Îmbunãtãteste Obiectul	Obiect(e) de plusat: %s	Obiect: |cffff9d9d|H|h%s|h|r	Pluseazã |cffff9d9d|H|h%s|h|r	Faci Rege Pe Alaska(war) +9	pentru a completa misiunea.
+8	Colectorul	Obiect(e) de colectat: %s	Obiect: |cffff9d9d|H|h%s|h|r	Colecteazã |cffff9d9d|H|h%s|h|r	(vezi la wiki unde pica) 	pentru a completa misiunea.
+9	Mineaza 	Cantitate: %s	Minereu: Orice Minereu	Du-te si Minereste cu Tarnacopul	Pana atingi cantinatea necesara 	pentru caracterul tãu.
+10	Prinde Pestii	Pesti de prins: %s	Peste: Orice peste	Prinde orice peste pentru a completa	misiunea si castiga recompense nepretuite	pentru caracterul tãu.
+11	Farmeazã Yang Yang de farmat: %s	Farmeazã de la: orice monstru	Farmeazã Lovele pentru a completa	misiunea si castiga recompense nepretuite	pentru caracterul tãu.

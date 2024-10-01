@@ -1,0 +1,46 @@
+ASLAN_BUFF_TITLE_MAIN_BOARD	Saman Info
+ASLAN_BUFF_TITLE_CREATE_BOARD	Configurarea samanilor
+ASLAN_BUFF_TITLE_LEARN_GRANDMASTER	Invatati abilitatea Grandmaster
+ASLAN_BUFF_TITLE_RESET_SKILL	Reseteaza abilitatea
+ASLAN_BUFF_TITLE_CHANGE_NAME	Schimba numele
+ASLAN_BUFF_BUTTON_SUMMON	Cheama
+ASLAN_BUFF_BUTTON_UNSUMMON	Trimite departe
+ASLAN_BUFF_BUTTON_EXPORT	Exportati
+ASLAN_BUFF_TITLE_SKILLS	Competente
+ASLAN_BUFF_SKILLPOINTS	Puncte de indemanare: %d
+ASLAN_BUFF_INTELLIGENCE	INT: %d
+ASLAN_BUFF_TITLE_IMPROVE_CHANGE	Imbunatatiti si modificati
+ASLAN_BUFF_BUTTON_TEXT_USE	Utilizati
+ASLAN_BUFF_INPUT_NAME_TITLE	Introduceti numele
+ASLAN_BUFF_CHANGE_NAME	Modifica numele
+ASLAN_BUFF_CHANGE_SEX	Modificati sexul
+ASLAN_BUFF_RESET_SKILL	Resetarea abilitatilor
+ASLAN_BUFF_HOVER_EXP_INFO	Experienta : %s / %s (%.2f%%)
+ASLAN_BUFF_CHAT_INFO_NAME_IS_EMPTY	Trebuie sa introduci un nume pentru samanul tau.
+ASLAN_BUFF_SELECT_SKILL	Selectati abilitatea
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_1	Felicitari!
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_2	Imbunatatirea lui %s a avut succes!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_1	Din pacate, imbunatatirea lui %s nu a functionat!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_2	Ai obtinut doar jumatate din costuri.
+ASLAN_BUFF_POPUP_GRANDMASTER_NO_SKILLS	Nu aveti o abilitate de mare maestru pe care sa o puteti imbunatati.
+ASLAN_BUFF_POPUP_NOT_ACTIVE_SHAMAN	Nu ai un saman activ saman.
+ASLAN_BUFF_POPUP_RESET_SKILL_1	Ati resetat abilitatea %s!
+ASLAN_BUFF_POPUP_RESET_SKILL_2	Ati primit %d puncte de indemanare!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_1	Chiar doriti sa exportati samanul?
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_2	Nivelurile de abilitati tehnice vor fi resetate!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_3	Costurile de export pentru nivelul samanului tau: %s Yang
+ASLAN_BUFF_QUESTION_BEFORE_CHANGE_SEX	Doriti sa schimbati sexul samanului?
+ASLAN_BUFF_CHAT_NO_SKILL_ITEM	Nu este disponibila nicio carte de abilitati sau piatra de suflet.
+ASLAN_BUFF_CHAT_NO_CHANGE_NAME_ITEM	Aveti nevoie de tinctura numelui pentru a putea schimba numele.
+ASLAN_BUFF_CHAT_NO_CHANGE_SEX_ITEM	Aveti nevoie de vraja de schimbare pentru a putea schimba sexul.
+ASLAN_BUFF_CHAT_NO_RESET_SKILL_ITEM	Aveti nevoie de redistribuirea abilitatilor pentru a reseta o abilitate.
+ASLAN_BUFF_SKILLBOARD_COST	Costul: %s Yang
+ASLAN_BUFF_SKILLBOARD_COST_EMPTY	Costul: : ----
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS	Abilitate punctes : %d
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS_EMPTY	Abilitate punctes : ----
+ASLAN_BUFF_TOOLTIP_WITH_SOCKET_ZERO	Acest sigiliu nu a fost inca rupt! Fii primul care elibereaza spiritul acestui saman!
+ASLAN_BUFF_TOOLTIP_MALE	Masculin
+ASLAN_BUFF_TOOLTIP_FEMALE	Femei
+ASLAN_BUFF_TOOLTIP_LEVEL	Nivelul : %s
+ASLAN_BUFF_TOOLTIP_SKILLPOINTS	Abilitate punctes : %s
+ASLAN_BUFF_TOOLTIP_INTELLIGENCE	Inteligenta : %s

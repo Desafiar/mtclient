@@ -1,0 +1,261 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/alchemy.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Index:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. General
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Obtaining Dragon Stones
+[COLOR=0x63FFB2;FONT_SIZE=14]*3. Bonuses
+[COLOR=0x63FFB2;FONT_SIZE=14]*4. Refinement
+[COLOR=0x63FFB2;FONT_SIZE=14]*5. Duration and Extraction
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. General
+[CENTER_ALIGN; FONT_SIZE=13]Dragonstone Alchemy system is a system designed for high level players.
+[CENTER_ALIGN; FONT_SIZE=13]the purpose of strengthening his character in a certain direction.
+
+
+[CENTER_ALIGN; COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.1 How to access the alchemy panel:
+[CENTER_ALIGN; FONT_SIZE=13]*Pressing the letter " O " on the keyboard
+[CENTER_ALIGN; FONT_SIZE=13]*Pressing the green gem button in the inventory
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/dss_boton.tga; Y=290; CENTER_ALIGN]
+
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]2 Obtaining Dragon Stones
+[CENTER_ALIGN; FONT_SIZE=13]From Level 1, any character can make use of the Dragonstone Alchemy System.
+[CENTER_ALIGN; FONT_SIZE=13]This will require collecting 10x Dragonstone Fragment which will automatically become
+[CENTER_ALIGN; FONT_SIZE=13]Cor Draconis (raw)
+
+
+[ITEM=30270; IS_LINK=1; Y=420; X=220]
+[ITEM=50252; IS_LINK=1; Y=420; X=280]
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=470; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]3. Bonuses
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]The bonuses shown correspond to the maximum bonuses.
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mythical Dragon Diam.
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*intelligence +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Ice Resistance +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Skill Damage +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Magic Atack Value +60
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*SP Regeneration +30%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength against Monsters +15%
+[ITEM=115400; IS_LINK=1; Y=590; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mythical Dragon Ruby
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Strength +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Fire Resistance +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defence against Warriors +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength against Warriors +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*EXP +25%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defence +150
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Attack Value +180
+[ITEM=125400; IS_LINK=1; Y=710; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mythical Dragon Jade
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Max SP +1500
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Wind Resistance +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defence against Suras +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength against Suras +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Skill Damage Resistance +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Magic Defence +30
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Damage absorbed by HP +12%
+[ITEM=135400; IS_LINK=1; Y=840; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mythical dragon Sapphire
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Dexterity +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Earth Resistance +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defence against Shamans +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength against Shamans +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Max. HP +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*HP Regeneration +30%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength against Metin Stones +12%
+[ITEM=145400; IS_LINK=1; Y=970; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mythical Dragon Garnet
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Max. HP +3000
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Lightning Resistance +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Defence against Ninjas +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength against Ninjas +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Average Damage Resistance +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Max. SP +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Strength Against Bosses +12%
+[ITEM=155400; IS_LINK=1; Y=1100; X=10]
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Mythical Dragon Onyx
+[COLOR=0x83E889;Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Vitality +15
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Dark Resistance +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Prob. blocking attacks +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistance against critical hit +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Resistance against piercing hit +15%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Average Damage +12%
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Probability to avoiding Arrows +15%
+[ITEM=165400; IS_LINK=1; Y=1230; X=10]
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=1320; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]4. Refinement
+[CENTER_ALIGN; FONT_SIZE=13]Dragon stones have 3 different aspects that can be upgraded:
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Class
+[CENTER_ALIGN; FONT_SIZE=13]Rough, Sharp, Rare, Ancient, Legendary and Mythical.
+[CENTER_ALIGN; FONT_SIZE=13]The higher the class, the more bonuses the stone will have.
+[CENTER_ALIGN; FONT_SIZE=13]Dragonstones are only tradable in the Ancient, Legendary and Mythic classes.
+
+[CENTER_ALIGN; FONT_SIZE=13]To refine the class of a stone, one more stone of the same type is needed.
+[CENTER_ALIGN; FONT_SIZE=13]As the class increases, additional bonuses become available.
+[CENTER_ALIGN; FONT_SIZE=13]and additional bonuses that can vary between 3-5 randomly. 
+[IMG=d:/ymir work/ui/game/wiki/emoji/class.tga; Y=1560; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Purity level
+[CENTER_ALIGN; FONT_SIZE=13]Matt, Clear, Clean, Bright, Brilliant, Excellent
+[CENTER_ALIGN; FONT_SIZE=13]The higher the degree of purity, the higher the stone's bonus.
+[CENTER_ALIGN; FONT_SIZE=13]To refine purity (Matt * Clear * Clean * Bright * Excellent)
+[CENTER_ALIGN; FONT_SIZE=13]dragon stones of the same purity, colour and class must be available. 
+[CENTER_ALIGN; FONT_SIZE=13]As the purity increases, the effect of the bonuses that the stone possesses increases.
+[CENTER_ALIGN; FONT_SIZE=13]If the process fails, you receive a single dragonstone with the same degree of purity.
+[IMG=d:/ymir work/ui/game/wiki/emoji/clarity.tga; Y=1940; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[COLOR=ef4f00;CENTER_ALIGN; FONT_SIZE=15]Level from +0 to +6
+[CENTER_ALIGN; FONT_SIZE=13]The higher the level, the higher the bonuses of the stone.
+[CENTER_ALIGN; FONT_SIZE=13]The level can only be seen in the item description.
+
+[CENTER_ALIGN; FONT_SIZE=13]For this type of refinement, an additional item called Alubia is required.
+[ITEM=100300; IS_LINK=1; Y=2320; X=200]
+[ITEM=100400; IS_LINK=1; Y=2320; X=250]
+[ITEM=100500; IS_LINK=1; Y=2320; X=300]
+[CENTER_ALIGN; FONT_SIZE=13]Place the Bean and a dragon stone in the corresponding spaces and click "Refine".
+[CENTER_ALIGN; FONT_SIZE=13]Refinement may fail, in which case the level of the stone may be reduced or remain unchanged.
+[IMG=d:/ymir work/ui/game/wiki/emoji/alchemy_level.tga; Y=2380; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]5. Duration and Extraction
+[CENTER_ALIGN; FONT_SIZE=13]When the lifetime of a dragonstone is extinguished, it does NOT disappear.
+[CENTER_ALIGN; FONT_SIZE=13]but it is disabled and the bonuses it possesses cease to have any effect.
+
+[CENTER_ALIGN; FONT_SIZE=13]The process of increasing the lifetime of the stones is based on "extracting" the lifetime 
+[CENTER_ALIGN; FONT_SIZE=13]of another dragonstone of NO interest and "transfer" that time to the dragonstone 
+[CENTER_ALIGN; FONT_SIZE=13]that we want to improve. For this, the following items will be necessary: 
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Time Tongs
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*( It can be found in the Alchemist's shop )
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*By dragging the Tong on top of a Dragonstone, the Dragonstone disappears and you will 
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]   receive in return one of the following elixirs of time:
+[ITEM=100200; IS_LINK=1; Y=2830; X=10]
+[ITEM=100000; IS_LINK=1; Y=2880; X=200]
+[ITEM=100001; IS_LINK=1; Y=2880; X=250]
+[ITEM=100002; IS_LINK=1; Y=2880; X=300]
+
+
+
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Dragon Tongs
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*( It can be found in the Alchemist's shop )
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Drag this Pincer on top of an equipped alchemy to make the extraction process
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]   100% safe and does not fail to remove it.
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Caution! If you extract a Dragonstone without a Pincer it may be destroyed.
+[ITEM=100100; IS_LINK=1; Y=2960; X=10]

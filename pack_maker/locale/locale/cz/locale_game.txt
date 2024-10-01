@@ -1,0 +1,2206 @@
+AFF_LOVE_POINT	Love points: %d%%
+ALCHEMY_BRILLIANT	Brilliant
+ALCHEMY_CLEAR	Clean
+ALCHEMY_EXCELLENT	Excellent
+ALCHEMY_FLAWLESS	Flawless
+ALCHEMY_MTSY	Mystic
+ALIGNMENT_NAME	Rank points:
+ALL_CHANNEL	All ch	
+ALL_KINGDOMS	|cFF97AE99All kingdoms:|h|r	
+APRIL	April	
+ATTR_6TH_7TH_ADD_QUESTION1	You cannot use this item while a bonus is being added.
+ATTR_6TH_7TH_ADD_QUESTION2	Do you really want to add the bonus?
+ATTR_6TH_7TH_DESC1	a. You must add the materials required for the item to add a 6th and 7th bonus.
+ATTR_6TH_7TH_DESC2	b. Each powershard increases the success rate by 2%.
+ATTR_6TH_7TH_DESC3	c. Use an additive to increase the success rate even further.
+ATTR_6TH_7TH_DESC4	d. It takes 24 hours to add a bonus. During this time, the NPC will keep the item onto which the bonus should be added. As soon as the process is complete, you can collect it again.
+ATTR_6TH_7TH_POSSIBILITY	You can add an additional bonus.
+ATTR_6TH_7TH_TOTAL_SUCCESS_PERCENT	Success rate: %.1f%%
+AUGUST	August	
+AUTOSKILL_0_1	Train your body strength	
+AUTOSKILL_0_2	Train your body resistance	
+AUTOSKILL_1_1	Sharpe your dagas to kill	
+AUTOSKILL_1_2	Use your bow to fight	
+AUTOSKILL_2_1	Love your weapons	
+AUTOSKILL_2_2	Play with black magic	
+AUTOSKILL_3_1	Use strength to help	
+AUTOSKILL_3_2	Use the light to cure	
+BANK_ADD_TITLE	Bank: Enter Yang	
+BANK_APPEND_LOG_ADD	Joined	
+BANK_APPEND_LOG_CHANGE_PW	Change pin	
+BANK_APPEND_LOG_RECEIVED	Received	
+BANK_APPEND_LOG_SEND	Send	
+BANK_APPEND_LOG_WITHDRAW	Retired	
+BANK_CHANGEPW_TITLE	Change Password	
+BANK_CHOOSE_BOARD_TITLE	Bank account	
+BANK_CHOOSE_CREATE	Create Account	
+BANK_CHOOSE_LOGIN	Login	
+BANK_CONECTING_DIALOG	Page: [%s - %d]	
+BANK_CREATE_TITLE	Create a bank account	
+BANK_CURRENT_PAGE		
+BANK_LINE_ACCOUNT	Bill	
+BANK_LINE_AMOUNT	Amount	
+BANK_LINE_PASSWORD	Password:	
+BANK_LINE_REPASSWORD	Repeat password:	
+BANK_LOGIN_TITLE	Connecting the bank account	
+BANK_SEND_TITLE	Send money to a character	
+BANK_TITLE_LOGS_ACTION	#Action	
+BANK_TITLE_LOGS_AMOUNT	#Amount	
+BANK_TITLE_LOGS_DATE	#Date	
+BANK_TITLE_LOGS_HOUR	#Time	
+BANK_TITLE_LOGS_IP	#Ip	
+BANK_TITLE_LOGS_TARGET	#De || #For	
+BANK_TITLE_NAME	Bank System - [i] Ultimos 1025 records	
+BANK_TOOLTIP_BTN_ADD	1.11e+121	
+BANK_TOOLTIP_BTN_CHANGE	Change Bank Password	
+BANK_TOOLTIP_BTN_SEND	Send Yang to a player	
+BANK_TOOLTIP_BTN_WITHDRAW	Remove Yang	
+BANK_TYPE_AMOUNT	Amount:	
+BANK_WITHDRAW_TITLE	Bank: Remove Yang	
+BANK_WRONG_ID	Incorrect access name	
+BANK_WRONG_PW	Incorrect password	
+BATTLEPASS_ALREADY_GET_REWARD	You have already claimed this reward!	
+BATTLEPASS_DEACTIVE_TEXT_1	"You need to buy the ""battle pass"" to be able to"	
+BATTLEPASS_DEACTIVE_TEXT_2	Perform the missions and get the rewards.	
+BATTLEPASS_DESCRIPTION	Description	
+BATTLEPASS_INFORMATION	Information	
+BATTLEPASS_INFORMATION_EX	Pass information	
+BATTLEPASS_REWARD_INFO	You need to finish all missions!	
+BATTLEPASS_TIME_FORMAT	%2d Days %2dh %2dm %2ds	
+BATTLEPASS_TITLE	[F6] Battle pass	
+BATTLEPASS_TOTAL_PROGRESS	Total progress	
+BATTLE_PASS_MISSION_STATUS	Status:	
+BATTLE_POINT	Combat Points	
+BERANSETAOU	Dragon Temple	
+BIO_CAN_GIVE_ITEM	You can deliver the following object!	
+BIO_CHOOSE_GIFT	Choose a bonus:	
+BIO_DONT_HAVE_MISSION	You have no mission available.	
+BIO_EMPTY_BONUS	It has no bonus.	
+BIO_FIND_STONE	Find the stone of the mission!	
+BIO_GIFT	Reward	
+BIO_GIVE_MISSION	Deliver	
+BIO_MISSION_TITLE	Level %d: %s	
+BIO_NEED_LEVEL	Your level is too low. Necessary level: %d	
+BIO_TIME_TEXT	%d D %d H %d Min. %d Seg.	
+BIO_TITLE	[F7] Biologist	
+BLUE_KINGDOM	|cFF8CADDBJinno:|h|r	
+BONUS_END_IN	Ends at: %s	
+BONUS_EVENT	Bonus:	
+BONUS_NEXT_EVENT	|Eemoji/key_rclick|e - next event	
+BONUS_START_IN	Start in: %s	
+BONUS_TABLE_1	Jinno players	
+BONUS_TABLE_2	ShinSoo players	
+BONUS_TABLE_4	Players	
+BONUS_TABLE_5	Duels won	
+BONUS_TABLE_6	Lost duels	
+BONUS_TABLE_7	Killed monsters	
+BONUS_TABLE_8	Defeated bosses	
+BONUS_TABLE_9	Destroyed metines	
+BONUS_TABLE_TITLE_1	PVM attributes	
+BONUS_TABLE_TITLE_2	PVP attributes	
+BONUS_TABLE_TITLE_3	Offensive attributes	
+BONUS_TABLE_TITLE_4	Defensive attributes	
+CANCEL	Cancel	
+CANNOT_ATTACK_DEST_IN_SAFE	The combatant is too far away.
+CANNOT_ATTACK_SELF_IN_SAFE	I cannot attack my opponent from here.
+CANNOT_EQUIP_IN_EXCHANGE	You cannot change your equipment whilst trading.
+CANNOT_EQUIP_IN_SHOP	You cannot change your equipment whilst trading.
+CANNOT_SHOOT_DEST_IN_SAFE	The enemy is too far away.
+CANNOT_SHOOT_EMPTY_ARROW	I need an arrow.
+CANNOT_SHOOT_SELF_IN_SAFE	I cannot attack my opponent from here.
+CANNOT_SKILL_APPROACH	I am sure that I cannot get any closer.
+CANNOT_SKILL_ATTACK	I cannot attack that.
+CANNOT_SKILL_DEST_IN_SAFE	The opponent is too far away.
+CANNOT_SKILL_EQUIP_FISHING_ROD	You cannot fish without a fishing rod equipped.
+CANNOT_SKILL_HAVE_TO_RIDE	I need a Horse to be able to use this.
+CANNOT_SKILL_NEED_EMPTY_BOTTLE	I do not have an empty bottle.
+CANNOT_SKILL_NEED_POISON_BOTTLE	I do not have a Poison Bottle.
+CANNOT_SKILL_NEED_TARGET	Who is the target?
+CANNOT_SKILL_NOT_ENOUGH_HP	I do not have enough HP!
+CANNOT_SKILL_NOT_ENOUGH_SP	I do not have enough SP!
+CANNOT_SKILL_NOT_HORSE_SKILL	I cannot use this whilst riding.
+CANNOT_SKILL_NOT_MATCHABLE_WEAPON	I cannot use this skill with this weapon.
+CANNOT_SKILL_NOT_YET_LEARN	I have not learned this skill.
+CANNOT_SKILL_ONLY_FOR_ALLIANCE	This only affects group members.
+CANNOT_SKILL_ONLY_FOR_CORPSE	This only affects dead people.
+CANNOT_SKILL_REMOVE_FISHING_ROD	I cannot use this skill with a Fishing Pole.
+CANNOT_SKILL_SELF_IN_SAFE	I cannot attack from here.
+CANNOT_SKILL_USE_SELF	I cannot use this on myself.
+CANNOT_SKILL_WAIT_COOLTIME	I cannot use this skill yet.
+CANNOT_USE	You cannot use this.
+CANNOT_WHISPER_DEST_REFUSE	%s has blocked whispering.	SA
+CANNOT_WHISPER_NOT_LOGON	%s is not online.	SA
+CANNOT_WHISPER_SELF_REFUSE	You cannot whisper something to someone when you have completely blocked whispering.	SNA
+CATACUMB	Devil's Catacomb	
+CATEGORY_0_NAME	Ofertas (Packs)
+CATEGORY_0_SUB_0_NAME	Battle Pass
+CATEGORY_0_SUB_1_NAME	Packs
+CATEGORY_1_NAME	Special objects
+CATEGORY_1_SUB_1_NAME	Enchantments
+CATEGORY_2_NAME	Improvements
+CATEGORY_2_SUB_0_NAME	Enchantments
+CATEGORY_2_SUB_1_NAME	Women Costume
+CATEGORY_2_SUB_2_NAME	Men Hair
+CATEGORY_2_SUB_3_NAME	Women Hair
+CATEGORY_3_NAME	Weapon Skins
+CATEGORY_3_SUB_0_NAME	Sword Skin
+CATEGORY_3_SUB_1_NAME	Twohand Skin
+CATEGORY_3_SUB_2_NAME	Bow Skin
+CATEGORY_3_SUB_3_NAME	Dagger Skin
+CATEGORY_3_SUB_4_NAME	Fan Skin
+CATEGORY_3_SUB_5_NAME	Bell Skin
+CATEGORY_4_NAME	Cosmetica
+CATEGORY_4_SUB_0_NAME	Sash Skin
+CATEGORY_4_SUB_1_NAME	Mount Skin
+CATEGORY_4_SUB_2_NAME	Weapon Effect
+CATEGORY_4_SUB_3_NAME	Armour Effect
+CATEGORY_5_NAME	Pets and mounts
+CATEGORY_5_SUB_0_NAME	Mounts
+CATEGORY_5_SUB_1_NAME	Leveable pets
+CATEGORY_5_SUB_2_NAME	Normal pets
+CATEGORY_6_NAME	Alchemy Items
+CATEGORY_7_NAME	Equipment
+CATEGORY_7_SUB_0_NAME	Weapons
+CATEGORY_7_SUB_1_NAME	Armor
+CATEGORY_7_SUB_2_NAME	Accessories
+CATEGORY_8_NAME	Dungeon Tickets
+CATEGORY_9_NAME	Rarity Objects
+CATEGORY_10_NAME	Reinforcements
+CATEGORY_10_SUB_0_NAME	Weapon Skins
+CATEGORY_10_SUB_1_NAME	Costumes
+CATEGORY_10_SUB_2_NAME	Hairstyle
+CATEGORY_10_SUB_3_NAME	Mount Skin
+CATEGORY_10_SUB_4_NAME	Sash Skin
+CATEGORY_10_SUB_5_NAME	Effects
+CATEGORY_11_NAME	Aura clothing
+CATEGORY_11_SUB_0_NAME	Auras
+CATEGORY_11_SUB_1_NAME	Enhancers
+CATEGORY_11_SUB_2_NAME	Refinement
+CATEGORY_12_NAME	Sash
+CATEGORY_12_SUB_0_NAME	Sash
+CATEGORY_12_SUB_1_NAME	Refinement
+CHANNEL	Channel	
+CHANNEL_EMPTY_SERVER	Non-server	
+CHANNEL_NORMAL	Channel %d	
+CHANNEL_NOTIFY_FULL	This channel is full! Please select another.	
+CHANNEL_NOT_FIND_INFO	No information has been found through this channel.	
+CHANNEL_PVP	Free duel	
+CHANNEL_SELECT_CHANNEL	Choose the channel	
+CHANNEL_SELECT_REGION	Choose the region.	
+CHANNEL_SELECT_SERVER	Choose server	
+CHANNEL_STATE_FULL	Full	
+CHANNEL_STATE_MED	Means, medium	
+CHANNEL_STATE_NORMAL	Normal	
+CHANNEL_STATE_OFF	...	
+CHARACTER_ASSASSIN	Ninja	
+CHARACTER_CREATE_APPEARANCE1	Style 1	
+CHARACTER_CREATE_APPEARANCE2	Style 2	
+CHARACTER_CREATE_FEMALE	Female	
+CHARACTER_CREATE_MALE	Male	
+CHARACTER_CREATE_MODE	Create character	
+CHARACTER_NAME	Name	
+CHARACTER_SELECT_MODE	Select server	
+CHARACTER_SHAMAN	Shaman	
+CHARACTER_SURA	Sura	
+CHARACTER_WARRIOR	Warrior	
+CHATTING_SETTING_ADD	Add Tabulation	
+CHATTING_SETTING_ADD_MAX	You cannot add more eyelashes to the chat.	
+CHATTING_SETTING_CANCLE	Cancel	
+CHATTING_SETTING_CANT_CHANGE_TITLE	You can't use this chat name.	
+CHATTING_SETTING_CHANGE_TITLE_NAME	Do you want to save the name for this chat?	
+CHATTING_SETTING_CHANGE_TITLE_NOT	The name of the general chat cannot be changed.	
+CHATTING_SETTING_CLEAR	Reset?
+CHATTING_SETTING_CLEAR_QUESTION	Do you want to reset the options?	
+CHATTING_SETTING_DEL	Delete tab	
+CHATTING_SETTING_DETAIL	Chat options	
+CHATTING_SETTING_DICE	He says	
+CHATTING_SETTING_DICE_SETTING	Says options	
+CHATTING_SETTING_EXP	Experience	
+CHATTING_SETTING_GOLD	Gold received	
+CHATTING_SETTING_GUILD	Guild	
+CHATTING_SETTING_ITEM	Objects received	
+CHATTING_SETTING_LANGUAGE	Language %d	
+CHATTING_SETTING_LANGUAGE_CUR	Current language: ( %s)	
+CHATTING_SETTING_LANGUAGE_OFF	Off	
+CHATTING_SETTING_LANGUAGE_ON	ON	
+CHATTING_SETTING_LANGUAGE_ONOFF	Filter	
+CHATTING_SETTING_LIST	Ready	
+CHATTING_SETTING_NOTICE	Message	
+CHATTING_SETTING_PARTY	Group	
+CHATTING_SETTING_SAVE	Save	
+CHATTING_SETTING_SAVE_QUESTION	Do you want to save the following changes %s?	
+CHATTING_SETTING_SHOUT	Kingdom chat	
+CHATTING_SETTING_SYSTEM	System	
+CHATTING_SETTING_TABNAME	Chat name	
+CHATTING_SETTING_TALKING	General	
+CHATTING_SETTING_TITLE	Chat options	
+CHAT_ALL	All
+CHAT_DICE_INFO	Throw
+CHAT_GUILD	Guild
+CHAT_INFORMATION	Info
+CHAT_INSULT_STRING	This sentence has invalid words in it.
+CHAT_LOG	Show old messages [L]
+CHAT_LOG_TITLE	Chat-log
+CHAT_NORMAL	Normal
+CHAT_NOTICE	Server
+CHAT_PARTY	Group
+CHAT_SEND_CHAT	Send chat
+CHAT_SEND_MEMO	Send whisper [Shift+Enter]
+CHAT_SHOUT	Call
+CHAT_SHOUT_LIMIT	You can only call every 15 seconds.
+CHEST_TOOLTIP_TEXT	Vision of the chest	
+COMBAT_ZONE_CURRENT_REAL_POINTS	Combat points: %d	
+COMBAT_ZONE_LIMIT_SHOP_POINTS	Daily limit: %d/ %d	
+COMBAT_ZONE_SHOP_EXCEED_LIMIT_TODAY	You have already exceeded your daily limit to use points.	
+COMBAT_ZONE_SHOP_NOT_ENOUGH_BATTLE_POINT	You don't have enough combat points.	
+COMBAT_ZONE_SHOP_OVERFLOW_LIMIT_TODAY	The current limit + the price of the article exceeds the maximum limit.	
+COMBAT_ZONE_TOOLTIP_BATTLE_POTION	Battle potion of the combat zone	SNA
+CONNECT_ACCOUNT	Connect
+COSTUME_SLOT_CARCAJ	Sash
+COSTUME_SLOT_COSTUME_ARMOR	Costume	
+COSTUME_SLOT_COSTUME_HAIR	Hairstyle	
+COSTUME_SLOT_COSTUME_SASH	Sash Skin	
+COSTUME_SLOT_COSTUME_WEAPON	Weapon Skin	
+COSTUME_SLOT_EFECT_ARMOR	Armor effect	
+COSTUME_SLOT_EFECT_WEAPON	Weapon effect	
+COSTUME_SLOT_MOUNT	Mount	
+COSTUME_SLOT_PET	Normal pet	
+COSTUME_SLOT_PET_OFICIAL	Growth pet	
+COSTUME_SLOT_AURA	Aura Outfit
+CREATE_ERROR_GM_NAME	You are not allowed to use 'GM' in your character name.
+CREATE_ERROR_INSULT_NAME	This name is invalid.
+CREATE_EXIST_SAME_NAME	Another character already has this name.
+CREATE_FAILURE	You cannot create the character
+CREATE_GM_NAME	GM
+CREATE_INPUT_NAME	Enter the name.
+DAY	Days	
+DECEMBER	December	
+DELETE_ACCOUNT	Delete
+DETAILS_1	Str. vs Half Humans
+DETAILS_12	Attack Value
+DETAILS_13	Defence Value
+DETAILS_14	Average Damage
+DETAILS_15	Average Dmg. Resist.
+DETAILS_16	Skill Damage
+DETAILS_17	Skill Damage Resistance
+DETAILS_2	Res. to Half Humans
+DETAILS_20	Critical Hit Chance
+DETAILS_21	Piercing Hit
+DETAILS_22	Critical Hit Resist.
+DETAILS_23	Piercing Hit Resist.
+DETAILS_3	Strong vs Orcs
+DETAILS_36	Strong vs Warriors
+DETAILS_37	Strong vs Ninjas
+DETAILS_38	Strong vs Suras
+DETAILS_39	Strong vs Shamans
+DETAILS_4	Strong vs Undead
+DETAILS_41	Defence vs Warriors
+DETAILS_42	Defence vs Ninjas
+DETAILS_43	Defence vs Suras
+DETAILS_44	Defence vs Shamans
+DETAILS_46	Sword Defence
+DETAILS_47	Two-handed Defence
+DETAILS_48	Dagger Defence
+DETAILS_5	Strong vs Monsters
+DETAILS_50	Bell Defence
+DETAILS_51	Fan Defence
+DETAILS_52	Arrow Defence
+DETAILS_53	Faint Chance
+DETAILS_54	Slowing Chance
+DETAILS_55	Poison Chance
+DETAILS_56	Poison Resistance
+DETAILS_59	HP Steal
+DETAILS_6	Str. vs Zodiac Mon.
+DETAILS_60	SP Steal
+DETAILS_61	HP Recovery
+DETAILS_62	SP Recovery
+DETAILS_63	Block Attack
+DETAILS_64	Evade Arrow Attack
+DETAILS_65	Reflect Melee Attack
+DETAILS_66	HP Recovery on Kill
+DETAILS_67	SP Recovery on Kill
+DETAILS_68	% Extra HP	
+DETAILS_69	% Extra SP	
+DETAILS_7	Strong vs Animals
+DETAILS_72	Defence Value
+DETAILS_73	Double EXP
+DETAILS_74	Drop Chance
+DETAILS_75	Double Yang
+DETAILS_76	Magic Resistance
+DETAILS_78	% of bonus exp	
+DETAILS_79	% of Yang Bonus	
+DETAILS_8	Strong vs Mystics
+DETAILS_80	% of Bonus Drop	
+DETAILS_81	Bonus Str	
+DETAILS_82	Bonus vit	
+DETAILS_83	Bonus int	
+DETAILS_84	Bonus Dex	
+DETAILS_85	Max. HP	
+DETAILS_86	Max. Sp	
+DETAILS_87	Vel. Stroke	
+DETAILS_88	Vel. Spell	
+DETAILS_89	Vel. Movement	
+DETAILS_9	Strong vs Devils
+DEVILTOWER	Demon tower	
+DOUBLE_BOSS_LOOT_EVENT	Double boss loot	
+DOUBLE_METIN_LOOT_EVENT	Double Metin loot	
+DOUBLE_MISSION_BOOK_EVENT	Drop of Missions Books	
+DO_YOU_BUY_ITEM1	Do you want to buy %s for %s Yang?
+DO_YOU_BUY_ITEM2	Do you want to buy %s (%s lots) for %s Yang?
+DO_YOU_DROP_MONEY	Do you want to drop %d Yang?
+DO_YOU_SELL_ITEM1	Do you want to sell %s for %s Yang?
+DO_YOU_SELL_ITEM2	Do you want to sell %s (%s lots) for %s Yang?
+DO_YOU_WANT_CREATE_SHOP	Do you want ope shop for %s yang?	
+DO_YOU_WANT_GET_BACK_ITEM	Remove %s from the shop?	
+DO_YOU_WANT_OPEN_SLOT	Unlock slot	
+DRAGON_SOUL_CANNOT_REFINE	This Dragon Stone cannot be refined.
+DRAGON_SOUL_CANNOT_REFINE_MORE	This Dragon Stone has already reached the highest level.
+DRAGON_SOUL_EQUIP_WARNING1	It is difficult to remove a Dragon Stone once it is attached.
+DRAGON_SOUL_EQUIP_WARNING2	Would you still like to continue?
+DRAGON_SOUL_EXPIRED	Expired Dragon Stone
+DRAGON_SOUL_INVALID_DRAGON_SOUL	That is the wrong Dragon Stone.
+DRAGON_SOUL_IS_NOT_DRAGON_SOUL	That is not a Dragon Stone.
+DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE	This is not the correct dragon stone.	
+DRAGON_SOUL_NOT_ENOUGH_MATERIAL	You do not have enough material to refine.
+DRAGON_SOUL_STEP_LEVEL1	Clarity: matt,
+DRAGON_SOUL_STEP_LEVEL2	Clarity: clear,
+DRAGON_SOUL_STEP_LEVEL3	Clarity: flawless,
+DRAGON_SOUL_STEP_LEVEL4	Clarity: brilliant,
+DRAGON_SOUL_STEP_LEVEL5	Clarity: excellent,
+DRAGON_SOUL_STRENGTH	Level: +%d	SA
+DRAGON_SOUL_UNEQUIP_WARNING1	The Dragon Stone may be destroyed in the process.
+DRAGON_SOUL_UNEQUIP_WARNING2	Would you still like to continue?
+DRAGON_SOUL_UNMATCHED_SLOT	That is the wrong slot.
+DRAGON_SOUL_UNQUALIFIED	You cannot yet use Dragon Stone alchemy.
+DROP_ITEM_FAILURE_EQUIP_ITEM	You cannot drop equipped items.
+DROP_ITEM_FAILURE_PRIVATE_SHOP	You cannot drop any items as long as a private shop is open.
+DROP_MONEY_FAILURE_1000_OVER	You can drop a maximum of 999 Yang.
+DUNGEONINFO_CANENTER	Available	
+DUNGEONINFO_CANTENTER	Low level	
+DUNGEONINFO_COMPLETE	Completed:	
+DUNGEONINFO_COOLDOWN	Cooldown:	
+DUNGEONINFO_GROUP	Group:	
+DUNGEONINFO_LEVELRANGE	Level:	
+DUNGEONINFO_MAX_DMG	Maximum damage:	
+DUNGEONINFO_MIN_TIME	Record time:	
+DUNGEONINFO_NO	Not necessary	
+DUNGEONINFO_STATISTICS	Statistics	
+DUNGEONINFO_TICKET	Dungeon Key:	
+DUNGEONINFO_TITLE	Dungeon information	
+DUNGEONINFO_WARP	Do you want to teleport yourself to the entrance?	
+DUNGEONINFO_YES	Yes	
+DUNGEONTIMER_FLOOR	%d.Flor	
+DUNGEONTIMER_WAVE	%d.Wave	
+DUNGEON_COOLDOWN_EVENT	Dungeon Cooldown	
+DUNGEON_INFO_TELEPORT	Teleport	
+DUNGEON_TICKET_LOOT_EVENT	Drop Pass	
+EMOJI_CHARACTER_STATS_ADD	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - add x10	
+EMOJI_CHARACTER_STATS_DELETE	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - subtract x10	
+EMOTION_ANGRY	Aggravating
+EMOTION_ATTRACTIVE	Seduction
+EMOTION_BANTER	Sneering
+EMOTION_CHEERS_1	Cheers 1
+EMOTION_CHEERS_2	Cheers 2
+EMOTION_CHEERUP	Encourage	
+EMOTION_CHOOSE_ONE	Choose a target.
+EMOTION_CLAP	Claps
+EMOTION_CLAP_KISS	Kiss
+EMOTION_CONGRATULATION	Approval
+EMOTION_DANCE_1	Dance 1	
+EMOTION_DANCE_2	Dance 2	
+EMOTION_DANCE_3	Dance 3	
+EMOTION_DANCE_4	Dance 4	
+EMOTION_DANCE_5	Dance 5	
+EMOTION_DANCE_6	Gagnam Style	
+EMOTION_FORGIVE	Forgiveness
+EMOTION_FRENCH_KISS	French Kiss
+EMOTION_JOY	Joy
+EMOTION_SAD	Sad
+EMOTION_SHY	Rejection
+EMOTION_SLAP	Hit
+EMPIRE_A	Shinsoo kingdom	
+EMPIRE_B	Chunjo Kingdom	
+EMPIRE_C	Jinno kingdom	
+EMPIRE_WAR_EVENT	Kingdom War (Lv %d - Lv %d)
+EVENT_CALENDAR	Calendar
+EVENT_CALENDAR_TITLE	Event calendar: %s
+EVENT_COLORFULL_TEXT	|cFF84A5B9%s|h|r
+EVENT_DURATION	Duration:	
+EVENT_END_AT	Ends in: 	
+EVENT_MANAGER_WINDOW_TITLE	Event calendar: %s - %d	
+EVENT_MONTH_1	January	
+EVENT_MONTH_10	October	
+EVENT_MONTH_11	November	
+EVENT_MONTH_12	December	
+EVENT_MONTH_2	February	
+EVENT_MONTH_3	March	
+EVENT_MONTH_4	April	
+EVENT_MONTH_5	May	
+EVENT_MONTH_6	June	
+EVENT_MONTH_7	July	
+EVENT_MONTH_8	August	
+EVENT_MONTH_9	September	
+EVENT_START_AT	Starts: 	
+EVENT_TOOLTIP_DOESNT_HAVE_EVENT	There is no event this day.	
+EVENT_TOOLTIP_TITLE	Day %s:	
+EXCHANGE_CANNOT_GIVE	This item cannot be traded.
+EXCHANGE_CANT_EDIT_MONEY	You cannot change the sum now.
+EXCHANGE_FAILURE_EQUIP_ITEM	You cannot exchange equipped Items.
+EXCHANGE_MONEY	Sum
+EXCHANGE_TITLE	Trade with %s (%d)
+EXP_EVENT	Experience event: %d%%	
+FEBRUARY	February	
+FISHING_FAILURE	You lost the Bait.
+FISHING_NOTIFY1	It looks like %s is hooked.
+FISHING_NOTIFY2	It looks like %s is on the hook.
+FISHING_SUCCESS1	You captured %s!
+FISHING_SUCCESS2	You have pulled %s out of the water!
+FISHING_UNKNOWN	Something has taken the bait but you can't see what it is.
+FISHING_WRONG_PLACE	You cannot go fishing here.
+FLAMEDUNGEON	Red Dragon Fortress	
+FOR_FEMALE	for female	
+FOR_MALE	for male	
+GAME_CANNOT_MINING	You cannot mine Ore while riding.
+GAME_CANNOT_PICK_ITEM	You cannot collect this Item as you did not win it.
+GAME_INIT_ERROR_CURSOR	The cursor could not be established.
+GAME_INIT_ERROR_DIRECTX	DirectX 8.1 must be installed so that the game can run.\nInstall DirectX 8.1 or higher.
+GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE	No graphic device could be found. \nCheck if your VGA card is correctly installed.
+GAME_INIT_ERROR_GRAPHICS_NOT_EXIST	Graphic device could not be established. \nCheck if you have a VGA card. \nAlternatively, you can active the hardware accelerator.\n(Set hardware accelerator to max \nControl Panel->Display->Settings->Advanced->Troubleshoot tab)
+GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT	The graphics card of the computer does not support the window mode in 32bit Mode. \nChange to 16bit Mode or use Full Screen Mode.
+GAME_INIT_ERROR_ITEM_PROTO	No Item data there.\nInstall the game again.
+GAME_INIT_ERROR_MAIN_WINDOW	Mainframe could not be established
+GAME_INIT_ERROR_MOB_PROTO	No Monster Data there.\nInstall the game again.
+GAME_INIT_ERROR_NETWORK	Network devices could not be established.\nCheck your internet connection.
+GAME_PICK_EXP	You have received %of experience.	
+GAME_PICK_MONEY	You have received %d Yang.
+GUILDMARK_UPLOADER_ERROR_128_HEIGHT	Height is not 128 Pixel
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Height is not 12 Pixel
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Width is not 16 Pixel
+GUILDMARK_UPLOADER_ERROR_64_WIDTH	Width is not 64 Pixel
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	The game does not support this picture.
+GUILDMARK_UPLOADER_ERROR_PATH	Move the data into the folder metin2/upload.
+GUILDMARK_UPLOADER_ERROR_SELECT	No picture file chosen.
+GUILDWAR_CTF_TITLE	Conquer flag	
+GUILDWAR_NORMAL_TITLE	Battlefield	
+GUILDWAR_WARP_TITLE	War in the sand	
+GUILD_BOARD_ID	Member	
+GUILD_BOARD_TEXT	Message
+GUILD_BUILDING_GRADE	Rank
+GUILD_BUILDING_NAME	Name of building
+GUILD_CANNOT_HEAL_GSP_ANYMORE	The Dragon Ghost Energy is already fully restored.
+GUILD_COMMENT	Write
+GUILD_CREATE_ERROR_INSULT_NAME	Guildname is not valid.
+GUILD_DEFAULT_GRADE	Guild members
+GUILD_DELETE	Delete
+GUILD_DEPOSIT	Deposit
+GUILD_DO_YOU_HEAL_GSP	Do you want to use %d Yang to restore %d units of Dragon Ghost?
+GUILD_DO_YOU_JOIN	has invited you. Do you want to join the guild?
+GUILD_EMPTY_AREA	Empty land
+GUILD_FACILITY	Outbuilding
+GUILD_GEM	Gem
+GUILD_HEADQUARTER	Main Building
+GUILD_HEAL_GSP	Restore Dragon ghost
+GUILD_INFO_ENEMY_GUILD_EMPTY	None
+GUILD_MARK_NOT_ENOUGH_LEVEL	Minimum level of 3 required
+GUILD_MEMBER_JOB	Class
+GUILD_MEMBER_KNIGHT	Combatant
+GUILD_MEMBER_LEVEL	Level
+GUILD_MEMBER_NAME	Member
+GUILD_MEMBER_RANK	Rank
+GUILD_MEMBER_SPECIFIC_GRAVITY	Exp. Donada	
+GUILD_NAME	Guild name	
+GUILD_NOT_ENOUGH_MATERIAL	There is not enough material for this building.	
+GUILD_NOT_ENOUGH_MONEY	There is not enough Yang for this building.	
+GUILD_NO_NOTICE_PERMISSION	You do not have the permits to make an ad.	
+GUILD_OBJECT	Objects	
+GUILD_OFFER_EXP	Invest experience	
+GUILD_SHORT_EXP	There are not enough experience points.	
+GUILD_TILE_BASEINFO	Territory Information
+GUILD_TILE_BOARD	Guild Messages
+GUILD_TILE_GRADE	Rights Administration
+GUILD_TILE_INFO	Guild Information
+GUILD_TILE_MEMBER	Member
+GUILD_TILE_SKILL	Guild Skills
+GUILD_WAR_LIMIT_30MIN	Time: 30 minutes	
+GUILD_WAR_REWARD_POTION	Reward: The winner receives a potion.	
+GUILD_WAR_USE_BATTLE_MAP	Place: Guild war sand	
+GUILD_WAR_USE_NORMAL_MAP	Place: Normal map	
+GUILD_WAR_WIN_CHECK_SCORE	The biggest result wins the war.	
+GUILD_WAR_WIN_TAKE_AWAY_FLAG1	Conquer the enemy's flag	
+GUILD_WAR_WIN_TAKE_AWAY_FLAG2	and take it to your base.	
+GUILD_WAR_WIN_WIPE_OUT_GUILD	Defeat all enemies to win.	
+GUILD_WITHDRAW	Alternative	
+GUILD_YOU_DO_NOT_JOIN	You are not a member of any guild	
+HALLOWEEN_EVENT	Halloween event	
+HORSE_HEALTH0	Dead
+HORSE_HEALTH1	Starving
+HORSE_HEALTH2	Hungry
+HORSE_HEALTH3	Full
+HORSE_LEVEL1	Normal Horse
+HORSE_LEVEL2	Battle Horse
+HORSE_LEVEL3	Military Horse
+HOUR	Hours	
+HOW_MANY_ITEM_DO_YOU_DROP1	Do you want to drop %s?
+HOW_MANY_ITEM_DO_YOU_DROP2	Do you want to drop %s %d?
+HYDRADUNGEON	Ship's defense	
+MELEYDUNGEON	Meley's Lair
+INPUT_MATRIX_CARD_NUMBER	Enter matrix card code.	
+INPUT_MATRIX_CARD_TITLE	Matrix card	
+INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION	Enter the deletion of your account adjustments here.	
+INPUT_PRIVATE_CODE_DIALOG_TITLE	Delete character	
+INPUT_WINDOW_TEXT	Please enter another name	
+INTRO_SELECT_LEVEL	Lv. %d	
+INVENTORY_REALLY_USE_ITEM	Use item on %s?
+ITEMSHOP_3RDSHOP_COIN	AP's	
+ITEMSHOP_3RDSHOP_COINS	%d AP's	
+ITEMSHOP_3RDSHOP_NAME	Other shop	
+ITEMSHOP_ACCEPT_CHANGE_PRICE	Ok	
+ITEMSHOP_ADD_DISCOUNT_DISCOUNT_TITLE	Discount:	
+ITEMSHOP_ADD_DISCOUNT_HOUR	h	
+ITEMSHOP_ADD_DISCOUNT_MINUTE	m	
+ITEMSHOP_ADD_DISCOUNT_SECOND	s	
+ITEMSHOP_ADD_DISCOUNT_TITLE1	Apply discount to all category:	
+ITEMSHOP_ADD_ITEM_ACCEPT_TEXT_BUTTON	ACCEPT	
+ITEMSHOP_ADD_ITEM_BONUS_TITLE	Bonus	
+ITEMSHOP_ADD_ITEM_CATEGORY_TITLE	Category:	
+ITEMSHOP_ADD_ITEM_PRICE_TITLE	Price:	
+ITEMSHOP_ADD_ITEM_RESET_TEXT_BUTTON	Reset	
+ITEMSHOP_ADD_ITEM_STONE_TITLE	Stone	
+ITEMSHOP_ADD_ITEM_VALUE_TITLE	Value	
+ITEMSHOP_ADD_ITEM_VNUM_TITLE	VNUM:	
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TEXT_BUTTON	Add Discounts	
+ITEMSHOP_ADMIN_PANEL_ADD_DISCOUNTS_TOOLTIP_BUTTON	Add Discounts with Time to an item.	
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TEXT_BUTTON	Add items	
+ITEMSHOP_ADMIN_PANEL_ADD_ITEMS_TOOLTIP_BUTTON	Add new items to the shop.	
+ITEMSHOP_ADMIN_PANEL_NAME	GM Zone	
+ITEMSHOP_ADMIN_PANEL_RETURN_TOOLTIP_BUTTON	Return	
+ITEMSHOP_ADMIN_PANEL_TITLE	Administration	
+ITEMSHOP_BEST_WHEEL_PRIZES	Best Prizes	
+ITEMSHOP_BUY	Comprar	
+ITEMSHOP_BUY_BUTTON	Buy	
+ITEMSHOP_BUY_COIN	Home	
+ITEMSHOP_BUY_ITEM_WITHOUT_AMOUNT_QUESTION	Do you want to buy %s by %d %s?	
+ITEMSHOP_BUY_ITEM_WITH_AMOUNT_QUESTION	Do you want to buy %sx %s by %d %s?	
+ITEMSHOP_BUY_TEXT	Wanna buy |cffF7BD48%s|r ?	
+ITEMSHOP_BUY_TEXT_COUNT	Wanna buy |cffF7BD48%sx%d|r ?	
+ITEMSHOP_CANCEL_CHANGE_PRICE	Cancel	
+ITEMSHOP_CATEGORY_DISCOUNT_QUESTION	Are you sure that you want to apply a discount of %d%% in this category %dH, %dM and %dS?	
+ITEMSHOP_CHANGE_PRICE_QUESTION	Are you sure you want to change the price of this article?	
+ITEMSHOP_CHANGE_PRICE_TOOLTIP_BUTTON	Change price	
+ITEMSHOP_COINS	COINS:	
+ITEMSHOP_COUNT	Amount	
+ITEMSHOP_DATE	Date: %s	
+ITEMSHOP_DELETE_ITEM_QUESTION	Are you sure you want to eliminate this element?	
+ITEMSHOP_DELETE_ITEM_TOOLTIP_BUTTON	Eliminate element	
+ITEMSHOP_DISCOUNT_WEEK	Discounts of the week	
+ITEMSHOP_DRAGONCOINT	Dragon Coins	
+ITEMSHOP_DRSSHOP_COIN	VC's	
+ITEMSHOP_DRSSHOP_NAME	-	
+ITEMSHOP_HOME_NAME	home	
+ITEMSHOP_HOTITEMS	|Eishop/hot|ePOPULAR	
+ITEMSHOP_HOUR	Hours	
+ITEMSHOP_HOURS_MINUTES_SECONDS	%dH %dM %dS	
+ITEMSHOP_ISHOP_COIN	MD's	
+ITEMSHOP_ISHOP_NAME	Shop	
+ITEMSHOP_ITEMSEARCH_DEFAULT_TEXT	Search the itemshop ...	
+ITEMSHOP_ITEM_AMOUNT	You.	
+ITEMSHOP_ITEM_DISCOUNT_QUESTION	Are you sure you want to apply a discount of %of %to %s for %dH, %dM and %dS?	
+ITEMSHOP_LAST_COUNT	Remaining amount: %d	
+ITEMSHOP_LAST_DISCOUNTS	Last Discouts	
+ITEMSHOP_LOAD	Loading data ...	
+ITEMSHOP_LOGS_NAME	Logs	
+ITEMSHOP_MAIN_BUTTON	Start	
+ITEMSHOP_MOST_BOUGHT_ITEMS	Most Bought Items	
+ITEMSHOP_NEW_PRICE_TITLE	New price:	
+ITEMSHOP_OFFERS	|Eishop/offer|e OFFERS	
+ITEMSHOP_PRICE	Price	
+ITEMSHOP_PRICE_NEW	|Eishop/mini_coin|e %s Coins	
+ITEMSHOP_PRICE_ONLY_TEXT	%s Coins	
+ITEMSHOP_PRICE_TITLE_BOX	Price: %d %s	
+ITEMSHOP_PRICE_WITH_DISCOUNT	|Eishop/mini_coin|e |cffFF7B7B%s Coins (%d%%)	
+ITEMSHOP_PURCHASES	SHOPPING	
+ITEMSHOP_SEARCH_TEXT	Seek...	
+ITEMSHOP_SEARCH_TOOLTIP_BUTTON	Seek	
+ITEMSHOP_SHOP_BUTTON	Item store	
+ITEMSHOP_SHOP_TITLE	Shop:	
+ITEMSHOP_TITLE_NAME	Item Shop	
+ITEMSHOP_TITLE_PANEL	Item Shop	
+ITEMSHOP_TOP_SELL	Best -selling objects	
+ITEMSHOP_UPDATE_COINS_TOOLTIP_BUTTON	Update coins	
+ITEMSHOP_WHEEL	|Eishop/wheel_icon|e Roulette	
+ITEMSHOP_WHEEL_BACK_ISHOP	Itemhop go back	
+ITEMSHOP_WHEEL_COIN_TEXT	 |Eishop/coin|e    Price: 10 Coins	
+ITEMSHOP_WHEEL_COIN_TEXT_INFO	You will use |cffF7BD48Coins|r to spin.	
+ITEMSHOP_WHEEL_NAME	Fate wheel	
+ITEMSHOP_WHEEL_PRICE1	Price	
+ITEMSHOP_WHEEL_PRICE2	10 coins	
+ITEMSHOP_WHEEL_PURCHASE	|Eishop/wheel_icon|e  |cffF7BD48Fortune roulette|r	
+ITEMSHOP_WHEEL_SKIP_ANIMATION	Skip animation	
+ITEMSHOP_WHEEL_TICKET_TEXT	|Eishop/wheel_ticket|e x1 ticket	
+ITEMSHOP_WHEEL_TICKET_TEXT_INFO	Your are using |cffF7BD48Roulette ticket|r to spin.	
+ITEM_DROP_EVENT	Drop event of objects: %d%%	
+JANUARY	January	
+JOB_ASSASSIN	Ninja
+JOB_ASSASSIN0	None
+JOB_ASSASSIN1	Blade Ninja
+JOB_ASSASSIN2	Archery Ninja
+JOB_SHAMAN	Shaman
+JOB_SHAMAN0	None
+JOB_SHAMAN1	Dragon Shaman
+JOB_SHAMAN2	Healing Shaman
+JOB_SURA	Sura
+JOB_SURA0	None
+JOB_SURA1	Weaponry Sura
+JOB_SURA2	Magic Sura
+JOB_WARRIOR	Warrior
+JOB_WARRIOR0	None
+JOB_WARRIOR1	Body Warrior
+JOB_WARRIOR2	Mental Warrior
+JOB_WOLFMAN	Lycan
+JOB_WOLFMAN0	Amateur Lycan
+JOB_WOLFMAN1	Instinct
+JOB_WOLFMAN2	N.A.
+JULY	July	
+JUNE	June	
+KEY_A	A	
+KEY_D	D	
+KEY_E	AND	
+KEY_L	L	
+KEY_N	N	
+KEY_S	S	
+KEY_V	V	
+LEFT_TIME	Time remaining	
+LOGIN_CONNECT_FAILURE	Error while connecting to the server.
+LOGIN_CONNECT_SUCCESS	You have been connected to the server.
+LOGIN_CONNETING	Please wait while you are connected to the server.
+LOGIN_FAILURE_ALREAY	Your account is already connected.
+LOGIN_FAILURE_BACKEND_ERR	An error has occurred. Please contact Support.
+LOGIN_FAILURE_BE_SAME_KEY	Registration problem.
+LOGIN_FAILURE_BLOCK_ID	This account has been blocked.
+LOGIN_FAILURE_BLOCK_LOGIN	Closed server: only accounts created before the closure may enter. Please choose another one!
+LOGIN_FAILURE_COUNTRY_ERR	The country code is incorrect.\nPlease contact Support.
+LOGIN_FAILURE_INTEGRTING	This account is currently being merged. Please try again later.
+LOGIN_FAILURE_IOVATION_ERR	Please activate the two-factor authentication to access this server.
+LOGIN_FAILURE_NOBILL	The account has no playing time.
+LOGIN_FAILURE_NOT_AVAIL	The account is not available.
+LOGIN_FAILURE_NOT_EXIST_ID	Account name or password incorrect.
+LOGIN_FAILURE_NOT_MAIL_CONFIRM	You must verify your account by email.
+LOGIN_FAILURE_REPAIR_ID	Items have been restored for this account.
+LOGIN_FAILURE_SAMELOGIN	Somebody has connected to your account.
+LOGIN_FAILURE_SERVER_GRADE	This account unfortunately cannot access this exclusive server.
+LOGIN_FAILURE_SHUTDOWN	The server is not open yet.
+LOGIN_FAILURE_STEAM_SESSION	Closed to new registrations and migrated Metin2 accounts.
+LOGIN_FAILURE_TNT_SESSION	The client cannot be opened. Please restart the launcher and log in.
+LOGIN_FAILURE_TOO_MANY_USER	You could not connect because too many players are online.
+LOGIN_FAILURE_UNKNOWN	You could not register for unknown reasons.
+LOGIN_FAILURE_WEB_BLOCK	You have been blocked at the website. Please check your EMails.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER	You entered a wrong number.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE	You entered a wrong number three times. /n Your connection will be disabled.
+LOGIN_FAILURE_WRONG_PASSWORD	Account name or password incorrect.
+LOGIN_INPUT_ID	Enter the ID.
+LOGIN_INPUT_PASSWORD	Enter the password.
+LOGIN_PROCESSING	Logging in...
+MALL_CANNOT_INSERT	You can't put the object.	
+MALL_PASSWORD_TITLE	Password	
+MAP_A1	Yongan Area	
+MAP_A2	Seungryong Valley	
+MAP_A3	Yayang Area	
+MAP_AG	Jungrang	
+MAP_B1	Joan Area	
+MAP_B2	IMJI Valley	
+MAP_B3	Bokjung Area	
+MAP_BAY	Nephrit bahia	
+MAP_BG	Waryong	
+MAP_C1	Pyungmoo Area	
+MAP_C2	Bangsan Valley	
+MAP_C3	Bakra Area	
+MAP_CAPE	Cabo del Dragon de Fuego	
+MAP_CG	IM Ha	
+MAP_DAWN	Gautama cliff	
+MAP_DESERT	Yongbi desert	
+MAP_FLAME	Doyumhwan	
+MAP_NUSLUCK	Land of giants	
+MAP_SKELTOWER	Gumsan Tower	
+MAP_SNOW	Monte Sohan	
+MAP_SPIDER	Kuahlo Dong	
+MAP_TEMPLE	Hwang temple	
+MAP_THUNDER	Thunder mountains	
+MAP_TREE	Lungsam	
+MAP_TRENT	Ghost Forest	
+MAP_TRENT02	Red Forest	
+MAP_WL	Snake field	
+MARCH	March	
+MAY	May	
+MESSENGER_ADD_FRIEND	Add Friend
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1	%s added you as a friend.
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2	Accept?
+MESSENGER_DO_YOU_DELETE	Delete?
+MESSENGER_DO_YOU_DELETE_PHONE_NUMBER	Do you want to delete the cell phone number?
+MESSENGER_EMPTY_LIST	Empty
+MESSENGER_FAMILY	Family
+MESSENGER_FRIEND	Friends
+MESSENGER_GUILD	Guild
+MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION	Introduce the confirmation code that was sent to your mobile phone.	
+MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE	Intruduce confirmation number	
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1	Enter the mobile phone number for sending the text message.	
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2	Do you want to enter the number now?	
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE	Introduce mobile number.	
+MESSENGER_SEND_MOBILE_MESSAGE_TITLE	Send Message.	
+MINIMAP	Open Mini Map
+MINIMAP_BOSS_TOOLTIP	[Respawn: %s]
+MINIMAP_CANNOT_SEE	Mini Map cannot be seen.
+MINIMAP_CAN_NOT_SHOW_AREAMAP	Large Map cannot be shown.
+MINIMAP_DEC_SCALE	Zoom out
+MINIMAP_INC_SCALE	Zoom in
+MINIMAP_OBSERVER_COUNT	%d observers
+MINIMAP_SHOW_AREAMAP	Open Large Map
+MINUTE	Minutes	
+MISSION_BOSS	Chief hunter	
+MISSION_BOSS_DESC	Kill all the bosses required for \ncomplete the mission	
+MISSION_BOSS_SUB	Boss	
+MISSION_CATCH_FISH	The fisherman	
+MISSION_CATCH_FISH_DESC	Capture the required amount of fish \n to complete the mission.	
+MISSION_CATCH_FISH_SUB	Fish	
+MISSION_COMPLETED	Completed:	
+MISSION_COMPLETED_COUNT	Completed missions: %d	
+MISSION_CRAFT_GAYA	Gaya crack	
+MISSION_CRAFT_GAYA_DESC	Craftea the required gay object	
+MISSION_CRAFT_ITEM	Improve objects	
+MISSION_CRAFT_ITEM_DESC	Level an object with blessing \n to complete the mission	
+MISSION_CRAFT_ITEM_SUB	Object to craft:	
+MISSION_DATE_TEXT	Name: %s %d	
+MISSION_DESTROY_ITEM	Destroy objects	
+MISSION_DESTROY_ITEM_DESC	Destroy the object required for \ncomplete the mission.	
+MISSION_DUNGEON	Complete dungeons	
+MISSION_DUNGEON_DESC	Perform the dungeon required to \nacabar the mission.	
+MISSION_DUNGEON_SUB	Dungeon	
+MISSION_EARN_MONEY	Gold collector	
+MISSION_EARN_MONEY_DESC	Steal yang to the mobs to achieve \nthe required yang and complete the mission.	
+MISSION_FEED_PET	Feed your pet	
+MISSION_FEED_PET_DESC	Feed your pet so that it does not die	
+MISSION_KILLPLAYER	Kill players	
+MISSION_KILLPLAYER_DESC	Kill players to complete the mission	
+MISSION_LEFT_TIME	Time: %s	
+MISSION_LEVEL_UP	Level rise	
+MISSION_LEVEL_UP_DESC	Increase your slight level.	
+MISSION_MONSTER	Kill monsters	
+MISSION_MONSTER_DESC	Kill the required monsters you can to \nfinish the quest.	
+MISSION_MONSTER_SUB	Monster	
+MISSION_MOUNT_TIME	The horseman	
+MISSION_MOUNT_TIME_DESC	Get on the required time.	
+MISSION_NONE	Unknown mission	
+MISSION_OPEN_OFFLINESHOP	Open offline store	
+MISSION_OPEN_OFFLINESHOP_DESC	Open an offline store	
+MISSION_PLAYTIME	Active player	
+MISSION_PLAYTIME_DESC	Accumulates the amount of minutes required \n to complete the mission.	
+MISSION_REFINE_ALCHEMY	Improve your alchemy	
+MISSION_REFINE_ALCHEMY_DESC	Improve your alchemy to complete the mission	
+MISSION_REFINE_ITEM	Improves an object	
+MISSION_REFINE_ITEM_DESC	Improves the required object	
+MISSION_REFINE_ITEM_SUB	Object	
+MISSION_REMAINING	Amount:	
+MISSION_SASH	Sashes	
+MISSION_SASH_DESC	Combine all the required sashes	
+MISSION_SELL_ITEM	Sell ??objects	
+MISSION_SELL_ITEM_DESC	Sell ??the required object	
+MISSION_SHOUT_CHAT	Use the global chat	
+MISSION_SHOUT_CHAT_DESC	chat with the other players \nusing global chat to complete the mission.	
+MISSION_SPEND_MONEY	Merchant	
+MISSION_SPEND_MONEY_DESC	Spend the Yang required on an NPC for \ncomplete the mission.	
+MISSION_SPRITE_STONE	Add stones	
+MISSION_SPRITE_STONE_DESC	Add stones to objects	
+MISSION_STATUS_ACTIVE	|cff00ff00Status: Active	
+MISSION_STATUS_DONE	|cff00ff00Status: Completed	
+MISSION_STATUS_NOT_ACTIVE	|cffff0000Status: ¡Not actived!	
+MISSION_STONE	Metines Destroyer	
+MISSION_STONE_DESC	Destroys the amount of metines required \n to complete the mission.	
+MISSION_SUB_ALL	Any	
+MISSION_TASK_COUNT	Total missions: %d	
+MISSION_USE_EMOTICON	Use emotions	
+MISSION_USE_EMOTICON_DESC	Use emotions to complete the mission	
+MISSION_WHISPER	Send mp	
+MISSION_WHISPER_DESC	Send MPS to other players	
+MONETARY_COMBAT_ZONE	Points	
+MONETARY_UNIT0	Yang
+MONEY_INPUT_DIALOG_SELLPRICE	Sale price:	
+MOONLIGHT_EVENT	Moonlight boxes	
+RAMADAN_EVENT	Ramadan Event
+MOUNT_DOYUMHWAN_MAP_NAME	Doyumhwan	
+MOUNT_SOHAN_MAP_NAME	Sohan mountain	
+MOUNT_YONGBI_MAP_NAME	Jongbi desert	
+MOVE_CHANNEL_CANCEL	Cancel	
+MOVE_CHANNEL_SELECT	Ok	
+MOVE_CHANNEL_TITLE	Channels	
+MOVE_ITEM_FAILURE_PRIVATE_SHOP	You cannot move any object while you have a private store open.	
+MULTI_FARM_ACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFF This character has the drop activated!
+MULTI_FARM_ACTIVE_TEXT	Do you want to activate the Multi-Farm?	
+MULTI_FARM_DEACTIVE_CHAT	|cff00A8EB[Multi-Farm]|r |cffFFFFFF You have deactivated the drop for this character!|r
+MULTI_FARM_DEACTIVE_TEXT	Do you want to deactivate Multi-Farm?	
+MULTI_FARM_PREMIUM_EFFECT	Increase characters to farm +%d	SA
+MULTI_FARM_TEXT	|Eemoji/key_lclick|eClick to ON/OFF Multi-Farm.	
+MULTI_FARM_TITLE	Multi-Farm block	
+MUSIC_EMPTY_MUSIC_LIST	No Backgroundmusic.
+MUSIC_METIN2_DEFAULT_THEMA	M2365 Standard music
+MUSIC_NOT_SELECT_MUSIC	No Music file chosen.
+NAME_INPUT_PRICE	Price: 100k	
+NAME_INPUT_TEXT	Rename	
+NAME_PET_INPUT_TEXT	Name of your pet	
+NEEFD_REST	You must rest first.	
+NEW_AFFECT_DECORATION	Kashmir pack	SNA
+NOBONUS	[Without bonus]	
+NONE_AFFECT	Without effect	
+NORMAL_EVENT_TIME	From the: %s to: %s	
+NOT_YET_SUPPORT	Not yet supported	
+NOVEMBER	November	
+NPC_SEARCH	Search the NPC	
+NPC_SEARCH_TEXT	Respawnea on the following maps:	
+OCTOBER	October	
+OFFLINESHOP_ACCEPT	Yes	
+OFFLINESHOP_ADD_TIME_DIALOG	Increase 12h. Cost: %s	
+OFFLINESHOP_BUY_DIALOG	Buy item	
+OFFLINESHOP_CANCEL	Cancel	
+OFFLINESHOP_CANNOT_SELL_ITEM	This item cannot be sold	
+OFFLINESHOP_CLOSE	Close Shop
+OFFLINESHOP_CREATE	Create Shop
+OFFLINESHOP_CLOSE_DIALOG	Do you want to close your offline store?	
+OFFLINESHOP_GET_BACK_ITEMS	Do you want to get back items?	
+OFFLINESHOP_INPUT_PRICE_DIALOG_TITLE	Price	
+OFFLINESHOP_LOGS	Sales	
+OFFLINESHOP_LOG_TEXT	|cffe5d500%s|r date |cffe5d500%s[%sYang]|r item buying from. |cffe5d500%s|r
+OFFLINESHOP_LOG_TEXT_COUNT	|cffe5d500%s|r date |cffe5d500x%d%s[%s] Yang|r item buying from |cffe5d500%s|r
+OFFLINESHOP_MESSAGE	You have sold %s by %s yang	
+OFFLINESHOP_MESSAGE_WITH_COUNT	You have sold x%d%s by %s yang	
+OFFLINESHOP_REMOVE_LOGS	Do you want to delete records?	
+OFFLINESHOP_SEEN	Visualizations: %d Total: %d	
+OFFLINE_SHOP_ITEM_SOLD	Item sold!	
+OFFLINE_SHOP_ITEM_SOLD2	[Bought by: %s]	
+OFFLINE_SHOP_TITLE	Shop	
+OK	Ok	
+ONLY_CHANNEL	Only in CH %d	
+OPTION_PVPMODE_CANNOT_SET_GUILD_MODE	You cannot activate Guild Mode when you do not belong to a Guild.
+OPTION_PVPMODE_NOT_SUPPORT	You cannot choose this configuration in PvP Mode.
+OPTION_PVPMODE_PROTECT	You need to have at least Level %d to be able to change the PvP Mode.
+OPTION_SALESTEXT_RANGE	Range Titles Stores	
+PARTY_BONUS_ATTACKER	Attack Value: +%d	SA
+PARTY_BONUS_BERSERKER	Attck Speed: +%d	SA
+PARTY_BONUS_BUFFER	Skill Duration: +%d	SA
+PARTY_BONUS_DEFENDER	Defence +%d%%	SA
+PARTY_BONUS_EXP	Bonus EXP: %d%%	SA
+PARTY_BONUS_SKILL_MASTER	HP recovery per kill +%d%%	SA
+PARTY_BONUS_TANKER	Max. HP: +%d	SA
+PARTY_BREAK_UP	Delete Group
+PARTY_DO_YOU_ACCEPT	would like to join the Group.
+PARTY_DO_YOU_JOIN	has invited you to join his group. Accept?
+PARTY_EXP_DISTRIBUTION_MODE	EXP Distribution
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL	Level dependant
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP	Higher level group members receive more EXP.
+PARTY_EXP_DISTRIBUTION_MODE_PARITY	even
+PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP	All Group members receive the same EXP.
+PARTY_HEAL_ALL_MEMBER	Restore everything.	
+PARTY_INCREASE_AREA_150	Range of the group heightened of the factor 1.5 .	SNA
+PARTY_INCREASE_AREA_200	Range of the group heightened of the factor 2.	SNA
+PARTY_LEAVE	Leave group
+PARTY_MEMBER_OFFLINE	[Offline]
+PARTY_RECALL_MEMBER	Call group member.
+PARTY_REQUEST_DENIED	Your request has been declined.
+PARTY_SET_ATTACKER	Constitute as Attacker.
+PARTY_SET_BERSERKER	Constitute as Berserker.
+PARTY_SET_BUFFER	Constitute as Blocker.
+PARTY_SET_DEFENDER	Constitute as Defender.
+PARTY_SET_NORMAL	Withdraw settings.
+PARTY_SET_SKILL_MASTER	Constitute as Skill Master.
+PARTY_SET_TANKER	Constitute as blade fighter
+PARTY_SKILL_ATTACKER	Base Attack Value Attacker +%.0f
+PARTY_SKILL_BERSERKER	Attack Speed Berserker +%.0f
+PARTY_SKILL_BUFFER	Skill Duration Blocker +%.0f
+PARTY_SKILL_DEFENDER	Defence as Defender +%.0f%%
+PARTY_SKILL_SKILL_MASTER	HP regeneration as Skill Master +%.0f%%
+PARTY_SKILL_TANKER	Max. HP blade fighter +%.0f
+PARTY_SKILL_WARP	Possible to call group members.
+PASSWORD_TITLE	Storeroom password
+PET_ADD_SLOT_QUESTION	Do you want to unlock this slot?	
+PET_DIALOG	You can't use this with the current level of your pet! Necessary level: %d.	
+PET_GUI_AGE	Evolve	
+PET_GUI_BONUSES	Passive bonus	
+PET_GUI_BRAVE	Brave	
+PET_GUI_DURATION	Remaining time	
+PET_GUI_EVOLVE_BTN	Evolve	
+PET_GUI_EXPERIENCE	Experience	
+PET_GUI_HERO	Heroic	
+PET_GUI_PETSKILL	Skills	
+PET_GUI_TITLE	Your pet's information	
+PET_GUI_WILD	Wild	
+PET_GUI_YOUNG	Young	
+PET_PROTEIN_QUESTION_TEXT	Add life to your pet?	
+PET_REMOVE_QUESTION_TEXT	Forget all the skills?	
+PET_REMOVE_SLOT_QUESTION	Do you want to erase the skill (%s)?	
+PET_SKIL_1	Metin Manual
+PET_SKIL_10	Esoterica Manual
+PET_SKIL_11	Undead Manual
+PET_SKIL_12	Demons Manual
+PET_SKIL_13	Experience Manual
+PET_SKIL_14	Drop Manual
+PET_SKIL_15	Yang Manual
+PET_SKIL_16	Human M.Manual
+PET_SKIL_17	Manual Res M.Human
+PET_SKIL_18	Human Damage Manual
+PET_SKIL_19	Human Damage Manual Res.
+PET_SKIL_2	Monsters Manual
+PET_SKIL_20	Media Manual
+PET_SKIL_21	Average Res. Manual
+PET_SKIL_22	Anti-Critical Manual
+PET_SKIL_23	Anti Penetration Manual
+PET_SKIL_24	Spell Speed Manual
+PET_SKIL_25	Blocking Manual
+PET_SKIL_26	Poison Res. Manual
+PET_SKIL_27	Ice Manual
+PET_SKIL_28	Earth Manual
+PET_SKIL_29	Darkness Manual
+PET_SKIL_3	Bosses Manual
+PET_SKIL_4	Force Manual
+PET_SKIL_5	Intelligence Manual
+PET_SKIL_6	Dexterity Manual
+PET_SKIL_7	Life Manual
+PET_SKIL_8	Animal Manual
+PET_SKIL_9	Orcs Manual
+PICK_ITEM_TITLE	Item Number
+PICK_MONEY_TITLE	Sum
+PRIVATESHOPSEARCH_BOOKS	Books	
+PRIVATESHOPSEARCH_COSTUME	Costumes	
+PRIVATESHOPSEARCH_COSTUMES	Cosmetics	
+PRIVATESHOPSEARCH_COUNT	Amount	
+PRIVATESHOPSEARCH_DRAGONSOULALCHEMY	Dragon Alquimias	
+PRIVATESHOPSEARCH_EQUIPMENT	Equipment	
+PRIVATESHOPSEARCH_ITEMNAME	item name	
+PRIVATESHOPSEARCH_OTHERITEMS	Other objects	
+PRIVATESHOPSEARCH_PET	Pet System	
+PRIVATESHOPSEARCH_PETS	Pets	
+PRIVATESHOPSEARCH_SEARCH_BAR	Global search	
+PRIVATESHOPSEARCH_SELLER	Seller	
+PRIVATESHOPSEARCH_WEAPON	Weapons	
+PRIVATE_SHOP_CANNOT_SELL_ITEM	You cannot sell this object in the private store.	
+PRIVATE_SHOP_CLOSE_QUESTION	Do you want to close the private store?	
+PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE	Price	
+PURCHASES_ACCOUNTID	ID account	
+PURCHASES_DATE	Date	
+PURCHASES_IP	IP	
+PURCHASES_ITEMBOUGHT	Purchased object	
+PURCHASES_PRICE	Price	
+PURCHASES_PRICE_TEXT	|Eishop/mini_coin|e |cfff7bd48%s dragon coins	
+PVP_EVENT_TIME	Start in: %s	
+PVP_LEVEL0	Chivalric
+PVP_LEVEL1	Noble
+PVP_LEVEL2	Good
+PVP_LEVEL3	Friendly
+PVP_LEVEL4	Neutral
+PVP_LEVEL5	Aggressive
+PVP_LEVEL6	Fraudulent
+PVP_LEVEL7	Malicious
+PVP_LEVEL8	Cruel
+PVP_MODE_GUILD	PvP - Guild activated
+PVP_MODE_KILL	PvP - Free activated
+PVP_MODE_NORMAL	PvP - Peace activated
+PVP_MODE_PROTECT	PvP - Protection activated
+PVP_MODE_REVENGE	PvP - Hostile activated
+PVP_OPTION_KILL	Free
+PVP_OPTION_NORMAL	Peace
+PVP_OPTION_PROTECT	Protection
+PVP_OPTION_REVENGE	Hostile
+QUEST_MIN	Min.
+QUEST_SEC	Sec.
+QUEST_TIMEOVER	Time Expired
+QUEST_UNLIMITED_TIME	No time limit.
+QUICKSLOT_REGISTER_DISABLE_ITEM	This Item cannot be added to the Fast Access Field.
+RANKING	Rank	
+RARITY_BROKEN_TEXT	|cffFF5D5DBroken Item|r\mAn item you have equipped has broken, repair it.	
+RARITY_LOW_TEXT	|cffFFC800An item is about to break |r\mYou have an object with%d%% Use\m Repair it before it breaks.	
+RECEIVE_MESSAGE	%s sent you a message.
+RED_KINGDOM	|cFFFBB497Shinsoo:|h|r	
+REFINE_COST	Cost: %d Yang	
+REFINE_COST_UPGRADE	[i] Improvement price	
+REFINE_CURRENT_ITEM	[i] current objection	
+REFINE_CURRENT_PERCENTAGE	[i] Probability of improvement:%d%%	
+REFINE_DESTROY_WARNING	This Item could be destroyed while upgrading.
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1	Do you really want to upgrade this item?
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2	If you fail, the item will be destroyed. Do you want to continue?
+REFINE_DOWN_GRADE_WARNING	The Item could be down graded this way.
+REFINE_DO_YOU_SEPARATE_METIN	Do you want to remove all available spirit stones?
+REFINE_ELEMENT_CHANGE_TEXT	%s now has the %s element!
+REFINE_ELEMENT_DOWNGRADE_TEXT	The elemental enchantment has been downgraded.
+REFINE_ELEMENT_TEXT_DARK	Darkness +%d
+REFINE_ELEMENT_TEXT_EARTH	Earth +%d
+REFINE_ELEMENT_TEXT_ELECT	Lightning +%d
+REFINE_ELEMENT_TEXT_FIRE	Fire +%d
+REFINE_ELEMENT_TEXT_ICE	Ice +%d
+REFINE_ELEMENT_TEXT_WIND	Wind +%d
+REFINE_ELEMENT_UPGRADE_FAIL_TEXT	Elemental enchantment failed.
+REFINE_ELEMENT_UPGRADE_SUCCESS_TEXT	Elemental enchantment successful!
+REFINE_ERROR_ADD_PERC_STONES	[Refine] You cannot increase the percentage of success of the stones.	
+REFINE_ERROR_ITEM_COUNT	[Refine] can add only 1 count, no more.	
+REFINE_ERROR_ITEM_OVERFLOW_PERCENTAGE	[Refine] The total percentage is above 100, you can't do that.	
+REFINE_ERROR_ITEM_VNUM	[Refine] You can't add this article	
+REFINE_FAILURE	Oh no, that didn't work! We've failed.
+REFINE_FAILURE_CAN_NOT_ATTACH	%s cannot be included in that Item.
+REFINE_FAILURE_CAN_NOT_ATTACH0	There is no way to add %s.	
+REFINE_FAILURE_EQUIP_ITEM	You cannot upgrade equipped Items.
+REFINE_FAILURE_METIN_INSEPARABLE_ITEM	No spirit stone can be taken away.
+REFINE_FAILURE_NEED_BETTER_SCROLL	You need a better Advancement Scroll.
+REFINE_FAILURE_NO_GOLD_SOCKET	There is no Gold socket to include %s .
+REFINE_FAILURE_NO_MORE_SOCKET	You cannot add any more sockets.
+REFINE_FAILURE_NO_SOCKET0	There is no free socket for the %s.
+REFINE_FAILURE_SOCKET_DISABLE_ITEM	You cannot add any more sockets to this item.
+REFINE_FAILURE_UPGRADE_DISABLE_ITEM	This Item cannot be upgraded.
+REFINE_INCREASE_PERCENTAGE	[Extra +%d%%]	
+REFINE_NEED_ITEMS	[i] necessary objects	
+REFINE_NEXT_ITEM	[i] Improved object	
+REFINE_PERCENTAGE_EXTRA	fifteen%	
+REFINE_PERCENTAGE_LOW	5%	
+REFINE_PERCENTAGE_MEDIUM	10%	
+REFINE_SUCCESS	The advancement of the Item was successful.
+REFINE_SUCCESS_PROBALITY	Chance for Advancement %d%%
+REFINE_TOOLTIP_ITEM_DESCRIPTION_1	
+REFINE_TOOLTIP_ITEM_DESCRIPTION_2	
+REFINE_TOOLTIP_ITEM_DESCRIPTION_3	
+REFINE_TOOLTIP_ITEM_DESCRIPTION_4	
+REFINE_WARNING2	Do you want to continue?
+REVIVE_AUTO_TOWN_MESSAGE	Auto revive in: {}	
+SAFEBOX_ERROR	You have introduced an incorrect password.	
+SAFEBOX_SELL_DISABLE_SAFEITEM	You cannot sell any of the stored objects.	
+SAFEBOX_WRONG_PASSWORD	Passwords must be identical.	
+SASH_ABSORB_CHANCE	Absorption:%d%%	
+SASH_ABSORB_CHANCE2	Absorption: %d%% ~ %d%%	
+SASH_DEL_ABSORDITEM	Absorb item, the absorbed object will be destroyed.	
+SASH_DEL_SERVEITEM	The second sash is destroyed if the process fails	
+SASH_DO_YOU_CLEAN	Do you want to get rid of bonus?	
+SASH_FAILURE_CLEAN	Bonus cannot be removed.	
+SASH_REFINE_COST	Absorption price: %d	
+SAVED_ACCOUNT	Saved Accounts
+SAVE_ACCOUNT	Save Account
+SCREENSHOT_SAVE1	It is saved in	
+SCREENSHOT_SAVE2	Screen capture file.	
+SCREENSHOT_SAVE_FAILURE	Failed screen capture saved.	
+SEARCH_BONUS	With bonus	
+SEARCH_DEFAULT	Default	
+SEARCH_NOBONUS	Without bonus	
+SECOND	Sec	
+SELECT_CAN_NOT_DELETE	You can't erase this character.	
+SELECT_CHANGED_NAME	You changed the name of the character.	
+SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME	The character name is already existing.
+SELECT_CHANGE_FAILURE_STRANGE_INDEX	Try again.
+SELECT_CHANGE_FAILURE_STRANGE_NAME	That is the wrong character name.
+SELECT_CHANGE_NAME_TITLE	Change character name.
+SELECT_DELEING	Deleting...
+SELECT_DELETED	Deletion successful.
+SELECT_DO_YOU_DELETE_REALLY	Do you want to continue?
+SELECT_EMPTY_SLOT	This is an empty field.	
+SELECT_INPUT_CHANGING_NAME	Intruded a new character name.	
+SELECT_UNKNOWN_LANG	This language is not currently available.	
+SEPTEMBER	September	
+SERVERNAME	Ava2 Remastered
+SERVERNAMETEST	Server test	
+SERVER_TIME	Server Time
+SHIP_MAST	Mast	
+SHOP_BUY_INFO	Choose the Item you want to buy in the shop window.
+SHOP_CANNOT_SELL_ITEM	This Item cannot be sold.
+SHOP_ERROR_UNKNOWN	Unknown Shop Error: %s
+SHOP_EXCEED_LIMIT_TODAY	You've already exceeded your daily limit for using points.
+SHOP_INVALID_POS	This Item cannot be used here.
+SHOP_INVENTORY_FULL	Your inventory is full.
+SHOP_NOT_ENOUGH_BATTLE_POINT	You don't have enough combat points.	
+SHOP_NOT_ENOUGH_COUNT	You don't have enough objects.	
+SHOP_NOT_ENOUGH_MONEY	You don't have enough yang	
+SHOP_NOT_ENOUGH_MONEY_EX	You don't have enough Yang.	
+SHOP_SEARCH_TITLE	Item search	
+SHOP_SELL_INFO	Choose the object you want to sell in your inventory window.	
+SHOP_SOLDOUT	Sold out	
+SHOT_ERROR_UNKNOWN	Unknown error during long -distance attack: %s	
+SKILL_BLEEDING	Bleeding
+SKILL_BOHO	Reflect
+SKILL_CHEONGEUN	Strong Body
+SKILL_EUNHYEONG	Camouflage
+SKILL_FIRE	Permanent Fire
+SKILL_FISHMIND	Fishing Marble is active
+SKILL_GEOMGYEONG	Aura of the Sword
+SKILL_GICHEON	Dragon's Aid
+SKILL_GONGPO	Fear
+SKILL_GRADE_NAME_GRAND_MASTER	%s Grand Master
+SKILL_GRADE_NAME_MASTER	%s Master
+SKILL_GRADE_NAME_PERFECT_MASTER	%s Perfect Master
+SKILL_GROUP_ASSASSIN_1	Blade
+SKILL_GROUP_ASSASSIN_2	Arc
+SKILL_GROUP_HORSE	Riding
+SKILL_GROUP_SHAMAN_1	Dragon
+SKILL_GROUP_SHAMAN_2	Healing
+SKILL_GROUP_SURA_1	Weapon
+SKILL_GROUP_SURA_2	Magic
+SKILL_GROUP_WARRIOR_1	Body
+SKILL_GROUP_WARRIOR_2	Mental
+SKILL_GWIGEOM	Enchanted Blade
+SKILL_GYEONGGONG	Feather Walking
+SKILL_HEUKSIN	Dark Protection
+SKILL_HOSIN	Blessing
+SKILL_INC_ATKSPD	Attack speed raised
+SKILL_INC_MOVSPD	Movement speed raised
+SKILL_JEONGWI	Berserk
+SKILL_JEUNGRYEOK	Attack +
+SKILL_JUMAGAP	Enchanted Armour
+SKILL_KWAESOK	Speed
+SKILL_MUYEONG	Ghost of the Flame
+SKILL_NEED_EMPTY_BOTTLE	I do not have an Empty Bottle.
+SKILL_NEED_POISON_BOTTLE	I do not have a Poison Bottle
+SKILL_ONLY_FOR_GUILD_WAR	You can use this Skill during a Guild War only.
+SKILL_PABEOP	Neutralize Spell
+SKILL_POWERFUL_STRIKE	Dazing Attack
+SKILL_SLOW	Slow
+SKILL_STUN	Daze
+SKILL_SUMMON_DESCRIPTION	Chance of the Evocation: %d%%
+SKILL_TOOLTIP_INT	Intelligence
+SKILL_TOOLTIP_LEVEL	Level
+SKILL_TOXICDIE	Poisoning
+SNOWDUNGEON	Nemere Watchtower	
+SPIDERBARONESA	Spider Queen	
+STAT_MINUS_CON	Vitality Adjustment (Remaining chance: %d)
+STAT_MINUS_DEX	Dexterity Adjustment (Remaining Chance: %d)
+STAT_MINUS_INT	Intelligence Adjustment (Rest of Chance: %d)
+STAT_MINUS_STR	Strength Adjustment (Rest of Chance: %d)
+STAT_TOOLTIP_ACTION	Actions
+STAT_TOOLTIP_ATT	Attack Value
+STAT_TOOLTIP_ATT_SPEED	Attack speed
+STAT_TOOLTIP_BASE_LEVEL	Level
+STAT_TOOLTIP_CAST_SPEED	Casting speed
+STAT_TOOLTIP_CON	Increases HP and defence
+STAT_TOOLTIP_CONQUEROR_LEVEL	Champion Level
+STAT_TOOLTIP_DEF	Defence
+STAT_TOOLTIP_DEX	Increases attack and evasion
+STAT_TOOLTIP_DODGE_PER	Invasion
+STAT_TOOLTIP_EXP	EXP
+STAT_TOOLTIP_HP	HP
+STAT_TOOLTIP_IMG_CON	VIT: Increases HP and defence
+STAT_TOOLTIP_IMG_DEX	DEX: Increases attack and evasion
+STAT_TOOLTIP_IMG_INT	INT: Increases SP, magic attack and defence
+STAT_TOOLTIP_IMG_STR	STR: Increases attack value and damage
+STAT_TOOLTIP_INT	Increases SP, magic attack and defence
+STAT_TOOLTIP_LEVEL	Level
+STAT_TOOLTIP_MAG_ATT	Magic attack value
+STAT_TOOLTIP_MAG_DEF	Magical defence
+STAT_TOOLTIP_MOVE_SPEED	Movement speed
+STAT_TOOLTIP_PASSIVE	Relic Bonus
+STAT_TOOLTIP_POINT	Points
+STAT_TOOLTIP_REACTION	Reactions
+STAT_TOOLTIP_SHP	You will receive a smaller deduction on your maximum HP on Yohara.
+STAT_TOOLTIP_SIMMUNE	You will receive a smaller deduction on your resistance to status changes on Yohara.
+STAT_TOOLTIP_SMOVE	You will receive a smaller deduction on your movement speed on Yohara.
+STAT_TOOLTIP_SP	SP
+STAT_TOOLTIP_SPECIAL_ACTION	Special Actions
+STAT_TOOLTIP_SSTR	You will receive a smaller damage deduction on your attacks on Yohara.
+STAT_TOOLTIP_STAT	Values
+STAT_TOOLTIP_STR	Increases attack value and damage
+STAT_TOOLTIP_SUNGMA_HP	Changes HP depending on the enemy's Sung Ma's will (VIT) and the map
+STAT_TOOLTIP_SUNGMA_IMMUNE	Changes susceptibility to status effects depending on the enemy's Sung Ma's will (INT) and the map
+STAT_TOOLTIP_SUNGMA_MOVE	Changes movement speed depending on the enemy's Sung Ma's will (RES) and the map
+STAT_TOOLTIP_SUNGMA_STR	Changes attack depending on the enemy's Sung Ma's will (STR) and the map
+STAT_TOOLTIP_SUPPORT_SKILL	Secondary Skills
+STAT_TOOLTIP_TAB_CHARACTER	Character
+STAT_TOOLTIP_TAB_EMOTICON	Emotions
+STAT_TOOLTIP_TAB_QUEST	Quests
+STAT_TOOLTIP_TAB_SKILL	Skills
+SWITCHBOT_1	Active	
+SWITCHBOT_10	Close tab	
+SWITCHBOT_12	This slot has already been used!	
+SWITCHBOT_13	Added article!	
+SWITCHBOT_14	Condition	
+SWITCHBOT_15	Maximize	
+SWITCHBOT_16	Minimize	
+SWITCHBOT_17	Drag the object here	
+SWITCHBOT_2	Changing	
+SWITCHBOT_3	Having	
+SWITCHBOT_4	Activate	
+SWITCHBOT_5	Finished	
+SWITCHBOT_7	Start changing	
+SWITCHBOT_8	None	
+SWITCHBOT_9	You can't change the bonus of this object	
+SWITCHBOT_CLEAR_ATTR	Remove	
+SWITCHBOT_CLEAR_CONFIGURATION	Remove	
+SWITCHBOT_CONFIGURATION_TITLE	Saved Bonus	
+SWITCHBOT_EMPTY_ATTR	Select bonus	
+SWITCHBOT_LOAD_CONFIGURATION	Use	
+SWITCHBOT_SAVE	Save	
+SWITCHBOT_SAVE_BUTTON	Save list	
+SWITCHBOT_SELECT_ATTR	Bonuses	
+SWITCHBOT_START	Start	
+SWITCHBOT_STOP	Stop	
+SWITCHBOT_TITLE	[F9] Switchbot	
+SYSTEM_DUNGEON_BUTTON	[F5] Dungeon info	
+SYSTEM_OPTION_CPU_TILING_1	The mode without superposition of the CPU can improve the speed of a more weak PC.	
+SYSTEM_OPTION_CPU_TILING_2	If there are problems with the graphics, select 'system option' or 'config.exe ‘	
+SYSTEM_OPTION_CPU_TILING_3	and change GPU mode without overlap.	
+SYSTEM_OPTION_GPU_TILING_1	The GPU mode without overlaps can be slow on a weakest PC.	
+SYSTEM_OPTION_GPU_TILING_2	If you have problems with the graphics, choose 'system options' or 'config.exe'	
+SYSTEM_OPTION_GPU_TILING_3	and change GPU mode without overlap	
+SYSTEM_WHISPER	[System]	
+TARGET_BUTTON_ACCEPT_FIGHT	Agree
+TARGET_BUTTON_AVENGE	Revenge
+TARGET_BUTTON_BUILDING_DESTROY	Destroy
+TARGET_BUTTON_DISMOUNT	Dismount
+TARGET_BUTTON_EMOTION_ALLOW	Emotions
+TARGET_BUTTON_EXCHANGE	Trading
+TARGET_BUTTON_EXCLUDE	Exclude
+TARGET_BUTTON_EXIT_OBSERVER	End Observer Mode
+TARGET_BUTTON_FIGHT	Duel
+TARGET_BUTTON_FRIEND	Friend
+TARGET_BUTTON_INVITE_GUILD	Guild Invitation
+TARGET_BUTTON_INVITE_PARTY	Group Invitation
+TARGET_BUTTON_LEAVE_PARTY	Leave Group
+TARGET_BUTTON_REQUEST_ENTER_PARTY	Join Group
+TARGET_BUTTON_VIEW_EQUIPMENT	Equipment
+TARGET_BUTTON_WHISPER	Whispering
+TARGET_INFO_DAMAGE	Damage: %s - %s	
+TARGET_INFO_EXP	Experience: %s	
+TARGET_INFO_GOLD_MIN_MAX	Yang: %s ~ %s	
+TARGET_INFO_MAINRACE	Race: %s	
+TARGET_INFO_MAX_HP	Max. HP: %s	
+TARGET_INFO_NEWRACE_DESERT	Desert	
+TARGET_INFO_NEWRACE_FIRE	Fire	
+TARGET_INFO_NEWRACE_ICE	Ice	
+TARGET_INFO_NEWRACE_INSECT	Insect	
+TARGET_INFO_NEWRACE_TREE	Tree	
+TARGET_INFO_NO_ITEM_TEXT	Without drop	
+TARGET_INFO_NO_RACE	No race	
+TARGET_INFO_RACE_ANIMAL	Animals	
+TARGET_INFO_RACE_DARK	Darkness	
+TARGET_INFO_RACE_DEVIL	Demons	
+TARGET_INFO_RACE_EARTH	land	
+TARGET_INFO_RACE_ELEC	Flash of lightning	
+TARGET_INFO_RACE_FIRE	Fire	
+TARGET_INFO_RACE_HUMAN	Human half	
+TARGET_INFO_RACE_ICE	Ice	
+TARGET_INFO_RACE_METIN	Metin stone	
+TARGET_INFO_RACE_MILGYO	Mystics	
+TARGET_INFO_RACE_ORC	Orcs	
+TARGET_INFO_RACE_UNDEAD	No dead people	
+TARGET_INFO_RACE_WIND	Wind	
+TARGET_INFO_RACE_ZODIAC	Zodiac
+TARGET_INFO_REGEN_INFO	Regen: %d%% Every %d Sec.	
+TARGET_INFO_RESIST	Defence:
+TARGET_INFO_RESISTS	Resistances:	
+TARGET_INFO_RESISTS_LINE0	Sword: %d%% two hands: %d%% Campana: %d%%	
+TARGET_INFO_RESISTS_LINE1	Daga: %d%% Fan: %d%% Arc: %d%%
+TARGET_INFO_RESIST_BELL	Bell: %d%%
+TARGET_INFO_RESIST_BOW	Bow: %d%%
+TARGET_INFO_RESIST_DAGGER	Dagger: %d%%
+TARGET_INFO_RESIST_FAN	Fan: %d%%
+TARGET_INFO_RESIST_MAGIC	Magic: %d%%
+TARGET_INFO_RESIST_SWORD	Sword: %d%%
+TARGET_INFO_RESIST_TWOHAND	Two-Hand: %d%%
+TARGET_INFO_STONE_NAME	Ghost stone	
+TARGET_INFO_SUBRACE	Subclass: %s	
+TARGET_LEVEL_BOSS	Boss
+TARGET_LEVEL_KING	Level 5.
+TARGET_LEVEL_KNIGHT	Level 3.
+TARGET_LEVEL_PAWN	Level 1.
+TARGET_LEVEL_S_KNIGHT	Level 4.
+TARGET_LEVEL_S_PAWN	Level 2.
+TASKBAR_ATTACK	Attack
+TASKBAR_AUTO	Attack automatically
+TASKBAR_CAMERA	Camera
+TASKBAR_EXP	Experience
+TASKBAR_HP	HP
+TASKBAR_MOVE	Move
+TASKBAR_SKILL	Skill
+TASKBAR_SP	SP
+TASKBAR_ST	ST
+THING_COUNT	everything	
+TICKET_ADD_ACCEPT	To accept	
+TICKET_ADD_MEMBER	Add new member	
+TICKET_ADD_NAME	Name:	
+TICKET_ADD_TITLE	Add member	
+TICKET_ADMINISTRATION	Manage	
+TICKET_ANSWER	Answer	
+TICKET_CATEGORY	Category	
+TICKET_CATEGORY_0	Everyone	
+TICKET_CHANGE_PERMISIONS	Modify permissions	
+TICKET_CREATE_NEW	Create new ticket	
+TICKET_DATE	Date	
+TICKET_DELETE	Delete member	
+TICKET_ID	Id	
+TICKET_MY_TICKETS	My tickets	
+TICKET_NAME	Name	
+TICKET_PRIORITY	Priority	
+TICKET_PRIORITY_HIGH	high	
+TICKET_PRIORITY_LOW	Low	
+TICKET_PRIORITY_MEDIUM	Half	
+TICKET_SEARCH	Search for ID:	
+TICKET_SEARCH_BUTTON	Seek	
+TICKET_SEND	Send	
+TICKET_SORT_BY	Sort by:	
+TICKET_STATE	Condition	
+TICKET_STATE_CLOSED	Closed	
+TICKET_STATE_ON_HOLD	In process	
+TICKET_STATE_SOLVED	Solved	
+TICKET_TITLE	Ticket system	
+TICKET_TITLE_T	Qualification	
+TITLE_DUNGEON_INFO	V2 dungeons panel	
+TITLE_DUNGEON_INFO_COOLDOWN	Coldown: %s	
+TITLE_DUNGEON_INFO_DAMAGE_DONE	Damage done: %d	
+TITLE_DUNGEON_INFO_DAMAGE_RECEIVED	Damage received: %d	
+TITLE_DUNGEON_INFO_DEFENSE	Defense: %s	
+TITLE_DUNGEON_INFO_GROUP_LIMIT	Group limt: %d - %d	
+TITLE_DUNGEON_INFO_ITEM	Necessary object	
+TITLE_DUNGEON_INFO_LEVEL	Limit lvl: %d - %d	
+TITLE_DUNGEON_INFO_LOCATION	Location: %s	
+TITLE_DUNGEON_INFO_MAXIMUM_DAMAGE	Maximum damage	
+TITLE_DUNGEON_INFO_MAXIMUM_DEATHS	Maximum deaths	
+TITLE_DUNGEON_INFO_RECORD_TIME	Record: %s	
+TITLE_DUNGEON_INFO_STRENGTH	Strength: %s	
+TITLE_DUNGEON_INFO_TIME_DONE_RANKING	Time performed	
+TITLE_DUNGEON_INFO_TIME_LIMIT	Limit time: %s	
+TITLE_DUNGEON_INFO_TIME_PERFORMED	Times completed: %d	
+TOOLTIP_AFFECT_CRISTALES_1	Defence crystal	SNA
+TOOLTIP_AFFECT_CRISTALES_2	Attack crystal	SNA
+TOOLTIP_AFFECT_CRISTALES_3	Chaos crystal	SNA
+TOOLTIP_AFFECT_CRISTALES_4	Resistance crystal	SNA
+TOOLTIP_AFFECT_CRISTALES_5	Purity crystal	SNA
+TOOLTIP_AFFECT_POTION_1	Red Dew	SNA
+TOOLTIP_AFFECT_POTION_2	Orange Dew	SNA
+TOOLTIP_AFFECT_POTION_3	Yellow Dew	SNA
+TOOLTIP_AFFECT_POTION_4	Green Dew	SNA
+TOOLTIP_AFFECT_POTION_5	Blue Dew	SNA
+TOOLTIP_AFFECT_POTION_6	White Dew	SNA
+TOOLTIP_AFFECT_SUNGMA_DESC	The will of Sung Mahi wraps this place.	
+TOOLTIP_AFFECT_SUNGMA_HP	WILL OF SUNGMA (VIT): %d	
+TOOLTIP_AFFECT_SUNGMA_IMMUNE	Sungma will (int): %d	
+TOOLTIP_AFFECT_SUNGMA_MOVE	WILL OF SUNGMA (RES): %d	
+TOOLTIP_AFFECT_SUNGMA_STR	WILL OF SUNGMA (STR): %d	
+TOOLTIP_ANTI_CRITICAL_PCT	Resistance against critical hits +%d%%	SA
+TOOLTIP_ANTI_PENETRATE_PCT	Resistance against piercing hits +%d%%	SA
+TOOLTIP_ANTI_SELL	Cannot be sold in the shop.
+TOOLTIP_APPLY_ATTBONUS_ANIMAL	Strong against Animals +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ASSASSIN	Strong against Ninjas +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BELL	Bell Defence Break +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOW	Arrow Defence Break +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_CLAW	Claw fracture +%d %%	SA
+TOOLTIP_APPLY_ATTBONUS_DAGGER	Dagger Defence Break +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DARK	Power of darkness +%d %%	SA
+TOOLTIP_APPLY_ATTBONUS_DESERT	Strong against Desert Monsters +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DEVIL	Strong against Devils +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_EARTH	Earth Power +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ELEC	Lightning power +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FAN	Fan Defence Break +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FIRE	Fire power +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_HUMAN	Strong against Half Humans +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ICE	Ice power +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_INSECT	Strong against Insects +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MILGYO	Strong against Mystics +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MONSTER	Strength against monsters +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ORC	Strong against Orcs +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SHAMAN	Strong against Shamans +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SURA	Strong against Sura +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SWORD	Sword Defence Break +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_TWOHAND	Two-handed Defence Break +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_UNDEAD	Strong against Undead +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WARRIOR	Strong against Warriorr +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WIND	Wind power +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WOLFMAN	Strong against Lycans + %d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ZODIAC	Damage c. Zodiac monsters +%d %%	SA
+TOOLTIP_APPLY_ATT_BOSS	Strength against Bosses + %d%%	SA
+TOOLTIP_APPLY_ATT_STONE	Strength against Metins + %d%%	SA
+TOOLTIP_APPLY_BLEEDING_PCT	Bleeding attack + %d%%	SA
+TOOLTIP_APPLY_BLEEDING_REDUCE	Bleeding Attack Resistance: +%d%%	SNA
+TOOLTIP_APPLY_BLOCK	Chance to block a close-combat attack %d%%	SA
+TOOLTIP_APPLY_CRITICAL_PCT	Chance of critical hit +%d%%	SA
+TOOLTIP_APPLY_DAMAGE_SP_RECOVER	%d%% Chance to get back SP when hit	SA
+TOOLTIP_APPLY_DODGE	Chance to avoid Arrows %d%%	SA
+TOOLTIP_APPLY_ENCHANT_DARK	Power of Darkness +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_DARK2	Power of Darkness +%d%% - +%d%%
+TOOLTIP_APPLY_ENCHANT_EARTH	Power of Earth +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_EARTH2	Power of Earth +%d%% - +%d%%
+TOOLTIP_APPLY_ENCHANT_ELECT	Power of Lightning +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_ELECT2	Power of Lightning +%d%% - +%d%%
+TOOLTIP_APPLY_ENCHANT_FIRE	Power of Fire +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_FIRE2	Power of Fire +%d%% - +%d%%
+TOOLTIP_APPLY_ENCHANT_ICE	Power of Ice +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_ICE2	Power of Ice +%d%% - +%d%%
+TOOLTIP_APPLY_ENCHANT_WIND	Power of the Wind +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_WIND2	Power of the Wind +%d%% - +%d%%
+TOOLTIP_APPLY_EXP_DOUBLE_BONUS	%d%% Chance for EXP Bonus	SA
+TOOLTIP_APPLY_GOLD_DOUBLE_BONUS	%d%% Chance to drop double Yang	SA
+TOOLTIP_APPLY_IMMUNE_FALL	Immune against falling down	SNA
+TOOLTIP_APPLY_IMMUNE_SLOW	Defence against slowing	SNA
+TOOLTIP_APPLY_IMMUNE_STUN	Defence against blackouts	SNA
+TOOLTIP_APPLY_ITEM_ATT_POWER_REFINE	Attack value %d - %d (+%d ~ +%d)	
+TOOLTIP_APPLY_ITEM_DROP_BONUS	%d%% Chance to drop double the Items	SA
+TOOLTIP_APPLY_KILL_HP_RECOVER	%d%% Chance, to restore HP	SA
+TOOLTIP_APPLY_KILL_SP_RECOVER	%d%% Chance to restore SP	SA
+TOOLTIP_APPLY_MANA_BURN_PCT	%d%% chance to rob SP	SA
+TOOLTIP_APPLY_MAX_HP_PCT	Max. HP +%d%%	SA
+TOOLTIP_APPLY_MAX_SP_PCT	Max. SP +%d%%	SA
+TOOLTIP_APPLY_NOAFFECT	No effect
+TOOLTIP_APPLY_NO_DEATH_PENALTY	No experience points will be lost if your character is revived at the place of his death.	SNA
+TOOLTIP_APPLY_PENETRATE_PCT	%d%% Chance for piercing Hits	SA
+TOOLTIP_APPLY_POISON_PCT	Poisoning chance %d%%	SA
+TOOLTIP_APPLY_POISON_REDUCE	Poison Resistance %d%%	SA
+TOOLTIP_APPLY_POTION_BONUS	Potion %d%% effect raise	SA
+TOOLTIP_APPLY_REFLECT_CURSE	Chance to reflect Curse: %d%%	SA
+TOOLTIP_APPLY_REFLECT_MELEE	%d%% Chance to reflect close combat hits	SA
+TOOLTIP_APPLY_RESIST_ASSASSIN	Defence chance against ninja attacks: %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL	Bell Defence %d%%	SA
+TOOLTIP_APPLY_RESIST_CLAW	Claw Defence +%d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER	Dagger Defence %d%%	SA
+TOOLTIP_APPLY_RESIST_FAN	Fan Defence %d%%	SA
+TOOLTIP_APPLY_RESIST_SHAMAN	Defence chance against shaman attacks: %d%%	SA
+TOOLTIP_APPLY_RESIST_SURA	Defence chance against sura attacks: %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD	Sword Defence %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND	Two-Handed Defence %d%%	SA
+TOOLTIP_APPLY_RESIST_WARRIOR	Defence chance against warrior attacks: %d%%	SA
+TOOLTIP_APPLY_RESIST_WIND	Wind Resistance %d%%	SA
+TOOLTIP_APPLY_RESIST_WOLFMAN	Defence chance against Lycan attacks %d%%	SA
+TOOLTIP_APPLY_SKILL_BOOK_BONUS	Chance to learn from books upgraded by factor 2.5	SNA
+TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY	If learning fails you immediately have another try for free	SNA
+TOOLTIP_APPLY_SLOW_PCT	Slowing chance %d%%	SA
+TOOLTIP_APPLY_STEAL_HP	%d%% damage  will be absorbed by HP	SA
+TOOLTIP_APPLY_STEAL_SP	%d%% damage will be absorbed by SP	SA
+TOOLTIP_APPLY_STUN_PCT	Blackout chance %d%%	SA
+TOOLTIP_ARMOR	Armor
+TOOLTIP_ARROW	Arrow
+TOOLTIP_ASSASSIN	Ninja
+TOOLTIP_ATT_GRADE	Attack Value +%d	SA
+TOOLTIP_ATT_SPEED	Attack Speed +%d%%	SA
+TOOLTIP_AUTO_ATTACK_SPEED_RECOVERY	Green potion	
+TOOLTIP_AUTO_BLUE_POTION_RECOVERY	Blue Dew	
+TOOLTIP_AUTO_CRITICAL_RECOVERY	Critical fight	
+TOOLTIP_AUTO_DEX_RECOVERY	Dragon God Defense	
+TOOLTIP_AUTO_GREEN_POTION_RECOVERY	Green Dew	
+TOOLTIP_AUTO_INT_RECOVERY	Int. of the Dragon God	
+TOOLTIP_AUTO_MOV_SPEED_RECOVERY	Purple potion	
+TOOLTIP_AUTO_ORANGE_POTION_RECOVERY	Orange Dew	
+TOOLTIP_AUTO_PENETRATE_RECOVERY	Drilling fight	
+TOOLTIP_AUTO_POTION_HP	Sun Elixir
+TOOLTIP_AUTO_POTION_REST	Remainder: %.2f%%
+TOOLTIP_AUTO_POTION_SP	Moon Elixir
+TOOLTIP_AUTO_POTION_USING	Active
+TOOLTIP_AUTO_RED_POTION_RECOVERY	Red Dew	
+TOOLTIP_AUTO_STR_RECOVERY	Dragon God attack	
+TOOLTIP_AUTO_VIT_RECOVERY	Life of the Dragon God	
+TOOLTIP_AUTO_WHITE_POTION_RECOVERY	White Dew	
+TOOLTIP_AUTO_YELLOW_POTION_RECOVERY	Yellow Dew	
+TOOLTIP_BATTLE_POTION	Combat potion	SNA
+TOOLTIP_BOW_DISTANCE	Range +%d m	SA
+TOOLTIP_BUYPRICE	Price: %s
+TOOLTIP_CAST_SPEED	Casting Speed +%d%%	SA
+TOOLTIP_CON	Vitality +%d	SA
+TOOLTIP_COSTUME_ATTR_BONUS	Costume bonus %d%%	SA
+TOOLTIP_DEF_GRADE	Defence +%d	SA
+TOOLTIP_DEX	Dexterity +%d	SA
+TOOLTIP_DRAGON_SOUL_DECK1	Sky	SNA
+TOOLTIP_DRAGON_SOUL_DECK2	Earth	SNA
+TOOLTIP_EAR	Earring
+TOOLTIP_ENERGY	Energy %d	SA
+TOOLTIP_FISHINGROD_EXP	Points %d / %d
+TOOLTIP_FISHINGROD_LEVEL	Level: %d
+TOOLTIP_FISHINGROD_UPGRADE1	Give to the Fisherman
+TOOLTIP_FISHINGROD_UPGRADE2	to get a better
+TOOLTIP_FISHINGROD_UPGRADE3	Fishing Pole.
+TOOLTIP_FISH_LEN	Lenght: %.2fcm
+TOOLTIP_HELMET	Helmet
+TOOLTIP_HP_REGEN	HP Regeneration +%d%%	SA
+TOOLTIP_INT	Intelligence +%d	SA
+TOOLTIP_ITEM_ATT_GRADE	Attack Value %d
+TOOLTIP_ITEM_ATT_POWER	Attack Value %d - %d
+TOOLTIP_ITEM_ATT_POWER_ONE_ARG	Attack Value %d
+TOOLTIP_ITEM_ATT_POWER_ONE_ARG_ELEMENT	Attack value %d (+ %d)	
+TOOLTIP_ITEM_ATT_POWER_REFINE	Attack Value %d - %d (+%d)
+TOOLTIP_ITEM_ATT_SPEED	Attacking Speed %s
+TOOLTIP_ITEM_DEF_GRADE	Defence %d
+TOOLTIP_ITEM_FAST	Fast
+TOOLTIP_ITEM_LIMIT_CON	Vitality Upper Limit: %d
+TOOLTIP_ITEM_LIMIT_DEX	Dexterity Upper Limit: %d
+TOOLTIP_ITEM_LIMIT_INT	Intelligence Upper Limit: %d
+TOOLTIP_ITEM_LIMIT_LEVEL	From Level: %d
+TOOLTIP_ITEM_LIMIT_STR	Strenght Upper Limit: %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER	Magical Attack Value %d - %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG	Magical Attack Value %d
+TOOLTIP_ITEM_MAGIC_DEF_POWER	Magical Defence %d
+TOOLTIP_ITEM_NORMAL	Normal
+TOOLTIP_ITEM_SLOW	Slow
+TOOLTIP_ITEM_VERY_FAST	Very fast
+TOOLTIP_ITEM_VERY_SLOW	Very slow
+TOOLTIP_ITEM_WEARABLE_JOB	[Wearable]
+TOOLTIP_LOTTERY_STEP_NUMBER	%d	
+TOOLTIP_LOTTO_NUMBER	Lucky Number: %d
+TOOLTIP_MAGIC_ATTBONUS_PER	Magic attack +%d%%	SA
+TOOLTIP_MAGIC_ATT_GRADE	Magical Attack Value +%d	SA
+TOOLTIP_MAGIC_DEF_GRADE	Magical Defence +%d	SA
+TOOLTIP_MALL_ATTBONUS	Attack Value +%d%%	SA
+TOOLTIP_MALL_ATTBONUS_STATIC	Attack Value	SNA
+TOOLTIP_MALL_AUTOLOOT	A hand that picks up dropped Yang automatically	SNA
+TOOLTIP_MALL_DEFBONUS	Defence +%d%%	SA
+TOOLTIP_MALL_DEFBONUS_STATIC	Defence	SNA
+TOOLTIP_MALL_EXPBONUS	EXP +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_P_STATIC	iCafe EXP Bonus +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_STATIC	Increases gaining EXP by 50%	SNA
+TOOLTIP_MALL_FISH_MIND	Your chance of catching a rare fish is doubled.	SNA
+TOOLTIP_MALL_GOLDBONUS	Yang drop chance increased by %d%%	SA
+TOOLTIP_MALL_GOLDBONUS_STATIC	Double Yang drop chance	SNA
+TOOLTIP_MALL_ITEMBONUS	Item drop chance increased by %d%%	SA
+TOOLTIP_MALL_ITEMBONUS_P_STATIC	iCafe Chance of looting items plus %.1f%%	SA
+TOOLTIP_MALL_ITEMBONUS_STATIC	Item drop chance increased by 200%.	SNA
+TOOLTIP_MALL_MARRIAGE_FAST	Lovepoints raise faster.	SNA
+TOOLTIP_MALL_SAFEBOX	Your Storeroom gets 2 storage rooms	SNA
+TOOLTIP_MAX_HP	Max. HP +%d	SA
+TOOLTIP_MAX_HP_PCT	Max. HP +%d%%	SA
+TOOLTIP_MAX_SP	Max. SP +%d	SA
+TOOLTIP_MAX_SP_PCT	Max. SP +%d%%	SA
+TOOLTIP_MAX_STAMINA	Max. Endurance +%d	SA
+TOOLTIP_MELEE_MAGIC_ATTBONUS_PER	Magic/melee attack +%d%%	SA
+TOOLTIP_MEMORIZED_POSITION	%s(%d, %d)
+TOOLTIP_MEMORIZED_POSITION_ERROR	GPS ERROR(%d, %d)
+TOOLTIP_MOV_SPEED	Movement Speed %d%%	SA
+TOOLTIP_NECK	Necklace
+TOOLTIP_NEED_ALL_SP	Needed SP: Max.
+TOOLTIP_NEED_GSP	Needed Dragon ghost: %d
+TOOLTIP_NEED_HP	Needed HP: %d
+TOOLTIP_NEED_HP_PER_SEC	HP / Sec.: %d
+TOOLTIP_NEED_SP	Needed SP: %d
+TOOLTIP_NEED_SP_PER_SEC	SP / Sec.: %d
+TOOLTIP_NEXT_SKILL_LEVEL_1	Next Level: %d (Max. %d)
+TOOLTIP_NORMAL_HIT_DAMAGE_BONUS	Average Damage %d %%	SA
+TOOLTIP_NORMAL_HIT_DEFEND_BONUS	Average Damage Resistance %d%%	SA
+TOOLTIP_PARTY_SKILL_LEVEL	Current Level: %d
+TOOLTIP_PICK_EXP	Points: %d / %d
+TOOLTIP_PICK_LEVEL	Level: %d
+TOOLTIP_PICK_UPGRADE1	Give to the Lumberjack
+TOOLTIP_PICK_UPGRADE2	to get a better
+TOOLTIP_PICK_UPGRADE3	Pickaxe.
+TOOLTIP_POTION_CURE	Cure negative effects.
+TOOLTIP_POTION_MIN	Min.
+TOOLTIP_POTION_PLUS_ATTACK_SPEED	Attack speed +%d
+TOOLTIP_POTION_PLUS_HP_PERCENT	HP +%d%%	
+TOOLTIP_POTION_PLUS_HP_POINT	HP +%d	
+TOOLTIP_POTION_PLUS_MOVING_SPEED	Movement speed +%d
+TOOLTIP_POTION_PLUS_SP_PERCENT	SP +%d%%	
+TOOLTIP_POTION_PLUS_SP_POINT	SP +%d	
+TOOLTIP_POTION_SEC	Sec.	
+TOOLTIP_POTION_TIME	Duration:	
+TOOLTIP_REQUIREMENT_SKILL_LEVEL	%s Level %d needed.
+TOOLTIP_REQUIREMENT_STAT_LEVEL	%s %d needed
+TOOLTIP_RESIST_BOW	Arrow Defence %d%%	SA
+TOOLTIP_RESIST_DARK	Resistance against darkness +%d%%	SA
+TOOLTIP_RESIST_EARTH	Earth resistance +%d%%	SA
+TOOLTIP_RESIST_ELEC	Lightning Resistance %d%%	SA
+TOOLTIP_RESIST_FIRE	Fire Resistance %d%%	SA
+TOOLTIP_RESIST_HUMAN	Average human resistance %d%%	SA
+TOOLTIP_RESIST_ICE	Ice resistance +%d%%	SA
+TOOLTIP_RESIST_MAGIC	Magic Resistance %d%%	SA
+TOOLTIP_RESIST_MAGIC_REDUCTION	Magic penetration of %d%%	SA
+TOOLTIP_REST_USABLE_COUNT	Left: %d
+TOOLTIP_SEALED	Soulbound
+TOOLTIP_SELLPRICE	Price: %s
+TOOLTIP_SHAMAN	Shaman
+TOOLTIP_SHIELD	Shield
+TOOLTIP_SHOES	Shoes
+TOOLTIP_SKILL	Skills	SNA
+TOOLTIP_SKILLBOOK_NAME	Skill Book
+TOOLTIP_SKILL_AFFECT_ATT_GRADE	Attack Value: +
+TOOLTIP_SKILL_AFFECT_ATT_POWER	Attack Value:
+TOOLTIP_SKILL_AFFECT_ATT_SPEED	Attack Speed: +
+TOOLTIP_SKILL_AFFECT_DEF_GRADE	Defence:
+TOOLTIP_SKILL_AFFECT_DODGE	Opponent Attack Value: -
+TOOLTIP_SKILL_AFFECT_HEAL	Restore HP:
+TOOLTIP_SKILL_AFFECT_MOV_SPEED	Movement Speed: +
+TOOLTIP_SKILL_AFFECT_REFLECT_MELEE	Chance to reflect close combat attack:
+TOOLTIP_SKILL_AFFECT_RESIST_NORMAL	Resistance against Body Damage:
+TOOLTIP_SKILL_COOL_TIME	Recharge:
+TOOLTIP_SKILL_DAMAGE_BONUS	Skill Damage %d%%	SA
+TOOLTIP_SKILL_DEFEND_BONUS	Resistance against Skill Damage %d%%	SA
+TOOLTIP_SKILL_DURATION	Duration: %d sec.
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Book of Forgetfulness
+TOOLTIP_SKILL_LEVEL	Current Level: %d
+TOOLTIP_SKILL_LEVEL_MASTER	Current Level: %d (Master)
+TOOLTIP_SKILL_LEVEL_WITH_MAX	Current Level: %d (Max. %d)
+TOOLTIP_SOCKET_EMPTY	Empty
+TOOLTIP_SOCKET_REFINABLE_ITEM	[Item with Socket]
+TOOLTIP_SP_REGEN	SP Regeneration +%d%%	SA
+TOOLTIP_STR	Strength +%d	SA
+TOOLTIP_SUNGMA_HP	%d of Sungma will (vit)	SA
+TOOLTIP_SUNGMA_IMMUNE	%d of Sungma will (INT)	SA
+TOOLTIP_SUNGMA_MOVE	%d of Sungma (Res) will	SA
+TOOLTIP_SUNGMA_STR	%d of Sungma will (STR)	SA
+TOOLTIP_SURA	Sura
+TOOLTIP_TIME_CHARGER_FIX	Time charging %d sec.	SA
+TOOLTIP_TIME_CHARGER_PER	Time charging %d%%	SA
+TOOLTIP_UNIQUE	Unique
+TOOLTIP_UNSEAL_LEFT_TIME	Removing soulbind in: %d hrs. %d mins.
+TOOLTIP_WARRIOR	Warrior
+TOOLTIP_WEAPON	Weapon
+TOOLTIP_WOLFMAN	Lycan
+TOOLTIP_WRISTLET	Wristlet
+TOURNAMENT_ALL_CHARACTER	All the characters	
+TOURNAMENT_EVENT	PVP Tournament (%s - Lv %d - Lv %d)	
+UI_ACCEPT	Accept
+UI_CANCEL	Cancel
+UI_CLOSE	Close
+UI_DEF_FONT	Tahoma:12
+UI_DEF_FONT_LARGE	Tahoma:14
+UI_DEF_FONT_SMALL	Tahoma:9
+UI_DENY	Decline
+UI_ITEM	Item
+UI_LEFT_TIME	Remaining Time: %d Sec.
+UI_NEXT	Continue
+UI_NEXTPAGE	Next
+UI_NOCONTENTS	No Content
+UI_NONAME	No Name
+UI_OK	OK
+UI_POS_UNKNOWN	Unknown Place
+UI_PREVPAGE	Back
+UPDATE_TIME	Date	
+UPLOAD_MARK_UPLOAD_NEED_RECONNECT	The upload has to be started again.
+USE_ITEM_FAILURE_PRIVATE_SHOP	You cannot use items while you have a private shop open.
+WHEEL_REWARD_TEXT	You have received	
+WHEEL_REWARD_TEXT_1	In your inventory	
+WHEEL_REWARD_TITLE	Roulette reward	
+WHELL_OF_FORTUNE_EVENT	Wheel of Fortune	
+WIKI_100	Lv 121-?
+WIKI_1_75	Lv 1-99
+WIKI_76_100	Lv 99-120
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_AVAIBLE_AT	Avaible at
+WIKI_BASIC	Game Mechanics
+WIKI_ALCHEMY	Alchemy system
+WIKI_EVENTS	Available Events
+WIKI_BASIC_DROP	Basic Drop
+WIKI_BIOLOG	Biolog
+WIKI_BIOLOGO	Biolog
+WIKI_BODY_COSTUME	Body Costume
+WIKI_BOSSES	Bosses
+WIKI_BOSSES_EVENT	Event Bosses
+WIKI_CATEGORY	Category
+WIKI_CHESTS	Chests
+WIKI_CHESTS_ALTERNATIVE	Alternative chests
+WIKI_CHESTS_BOSS	Boss Chests
+WIKI_CHESTS_DUNGEON	Dungeon Chests
+WIKI_CHESTS_EVENT	Event Chests
+WIKI_CHESTS_OTHER	Other Chests
+WIKI_CONTENT_INFO	Content of %s
+WIKI_COSTUME	Skins and Costumes
+WIKI_COSTUMES	Costumes
+WIKI_DROPLIST_INFO	Droplist of %s
+WIKI_EQUIPMENT	Equipment
+WIKI_EQUIPMENT_ARMOR	Armor
+WIKI_EQUIPMENT_BELT	Belt
+WIKI_EQUIPMENT_BRACELET	Bracelet
+WIKI_EQUIPMENT_EARRING	Earrings
+WIKI_EQUIPMENT_HELMET	Helmets
+WIKI_EQUIPMENT_NECKLACE	Necklace
+WIKI_EQUIPMENT_RINGS	Rings
+WIKI_EQUIPMENT_SHIELD	Shields
+WIKI_EQUIPMENT_SHOES	Shoes
+WIKI_EQUIPMENT_TALISMAN	Talisman
+WIKI_EQUIPMENT_WEAPONS	Weapons
+WIKI_GAMERULES	Game Rules
+WIKI_GAME_RULES	Game Rules
+WIKI_GUIDES	M2365 Information
+WIKI_HAIR_COSTUME	Hair Costume
+WIKI_ITEM_NAME	Item Name
+WIKI_LEVEL_MOB_TEXT	Level %d
+WIKI_LEVEL_TEXT	Level %d - Refine Range %d~%d
+WIKI_LEVEL_TEXT2	Level %d~%d - Refine Range %d~%d
+WIKI_METINSTONE	Metinstone
+WIKI_MOB_NAME	Mob Name
+WIKI_MONSTER	Monster
+WIKI_MOUNT	Pets and Mounts
+WIKI_MOUNT_ITEM	Mounts
+WIKI_ORIGIN	Origin
+WIKI_PETS	Pets
+WIKI_PET_ITEM	Pets
+WIKI_PET_LEVEABLE_ITEM	Level Pets
+WIKI_SASH_COSTUME	Sash Skin
+WIKI_SHINING	Shinnings
+WIKI_STATICS_INFO	Statics of %s
+WIKI_STATICS_INFO_DEFENSES	Defenses:
+WIKI_STATICS_INFO_DMG	Min. Dmg:%d | Max. Dmg:%d | Max HP: %d
+WIKI_STATICS_INFO_TYPE	Genus: %s | Sub-genus: %s
+WIKI_STATICS_INFO_YNG	Min. Yang:%d | Max. Yang:%d | EXP: %d
+WIKI_SYSTEM2	Basic Systems
+WIKI_TITLE	Wiki System
+WIKI_TITLE2	[H] WikiInfo
+WIKI_UNKOWN_ITEM	Unknown item: %d
+WIKI_UNKOWN_MOB	Unknown Mob: %d
+WIKI_UPGRADE_COSTS	Next Item 
+WIKI_WEAPON_SKIN	Weapon Skin
+WIKI_YANG_COSTS	Yang costs
+YANG_DROP_EVENT	Yang Drop event: %d%%	
+YELLOW_KINGDOM	|cFFFDE696Chunjo:|h|r	
+YES	Buy	
+cube_1	ARMOR LV 105
+cube_2	ARMOR LV 115
+cube_3	WEAPON LV 105
+cube_4	WEAPON LV 115
+cube_5	BRACELETS
+cube_6	SASH
+cube_7	BELTS
+cube_8	NECKLACE
+cube_9	EARINGS
+cube_10	SHOES
+cube_11	HELMETS
+cube_12	Potions 1st grade
+cube_13	Potions 1st grade
+cube_14	Dews
+cube_15	Talisman
+cube_16	Blessings and Magical Metal
+cube_17	Dews, fights and dragon items
+cube_18	Aura Outfit
+cube_19	Pet Elixirs
+cube_20	Ramadan Objects
+cube_21	Zodiac Equipment Level 105
+cube_22	Dragon Equipment Level 110-120
+cube_23	Accessories
+cube_24	Belt
+cube_25	Others
+cube_26	Gloves
+cube_27	Fragment of weapons
+cube_28	Fragment of armor
+cube_29	Helmets fragment
+cube_30	Weapons
+cube_31	Armor
+PRIVATESHOPSEARCH_WEAPON_SWORD	Sword
+PRIVATESHOPSEARCH_WEAPON_TWOHAND	Two-Handed
+PRIVATESHOPSEARCH_WEAPON_DAGGER	Dagger
+PRIVATESHOPSEARCH_WEAPON_BOW	Bow
+PRIVATESHOPSEARCH_WEAPON_CLAW	Claw
+PRIVATESHOPSEARCH_WEAPON_FAN	Fan
+PRIVATESHOPSEARCH_WEAPON_BELL	Bell
+PRIVATESHOPSEARCH_EQUIPMENT	Equipment
+PRIVATESHOPSEARCH_EQUIPMENT_ARMOUR	Armour
+PRIVATESHOPSEARCH_EQUIPMENT_SHIELD	Shield
+PRIVATESHOPSEARCH_EQUIPMENT_EARRINGS	Earrings
+PRIVATESHOPSEARCH_EQUIPMENT_NECKLACES	Necklaces
+PRIVATESHOPSEARCH_EQUIPMENT_BRACELETS	Bracelets
+PRIVATESHOPSEARCH_EQUIPMENT_SHOES	Shoes
+PRIVATESHOPSEARCH_EQUIPMENT_BELTS	Belt
+PRIVATESHOPSEARCH_EQUIPMENT_HELMETS	Helmets
+PRIVATESHOPSEARCH_EQUIPMENT_TALISMAN	Talisman
+PRIVATESHOPSEARCH_COSTUMES	Costumes
+PRIVATESHOPSEARCH_COSTUMES_BODY	Costume Body
+PRIVATESHOPSEARCH_COSTUMES_HAIR	Costume Hair
+PRIVATESHOPSEARCH_COSTUMES_WEAPON_SKIN	Costume Weapon
+PRIVATESHOPSEARCH_COSTUMES_SHOULDER_SASHES	Shoulder Sashes
+PRIVATESHOPSEARCH_DRAGONSOULALCHEMY_DRAGON_BEANS	Dragon Beans
+PRIVATESHOPSEARCH_CONSUMABLES	Consumables
+PRIVATESHOPSEARCH_CONSUMABLES_DEWS	Dews
+PRIVATESHOPSEARCH_CONSUMABLES_HERBS	Herbs
+PRIVATESHOPSEARCH_BOOKS_SKILLBOOK	Skill Books
+PRIVATESHOPSEARCH_BOOKS_OTHERBOOK	Other Books
+PRIVATESHOPSEARCH_BOOKS_WARDBOOK	Ward Books
+PRIVATESHOPSEARCH_BOOKS_BOOSTBOOK	Boost Books
+PRIVATESHOPSEARCH_BOOKS_PETBOOK	Pet Books
+PRIVATESHOPSEARCH_BOOKS_LOWPETBOOKS	Low Pet Books
+PRIVATESHOPSEARCH_OTHERITEMS_REFINEMENT	Refinement Items
+PRIVATESHOPSEARCH_OTHERITEMS_BIOLOGIST	Biologist Items
+PRIVATESHOPSEARCH_OTHERITEMS_QUEST	Quest Items
+PRIVATESHOPSEARCH_OTHERITEMS_ENERGY_SHARDS	Energy Shards
+PRIVATESHOPSEARCH_OTHERITEMS_CHESTS	Chests
+PRIVATESHOPSEARCH_HELPFULLITEMS	Helpfull Items
+PRIVATESHOPSEARCH_HELPFULLITEMS_ENCHANT_ITEM	Enchant Items
+PRIVATESHOPSEARCH_HELPFULLITEMS_OTHER_SWITCHERS	Other Switchers
+PRIVATESHOPSEARCH_HELPFULLITEMS_ADVANCED_ITEMS	Advanced Items
+PRIVATESHOPSEARCH_HELPFULLITEMS_METIN_STONE	Ghost Stone
+PRIVATESHOPSEARCH_HELPFULLITEMS_RINGS	Rings
+PRIVATESHOPSEARCH_ORES	Ores
+PRIVATESHOPSEARCH_ORES_ORE	Ore
+PRIVATESHOPSEARCH_ORES_REFINED_ORE	Refined Ore
+PRIVATESHOPSEARCH_ORES_REFINED_ORE2	Refined Ore+
+PRIVATESHOPSEARCH_PETS_NICKNAME_SCROLL	Pet Name Scrolls
+PRIVATESHOPSEARCH_PETS_PETS	Pets
+PRIVATESHOPSEARCH_MOUNTS	Mount
+PRIVATESHOPSEARCH_PETS_NEWPETS	Pet System Pets
+SHOPSEARCHCENTERTEXT	Search item first
+SHOPSEARCH_NEED_WAIT	Your so fast. You need wait some couple seconds.
+SHOPSEARCH_NEED_LIST	You don't select any item in search.
+SHOPSEARCH_NOT_ENOUGH_MONEY	You don't have enough money for these items!
+SHOPSEARCH_CLASS	Class
+SHOPSEARCH_PRICE	Price
+SHOPSEARCH_OBJECTS	Objects
+SHOPSEARCH_FILTERS	Level - Item Level
+SHOPSEARCH_SEARCH_TEXT	SEARCH ITEM
+SHOPSEARCH_SEARCH_BTN	Search
+SHOPSEARCH_BUY_BTN	Buy Selected Items
+SHOPSEARCH_ALL_CLASS	All Class
+CREATE_SEX	Gender
+CREATE_MAN	Man
+CREATE_WOMAN	Woman
+REFINEMENT_GRADE	Refinement Grade
+ALCHEMY_CLASS	Alchemy Class
+PRICE01	Price:
+PRICE02	Price: x%d
+PRIVATESHOPSEARCH_AllITEMS	All items
+PRIVATESHOPSEARCH_EQUIPMENT_RINGS	Rings
+PRIVATESHOPSEARCH_EQUIPMENT_PENDANT	Talismans
+SHOPSEARCH_BUY_QUESTION	%d selected item. Total %s Yang.
+CHEST_TOOLTIP_TEXT_OPEN	Open All
+TOOLTIP_RENDER_TARGET	|Eemoji/key_shift|e - |Eemoji/key_x|e - |Eemoji/key_lclick|e - Preview
+RENDER_MOVE_TEXT	Move - |Eemoji/key_right_new|e
+RENDER_WHEEL_TEXT	Zoom - |Eemoji/key_wheel|e
+APP_MINI_TITLE	Test Server
+DISCORD_STUF_MESSAGE	Whisper from %s
+OPTION_SPECIAL_MESSAGE	Windows Message
+DISCORD_TEXT_TITLE	Server Discord Message
+DISCORD_TEXT_TEXT	Welcome to our server. Did you come to our Discord Server? Click for link...
+COSTUME_SLOT_MOUNT_SKIN	Aspecto de montura
+BEAD_COUNT	%d
+CZ_REWARD_QUESTION_COMPLETE	Would you like to complete?
+CZ_REWARD_TOOLTIP_10GAN	10 Celestial stem
+CZ_REWARD_TOOLTIP_10GAN_COUNT	The number of my 10 Celestial stem
+CZ_REWARD_TOOLTIP_10GAN_NEED_COUNT	The number of required 10 Celestial stem
+CZ_REWARD_TOOLTIP_12ZI	Zodiac talisman
+CZ_REWARD_TOOLTIP_12ZI_COUNT	The number of my Zodiac talismans
+CZ_REWARD_TOOLTIP_12ZI_NEED_COUNT	The number of required Zodiac tailsmans
+CZ_REWARD_TOOLTIP_ALL_BOX	Gold Case
+CZ_REWARD_TOOLTIP_CAN_GET_ALL_BOX	Can get Gold Case
+CZ_REWARD_TOOLTIP_CAN_GET_GREEN_BOX	Can get Green Case
+CZ_REWARD_TOOLTIP_CAN_GET_YELLOW_BOX	Can get Yellow Case
+CZ_REWARD_TOOLTIP_COMPLETABLE	Completable
+CZ_REWARD_TOOLTIP_GREEN_BOX	Green Case
+CZ_REWARD_TOOLTIP_GREEN_BOX_COMP_CNT	Completed Green Case %d times
+CZ_REWARD_TOOLTIP_WEEKLY	Day
+CZ_REWARD_TOOLTIP_WEEKLY_FRI	Friday
+CZ_REWARD_TOOLTIP_WEEKLY_MON	Monday
+CZ_REWARD_TOOLTIP_WEEKLY_SAT	Saturday
+CZ_REWARD_TOOLTIP_WEEKLY_SAT_SUN	Saturday, Sunday
+CZ_REWARD_TOOLTIP_WEEKLY_THU	Thursday
+CZ_REWARD_TOOLTIP_WEEKLY_TUE	Tuesday
+CZ_REWARD_TOOLTIP_WEEKLY_WED	Wednesday
+CZ_REWARD_TOOLTIP_YELLOW_BOX	Yellow Case
+CZ_REWARD_TOOLTIP_YELLOW_BOX_COMP_CNT	Completed Yellow Case %d times
+BEAD	Animasphere
+SHOP_NOT_ENOUGH_LUCKY	Alma hakkýnýz kalmadý.
+NEW_AFFECT_AUTO_PICK_UP	Automatic pickup affect.	SNA
+SWITCHBOT_ACTIVE	Your system is currently being enchanted, it will continue until the enchantment bot reaches the value you entered or until you stop it.
+TRACK_OPEN_SHOP	Open Shop
+TRACK_DUNGEON_INFORMATION	Dungeon#Information
+TRACK_BOSS_INFORMATION	World Boss#Information
+TRACK_DUNGEON_NOTICE_INFORMATION	Notice me when Dungeon#is available
+TRACK_BOSS_NOTICE_INFORMATION	Notice me when World#Boss is available
+TRACK_DUNGEON_LEVEL_FIELD	Level: %d - %d
+TRACK_BOSS_LEVEL_FIELD	Recommended Level: %d - %d
+TRACK_DUNGEON_PARTY_FIELD	Party: %s
+TRACK_BOSS_PARTY_FIELD	Boss Cooldown: %s
+TRACK_DUNGEON_PARTY_NEED	Necessary
+TRACK_DUNGEON_PARTY_NOT_NEED	Not Necessary
+TRACK_DUNGEON_COOLDOWN_FIELD	Dungeon Cooldown: %s
+TRACK_BOSS_COOLDOWN_FIELD	Map: %s
+TRACK_STATUS_FIELD	Status: %s
+TRACK_STATUS_AVAILABLE	Available
+TRACK_STATUS_ALIVE	Alive    CH%d
+TRACK_DUNGEON_KEY	Dungeon Key
+TRACK_TELEPORT	Teleport
+TRACK_WINDOW_TITLE	[F5] Track Window
+TRACK_DUNGEON_READY	[Dungeon] %s is available!
+TRACK_BOSS_READY	[WorldBoss] %s is spawned!
+TRACK_WB_1	General Wu
+TRACK_WB_1_MAP	Zodiac Temple
+TRACK_WB_2	General You
+TRACK_WB_3	General Chou
+TRACK_WB_4	General Xu
+TRACK_WB_5	General Chen
+TRACK_WB_6	Dune Guardian
+TRACK_WB_6_MAP	Mount Odyssey
+FISHGAME_TITLE	Fish
+EXCHANGELOG_TITLE	Exchange Logs
+EXCHANGELOG_OWNERNAME	Owner Name
+EXCHANGELOG_TARGETNAME	Target Name
+EXCHANGELOG_GOLDTRADED	Gold Traded
+EXCHANGELOG_DATE	Date
+EXCHANGELOG_IP	IP
+EXCHANGELOG_CONTENT	Content
+EXCHANGELOG_DELETESELECTED	Delete Selected
+EXCHANGELOG_DELETEALL	Delete All
+EXCHANGELOG_CHANGEPASS	Change Password
+EXCHANGELOG_FAKETITLE	%s to %s
+EXCHANGELOG_LOADING	Loading
+EXCHANGELOG_INPUTTITLE	Delete Log
+EXCHANGELOG_INPUTDESC	Put your character delete value
+EXCHANGELOG_INPUT_NOT_NUMBER	Please put number
+EXCHANGELOG_INPUT_NOT_ENOUGHT_SIZE	Please put real delete character value
+EXCHANGELOG_INPUT_NOT_SAME_CODE	This value is wrong
+EXCHANGELOG_INPUT_NOT_HAS_LOG	Not has log to remove.
+GAYA_BUY	Do you want buy {} for {} gaya?
+GAYA_BOUGHT	You already buyed!
+GAYA_OPEN_SLOT	Do you want open slot?
+GAYA_NO_GEM	You don't has enought Gaya!
+GAYA_REFRESH	Do you want refresh items?
+NEW_AFFECT_VOTE4BUFF	Vote4Buff	SNA
+MINI_GAME_RUMI_DISCARD_QUESTION	Do you want to remove the card?
+MINI_GAME_RUMI_EXIT_QUESTION	Do you want to finish the game?
+MINI_GAME_RUMI_EXIT_QUESTION2	You will receive a reward depending on the points you have earned.
+MINI_GAME_RUMI_START_QUESTION	You need %d Yang and %d a deck of Okey cards.
+MINI_GAME_RUMI_START_QUESTION2	Do you want to play?
+MINI_GAME_CATCHKING_CHALLENGE_TOOLTIP1	If you wager multiple %s, you will be rewarded with the same number of chests.
+MINI_GAME_CATCHKING_CHALLENGE_TOOLTIP2	Maximum wager: %d King Decks.
+MINI_GAME_CATCHKING_HELP_MSG1	What a pity! Your card's value is lower.\nYou don't earn any points. Choose a new card from your deck.
+MINI_GAME_CATCHKING_HELP_MSG2	Well done! The cards are the same value.\nYour turn is over. Choose a new card from your deck.
+MINI_GAME_CATCHKING_HELP_MSG3	Keep it up! The value of your card is higher.\nTurn over another card.
+MINI_GAME_CATCHKING_HELP_MSG4	There was a [5] in range of the card you revealed.\nSadly you don't earn any points. Now select your King [K].
+MMINI_GAME_CATCHKING_POPUP_CATCH_FAIL	The king has escaped you! The game is over. \nIf you have scored at least 10 points, you can now redeem your prizes.
+MINI_GAME_CATCHKING_POPUP_CATCH_FAIL	The king has got away! The game is over. \nIf you've earned at least 10 points, you can now redeem your prize.
+MINI_GAME_CATCHKING_POPUP_REWARD_FAIL	You cannot redeem any prize.
+MINI_GAME_CATCHKING_SEARCH_NUMBER5	There's a [5] nearby.
+MINI_GAME_CATCHKING_START_QUESTION_01	You must pay the following for a game: %d Yang and %s: %d lots
+MINI_GAME_CATCHKING_START_QUESTION_02	Do you want to play now?
+MINI_GAME_CATCHKING_TOOLTIP_CARD1	Can catch the following card: [1]
+MINI_GAME_CATCHKING_TOOLTIP_CARD2	Can catch the following cards: [1], [2]
+MINI_GAME_CATCHKING_TOOLTIP_CARD3	Can catch the following cards: [1], [2], [3]
+MINI_GAME_CATCHKING_TOOLTIP_CARD4	Can catch the following cards: [1], [2], [3], [4]
+MINI_GAME_CATCHKING_TOOLTIP_CARD5	Can catch the following cards: [1], [2], [3], [4], [5]\nIf another [5] is neighbouring the card you reveal,\nyour turn ends and you won't receive any points.
+MINI_GAME_CATCHKING_TOOLTIP_CARD6	Can catch the following card: [K]
+MINI_GAME_CATCHKING_TOOLTIP_SCORE1	%s: 550 or more
+MINI_GAME_CATCHKING_TOOLTIP_SCORE2	%s: 400 to 549
+MINI_GAME_CATCHKING_TOOLTIP_SCORE3	%s: 10 to 399
+MINI_GAME_CATCHKING_TOOLTIP_SCORE4	You earn 10 bonus points if you reveal all the cards in a row.
+CARD_EVENT	Okey Card Event
+CATCH_KING_EVENT	Catch King Event
+TREASURE_KEY	Key Box Event
+MISSION_STATUS_COUNT	|cffF6A800|Eemoji/e_wiki|e Status:|r %d/%d
+MISSION_TYPE_NAME	|cffF6A800|Eemoji/e_wiki|e Type:|r %s
+MISSION_TYPE_ALL_MONSTER	All Monster
+MISSION_TYPE_ALL_METIN	All MetinStone
+MISSION_TYPE_ALL_BOSS	All King&Boss
+MISSION_TYPE_LEVELRANGE	 (+-%d Level)
+MISSION_TYPE_SPECIAL	|cffF6A800|Eemoji/e_wiki|e Type:|r %s
+MISSION_EXP	|cffF6A800|Eemoji/e_wiki|e EXP:|r %s ~ %s
+MISSION_GOLD	|cffF6A800|Eemoji/e_wiki|e Gold:|r %s ~ %s
+MISSION_LEFTTIME	|cffF6A800|Eemoji/e_wiki|e Left Time:|r %s
+MISSION_DELETE_TEXT	Do you want remove mission?
+MISSION_REWARD_TEXT	Do you want get reward?
+MISSION_END_TIME	|cffF6A800|Eemoji/e_wiki|e End Time:|r %s
+MISSION_REWARD_TITLE	|cffF6A800Reward:|r
+BEGGINER_EVENT	Beginner Event
+LOCK_BONUS	Nº Bonus: %d (right click)
+LOCK_BONUS2	Choose Bonus (right click)
+COPY_ITEM	Bonus:
+COPY_ITEM1	Right click to delete bonus
+COPY_ITEM2	(Empty)
+COPY_ITEM3	Sword
+COPY_ITEM4	Dagger
+COPY_ITEM5	Bow
+COPY_ITEM6	Two Hand
+COPY_ITEM7	Bell
+COPY_ITEM8	Fan
+COPY_ITEM9	Armour
+COPY_ITEM10	Helmet
+COPY_ITEM11	Shield
+COPY_ITEM12	Bracelet
+COPY_ITEM13	Shoes
+COPY_ITEM14	Necklace
+COPY_ITEM15	Earing
+COPY_ITEM16	Costume
+COPY_ITEM17	Hair
+COPY_ITEM18	Mount
+COPY_ITEM19	Sash
+COPY_ITEM20	Weapon Skin
+COPY_ITEM21	Sash Skin
+COPY_ITEM22	Pet
+COPY_ITEM23	Mount Skin
+COPY_ITEM24	Pet skin
+NEW_AFFECT_BRAVE_CAPE	Bravery Cape	SNA
+AUTO_TOOLTIP_CLEAR	Reset
+AUTO_TOOLTIP_LINE1	Skills: Select skills for combat and drag them into the slots. (Premium)
+AUTO_TOOLTIP_LINE2	Hint: You can change the activation interval (in seconds) below each skill.
+AUTO_TOOLTIP_LINE3	Potions: Select potions for combat and drag them into the slots. (Premium)
+AUTO_TOOLTIP_LINE4	Hint: HP and SP potions will be activated as soon as the level falls below the % value shown below each potion.
+AUTO_TOOLTIP_LINE5	Note: automatic use of skills, potions and resurrection can be activated in the item shop.
+AUTO_TOOLTIP_TITLE	Auto-Hunting Help
+TOOLTIP_AUTO_SYSTEM_PRIMIUM	Auto-Hunting	SNA
+YENILE_BUTTON_TITLE	Order inventory
+YENILE_BUTTON	|Eemoji/key_lclick|e - Name
+YENILE_BUTTON2	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - Level
+YENILE_BUTTON3	|Eemoji/key_alt|e + |Eemoji/key_lclick|e - Custom Sort
+SWITCHBOT_ALTERNATIVE	Alternatives:
+OXEVENT_MANAGER_LOGIN_PASSWORD	Type password:
+OXEVENT_MANAGER_LOGIN_CONNECT	Login
+OXEVENT_MANAGER_LOGIN_CANCEL	Close
+OXEVENT_MANAGER_LOGIN_TITLENAME	GM: OX Event Administration
+OXEVENT_MANAGER_BTN_LOGIN	Try to connect on event manager...
+OXEVENT_MANAGER_BTN_REWARD	Give a reward
+OXEVENT_MANAGER_BTN_CLEAR	Clear
+OXEVENT_MANAGER_HORIZONTALBAR_TEXT	Offers for participants a prize.
+OXEVENT_MANAGER_NAME_ITEM	Name item:
+OXEVENT_MANAGER_COUNT	Count(s):
+OXEVENT_MANAGER_QUEST_OPEN_GATES	You want to open competition now?
+OXEVENT_MANAGER_QUEST_CLOSE_GATES	Are you sure want to closed gates?
+OXEVENT_MANAGER_QUEST_FINISH_EVENT	You want to finish competition and get winner?
+OXEVENT_MANAGER_QUEST_GIVE_REWARD	ItemVnum: [%s] - Name: [%s] - Count's: [%s]
+OXEVENT_MANAGER_QUEST_RUN_QUIZ	You want to run a question?
+OXEVENT_MANAGER_QUEST_FORCE_CLOSE	Are you sure? even want to do this?
+OXEVENT_MANAGER_QUEST_CLEAR_REWARD	Clear setting rewards from window?
+OXEVENT_MANAGER_TITLENAME	GM: Panel competition OX
+OXEVENT_MANAGER_USER_TEXT	Total counters (participants/observers):
+OXEVENT_MANAGER_USER_COUNT	|cFFffe700%d / %d
+OXEVENT_TOOLTIP_EMPTY	EMPTY
+OXEVENT_TOOLTIP_NAME	Name character: %s
+OXEVENT_TOOLTIP_LEVEL	Level: %s
+OXEVENT_TOOLTIP_GUILD	Guild name: %s
+OXEVENT_TOOLTIP_EMPIRE	Empire: %s
+OXEVENT_TOOLTIP_DATE	Date winner: %s
+OXEVENT_TOOLTIP_ANSWERS	Total correct answers: %s
+MOVE_CHANNEL_99	CH0
+MOVE_CHANNEL_CANCEL	Cancel
+MOVE_CHANNEL_NOTICE	You are connected to channel %d.
+MOVE_CHANNEL_NOT_MOVE	You cannot change your channel.
+MOVE_CHANNEL_SELECT	OK
+MOVE_CHANNEL_TITLE	Channels
+MOVE_CHANNEL_TIP	|cfff4b624TIP: |cffffffffUse /cch #
+ADMIN_MANAGER_TITLE_NAME	Admin: Ban Tool
+ADMIN_MANAGER_REASON	Reason:
+ADMIN_MANAGER_REASON_TYPE	Type reason.
+ADMIN_MANAGER_DAY	Day(s)
+ADMIN_MANAGER_HOUR	Hour(s)
+ADMIN_MANAGER_MINUTE	Min(s)
+ADMIN_MANAGER_USERNAME	UserName:
+ADMIN_MANAGER_BAN	OK
+ADMIN_MANAGER_BAN_TYPE_1	Permanently
+ADMIN_MANAGER_BAN_TYPE_2	IP
+ADMIN_MANAGER_BAN_TYPE_3	With time
+ADMIN_MANAGER_BAN_TYPE_DESCRIPTION_1	Block account permanently.
+ADMIN_MANAGER_BAN_TYPE_DESCRIPTION_2	Block all acounts of him ip.
+ADMIN_MANAGER_BAN_TYPE_DESCRIPTION_3	Block account based by time.
+CHANNEL_SELECT_CHANNEL	Choose the channel
+CHANNEL_SELECT_REGION	Choose region.
+CHANNEL_SELECT_SERVER	Choose server
+CHANNEL_STATUS_BUSY	Busy
+CHANNEL_STATUS_FULL	Full
+CHANNEL_STATUS_OFFLINE	Unknown
+CHANNEL_STATUS_RECOMMENDED	Normal
+CHANNEL_STATUS_VACANT	Normal
+CHANNEL_TEST_SERVER	Test server
+CHANNEL_TEST_SERVER_ADDR	Test %s:%d
+SERVER_NOTIFY_CLOSED	Closed server: only accounts created before the closure may enter.
+SERVER_STATUS_CLOSE	CLOSED
+SERVER_STATUS_NEW	OFFICIAL
+SERVER_STATUS_SPECIAL	DEV
+SERVER_STATUS_STANDBY	CLOSED
+LOGIN_ERROR_VERSION_NUMBER	The system has detected that you are using an obsolete version.
+MAINTENANCE_DESCRIPTION	|cffffdeadMaintenance in: [ %s ]|r - |cffffffffEstimated time: [ %s ]|r
+AURA_BOOST_DRAIN_PER	Extra Absorption +%d%%
+AURA_DRAIN_PER	Absorption rate %.1f%%
+AURA_DRAIN_BOOST_PER	Absorption rate %.1f%% (+%d%%)
+AURA_EVOLUTION_GOLD	[Aura] Insufficient Yang to evolve.
+AURA_IMPOSSIBLE_ABSORBITEM	[Aura] No further bonuses can be applied.
+AURA_IMPOSSIBLE_EQUIPITEM	[Aura] Equipped items cannot be transmitted.
+AURA_IMPOSSIBLE_EVOLUTION_ITEM	[Aura] Cannot be evolved.
+AURA_IMPOSSIBLE_EVOLUTION_ITEMCOUNT	[Aura] Current number of items is not sufficient to evolve.
+AURA_IMPOSSIBLE_GROWTHITEM	[Aura] Cannot be improved.
+AURA_IMPOSSIBLE_GROWTHITEM2	[Aura] You need to attach the materials.
+AURA_IMPOSSIBLE_REFINEITEM	[Aura] Only Shield, Necklace, Earring and Armband can be used.
+AURA_IMPOSSIBLE_REFINEITEM2	[Aura] Only Aura Outfit, Shield, Necklace, Earring and Armband can be used.
+AURA_IMPOSSIBLE_SEALITEM	[Aura] Soulbound items cannot be transmitted.
+AURA_ITEM_NEED_REGISTER	[Aura] Items must be inserted.
+AURA_LEVEL_STEP	Lvl%d (Stage %d)
+AURA_MAX_LEVEL	[Aura] Aura Outfit has attained maximum level.
+AURA_NOTICE_DEL_ABSORDITEM	[Aura] Transmitted item will be destroyed.
+AURA_OPEN_OTHER_WINDOW	You cannot do this while the window for improvement, evolution or transferring stats is open.
+AURA_POSSIBLE_AURAITEM	[Aura] Only Aura Outfit can be used.
+AURA_POSSIBLE_AURARESOURCE	[Aura] Only Aura Ice Rune and Aura Fire Rune can be used.
+AURA_POSSIBLE_REGISTER_AURAITEM	[Aura] Aura Outfit must be inserted first.
+AURA_TITLE_ABSORB	Transmit values onto Aura Outfit
+AURA_TITLE_EVOLUTION	Evolve Aura Outfit
+AURA_TITLE_GROWTH	Improve Aura Outfit
+AURA_TOOLTIP_EVOLUTION_PER	Chance: %d%%
+AURA_TOOLTIP_EXP	EXP (%d%% / 100%%)
+AURA_TOOLTIP_LEVEL	Lvl%d (Stage %d) (Absorption rate %.1f%%)
+AURA_TOOLTIP_NEED_YANG	%s Yang
+AURA_TOOLTIP_NEXT	New
+AURA_TOOLTIP_NOW	Current
+AURA_TOOLTIP_RESOURCE	Consumables
+AURA_TOOLTIP_RESOURCE_ITEM	%s * %d
+NOTLVL_ITEMDESTROY_ITEM_FRAG	You do not have enough level to generate Energy Fragments.
+NOT_ITEMDESTROY_ITEM_FRAG	The item needed to generate Energy Fragments is not of the correct level.
+NOTLVL_ITEMDESTROY_ITEM_AURA	You do not have enough level to generate Aura Ice Rune.
+NOT_ITEMDESTROY_ITEM_AURA	The item needed to generate Aura Ice Rune is not of the correct level.
+NOT_ITEMDESTROY_ITEM_LVL	The item does not have the right level to perform this action.
+ITEM_NEVER_DESTROY_FORLIST	This item cannot be destroyed.
+REFINE_COST_UPGRADE	[i] Costs of improving
+REFINE_CURRENT_ITEM	[i] Current item
+REFINE_NEXT_ITEM	[i] Next item
+REFINE_NEED_ITEMS	[i] Items required for upgrade
+REFINE_CURRENT_PERCENTAGE	[i] Current percentage: %d%%
+REFINE_INCREASE_PERCENTAGE	[Extra + %d%%]
+REFINE_RARITY_WARNING	This item may fail during refining.
+REFINE_RARITY_WARNING_WITH_BONUS_PERCENT_1	This will increase the probability of improvement.
+REFINE_RARITY_WARNING_WITH_BONUS_PERCENT_2	This will not increase the probability of improvement. Do you wish to continue?
+REFINE_RARITY_DOWN_GRADE_WARNING	If it fails, the item will become a rarity again. Do you wish to continue?
+REFINE_RARITY_NOT_GRADE_WARNING	If it fails, the item keeps the same rarity. Do you want to continue?
+PRIVATESHOP_SEARCH_REQ_NAME	[Search in Store] Enter the name of the object to search for...
+NIGHTMARE	Nightmare
+MAGICTROLL	MagicTroll
+SERPENT_QUEEN	Serpent Queen
+ALASTOR	Alastor
+TICKET_PRIORITY_HIGH	High
+TICKET_PRIORITY_MEDIUM	Medium
+TICKET_PRIORITY_LOW	Low
+TICKET_STATE_ON_HOLD	Open
+TICKET_STATE_CLOSED	Closed
+TICKET_STATE_SOLVED	Solved
+TICKET_ADD_NAME	Name:
+TICKET_ADD_TITLE	Add Member
+TICKET_ADD_ACCEPT	Accept
+TICKET_SEND	Send
+TICKET_TITLE	Support
+TICKET_MY_TICKETS	My Tickets
+TICKET_ADMINISTRATION	Administration
+TICKET_SORT_BY	Sort by:
+TICKET_ID	ID
+TICKET_ID2	Ticket ID
+TICKET_ANSWERS	Answers
+TICKET_TITLE_T	Title
+TICKET_PRIORITY	Priority
+TICKET_DATE	Date
+TICKET_STATE	Status
+TICKET_CREATE_NEW	Create a new ticket
+TICKET_SEARCH	Search by ID:
+TICKET_SEARCH_BUTTON	Search for
+TICKET_NAME	Name
+TICKET_DELETE	Remove member
+TICKET_CHANGE_PERMISIONS	Change permissions
+TICKET_ADD_MEMBER	Add new member
+TICKET_REFRESH	Upgrade
+TICKET_CATEGORY	Category
+TICKET_CATEGORY_0	All
+TICKET_CATEGORY_1	Suggestions
+TICKET_CATEGORY_2	Bugs
+TICKET_CATEGORY_3	Hacks
+TICKET_CATEGORY_4	ItemShop
+TICKET_DELETE_MEMBER	Delete PJ
+TICKET_NAME_MEMBER	PJ name
+TICKET_STATE_BY_DATE	By %s at %s %s
+TICKET_ID_NOT_FOUND	No ticket has been found with the id %s.
+TICKET_CAMP_CLEAN	You must fill in the fields correctly.
+MESSENGER_GM	Team
+PVP_TOURNAMENT_CAMERA_CLOSE_AUTO	Your watching tournament was end, camera automatic closed.
+PVP_TOURNAMENT_CAMERA_TRY_NEAR	Can you try to near %s for watching!
+PVP_TOURNAMENT_REMOVE_PLAYER	Do you want to remove %s?
+PVP_TOURNAMENT_PANEL_TITLE	Start PvP Duel with Settings
+PVP_TOURNAMENT_PVP_TYPE	PvP Type:
+PVP_TOURNAMENT_ALL_CHARACTER	All Character
+PVP_TOURNAMENT_ONLY_WARRIOR	Only Warrior
+PVP_TOURNAMENT_ONLY_ASSASSIN	Only Assassin
+PVP_TOURNAMENT_ONLY_SURA	Only Sura
+PVP_TOURNAMENT_ONLY_SHAMAN	Only Shaman
+PVP_TOURNAMENT_MIN_LEVEL	Min. Level:
+PVP_TOURNAMENT_MAX_LEVEL	Max. Level:
+PVP_TOURNAMENT_MAX_REGISTER	Max Register:
+PVP_TOURNAMENT_REGISTER_TIME	Register Time(minute):
+PVP_TOURNAMENT_PVP_BET	PvP Bet:
+PVP_TOURNAMENT_PROBLEM_PVP_TYPE	Something wrong in pvpType
+PVP_TOURNAMENT_PROBLEM_MIN_LEVEL	Something wrong in minLevel
+PVP_TOURNAMENT_PROBLEM_MAX_LEVEL	Something wrong in maxLevel
+PVP_TOURNAMENT_PROBLEM_REGISTER_COUNT	Something wrong in registerCount
+PVP_TOURNAMENT_PROBLEM_REGISTER_TIME	Something wrong in registerTime
+PVP_TOURNAMENT_PROBLEM_BET_PRICE	Something wrong in betPrice
+MISSION_BOOOK_TITLE	Mission Books [F11]
+ATTR_TOOLTIP_LIST_TITLE	Enchantment Probability
+ATTR_TOOLTIP_LIST_1	If the enchantment fails, the item will be destroyed. 
+ATTR_ENCHANT_DIALOG_QUESTION	Are you sure you want to enchant this item? 
+NEW_AFFECT_SUNGMA_POTION_STR	SungMa STR	SNA
+NEW_AFFECT_SUNGMA_POTION_VIT	SungMa VIT	SNA
+NEW_AFFECT_SUNGMA_POTION_RES	SungMa RES	SNA
+NEW_AFFECT_SUNGMA_POTION_INT	SungMa INT	SNA

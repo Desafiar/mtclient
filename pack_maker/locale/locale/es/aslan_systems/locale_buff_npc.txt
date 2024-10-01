@@ -1,0 +1,46 @@
+ASLAN_BUFF_TITLE_MAIN_BOARD	Información AutoBuff
+ASLAN_BUFF_TITLE_CREATE_BOARD	Configurar chamán
+ASLAN_BUFF_TITLE_LEARN_GRANDMASTER	Aprender habilidad Grand Master
+ASLAN_BUFF_TITLE_RESET_SKILL	Resetear Habilidad
+ASLAN_BUFF_TITLE_CHANGE_NAME	Cambiar Nombre
+ASLAN_BUFF_BUTTON_SUMMON	Invocar
+ASLAN_BUFF_BUTTON_UNSUMMON	Desinvocar
+ASLAN_BUFF_BUTTON_EXPORT	Exportar
+ASLAN_BUFF_TITLE_SKILLS	Habilidades
+ASLAN_BUFF_SKILLPOINTS	Puntos de habilidad: %d
+ASLAN_BUFF_INTELLIGENCE	INT: %d
+ASLAN_BUFF_TITLE_IMPROVE_CHANGE	Mejorar y modificar
+ASLAN_BUFF_BUTTON_TEXT_USE	Usar
+ASLAN_BUFF_INPUT_NAME_TITLE	Introduce Nombre
+ASLAN_BUFF_CHANGE_NAME	Cambiar Nombre
+ASLAN_BUFF_CHANGE_SEX	Cambiar Sexo
+ASLAN_BUFF_RESET_SKILL	Reset. Habilidades
+ASLAN_BUFF_HOVER_EXP_INFO	Experiencia : %s / %s (%.2f%%)
+ASLAN_BUFF_CHAT_INFO_NAME_IS_EMPTY	Necesitas ponerle un nombre a tu chamán/a
+ASLAN_BUFF_SELECT_SKILL	Elegir habilidad
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_1	Enhorabuena!
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_2	La mejora %s ha tenido éxito!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_1	Lamentablemente %s ha fallado!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_2	Solo tienes la mitad de los costos.
+ASLAN_BUFF_POPUP_GRANDMASTER_NO_SKILLS	No tienes una habilidad de Grand Master que puedas mejorar.
+ASLAN_BUFF_POPUP_NOT_ACTIVE_SHAMAN	No tienes un chamán/a activo.
+ASLAN_BUFF_POPUP_RESET_SKILL_1	Has reiniciado la habilidad %s!
+ASLAN_BUFF_POPUP_RESET_SKILL_2	Has recibido %d puntos de habilidad!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_1	Quieres exportar el objeto del chamán?
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_2	¡Se restablecerán los niveles de habilidades!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_3	Para exportar al Chamán necesitas: %s Yang
+ASLAN_BUFF_QUESTION_BEFORE_CHANGE_SEX	¿Quieres cambiar el género del chamán?
+ASLAN_BUFF_CHAT_NO_SKILL_ITEM	No hay ningún libro de habilidades o Piedra de Alma disponible.
+ASLAN_BUFF_CHAT_NO_CHANGE_NAME_ITEM	Necesitas pergamino de cambio de nombre para poder hacer eso.
+ASLAN_BUFF_CHAT_NO_CHANGE_SEX_ITEM	Necesitas pergamino de cambio de sexo para hacer eso.
+ASLAN_BUFF_CHAT_NO_RESET_SKILL_ITEM	Necesita redistribución de habilidades para restablecer una habilidad.
+ASLAN_BUFF_SKILLBOARD_COST	Coste: %s Yang
+ASLAN_BUFF_SKILLBOARD_COST_EMPTY	Coste : ----
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS	Puntos de habilidad : %d
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS_EMPTY	Puntos de habilidad : ----
+ASLAN_BUFF_TOOLTIP_WITH_SOCKET_ZERO	¡Este sello aún no se ha abierto! ¡Sé el primero en liberar el espíritu de este chamán!
+ASLAN_BUFF_TOOLTIP_MALE	Hombre
+ASLAN_BUFF_TOOLTIP_FEMALE	Mujer
+ASLAN_BUFF_TOOLTIP_LEVEL	Nivel : %s
+ASLAN_BUFF_TOOLTIP_SKILLPOINTS	Puntos de habilidad : %s
+ASLAN_BUFF_TOOLTIP_INTELLIGENCE	Inteligencia : %s

@@ -1,0 +1,793 @@
+ACCEPT	OK
+ARMOR	Armor
+ATTACH_METIN_INFO	Pøejete si použít kámen ducha?
+ATTACH_METIN_TITLE	Použít kámen ducha
+ATTR_67_ADD	Pøidat bonus
+ATTR_67_ADD_TITLE	Pøidat bonus
+ATTR_67_MATERIAL_SLOT_TITLE	Støepy síly
+ATTR_67_REGIST_SLOT_TITLE	Cílový pøedmìt
+ATTR_67_SUPPORT_SLOT_TITLE	Pøísada
+AUTOMATIC_PCIK_UP_ACCESSORIES	Pøíslušenství
+AUTOMATIC_PCIK_UP_ACTIVATE	Aktivovaný
+AUTOMATIC_PCIK_UP_ARMORS	Brnìní
+AUTOMATIC_PCIK_UP_BLACKSMITH	Obj. Upgrade
+AUTOMATIC_PCIK_UP_BOOKS	Knihy
+AUTOMATIC_PCIK_UP_DEACTIVATE	zakázané
+AUTOMATIC_PCIK_UP_GOLD	Yang
+AUTOMATIC_PCIK_UP_STONES	Kameny
+AUTOMATIC_PCIK_UP_WEAPONS	Zbranì
+AUTOMATIC_PICK_UP	Automatický sbìr
+AUTOMATIC_PICK_UP_FILTER	Filtrovat podle:
+BANK_1	V této bance jsou uloženy všechny jangy, kterých jste dosáhli.
+BANK_2	S prodejem vašich pøedmìtù v offline obchodì.
+BANK_3	Zadejte èástku, kterou chcete vybrat.
+BANK_GET	Stáhnout
+BANK_NAME	Banka
+BATTLE_FIELD_EACH_DAY	%s: | CFF14FF48 | H%02I:%02I | H | r - | cffff1a00 | h%02i:%02i | h | r
+BATTLE_FIELD_FRIDAY	PÁTEK
+BATTLE_FIELD_INFO	Bojová zóna
+BATTLE_FIELD_MONDAY	PONDÌLÍ
+BATTLE_FIELD_MONSTERS_LIMIT	%d/%d
+BATTLE_FIELD_OPERATION_OFFLINE	Zavøený vchod!
+BATTLE_FIELD_OPERATION_ONLINE	Otevøený vchod!
+BATTLE_FIELD_POINTS	%d
+BATTLE_FIELD_REQUEST_POTION	Žádost o lektvar
+BATTLE_FIELD_SATURDAY	SOBOTA
+BATTLE_FIELD_SUNDAY	NEDÌLE
+BATTLE_FIELD_THURSDAY	ÈTVRTEK
+BATTLE_FIELD_TUESDAY	ÚTERÝ
+BATTLE_FIELD_WEDNESDAY	STØEDA
+BATTLE_FILED_RANK	Poøadí
+BATTLE_FILED_RANK_EMPIRE	Království
+BATTLE_FILED_RANK_NAME	Název
+BATTLE_FILED_RANK_POINT	Body
+BATTLE_PASS	Prùkaz Battle Pass
+BATTLE_PASS_DESCRIPTION	Popis Mise
+BATTLE_PASS_FINISHED	Terminer à: (Pas Terminer)
+BATTLE_PASS_INFO	Informace o Battle Pass
+BATTLE_PASS_MISSION_INFO	Informace
+BATTLE_PASS_MISSION_NAME	Žádná mise
+BATTLE_PASS_MISSION_STATUS	Stav
+BATTLE_PASS_TOTAL_PROGRESS	Total progress
+BONUS_TITLE	Bonus
+CALENDAR_TITLE	Kalendáø událostí
+CANCEL	Zrušit
+CHANGE_EQUIP	Switch
+CHANGE_EQUIP_1	1. Inventory
+CHANGE_EQUIP_2	2. Inventory
+CHANGE_EQUIP_3	3. Inventory
+CHANGE_EQUIP_4	4. Inventory
+CHANGE_PASSWORD_CONFIRM	Potvrzení nového hesla
+CHANGE_PASSWORD_NEW	Nové heslo
+CHANGE_PASSWORD_OLD	Staré heslo
+CHANGE_PASSWORD_TITLE	Zmìna hesla
+CHARACTER_ACTION	Akce
+CHARACTER_MAIN	Postava
+CHARACTER_MUTUAL_ACTION	Vzájemná akce
+CHARACTER_NORMAL_ACTION	Normální akce
+CHARACTER_QUEST	Mise
+CHARACTER_SKILL	Dovednosti
+CHEST_DROP_TITLE	Informace o Truhle
+CLOSE	Zavøít
+COINS	Draèí mince
+COSTUME_TITLE	Obleèení
+COSTUME_WINDOW_TITLE	Obleèení
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Vytvoøit
+CREATE_DEX_GRADE	DEX
+CREATE_HP	HP
+CREATE_NAME	Název
+CREATE_NEXT	Další
+CREATE_PREV	Zpìt
+CREATE_SHAPE	Tvar
+CREATE_SP	INT
+CUBE_INFO_TITLE	Pøíruèka pro zdokonalování
+CUBE_RENEWAL_BELT_IMPROVE	Zvýšení šance
+CUBE_RENEWAL_TITLE	Zpøesnìní
+CUBE_REQUIRE_MATERIAL	Požadované materiály
+CUBE_REQUIRE_MATERIAL_OR	nebo
+CUBE_TITLE	Okno upøesnìní
+Chest_drop_01	Otevøít %d
+DESTROY	Znièit
+DO_REFINE	Upøesnit
+DO_SHOP	Obchod
+DR	Odražené fyzické poškození
+DRAGONSOUL_ACTIVATE	Aktivace
+DRAGONSOUL_ALL_REFINE	Zpøesnit vše
+DRAGONSOUL_PAGE_BUTTON_1	Hrubý
+DRAGONSOUL_PAGE_BUTTON_2	Støih
+DRAGONSOUL_PAGE_BUTTON_3	Vzácné
+DRAGONSOUL_PAGE_BUTTON_4	Starožitný
+DRAGONSOUL_PAGE_BUTTON_5	Legendární
+DRAGONSOUL_REFINE_WINDOW_TITLE	Okno upøesnìní
+DRAGONSOUL_TAP_TITLE_1	Draèí diamant
+DRAGONSOUL_TAP_TITLE_2	Draèí Rubín
+DRAGONSOUL_TAP_TITLE_3	Draèí nefrit
+DRAGONSOUL_TAP_TITLE_4	Draèí safír
+DRAGONSOUL_TAP_TITLE_5	Draèí granát
+DRAGONSOUL_TAP_TITLE_6	Draèí Onix
+DRAGONSOUL_TITLE	Alchemy
+EMPIRE_EXIT	Exit
+EMPIRE_NEXT	Další
+EMPIRE_PREV	Zpìt
+EMPIRE_SELECT	Vyberte si
+ENTER_BATTLE_FIELD	UDÌLEJTE SI ÚÈAST
+EXCHANGE_ACCEPT	OK
+EXCHANGE_TITLE	Obchod
+EXIT_BATTLE_FIELD	Urèitì se chcete dostat z bojové zóny?
+EXIT_BATTLE_FIELD_COLLECTED_POINTS	Aktuální body: %d
+FOREVER	Permanentní
+GAMEOPTION_COUNTRY_FLAG	Vlajka království
+GAMEOPTION_HIDE	Skrýt
+GAMEOPTION_QUEST_LETTER	Dopis o úkolu
+GAMEOPTION_SHOW	Zobrazit
+GAMEOPTION_TITLE	Možnosti hry
+GAME_EXIT_OBSERVER	Ukonèení režimu pozorovatele
+GAME_HELP	Nápovìda
+GAME_QUEST	Úkoly
+GAME_SKILL_UP	Zvyšování dovedností
+GAME_STAT_UP	Zvýšit stát
+GIFT_FROM	z
+GIFT_GET_ALL	Odstranìní všech
+GIFT_GET_QUEST	"Jistì chcete odstoupit ""%s""?"
+GIFT_GET_QUEST_ALL	Chcete odebrat všechny objekty?
+GIFT_MONEY_DESC	Prodejem pøedmìtu jste vydìlali peníze.
+GIFT_NEXT_PAGE	Sledujte stránky
+GIFT_PREV_PAGE	Zpìt
+GIFT_REASON	Dùvod
+GIFT_WINDOW_NAME	Vysloužilé objekty
+GRADE	Tøída
+GRADE_SELECT	Tøída
+GUILD_BASENAME	Základní název
+GUILD_BOARD_ID	Název
+GUILD_BOARD_REFRESH	Obnovit (F5)
+GUILD_BOARD_TEXT	Zpráva
+GUILD_BUILDING_CATEGORY_TITLE	STAVEBNÍ JEDNOTKY
+GUILD_BUILDING_CHANGE	Zmìna
+GUILD_BUILDING_DIRECTION	Orientace
+GUILD_BUILDING_GRADE	Klasifikace
+GUILD_BUILDING_INFO	INFORMACE O KONSTRUKCI A NÁKLADECH
+GUILD_BUILDING_LIST_TITLE	Stavební seznam
+GUILD_BUILDING_LOG	Kufr
+GUILD_BUILDING_NAME	Název stavby
+GUILD_BUILDING_OPERATE	Provozujte
+GUILD_BUILDING_PLY	Chapeado
+GUILD_BUILDING_POSITION	Pozice
+GUILD_BUILDING_PREVIEW	Náhled
+GUILD_BUILDING_PRICE	Cena
+GUILD_BUILDING_REFRESH	Obnovit (F5)
+GUILD_BUILDING_STONE	Kámen
+GUILD_BUILDING_TITLE	VÝSTAVBA DOMU GREMIO
+GUILD_CRYSTAL	Sklo
+GUILD_DEPOSIT	Vklad
+GUILD_DROP_RESOURCE1	Zde
+GUILD_DROP_RESOURCE2	Opustit zdroj
+GUILD_GEM	Drahokam
+GUILD_GRADE_CHANGE_GRADE_NAME	NÁZEV NOVÉHO ROZSAHU
+GUILD_GRADE_NUM	Nr.
+GUILD_GRADE_PERMISSION_DELETE	Vyhnat
+GUILD_GRADE_PERMISSION_JOIN	Pozvánka
+GUILD_GRADE_PERMISSION_NOTICE	Napište na
+GUILD_GRADE_PERMISSION_SKILL	Dovednosti
+GUILD_GRADE_RANK	Rozsah
+GUILD_GRADE_WRITE	Napište na
+GUILD_INFO	Informace o cechu
+GUILD_INFO_CUR_EXP	Zkušenosti
+GUILD_INFO_DECALRE_WAR	Vyhlásit válku
+GUILD_INFO_ENEMY_GUILD	Nepøátelský cech
+GUILD_INFO_ENEMY_GUILD_EMPTY	Žádné
+GUILD_INFO_LEVEL	Úroveò cechu
+GUILD_INFO_MASTER	Vedoucí
+GUILD_INFO_MASTER_VALUE	Vedoucí
+GUILD_INFO_MEMBER_AVG_LEVEL	Støední úroveò
+GUILD_INFO_MEMBER_NUM	Poèet èlenù
+GUILD_INFO_NAME	Název cechu
+GUILD_INFO_NAME_VALUE	Toto je název cechu
+GUILD_INFO_OFFER_EXP	Investovat
+GUILD_INFO_REST_EXP	Exp. Nezbytné
+GUILD_INFO_UPLOAD_MARK	Nahrát symbol
+GUILD_INFO_UPLOAD_SYMBOL	Zvednout vlajku
+GUILD_MARK	Symbol cechu
+GUILD_MEMBER_JOB	Tøída
+GUILD_MEMBER_KNIGHT	Leader
+GUILD_MEMBER_LEVEL	Level
+GUILD_MEMBER_NAME	Název
+GUILD_MEMBER_RANK	Klasifikace
+GUILD_MEMBER_SPECIFIC_GRAVITY	Investováno
+GUILD_METIN_STONE	Duchovní kámen
+GUILD_MINENAL	Minerály
+GUILD_MONEY	Yang
+GUILD_NAME	Cech
+GUILD_RESOURCE_INFO	Informace o zdrojích
+GUILD_SKILL_ACTIVE	Aktivní
+GUILD_SKILL_PASSIVE	Pasivní
+GUILD_SKILL_POWER	Energie
+GUILD_SKILL_STATE	Cechovní dovednosti
+GUILD_SKIlL_HEAL_GSP	Obnovení výkonu
+GUILD_SYMBOL	Vlajka cechu
+GUILD_WAR_ACCEPT	Pøijmout warfall
+GUILD_WAR_BATTLE_TYPE	Typ BAT.
+GUILD_WAR_CTF	Vlajka
+GUILD_WAR_DECLARE	Vyhlášení cechovní války
+GUILD_WAR_ENEMY	Nepøítel
+GUILD_WAR_NORMAL	Venkov
+GUILD_WAR_WARP	Písek
+GUILD_WAR_WIN	Rounds
+GUILD_WATER	Voda
+GUILD_WATER_STONE	Vodní kámen
+GUILD_WITHDRAW	Vezmìte si
+HAIR	Vlasy
+HELP_ATTACK	Aktivuje jednotlivé útoky na kliknutí myší.
+HELP_ATTACK_KEY	Attack: levé tlaèítko myši nebo mezerník
+HELP_CHANGE_PK_MODE	Zmìna režimu útoku: zmìna nastavení levého tlaèítka myši
+HELP_CHARACTER_BUTTON1	(Okno postavy, okno inventáøe,
+HELP_CHARACTER_BUTTON2	Seznam pøátel a možností)
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Výchozí pohled kamery: prostøední tlaèítko myši
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	Alternativní pohled kamery: pøiøazení pravé nebo levé myši
+HELP_EXP	Zkušenosti
+HELP_FURY	Obchod s herními pøedmìty
+HELP_GUILD_WINDOW	Otevøít okno cechu: Alt + G
+HELP_HELP	Zobrazení nápovìdy: H
+HELP_HP	Zásahové body (HP)
+HELP_MESSENGER_WINDOW	Otevøít seznam pøátel: Alt + M
+HELP_MOUSE_LEFT	Funkce levého tlaèítka myši
+HELP_MOUSE_RIGHT	Funkce pravého tlaèítka myši
+HELP_MOVE_KEY	Panel: W, A, S, D nebo klávesy se šipkami
+HELP_OPEN_CHARACTER	Otevøít okno se znaky: C
+HELP_OPEN_CHAT	Otevøení okna chatu: Enter
+HELP_OPEN_INVENTORY	Otevøít okno inventáøe: I
+HELP_OPEN_LOG	Otevøít chatlog: L
+HELP_OPEN_MINIMAP	Otevøete mini mapu: Shift + M
+HELP_OPEN_QUEST	Otevøít okno úlohy: N
+HELP_OPEN_SKILL	Otevøít okno dovedností: V
+HELP_OPEN_WHISPER	Otevøít šeptací okno: Shift + Enter
+HELP_OPEN_ZONEMAP	Otevøít velkou mapu: M
+HELP_PICK_ITEM	Sbírat pøedmìty: ` nebo Z nebo levým tlaèítkem myši
+HELP_QUICKSLOT	Pole rychlého pøístupu
+HELP_SCREEN_CAPTURE	Uložit snímek obrazovky: (uloží se do souboru "Metin2\screenshot")
+HELP_SHOW_ALL_NAME	Zobrazení názvù: Alt
+HELP_SP	Spell Body (SP)
+HELP_SYSTEM_BUTTON	Systémová tlaèítka
+INVENTORY_PAGE_BUTTON_TOOLTIP_1	1. Inventáø
+INVENTORY_PAGE_BUTTON_TOOLTIP_2	2. Inventáø
+INVENTORY_PAGE_BUTTON_TOOLTIP_3	3. inventáø
+INVENTORY_PAGE_BUTTON_TOOLTIP_4	4. inventáø
+INVENTORY_SEPARATE	Tidy
+INVENTORY_TITLE	Inventáø
+INVENTORY_UNLOCK	Chcete k jeho odemèení použít %d rozšíøení inventáøe?
+ITEM_MALL	Item Shop
+KEYCHANGE_AUTO_WINDOW	Vlastní lov
+KEYCHANGE_MONSTER_CARD_WINDOW	Karta pøíšery
+KW_TIME	%d Min (s) Vlevo
+LOAD_ERROR	Soubor je poškozen. Nainstalujte prosím nový. Nyní stisknìte ESC.
+LOGIN_CONNECT	Pøipojení
+LOGIN_CONNECTING	Budete pøipojeni k serveru
+LOGIN_DEFAULT_SERVERADDR	Název serveru, kanál 1
+LOGIN_EXIT	Exit
+LOGIN_SELECT_BUTTON	Vyberte si
+LOGIN_SELECT_EXIT	Exit
+LOGIN_SELECT_TITLE	Výbìr serveru
+MALL_PASSWORD_TITLE	Heslo
+MALL_TITLE	Item Shop Sklad
+MARKLIST_REFRESH	Obnovit
+MARKLIST_TITLE	Registrovat cechovní znamení
+MESSAGE	Toto je zpráva
+MESSENGER_ADD_FRIEND	Pøidat pøítele
+MESSENGER_DELETE_FRIEND	Odstranit
+MESSENGER_MOBILE	Odeslat textovou zprávu
+MESSENGER_OPEN_GUILD	Otevøít okno cechu
+MESSENGER_TITLE	Pøátelé
+MESSENGER_WHISPER	Šepot
+MINIMIZE	Minimalizujte
+MOUSEBUTTON_ATTACK	Útok
+MOUSEBUTTON_AUTO_ATTACK	Automatický útok
+MOUSEBUTTON_CAMERA	Kamera
+MOUSEBUTTON_SKILL	Dovednosti
+MUSICLIST_TITLE	Výbìr hudby
+NO	Ne
+OC	Možnost kritiky
+OFFLINE_SHOP_TITLE	Offline obchod
+OK	OK
+OPTION_ALWAYS_SHOW_NAME	Název
+OPTION_ALWAYS_SHOW_NAME_OFF	Omezené
+OPTION_ALWAYS_SHOW_NAME_ON	Vždy
+OPTION_BLOCK	Block
+OPTION_BLOCK_EXCHANGE	Obchod
+OPTION_BLOCK_FRIEND	Pøátelé
+OPTION_BLOCK_GUILD	Cech
+OPTION_BLOCK_PARTY	Skupina
+OPTION_BLOCK_PARTY_REQUEST	Žádost
+OPTION_BLOCK_WHISPER	Šepot
+OPTION_CAMERA_DISTANCE	Kamera
+OPTION_CAMERA_DISTANCE_LONG	Daleko
+OPTION_CAMERA_DISTANCE_SHORT	Zavøít
+OPTION_COLLECT_EQUIP	Filtr automatického výbìru
+OPTION_DELETE_MOBILE_BUTTON	Odstranìní èísla mobilního telefonu
+OPTION_EFFECT	Informace o zásahu
+OPTION_FOG	Mlha
+OPTION_FOG_DENSE	Hustý
+OPTION_FOG_LIGHT	Svìtlo
+OPTION_FOG_MIDDLE	Støední
+OPTION_INPUT_MOBILE_BUTTON	Zadejte èíslo mobilního telefonu
+OPTION_MOBILE	Mobilní telefon
+OPTION_MOB_INFO	Informace o pøíšerách
+OPTION_MOB_INFO_AGGR	Agresivní
+OPTION_MOB_INFO_LEVEL	Level
+OPTION_MUSIC	Hudba
+OPTION_MUSIC_CHANGE	Zmìna
+OPTION_MUSIC_DEFAULT_THEMA	Standardní hudba 
+OPTION_NAME_COLOR	Název Barva
+OPTION_NAME_COLOR_EMPIRE	Království barev
+OPTION_NAME_COLOR_NORMAL	Normální
+OPTION_NIGHT_MODE	HP Panel
+OPTION_NIGHT_MODE_OFF	Off
+OPTION_NIGHT_MODE_ON	On
+OPTION_OUTLINE_INFO	Náèrt
+OPTION_OUTLINE_OFF	Skrýt
+OPTION_OUTLINE_ON	Zobrazit
+OPTION_PVPMODE	PvP Mode
+OPTION_PVPMODE_FREE	Zdarma
+OPTION_PVPMODE_FREE_TOOLTIP	Mùžete útoèit na všechny hráèe.
+OPTION_PVPMODE_GUILD	Cech
+OPTION_PVPMODE_GUILD_TOOLTIP	Mùžete útoèit na všechny hráèe kromì èlenù svého cechu..
+OPTION_PVPMODE_PEACE	Peace
+OPTION_PVPMODE_PEACE_TOOLTIP	Nemùžete útoèit na hráèe ze svého království.
+OPTION_PVPMODE_REVENGE	Nepøátelské
+OPTION_PVPMODE_REVENGE_TOOLTIP	Útoèit mùžete pouze na ty, kteøí mají jiný étos.
+OPTION_SALESTEXT	Název obchodu
+OPTION_SALESTEXT_RANGE	Název obchodu Rozsah
+OPTION_SALESTEXT_VIEW_OFF	Skrýt
+OPTION_SALESTEXT_VIEW_ON	Zobrazit
+OPTION_SNOW_MODE	Snìžení
+OPTION_SNOW_MODE_OFF	Off
+OPTION_SNOW_MODE_ON	On
+OPTION_SNOW_TEXTURE_MODE	Sníh
+OPTION_SNOW_TEXTURE_MODE_OFF	Off
+OPTION_SNOW_TEXTURE_MODE_ON	On
+OPTION_SOUND	Zvukové efekty
+OPTION_TARGET_BOARD	Cílová nabídka
+OPTION_TARGET_BOARD_NO_VIEW	Zavøít
+OPTION_TARGET_BOARD_VIEW	Zobrazit
+OPTION_TILING	Grafika
+OPTION_TILING_APPLY	Použít
+OPTION_TILING_CPU	CPU
+OPTION_TILING_GPU	GPU
+OPTION_TITLE	Možnosti
+OPTION_VIEW_CHAT	Chatovací linka
+OPTION_VIEW_CHAT_OFF	Skrýt
+OPTION_VIEW_CHAT_ON	Zobrazit
+PARTY_MEMBER_INFO_NAME	Jméno èlena skupiny
+PASSWORD_DESC_1	Zadejte své heslo
+PASSWORD_DESC_2	otevøít skladištì.otevøít skladištì.
+PASSWORD_DESC_3	Už jste si zmìnili heslo?
+PASSWORD_DESC_4	Pokud ne, bude vaše heslo "000000".
+PASSWORD_DESC_5	Zmìna hesla v úložišti.
+PASSWORD_TITLE	Uložení hesla
+PET_SYSTEM_1	Inkubátor
+PET_SYSTEM_10	Bonus
+PET_SYSTEM_11	HP
+PET_SYSTEM_12	Obrana
+PET_SYSTEM_13	Sp
+PET_SYSTEM_14	Ability
+PET_SYSTEM_15	HP reprogrammed:
+PET_SYSTEM_16	Invincible by
+PET_SYSTEM_17	Coldown:
+PET_SYSTEM_18	dny
+PET_SYSTEM_19	hodiny
+PET_SYSTEM_2	Krmivo
+PET_SYSTEM_20	Zkušenosti
+PET_SYSTEM_3	Nourish
+PET_SYSTEM_4	Level
+PET_SYSTEM_5	Zkušenosti
+PET_SYSTEM_6	Vìk
+PET_SYSTEM_7	Doba trvání
+PET_SYSTEM_8	Vývoj
+PET_SYSTEM_9	Položka exp
+PICK_MONEY_TITLE	Rozdìlit
+PRIVATESHOPSEARCH_COUNT	Množství
+PRIVATESHOPSEARCH_SEARCH	Vyhledávání
+PRIVATESHOPSEARCH_SEARCH_BAR	Vyhledávání v obchodì
+PRIVATESHOPSEARCH_SELLER	Prodejce
+PRIVATE_SHOP_CLOSE_BUTTON	Zavøít obchod
+PRIVATE_SHOP_NAME	Název obchodu
+PRIVATE_SHOP_TITLE	Otevøení soukromého obchodu
+REFINE_COST	Upgrading Costs: 0 Yang
+REFINE_ELEMENT_CHANGE_COST_TITLE	Náklady
+REFINE_ELEMENT_CHANGE_DARK	Temnota
+REFINE_ELEMENT_CHANGE_EARTH	zemì
+REFINE_ELEMENT_CHANGE_ELECT	Blesk
+REFINE_ELEMENT_CHANGE_FIRE	Oheò
+REFINE_ELEMENT_CHANGE_ICE	Led
+REFINE_ELEMENT_CHANGE_TITLE	Zmìnit prvek
+REFINE_ELEMENT_CHANGE_WIND	Vítr
+REFINE_ELEMENT_UPGRADE_TITLE	Zlepšení kvality
+REFINE_INFO	Šance na úspìšné vylepšení: 100%
+REFINE_TTILE	vylepšení
+RESTART_HERE	Restartujte zde
+RESTART_IMMEDIATE	Reinkarnace
+RESTART_TOWN	Restart ve mìstì
+RF	Fyzická odolnost
+SAFE_CHANGE_PASSWORD	Zmìna hesla
+SAFE_TITLE	Sklad
+SASH_ABSORB	Bonusová absorpce
+SASH_COMBINE	Kombinované Šerpy
+SASH_MAIN	Šerpa 1
+SASH_RESULT	Výsledek
+SASH_SERVE	Šerpa 2
+SELECT_ATT_GRADE	STR
+SELECT_CREATE	Vytvoøit
+SELECT_DELETE	Odstranit
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	Název království
+SELECT_EXIT	Zavøít
+SELECT_HP	HP
+SELECT_LEVEL	Level
+SELECT_METIN_STONE_TITLE	Vybrat kámen ducha
+SELECT_NAME	Název
+SELECT_NO_GUILD	Žádný cech
+SELECT_PLAYTIME	Hrací doba: %d Minute (S)
+SELECT_SELECT	Start
+SELECT_SP	SP
+SELECT_TITLE	Zvolte si název
+SELECT_YES_GUILD	Název cechu: %s
+SHOP_BUY	Koupit
+SHOP_CHANGE_NAME	Pøejmenování
+SHOP_CHANGE_PRICE	Zmìna ceny
+SHOP_CLOSE	Zavøít obchod
+SHOP_CLOSE_QUEST	"Urèitì chcete obchod ""%s"" zavøít?"
+SHOP_CREATE	Otevøený obchod
+SHOP_CREATE_DAY	den
+SHOP_CREATE_DAYS	den
+SHOP_CREATE_HOUR	Èas
+SHOP_CREATE_HOURS	Hodiny
+SHOP_CREATE_NORMAL	Normální obchod
+SHOP_CREATE_PRICE	Cena:
+SHOP_EARNED_YANG	Získané peníze:
+SHOP_EDIT	Upravit
+SHOP_EDIT_SHOP_CANCEL	Zrušit vydání
+SHOP_EDIT_SHOP_WINDOW	Vydání v obchodì
+SHOP_ENTER_NEW_NAME	Napište nový název
+SHOP_GET_YANG	Vybrat Yang
+SHOP_INFORMATION	Informace o obchodì
+SHOP_MANAGE	Správa
+SHOP_NAME	Název obchodu
+SHOP_NAME_EMPTY	Napište název obchodu
+SHOP_NOT_EARNED_YANG	Váš obchod nevydìlává peníze!
+SHOP_OPEN	Vytvoøit obchod
+SHOP_REMOVE_ITEM	Stažení objektu
+SHOP_REMOVE_ITEM_QUEST	Urèitì chcete odstranit objekt?
+SHOP_REST_ITEMS	Ostatní pøedmìty:
+SHOP_SEARCH_NAME	Název
+SHOP_SEARCH_PRICE	Cena
+SHOP_SEARCH_RESET	Odebrat
+SHOP_SEARCH_SEND	Hledat
+SHOP_SEARCH_TITLE	Vyhledávaè objektù
+SHOP_SELECT	Výbìr
+SHOP_SELL	Prodej
+SHOP_SOLD_ITEMS	Prodávané pøedmìty:
+SHOP_TIMEOUT	Èas Èas
+SHOP_TIMEOUT_EMPTY	Èas obchodu
+SHOP_TIME_TO_CLOSE	Èas obchodu:
+SHOP_TITLE	Obchod
+SHOP_WINDOW_NAME	Vaše obchody
+SHOP_YANG_QUEST	"Urèitì chcete získat %s z obchodu "" %s""?"
+SKILL_SUPPORT_TITLE	Standardní dovednosti
+SORT_QUESTION	Urèitì chcete stohovat všechny èlánky?
+SPECIAL_STORAGE	Zvláštní inventura
+STEP	Tøída prùhlednosti
+STEP_SELECT	Tøída prùhlednosti
+STORAGE_0	Inventory
+STORAGE_1	Materiály
+STORAGE_2	Knihy
+STORAGE_3	Kameny
+STORAGE_4	Toèky
+STORAGE_5	Kostýmy
+STORAGE_6	Sklad
+STORAGE_7	Obchodní centrum
+STRENGTH	Strengthen
+STRENGTH_SELECT	Level
+SWITCHBOT_1	Active
+SWITCHBOT_10	Zavøít kartu
+SWITCHBOT_12	Tento slot již byl využit!
+SWITCHBOT_13	Pøidaný èlánek!
+SWITCHBOT_14	Stav
+SWITCHBOT_15	Maximalizujte
+SWITCHBOT_16	Minimalizujte
+SWITCHBOT_17	Pøetáhnìte položku sem
+SWITCHBOT_2	Zmìna
+SWITCHBOT_3	Having
+SWITCHBOT_4	Activate
+SWITCHBOT_5	Dokonèeno
+SWITCHBOT_7	Zaènìte mìnit
+SWITCHBOT_8	Žádné
+SWITCHBOT_9	Bonus tohoto objektu nelze zmìnit.
+SWITCHBOT_TITLE	Switchbot
+SWITCH_CHANNEL	Zmìna kanálu
+SYSTEMOPTION_TITLE	Možnosti systému
+SYSTEM_CHANGE	Zmìna charakteru
+SYSTEM_CHANGE_CHANNEL	Pøepínání CH
+SYSTEM_EXIT	Exit Hra
+SYSTEM_HELP	Nápovìda
+SYSTEM_LOGOUT	Odhlášení
+SYSTEM_MALL	Item Shop
+SYSTEM_OPTION	Možnosti systému
+SkillTitle	Dovednosti
+TASKBAR_CHARACTER	Postava [C/V/B/N]
+TASKBAR_DISABLE	Deaktivováno
+TASKBAR_DRAGON_SOUL	Alchymie draèích kamenù
+TASKBAR_EXPAND	Rozbalit okno
+TASKBAR_INVENTORY	Inventáø [I]
+TASKBAR_MESSENGER	Pøátelé [Alt+M]
+TASKBAR_MONEY_EXPAND	Peníze
+TASKBAR_NEXT_QUICKSLOT	Další pole rychlého pøístupu [Shift+èíslo, Alt]
+TASKBAR_PREV_QUICKSLOT	Pøedchozí pole rychlého pøístupu [Shift+èíslo]
+TASKBAR_SYSTEM	Možnosti [ESC]
+TOTAL_RANKING	Obecné poøadí
+UPGRADE	Keep otevøít okno
+UPGRADE_STORAGE_TITLE	Panel
+VCOINS	Drahokamy
+WEAPON	Zbraò
+WEEKLY_RANKING	Týdenní žebøíèek
+WHISPER_BAN	Block
+WHISPER_NAME	Šepot
+WHISPER_REPORT	zpráva
+WHISPER_SEND	Odeslat
+WeaponTitle	Kostýmy
+YES	Ano
+ZONE_MAP	Velká mapa
+OPTION_FOV	Perspektiva
+CHEST_DROP_OPEN	Otevøít
+GRAPHICONOFF_EFFECT_LEVEL	Úèinky
+GRAPHICONOFF_EFFECT_LEVEL1_TOOLTIP	Zobrazit všechny
+GRAPHICONOFF_EFFECT_LEVEL2_TOOLTIP	Pouze vaše a monster efekty
+GRAPHICONOFF_EFFECT_LEVEL3_TOOLTIP	Pouze vaše efekty a efekty ostatních hráèù
+GRAPHICONOFF_EFFECT_LEVEL4_TOOLTIP	Pouze vaše
+GRAPHICONOFF_EFFECT_LEVEL5_TOOLTIP	Skrýt vše
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL	Soukromé obchody
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL1_TOOLTIP	Zobrazit všechny
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL2_TOOLTIP	Zobrazit vše ve velkém polomìru
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL3_TOOLTIP	Zobrazit vše ve støedním polomìru
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL4_TOOLTIP	Zobrazit vše v malém polomìru
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL5_TOOLTIP	Zobrazit všechny v bezprostøední blízkosti
+GRAPHICONOFF_DROP_ITEM_LEVEL	Kapky položky
+GRAPHICONOFF_DROP_ITEM_LEVEL1_TOOLTIP	Zobrazit efekt a název
+GRAPHICONOFF_DROP_ITEM_LEVEL2_TOOLTIP	Skrýt efekt
+GRAPHICONOFF_DROP_ITEM_LEVEL3_TOOLTIP	Skrýt efekt a název
+GRAPHICONOFF_DROP_ITEM_LEVEL4_TOOLTIP	Skrytí položek a zobrazení názvu po najetí myší
+GRAPHICONOFF_DROP_ITEM_LEVEL5_TOOLTIP	Skrýt položky a název
+GRAPHICONOFF_PET_STATUS	 zvíøata
+GRAPHICONOFF_PET_STATUS_OFF	Vypnuto
+GRAPHICONOFF_PET_STATUS_OFF_TOOLTIP	Skrýt  zvíøata
+GRAPHICONOFF_PET_STATUS_ON	On
+GRAPHICONOFF_PET_STATUS_ON_TOOLTIP	Zobrazit  mazlíèky
+GRAPHICONOFF_MOUNT_STATUS	Mount
+GRAPHICONOFF_MOUNT_STATUS_OFF	Vypnuto
+GRAPHICONOFF_MOUNT_STATUS_OFF_TOOLTIP	Skrýt Mounty
+GRAPHICONOFF_MOUNT_STATUS_ON	On
+GRAPHICONOFF_MOUNT_STATUS_ON_TOOLTIP	Zobrazit Mounty
+GRAPHICONOFF_NPC_NAME_STATUS	Jména NPC
+GRAPHICONOFF_NPC_NAME_STATUS_OFF	Vypnuto
+GRAPHICONOFF_NPC_NAME_STATUS_OFF_TOOLTIP	Skrýt jména NPC
+GRAPHICONOFF_NPC_NAME_STATUS_ON	On
+GRAPHICONOFF_NPC_NAME_STATUS_ON_TOOLTIP	Zobrazit jména NPC
+OPTION_WINDOWS_MESSAGE	Oznámení systému Windows
+CZ_REWARD_WINDOW_TITLE	Chrám zvìrokruhu
+AUTOMATIC_PCIK_UP_SHIELD	Štít
+AUTOMATIC_PCIK_UP_RING	Prsten
+AUTOMATIC_PCIK_UP_HELMETS	Pøilby
+AUTOMATIC_PCIK_UP_BRACELETS	Náramky
+AUTOMATIC_PCIK_UP_NECKLACE	Náhrdelník
+AUTOMATIC_PCIK_UP_EARRINGS	Náušnice
+AUTOMATIC_PCIK_UP_COSTUME	Kostým
+AUTOMATIC_PCIK_UP_PETNMOUNT	Pet/Mount
+AUTOMATIC_PCIK_UP_SASH	Šerpa
+AUTOMATIC_PCIK_UP_TALISMAN	Talisman
+AUTOMATIC_PCIK_UP_BOOKS	Knihy
+AUTOMATIC_PCIK_UP_STONES	Kameny
+AUTOMATIC_PCIK_UP_YANG	Yang
+AUTOMATIC_PCIK_UP_CHESTS	Truhly
+AUTOMATIC_PCIK_UP_SHOES	Boty
+AUTOMATIC_PCIK_UP_BELT	Opasek
+AUTOMATIC_PICK_UP_FILTER_RARITY	Filtrovat podle rarity
+AUTOMATIC_RARITY_NORMAL	Normal
+AUTOMATIC_RARITY_UNCOMMUN	Uncommun
+AUTOMATIC_RARITY_RARE	Vzácné
+AUTOMATIC_RARITY_EPIC	Epic
+AUTOMATIC_RARITY_RELIC	Relic
+AUTOMATIC_RARITY_LEGENDARY	Legendary
+AUTOMATIC_RARITY_INFO	Vyberte si vìci, které nechcete sbírat.
+AUTOMATIC_PICKUP_TEXT_0	PREMIUM AUTO PICK UP
+AUTOMATIC_PICKUP_TEXT_1	|cFFFF4C4C NENÍ AKTIVOVÁNO
+AUTOMATIC_PICKUP_TEXT_2	|cFF00CB45 AKTIVOVÁNO %s
+AUTOMATIC_PICKUP_TEXT_3	Aktivujte Auto-Pick získáte následující výhody:
+AUTOMATIC_PICKUP_TEXT_4	- Auto Pick (Nemusíte používat Z)
+AUTOMATIC_PICKUP_TEXT_5	- Další rozsah pro položky Pick UP
+OPTION_OBJECT_DISTANCE	Vzdálenost mapových objektù
+TASKBAR_MONEY_EXPAND	Peníze
+MINI_GAME_RUMI_DISCARD_TEXT	Zabezpeèený režim
+MINI_GAME_RUMI_EXIT	Konec
+MINI_GAME_RUMI_LBUTTON_DESC	Kliknutím levým tlaèítkem myši pøidáte kartu
+MINI_GAME_RUMI_RBUTTON_DESC	Kliknutím pravým tlaèítkem myši kartu vyøadíte
+MINI_GAME_RUMI_SCORE	Skóre
+MINI_GAME_RUMI_START_TEXT	Start
+MINI_GAME_RUMI_TITLE	Okey Card Game
+BANNER_CATCHKING_BUTTON	Catch the King
+MINI_GAME_CATCHKING_CHALLENGE	Sázka
+MINI_GAME_CATCHKING_HELP_TEXT	Pravidla
+MINI_GAME_CATCHKING_HIGH_SCORE	Vysoké skóre
+MINI_GAME_CATCHKING_MYNUMBER	Moje karta
+MINI_GAME_CATCHKING_POPUP_CONFIRM	Zobrazit/skrýt vyskakovací okno
+MINI_GAME_CATCHKING_RETRY	Hrajte znovu
+MINI_GAME_CATCHKING_REWARD	Vaše odmìna
+MINI_GAME_CATCHKING_SCORE	Body
+MINI_GAME_CATCHKING_SELECTION_NUMBER	Odhalená karta
+MINI_GAME_CATCHKING_START_TEXT	Start
+MINI_GAME_CATCHKING_TITLE	Catch the King
+MINI_GAME_WINDOW_TITLE	Cath The King
+MINI_GAME_MY_CARD	Moje karta
+MINI_GAME_MY_CARDS	Odkrytá karta
+MINI_GAME_POINTS	Body
+MINI_GAME_BIG_POINTS	Nejlepší skóre
+MINI_GAME_POPUP	Zobrazit/skrýt vyskakovací okno
+AUTO_AUTO_ATTACK	Útok
+AUTO_AUTO_POSITION	LektvaryLektvary
+AUTO_AUTO_POTION	Lektvary
+AUTO_AUTO_RANGE	Zamìøení
+AUTO_AUTO_RESTART	Vzkøíšení
+AUTO_AUTO_SKILL	Dovednosti
+AUTO_CLEAR	Pøehlednì
+AUTO_END	Zastavte
+AUTO_OFF	Vypnuto
+AUTO_ON	On
+AUTO_POSITION_SETTING	Lektvary
+AUTO_POTION_SETTING	Lektvary
+AUTO_SAVE	Uložit
+AUTO_SETTING	Settings
+AUTO_SKILL_SETTING	Dovednosti
+AUTO_START	Start
+AUTO_TITLE	Auto-Hunt
+KEYCHANGE_AUTO_WINDOW	Auto-Hunting
+KEYCHANGE_BUFF_NPC	Peèet Buff
+SYSTEM_MOVE_CHANNEL	Zmìna kanálu
+LANGUAGE_AE	Arabic
+LANGUAGE_CZ	Czech
+LANGUAGE_DE	German
+LANGUAGE_DK	Danish
+LANGUAGE_EN	English
+LANGUAGE_ES	Spanish
+LANGUAGE_FR	French
+LANGUAGE_GR	Greek
+LANGUAGE_HU	Hungarian
+LANGUAGE_IT	Italian
+LANGUAGE_NL	Dutch
+LANGUAGE_NONE	Not selected
+LANGUAGE_PL	Polish
+LANGUAGE_PT	Portuguese
+LANGUAGE_RO	Romanian
+LANGUAGE_RU	Russian
+LANGUAGE_TR	Turkish
+LOGIN_ID	Uživatelské jméno
+LOGIN_PASSWORD	Heslo
+LOGIN_REGION_TITLE	Výbìr místa pro vystavení faktury.
+LOGIN_AUTOSAVE_TITLE	Správce úètu (rychlý pøístup)
+LOGIN_AUTOSAVE_LOGIN	Enter
+LOGIN_AUTOSAVE_SAVE	Uložit
+LOGIN_AUTOSAVE_DELETE	Odstranit
+LOGIN_AUTOSAVE_ADVICE	Nikdy nesdílejte složku, aniž byste tyto informace odstranili (?)
+LOGIN_AUTOSAVE_HELP	Cesta k úložišti úètu: C:\Uživatelé\VÁŠ UŽIVATEL\Plocha\Metin\UseData\autosave
+LOGIN_AUTOSAVE_NONE	Nepoužívá se
+AURA_MAIN	Obleèení Aura
+AURA_SUB	Materiál
+NEW_DROP_ITEM_TITLE	Co chcete s položkou udìlat?
+NEW_DROP_ITEM_TITLE_DESTROY	Proces nièení
+NEW_DROP_ITEM_TITLE_MULTISELL	Proces vícenásobného prodeje
+NEW_DROP_ITEM_MES_DESTROY	Chcete tuto položku znièit?
+NEW_DROP_ITEM_LARGAR	Vyhodit
+EXTRACT_ENERGY_SHARD	Extrakce energetického støepu
+EXTRACT_AURA_FROST_RUNE	Extrakce runy Aura
+PRIVATESHOPSEARCH_ITEMNAME	Název objektu
+PRIVATESHOPSEARCH_DESC_TEXT	- Zadejte název objektu, který chcete vyhledat -
+PRIVATESHOPSEARCH_CLEAR	Clean
+SET_CUSTOM_ATTR_TITLE	Legendární okouzlení
+SET_CUSTOM_ATTR_ENCHANT_BUTTON	Oèarovat
+LOGIN_ACCOUNT_LOAD	Account saved successfuly.
+LOGIN_ACCOUNT_EMPTY	Account saved successfuly.
+SELECT_ATT	STR
+SELECT_CHARACTER_ASSASSIN	Assassin
+SELECT_CHARACTER_ASSASSIN_SKILL	Blade | Archer
+SELECT_CHARACTER_CUSTOMIZATION_TITLE	Customization
+SELECT_CHARACTER_SEX	Select gender
+SELECT_CHARACTER_SHAMAN	Shaman
+SELECT_CHARACTER_SHAMAN_SKILL	Dragon | Healing
+SELECT_CHARACTER_SKIN	Select skin
+SELECT_CHARACTER_SURA	Sura
+SELECT_CHARACTER_SURA_SKILL	Magic weapons | Black magic
+SELECT_CHARACTER_NAME	Character name
+SELECT_CHARACTER_STATUS_TITLE	Character status
+SELECT_CHARACTER_TITLE	Select your character
+SELECT_CHARACTER_WARRIOR	Warrior
+SELECT_CHARACTER_WARRIOR_SKILL	Body | Mental
+SELECT_CREATE_CHARACTER	Create character
+SELECT_DEX	DEX
+SELECT_HP	HP
+SELECT_METIN_STONE_TITLE	Select Spirit Stone
+SELECT_PLAYTIME	Playtime
+SELECT_SP	SP
+TELEPORT_PANEL_TITLE	Teleportations-Fenster
+TELEPORT_PANEL_TAB_EMPIRES	Reiche
+TELEPORT_PANEL_TAB_NEUTRAL	Neutral
+TELEPORT_PANEL_TAB_DUNGEONS	Dungeons
+TELEPORT_PANEL_INFO_TITLE	Beschreibung
+TELEPORT_PANEL_INFO_BOSS	Bossmonster : %s
+TELEPORT_PANEL_INFO_BOSS_EMPTY	Kein Bossmonster auf dieser Map
+TELEPORT_PANEL_INFO_MINLV	Min. Level :
+TELEPORT_PANEL_INFO_MINLV_EMPTY	Min. Level : Kein Mindestlevel
+TELEPORT_PANEL_INFO_MAXLV	Max. Level :
+TELEPORT_PANEL_INFO_MAXLV_EMPTY	Min. Level : Kein Maximallevel
+TELEPORT_PANEL_INFO_COST	Kosten :
+TELEPORT_PANEL_INFO_COST_EMPTY	Kosten : Keine Kosten
+TELEPORT_PANEL_INFO_ITEM_COST_DESC	Benötigtes Item
+TELEPORT_PANEL_INFO_ITEM_COST_TEXT	%dx %s
+TELEPORT_PANEL_INFO_ITEM_COST_TEXT_EMPTY	Kein Item wird benötigt
+TELEPORT_MAP_MAP_1	Map 1 - Yongan | Joan | Pyungmoo
+TELEPORT_MAP_MAP_2	Map 2 - Jayang | Bokjung | Bakra
+TELEPORT_MAP_GUILDZONE	Gildenzone - Jungrang | Waryong | Imha
+TELEPORT_MAP_SEUNGRYONG	Tal von Seungryong
+TELEPORT_MAP_YONGBI	Yongbi-Wüste
+TELEPORT_MAP_SOHAN	Berg Sohan
+TELEPORT_MAP_DOYYUMHWAN	Doyyumhwan
+TELEPORT_MAP_SNAKEFIELD	Schlangenfeld
+TELEPORT_MAP_GHOSTWOOD	Geisterwald
+TELEPORT_MAP_REDWOOD	Roter Wald
+TELEPORT_MAP_LAND_OF_GIANTS	Land der Riesen
+TELEPORT_MAP_SPIDERDUNGEON_01	Spinnendungeon
+TELEPORT_MAP_SPIDERDUNGEON_02	Spinnendungeon 2
+TELEPORT_MAP_DEAMONTOWER	Dämonenturm
+TELEPORT_MAP_DEVILS_CATACOMB	Devil's Catacomb
+TELEPORT_MAP_SKIPIA_DUNGEON	Grotte der Verbannung
+TELEPORT_MAP_BLAZING_PURGATORY	Rotdrachenfestung
+TELEPORT_MAP_NEMERES_WARTE	Nemeres Warte
+TELEPORT_MAP_MAP_1_DESC	Achja, der Ort bei dem die Nostalgische Musik läuft. Hier ist jedenfalls das Zentrum des Handels. Wenn du etwas kaufen möchtest wirst du hier wohl immer fündig! Aber sonst ist hier nicht viel zu finden wenn du schon zu den stärkeren Kämpfern gehörst.
+TELEPORT_MAP_MAP_2_DESC	Ein wichtiges Gebiet wenn du noch Jung bist. Hier findest du halbstarke Monster die dir bis Level 30 gute Erfahrung bieten. Ausserdem grenzt hier eines der Affendungeons an.
+TELEPORT_MAP_GUILDZONE_DESC	Ein Gebiet welches für Gilden wichtig ist. Hier wird gebaut! Aber nicht nur das, auch Monster sind hier zu finden. Sie sind Aggressiv und greifen von alleine an. Junge Spieler können es hier Schwer haben, mann kann hier aber gute Gegenstände erbeuten.
+TELEPORT_MAP_SEUNGRYONG_DESC	Das Orktal ist der Perfekte Ort um von Level 20 bis etwa Level 50 zu Leveln. Ausserdem hat das Orktal eines der Beliebtesten Metin Farm Locations. Der Boss auf dieser Map ist der Oberork. Dieser ist oft überfarmt, also sei immer Wachsam nach dem Gelben Kerl!
+TELEPORT_MAP_YONGBI_DESC	Heiße Lüfte, Sand in den Sandalen. Magst du nicht? Dann solltest du diesen Ort besser meiden. Aber hier gibt es viel zu entdecken. Zwei Affendungeons grenzen hier an, die Spinnendungeon und das Schlangenfeld sind ebenfalls von hier zu erreichen.
+TELEPORT_MAP_SOHAN_DESC	Hier oben ist es ziemlich kalt also Pack dich gut ein! Hier findest du selten die Legänderen Neunschwänze. Geb dich in acht vor ihnen! Es ist ausserdem ein guter Bereich um Metinsteine zu bezwingen. Überlebst du die Kälte, bist du ein taffer Kämpfer.
+TELEPORT_MAP_DOYYUMHWAN_DESC	Vulkane und Magma. Hier wirds richtig Heiß! Monster die gefühlt nicht von dieser Welt stammen sind hier zu finden. Hier solltest du nicht hingehen wenn du nicht stark genug bist!
+TELEPORT_MAP_SNAKEFIELD_DESC	Schlangen und Giganten? Pff... Wie konnte sich das nur entwickeln. Mach dich auf in ein gefährliches Gebiet und versuche hier zu Überleben. Meide diesen Ort wenn du nicht wirklich weißt was du tust, sonst bist du schnell erledigt.
+TELEPORT_MAP_GHOSTWOOD_DESC	
+TELEPORT_MAP_REDWOOD_DESC	
+TELEPORT_MAP_LAND_OF_GIANTS_DESC	Wenn du ein Problem mit Größenordnungen hast, geh hier nicht hin! Andernfalls wirst du hier Gegenstände erbeuten können die dir zu Ruhm und Reichtum verhelfen könnten. Nur geh bitte gut Ausgerüstet dort hin. Das Land braucht dich noch länger!
+TELEPORT_BUTTON_RED_EMPIRE	Rotes Reich
+TELEPORT_BUTTON_YELLOW_EMPIRE	Gelbes Reich
+TELEPORT_BUTTON_BLUE_EMPIRE	Blaues Reich
+TELEPORT_BUTTON_START	Anfang
+TELEPORT_BUTTON_MIDDLE	Mitte
+TELEPORT_BUTTON_END	Ende
+TELEPORT_BUTTON_ENTRY	Eingang
+TELEPORT_BUTTON_SKIPIA_1	Erste Ebene
+TELEPORT_BUTTON_SKIPIA_2	Zweite Ebene
+TELEPORT_BUTTON_SKIPIA_BOSS	Bossraum
+TELEPORT_PANEL_TAB_NAME_1	Global
+TELEPORT_PANEL_TAB_NAME_2	Normale Maps
+TELEPORT_PANEL_TAB_NAME_3	Level Maps
+TELEPORT_PANEL_TAB_NAME_4	Farm Maps
+TELEPORT_PANEL_TAB_NAME_5	Dungeons
+TELEPORT_PANEL_TAB_NAME_6	Welten Boss
+TELEPORT_WINDOW_TITLE	Teleport window
+TELEPORT_WINDOW_BUTTON_TELEPORT	Teleport
+TELEPORT_WINDOW_NAVIGATION_TITLE	Where do you want to go?
+FORGET_PASS	Password Reset
+ACCOUNT_REMOVE_LIST_TEXT	Do you want to delete the account?
+EMPTY_SLOT	Empty Slot
+TEST	TEST
+LOGIN_INTERFACE_NOSAVED_ACC	V tomto slotu není uložen žádný úèet!
+LOGIN_INTERFACE_FREE_SPACE	Volný Slot
+LOGIN_INTERFACE_PASTE_ID	Zadejte ID!
+LOGIN_INTERFACE_PASTE_PW	Zadejte Heslo!
+LOGIN_INTERFACE_NO_SLOT_FREE	Neexistuje žádný volný slot!
+LOGIN_INTERFACE_SAVED	Váš úèet byl uložen.
+LOGIN_INTERFACE_DELETED	Vymazán
+LOGIN_INTERFACE_ALREADY_EMPTY	už existuje!
+INTRO_LOGIN_ACCOUNT	Volný Slot
+INTRO_LOGIN_EMPTY	.

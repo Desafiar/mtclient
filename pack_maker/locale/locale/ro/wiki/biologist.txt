@@ -1,0 +1,121 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/bio_wall.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15;Y_PADDING=-10]Content List:
+[Y_PADDING=2;COLOR=0x63FFB2;FONT_SIZE=14]*1. General
+[COLOR=0x63FFB2;FONT_SIZE=14]*2. Tasks and Rewards
+[COLOR=0x63FFB2;FONT_SIZE=14]*3. Reward Reselection
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=14]1. General
+[Y_PADDING=10;X_PADDING = 55;FONT_SIZE=13]*Biologist Items are submitted via the button on the minimap.or F7.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*Biologist Items are obtained via the Biologist's shop in the same panel.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*The gems to finish every quest can be obtained in the same place.
+[IMG=d:/ymir work/ui/game/wiki/emoji/btn_biolog_normal.png; Y=140; X=13]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.1 Biologis Special Items
+[Y_PADDING=10;X_PADDING = 75;FONT_SIZE=13]*There are 2 special items to speed up the proces to do the biologist quests:
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]*Researcher's Elixir can be used to increase the probability of success.
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]*Biologist elixir can be used for remove the waiting time.
+[ITEM=71035; IS_LINK=1; Y=209; X=5]
+[ITEM=30250; IS_LINK=1; Y=209; X=35]
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]1.2 Biologist Quests
+[Y_PADDING=10;X_PADDING = 75;FONT_SIZE=13]*The quests start at lvl 30 until lv 105. All quests gives a permanent bonus
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]reward to the player when he completes the mision. Don't forget to buy the
+[Y_PADDING=2;X_PADDING = 75;FONT_SIZE=13]final gem at the Biologist store to finish each quest.
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=320; CENTER_ALIGN]
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]2. Tasks and Rewards
+[COLOR=0xe65454;Y_PADDING=10;CENTER_ALIGN]*You have to finish the previous quest in order to start the next one.
+
+[COLOR=ef4f00;FONT_SIZE=15;Y_PADDING=5;X_PADDING=10]Lv. 30 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: 10x Orc Tooth
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 10 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Defense +30
+[ITEM=300000; IS_LINK=1; Y=402; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 40 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x15 Curse Book
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 10 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Attack Value +40
+[ITEM=300001; IS_LINK=1; Y=470; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 50 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x15 Demon's Keepsake
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 15 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Strong against Monsters: +5%
+[ITEM=300002; IS_LINK=1; Y=535; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 60 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x20 Ice Marble
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 15 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Select one: 4% Damage vs Bosses | 4% damage vs Stones
+[ITEM=300003; IS_LINK=1; Y=601; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 70 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x25 Zelkova Branch
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 30 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Select one: 4% Damage vs Bosses | 4% damage vs Stones
+[ITEM=300004; IS_LINK=1; Y=673; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 80 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x30 Tugyi's Tablet
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time:	30 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: +1000HP or 10% Skill Cooldown
+[ITEM=300005; IS_LINK=1; Y=733; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 85 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x40 Red Ghost Tree Branch
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 45 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Resistance against all character +10%
+[ITEM=300006; IS_LINK=1; Y=801; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 90 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x50 Leader's Notes
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 60 Minutes
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Strong against all character +10%
+[ITEM=300007; IS_LINK=1; Y=862; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 92 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x10 Malevolence Jewel
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 2 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Select one: Max. HP +1200 | +120 Defence | +50 Attack Value
+[ITEM=300008; IS_LINK=1; Y=933; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 94 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x20 Wisdom Jewel
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 2 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Select one: Max. HP +1500 | +140 Defence | +60 Attack Value
+[ITEM=300009; IS_LINK=1; Y=998; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 98 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x35 Lotus Flower
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 3 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Strong against Monsters +10% | PVP Resistance +10%
+[ITEM=300010; IS_LINK=1; Y=1060; X=10]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 100 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x40 Emerald Seeds
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 3 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Strong. against Stones +10% | Magic Damage +10%
+[ITEM=300011; IS_LINK=1; Y=1127; X=10]
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=1245; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15;;X_PADDING=10]Lv. 105 Biologist Quest
+[Y_PADDING=8;X_PADDING = 55;FONT_SIZE=13]*Item: x50 Blue Crystal
+[Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Waiting time: 3 Hours
+[COLOR=0x83E889;Y_PADDING=1;X_PADDING = 55;FONT_SIZE=13]*Reward: Strong. against Bosses +10% | PVP Damage +10%
+[ITEM=300012; IS_LINK=1; Y=1193; X=10]
+
+
+
+[COLOR=0xffd700; Y_PADDING=15; CENTER_ALIGN; FONT_SIZE=15]3. Reward Reselection
+[Y_PADDING=10;X_PADDING = 55;FONT_SIZE=13]*You can reselect the reward of Biologist Quest with Scroll of the Biologist.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*You have to choose for which Quest you want to reset the reward.
+[Y_PADDING=2;X_PADDING = 55;FONT_SIZE=13]*You can only reselect 1 Biologist Reward with 1 Biologist Reset Item.
+[ITEM=70028; IS_LINK=1; Y=1280; X=10]
+
+

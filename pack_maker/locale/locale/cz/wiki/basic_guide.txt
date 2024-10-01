@@ -1,0 +1,116 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/mechanics.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Basic Ava2 Gameplay Guide
+
+[COLOR=0xffd700;FONT_SIZE=18]Content List:
+
+[X_PADDING=5;FONT_SIZE=14]* 1. Inventory
+[X_PADDING=5;FONT_SIZE=14]* 2. Equipment
+[X_PADDING=5;FONT_SIZE=14]* 3. Character progress
+[X_PADDING=5;FONT_SIZE=14]* 4. Useful tips
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Inventory
+
+[CENTER_ALIGN;FONT_SIZE=14]The normal inventory is used only for consumables, pieces of equipment and a 
+[CENTER_ALIGN;FONT_SIZE=14]few other items. The rest of the items that you acquire will be placed in 
+[CENTER_ALIGN;FONT_SIZE=14]the Special Inventory according to the category of the item.
+
+[CENTER_ALIGN;FONT_SIZE=14]You can find the Special Inventory next to the inventory:
+
+
+[IMG=d:/ymir work/ui/game/special_inventory/normal_storage_0.tga; Y=315; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Equipment
+
+[CENTER_ALIGN;FONT_SIZE=14]Equipment items in Ava2 are governed by a unique rarity system. When a piece of 
+[CENTER_ALIGN;FONT_SIZE=14]equipment is dropped by a mob, it can have 6 different rarities:
+
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=858681]*Common Item: No Extra basic bonus  |  Low Durability
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=FFFFFF]*Uncommon Item: +5% Extra basic bonus  |  Normal Durability
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=39DDDA]*Rare Item: +10% Extra basic bonus  |  Good Durability
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E41414]*Epic Item: +20% Extra basic bonus  |  Very Good Durability
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=3FFF19]*Relic Item: +25% Extra basic bonus  |  Excellent Durability
+[CENTER_ALIGN;FONT_SIZE=14;COLOR=E328E9]*Legendary Item: +30% Extra basic bonus  |  Legendary Durability
+
+[CENTER_ALIGN;FONT_SIZE=14]The durability of items is lost as you get hit or hit with your weapon. Once the 
+[CENTER_ALIGN;FONT_SIZE=14]piece of equipment loses all durability, the item's base attributes continue to 
+[CENTER_ALIGN;FONT_SIZE=14]function but bonuses 1-7 of the piece of equipment stop working until the item 
+[CENTER_ALIGN;FONT_SIZE=14]is repaired.
+
+[CENTER_ALIGN;FONT_SIZE=14]You can obtain Item Repairers from the general store, from the boss drop and from 
+[CENTER_ALIGN;FONT_SIZE=14]the item shop:
+[IMG=d:/ymir work/ui/game/wiki/emoji/repair.tga; Y=650; CENTER_ALIGN]
+
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=700; CENTER_ALIGN]
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Character progress
+
+[CENTER_ALIGN;FONT_SIZE=14]To level up in Ava2 and progress with your character, it is not necessary to level 
+[CENTER_ALIGN;FONT_SIZE=14]up in the usual areas in the world of metin2. The best option to level up in a 
+[CENTER_ALIGN;FONT_SIZE=14]balanced way and without encountering difficulties or obstacles to progress is to 
+[CENTER_ALIGN;FONT_SIZE=14]focus on hunting metin stones and killing bosses to get better equipment. 
+
+[CENTER_ALIGN;FONT_SIZE=14]Don't forget to do the biologist's missions that you will find on the minimap button! 
+[CENTER_ALIGN;FONT_SIZE=14]In the biologist panel you will also find a store to get the necessary materials 
+[CENTER_ALIGN;FONT_SIZE=14]to complete each quest.
+
+[IMG=d:/ymir work/ui/game/wiki/emoji/biologo.tga; Y=900; CENTER_ALIGN]
+
+[IMG=d:/ymir work/ui/game/wiki/divider_long.tga; Y=1220; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Useful tips
+
+[X_PADDING=15;FONT_SIZE=14]* Kill metin stones, kill more metin stones and finally kill even more metin stones.
+[X_PADDING=15;FONT_SIZE=14]* All bosses, even those in city 1 and 2 have special item drops. Take advantage of them.
+[X_PADDING=15;FONT_SIZE=14]* Don't just focus on leveling up! You will need to go back later.
+[X_PADDING=15;FONT_SIZE=14]* You can farm with 2 accounts at the same time, it will be good for you!
+[X_PADDING=15;FONT_SIZE=14]* Dungeon bosses drop many of the items you will find in the Item Shop.
+[X_PADDING=15;FONT_SIZE=14]* Fishing in Ava2 will not leave you indifferent! It is very easy to fish and the Roasted fish
+[X_PADDING=15;FONT_SIZE=14]  have great PVP and PVM bonuses.
+[X_PADDING=15;FONT_SIZE=14]* Stones can be upgraded with blessing scrolls up to +5!
+[X_PADDING=15;FONT_SIZE=14]* Take advantage of the events in the events calendar!
+[X_PADDING=15;FONT_SIZE=14]* Check out the rarities! A Relic or Legendary item may be better than a higher level item.
+[X_PADDING=15;FONT_SIZE=14]* And most importantly, enjoy your stay in the world of Ava2!
+

@@ -1,0 +1,81 @@
+
+[BANNER_IMG = d:/ymir work/ui/game/wiki/rules.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Regras do Jogo
+
+
+
+[FONT_SIZE=16;COLOR=58ADFF]1. Venda/Compra/Tentativa
+[FONT_SIZE=14]1. Não é permitido vender ou comprar e/ou trocar bens virtuais por dinheiro real 
+[FONT_SIZE=14]    ($, £, €, Paysafe, PayPal, Bitcoins etc.), Itens em outros servidores/jogos.
+[FONT_SIZE=14]2. Também não é permitido vender uma conta para a Yang.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]2. Linguagem ofensiva e comportamento tóxico
+[FONT_SIZE=14]1. Linguagem ofensiva, espalhar mentiras, ódio, motim e racismo ou abuso verbal é proibido 
+[FONT_SIZE=14]    e será punido - dependendo do caso.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]3. Privado/ Informações da vida real
+[FONT_SIZE=14]1. Difamação ou vazamento de informações privadas/ da vida real dos
+[FONT_SIZE=14]    membros da staff ou  Os jogadores são estritamente proibidos.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]4. Bugs & Evasão do Sistema
+[FONT_SIZE=14]1. Um bug deve ser relatado imediatamente escrevendo uma mensagem para uma Staff.
+[FONT_SIZE=14]    Qualquer tipo de uso de bug/ abuso que afeta o fluxo do jogo será punido
+[FONT_SIZE=14]    Qualquer tipo de evasão de um sistema para ganhar uma vantagem será punido.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]5. Aplicações de Terceiros
+[FONT_SIZE=14]1. Aplicativos de terceiros (Hacks, Bots, Softwares ilegais) são programas ou 
+[FONT_SIZE=14]    arquivos que não fazem parte do nosso servidor.
+[FONT_SIZE=14]    Aproveitando ou usando essas coisas serão punidos. Os jogadores devem jogar limpo
+[FONT_SIZE=14]2. Macros são permitidos desde que nenhuma vantagem seja obtida 
+[FONT_SIZE=14]    por ser AFK, portanto, nos reservamos o direito de punir os jogadores 
+[FONT_SIZE=14]    que abusam dessa ferramenta
+
+
+[FONT_SIZE=16;COLOR=58ADFF]6. Publicidade de terceiros
+[FONT_SIZE=14]1. A publicidade a outros servidores não é permitida de forma alguma e será punida.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]7. Segurança da Conta
+[FONT_SIZE=14]1. Todos devem ser responsáveis por suas contas e itens no jogo.
+[FONT_SIZE=14]    É por isso que os membros da staff não podem garantir ajudar de forma alguma
+[FONT_SIZE=14]    se um usuário perder  algo porque confiava no seu parceiro/amigo.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]8. User Report
+[FONT_SIZE=14]1. Se você quiser denunciar um usuário com a ajuda de uma captura de tela ou vídeo,
+[FONT_SIZE=14]    nome servidor + a hora do servidor precisa estar visível o tempo todo.
+[FONT_SIZE=14]    Caso contrário, não somos capazes de usá-lo como prova
+
+
+[FONT_SIZE=16;COLOR=58ADFF]9. Instrução dos membros do staff
+[FONT_SIZE=14]1. As instruções dos membros do staff devem ser seguidas. Desobedecer a um
+[FONT_SIZE=14]    membro do staff as instruções podem castigar-te.
+[FONT_SIZE=14]    Além disso, cada membro da staff e jogador deve ser tratado com respeito.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]10. Promoção Partners
+[FONT_SIZE=14]1. É proibido influenciar negativamente o livestream de um parceiro de promoção 
+[FONT_SIZE=14]    e impedir que o streamer promova ativamente o servidor.
+[FONT_SIZE=14]2. Esta regra não significa que os parceiros de promoção têm total liberdade e matar proteção.
+[FONT_SIZE=14]3. Esta regra só se aplica se puder ser claramente provado que o jogador segue o streamer 
+[FONT_SIZE=14]    em seu córrego e impede-o de promover ativamente.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]11. Nomes inapropriados
+[FONT_SIZE=14]1. Nomes de personagem, monta, Pet, Lojas e Guildas inapropriados não são permitidos!
+
+
+[FONT_SIZE=16;COLOR=58ADFF]12. Utilização de VPN/PROXY
+[FONT_SIZE=14]1. O uso de uma VPN/PROXY para obter uma vantagem para outros jogadores não é permitido!
+
+
+[FONT_SIZE=16;COLOR=58ADFF]13. Alterar reserva
+[FONT_SIZE=14]1. A staff se reserva o direito de alterar ou expandir as regras sem anunciá-lo publicamente.
+
+
+[FONT_SIZE=16;COLOR=58ADFF]14. Multi-Farm Block
+[FONT_SIZE=14]1. É proibido o uso de qualquer técnica para evitar o Multi-Farm Block.
