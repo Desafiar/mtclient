@@ -393,8 +393,8 @@ class LoginWindow(ui.ScriptWindow):
 			ui.PythonScriptLoader().LoadScriptFile(self, fileName)
 
 			self.board = {
-				"backgr"	: self.GetChild("background_el"),
-				"board"	: self.GetChild("board"),
+				#"backgr"	: self.GetChild("background_el"),
+				#"board"	: self.GetChild("board"),
 				## Inputs
 				"ID" : self.GetChild("placeHolderId"),
 				"PW" : self.GetChild("placeHolderPw"),
@@ -403,7 +403,7 @@ class LoginWindow(ui.ScriptWindow):
 				"loginButton" : self.GetChild("loginBtn"),
 				## Channels
 				"Channels" : [self.GetChild("channel_%d" % (i+1)) for i in xrange(4)],
-				"chText" : [self.GetChild("chText_%d" % (i+1)) for i in xrange(4)],
+				#"chText" : [self.GetChild("chText_%d" % (i+1)) for i in xrange(4)],
 				## Remember Me
 				#"remebermeBtn" : self.GetChild("remeberBtn"),
 				#"remebermeTxt" : self.GetChild("remeberTxt"),
@@ -411,25 +411,29 @@ class LoginWindow(ui.ScriptWindow):
 				"textLink_user" : self.GetChild("link_user"),
 				"textLink_account" : self.GetChild("link_acc"),
 
-				"account" : [self.GetChild("account_%d" % (i+1)) for i in xrange(4)],
+				"account" : [self.GetChild("account_%d" % (i+1)) for i in xrange(6)],
 				"account_1_txt" : self.GetChild("account_1_txt"),
 				"account_2_txt" : self.GetChild("account_2_txt"),
 				"account_3_txt" : self.GetChild("account_3_txt"),
 				"account_4_txt" : self.GetChild("account_4_txt"),
+				"account_5_txt" : self.GetChild("account_5_txt"),
+				"account_6_txt" : self.GetChild("account_6_txt"),
 				"account_1_delete" : self.GetChild("account_1_delete"),
 				"account_2_delete" : self.GetChild("account_2_delete"),
 				"account_3_delete" : self.GetChild("account_3_delete"),
 				"account_4_delete" : self.GetChild("account_4_delete"),
+				"account_5_delete" : self.GetChild("account_5_delete"),
+				"account_6_delete" : self.GetChild("account_6_delete"),
 				
 				"saveBtn" : self.GetChild("saveBtn"),
 				"saveInf" : self.GetChild("saveInf"),
 				
-				"change_es" : self.GetChild("change_es"),
-				"change_en" : self.GetChild("change_en"),
-				"change_de" : self.GetChild("change_de"),
-				"change_pt" : self.GetChild("change_pt"),
-				"change_ru" : self.GetChild("change_ru"),
-				"change_pl" : self.GetChild("change_pl"),
+				#"change_es" : self.GetChild("change_es"),
+				#"change_en" : self.GetChild("change_en"),
+				#"change_de" : self.GetChild("change_de"),
+				#"change_pt" : self.GetChild("change_pt"),
+				#"change_ru" : self.GetChild("change_ru"),
+				#"change_pl" : self.GetChild("change_pl"),
 			}
 
 		except:
@@ -462,19 +466,23 @@ class LoginWindow(ui.ScriptWindow):
 		self.board["account"][1].SetEvent(lambda arg=1: self.__OnClickAccounts(arg))
 		self.board["account"][2].SetEvent(lambda arg=2: self.__OnClickAccounts(arg))
 		self.board["account"][3].SetEvent(lambda arg=3: self.__OnClickAccounts(arg))
+		self.board["account"][4].SetEvent(lambda arg=3: self.__OnClickAccounts(arg))
+		self.board["account"][5].SetEvent(lambda arg=3: self.__OnClickAccounts(arg))
 
 		self.board["account_1_delete"].SetEvent(self.__OnClickCleanAccounts_1)
 		self.board["account_2_delete"].SetEvent(self.__OnClickCleanAccounts_2)
 		self.board["account_3_delete"].SetEvent(self.__OnClickCleanAccounts_3)
 		self.board["account_4_delete"].SetEvent(self.__OnClickCleanAccounts_4)
+		self.board["account_5_delete"].SetEvent(self.__OnClickCleanAccounts_5)
+		self.board["account_6_delete"].SetEvent(self.__OnClickCleanAccounts_6)
 		#### ModoPerros
 
-		self.board["change_es"].SetEvent(self.__OnClickChangeEs)
-		self.board["change_en"].SetEvent(self.__OnClickChangeEn)
-		self.board["change_de"].SetEvent(self.__OnClickChangeDe)
-		self.board["change_pt"].SetEvent(self.__OnClickChangePt)
-		self.board["change_ru"].SetEvent(self.__OnClickChangeRu)
-		self.board["change_pl"].SetEvent(self.__OnClickChangePl)
+		#self.board["change_es"].SetEvent(self.__OnClickChangeEs)
+		#self.board["change_en"].SetEvent(self.__OnClickChangeEn)
+		#self.board["change_de"].SetEvent(self.__OnClickChangeDe)
+		#self.board["change_pt"].SetEvent(self.__OnClickChangePt)
+		#self.board["change_ru"].SetEvent(self.__OnClickChangeRu)
+		#self.board["change_pl"].SetEvent(self.__OnClickChangePl)
 
 		self.__CargarCuentas()
 		self.Channel_select()
@@ -482,7 +490,7 @@ class LoginWindow(ui.ScriptWindow):
 	def Channel_select(self):
 		self.board["Channels"][0].SetEvent(lambda : self.ChannelEvents(0,1))
 		self.board["Channels"][0].Down()
-		self.board["chText"][0].SetPackedFontColor(nano_interface.COLOR_HOVER)
+		#self.board["chText"][0].SetPackedFontColor(nano_interface.COLOR_HOVER)
 		self.board["Channels"][1].SetEvent(lambda : self.ChannelEvents(1,2))
 		self.board["Channels"][2].SetEvent(lambda : self.ChannelEvents(2,3))	
 		self.board["Channels"][3].SetEvent(lambda : self.ChannelEvents(3,4))	
@@ -491,11 +499,11 @@ class LoginWindow(ui.ScriptWindow):
 		global saveSrv
 		for btn in self.board["Channels"]:
 			btn.SetUp()
-			for ex in self.board["chText"]:
-				ex.SetPackedFontColor(nano_interface.COLOR_NORMAL)
+			#for ex in self.board["chText"]:
+			#	ex.SetPackedFontColor(nano_interface.COLOR_NORMAL)
 
 		self.board["Channels"][arg].Down()
-		self.board["chText"][arg].SetPackedFontColor(nano_interface.COLOR_HOVER)
+		#self.board["chText"][arg].SetPackedFontColor(nano_interface.COLOR_HOVER)
 
 		if	1 <= channel and channel <= 4:
 			nano_interface.SERVERS_LIST_DICT[saveSrv]['CH%s' % channel]
@@ -543,7 +551,7 @@ class LoginWindow(ui.ScriptWindow):
 	def __OnClickAccounts(self, arg):
 		ind = int(arg)
 		self.Valuebottonpostfile = ind
-		listafiles = ["account1.txt","account2.txt","account3.txt","account4.txt"]
+		listafiles = ["account1.txt","account2.txt","account3.txt","account4.txt","account5.txt","account6.txt"]
 		vardiraccount = "lib/accountsave/"
 		file = open(vardiraccount+listafiles[self.Valuebottonpostfile], "r")
 		c = 0
@@ -596,15 +604,15 @@ class LoginWindow(ui.ScriptWindow):
 		elif login4 == "":
 			slot = 4
 		else:
-			self.PopupNotifyMessage("žádné místo pro uložení dalších úètù!")
+			self.PopupNotifyMessage("ï¿½ï¿½dnï¿½ mï¿½sto pro uloï¿½enï¿½ dalï¿½ï¿½ch ï¿½ï¿½tï¿½!")
 			return
 			
 		if id == "":
-			self.PopupNotifyMessage("Musíte napsat ID a heslo.")
+			self.PopupNotifyMessage("Musï¿½te napsat ID a heslo.")
 			return
 
 		if pwd == "":
-			self.PopupNotifyMessage("Musíte napsat heslo.")
+			self.PopupNotifyMessage("Musï¿½te napsat heslo.")
 			return
 
 		f = open("lib/accountsave/account" + str(slot) + ".txt", "w")
@@ -612,7 +620,7 @@ class LoginWindow(ui.ScriptWindow):
 		f.write(pwd)
 		f.close()
 		
-		self.PopupNotifyMessage("Váš úèet byl uložen!.")
+		self.PopupNotifyMessage("Vï¿½ ï¿½ï¿½et byl uloï¿½en!.")
 		self.__CargarCuentas()
 	
 	def __CargarCuentas(self):
@@ -635,6 +643,16 @@ class LoginWindow(ui.ScriptWindow):
 		login4 = fd.readline()
 		login4.replace( "\n", "" )
 		fd.close()
+
+		fd = open("lib/accountsave/account5.txt")
+		login5 = fd.readline()
+		login5.replace( "\n", "" )
+		fd.close()
+
+		fd = open("lib/accountsave/account6.txt")
+		login6 = fd.readline()
+		login6.replace( "\n", "" )
+		fd.close()
 	
 		if login1 != "":
 			self.board["account_1_txt"].SetText(login1)
@@ -655,6 +673,16 @@ class LoginWindow(ui.ScriptWindow):
 			self.board["account_4_txt"].SetText(login4)
 		else:
 			self.board["account_4_txt"].SetText(uiScriptLocale.INTRO_LOGIN_ACCOUNT)
+			
+		if login5 != "":
+			self.board["account_5_txt"].SetText(login5)
+		else:
+			self.board["account_5_txt"].SetText(uiScriptLocale.INTRO_LOGIN_ACCOUNT)
+			
+		if login6 != "":
+			self.board["account_6_txt"].SetText(login6)
+		else:
+			self.board["account_6_txt"].SetText(uiScriptLocale.INTRO_LOGIN_ACCOUNT)
 
 	def __OnClickCleanAccounts_1(self):
 		f = open("lib/accountsave/account1.txt", "w")
@@ -682,6 +710,20 @@ class LoginWindow(ui.ScriptWindow):
 		f.write ("")
 		f.close()
 		self.board["account_4_txt"].SetText(uiScriptLocale.INTRO_LOGIN_ACCOUNT+" 4 - "+uiScriptLocale.INTRO_LOGIN_EMPTY)
+		self.__CargarCuentas()
+		
+	def __OnClickCleanAccounts_5(self):
+		f = open("lib/accountsave/account4.txt", "w")
+		f.write ("")
+		f.close()
+		self.board["account_5_txt"].SetText(uiScriptLocale.INTRO_LOGIN_ACCOUNT+" 5 - "+uiScriptLocale.INTRO_LOGIN_EMPTY)
+		self.__CargarCuentas()
+		
+	def __OnClickCleanAccounts_6(self):
+		f = open("lib/accountsave/account4.txt", "w")
+		f.write ("")
+		f.close()
+		self.board["account_6_txt"].SetText(uiScriptLocale.INTRO_LOGIN_ACCOUNT+" 6 - "+uiScriptLocale.INTRO_LOGIN_EMPTY)
 		self.__CargarCuentas()
 		
 	def __OnClickChangeEs(self):
