@@ -1,0 +1,86 @@
+BoundingSphereRadius   100.000000
+BoundingSpherePosition 0.000000 0.000000 0.000000
+
+Group Mesh
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" 0.000000 0.000000 0.000000
+    }
+    
+    MeshFileName               	"ridack_knightwing2.mde"
+    MeshAnimationLoopEnable    	1
+    MeshAnimationLoopCount     	0
+    MeshAnimationFrameDelay    	0.040000
+    
+    MeshElementCount           	4
+    Group MeshElement00
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	12
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	999999.000000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	4
+        ColorFactor                	0.549020 0.549020 0.549020 1.000000
+        List TimeEventAlpha
+        {
+        }
+    }
+    Group MeshElement01
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	9
+        BlendingDestType           	3
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	999999.000000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	5
+        ColorFactor                	0.494118 0.129412 0.000000 1.000000
+        List TimeEventAlpha
+        {
+        }
+    }
+    Group MeshElement02
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	999999.000000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	6
+        ColorFactor                	0.643137 0.639216 0.639216 1.000000
+        List TimeEventAlpha
+        {
+        }
+    }
+    Group MeshElement03
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	999999.000000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	6
+        ColorFactor                	1.000000 0.737255 0.603922 1.000000
+        List TimeEventAlpha
+        {
+        }
+    }
+}

@@ -1,0 +1,21 @@
+ScriptType               MotionData
+
+MotionFileName           "D:\ymir work\npc\mont_centauro\run.GR2"
+MotionDuration           0.533333
+
+Group MotionEventData
+{
+    MotionEventDataCount     1
+    Group Event00
+    {
+        MotionEventType      1
+        StartingTime         0.017032
+        
+        IndependentFlag      0
+        AttachingEnable      1
+        AttachingBoneName    "Spine"
+        FollowingEnable      1
+        EffectFileName       "d:/ymir work/essentialwork/efectos/carnaval/mount_run.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+    }   
+}

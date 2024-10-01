@@ -1,0 +1,151 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\mont_centauro\mont_centauro.GR2"
+
+Group ShapeData
+{
+    PathName 		 "D:\ymir work\npc\mont_centauro\"
+    ShapeDataCount 		 1
+	
+	Group ShapeData00
+ {
+  ShapeIndex   0
+
+  Model    "mont_centauro.gr2"
+  SourceSkin   "00.dds"
+  TargetSkin   "00_2.dds"
+  SourceSkin2   "gold.dds"
+  TargetSkin2   "gold.dds"
+ }
+}
+Group AttachingData
+{
+    AttachingDataCount       9
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Spine2"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           65.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Spine2"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           65.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "EFF_R_Toe001"
+        
+        EffectScriptName     "D:\ymir work\essentialwork\efectos\carnaval\mount_2.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData03
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Root"
+        
+        EffectScriptName     ""
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData04
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "EFF_R_Hand"
+        
+        EffectScriptName     "D:\ymir work\essentialwork\efectos\carnaval\mount_2.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData05
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "EFF_L_Hand"
+        
+        EffectScriptName     "D:\ymir work\essentialwork\efectos\carnaval\mount_2.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData06
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "EFF_L_Toe"
+        
+        EffectScriptName     "D:\ymir work\essentialwork\efectos\carnaval\mount_2.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData07
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Spine2"
+        
+        EffectScriptName     "D:\ymir work\essentialwork\efectos\carnaval\mount_big_2.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData08
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Spine"
+        
+        EffectScriptName     "D:\ymir work\essentialwork\efectos\carnaval\mount_big_2.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}

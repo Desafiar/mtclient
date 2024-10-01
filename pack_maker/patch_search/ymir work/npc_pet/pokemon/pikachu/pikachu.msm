@@ -1,0 +1,31 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc_pet\pokemon\pikachu\pikachu.GR2"
+
+Group ShapeData
+{
+    PathName 		 ""
+    ShapeDataCount 		 0
+}
+Group AttachingData
+{
+    AttachingDataCount       1
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "pm0025_00_pikachu"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           16.000000
+            Position         0.000000 0.000000 20.000000
+        }
+    }
+}
