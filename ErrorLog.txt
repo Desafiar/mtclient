@@ -1,0 +1,19 @@
+Module Name: C:\Users\King-Stolbys\Desktop\Avicka\bin_alonie2.exe
+Time Stamp: 0x66303221 - (null)
+
+Exception Type: 0xc0000005
+
+eax: 0x00000004	ebx: 0x00000000
+ecx: 0x00000008	edx: 0x00000008
+esi: 0x00d762c0	edi: 0x00d762c0
+ebp: 0x0f0efc2c	esp: 0x0f0efc18
+
+0x00d4b7fe	C:\Users\King-Stolbys\Desktop\Avicka\bin_alonie2.exe
+0x00d4ca73	C:\Users\King-Stolbys\Desktop\Avicka\bin_alonie2.exe
+0x00d4b115	C:\Users\King-Stolbys\Desktop\Avicka\bin_alonie2.exe
+0x00d75c04	C:\Users\King-Stolbys\Desktop\Avicka\bin_alonie2.exe
+0x00d76398	C:\Users\King-Stolbys\Desktop\Avicka\bin_alonie2.exe
+0x7635fcc9	C:\WINDOWS\System32\KERNEL32.DLL
+0x771a7c5e	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x771a7c2e	C:\WINDOWS\SYSTEM32\ntdll.dll
+

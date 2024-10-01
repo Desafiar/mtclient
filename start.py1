@@ -1,0 +1,84 @@
+import os, glob
+
+PACK_FOLDER = "pack"
+FILES_FOLDER = "pack_maker"
+FILE_EXE = "metin2client.exe"
+
+def Start():
+	print("Write 1 = Start, 2 = Create XML, 3 = Encrypt, 4 = Create Index")
+	f = input()
+	if f == 1:
+		os.popen("start "+FILE_EXE)
+	elif f == 2:
+		print("Creating xml files, please wait")
+		for fileName in glob.glob(FILES_FOLDER+"/*.xml"):
+			os.remove(fileName)
+		a = open("make_xml.xml", "w")
+		a.write("<ScriptFile>\n")
+		for file in os.listdir(FILES_FOLDER):
+			if file in ("property"):
+				os.popen( "PropertyGen.exe "+FILES_FOLDER+"/property" )
+				os.popen( "move property.xml "+FILES_FOLDER+"/root/property.xml" )
+			property = ""
+			if file in ("root"):
+				property = '\n\t\t<Add Path="'+FILES_FOLDER+'/root/property.xml" />'
+			a.write('\t<CreateEterPackXml Input="'+FILES_FOLDER+'/'+file+':')
+			a.write("\" ")
+			a.write('ArchivePath="'+PACK_FOLDER+'/'+file+'" XmlPath="'+FILES_FOLDER+'/'+file+'_create.xml">'+property+'\n\t</CreateEterPackXml>\n')
+		a.write('</ScriptFile>')
+		a.close()
+		
+		os.popen('filearchiver make_xml.xml')
+		os.remove("make_xml.xml")
+
+		for fileName in glob.glob(FILES_FOLDER+"/*.xml"):
+			a = open(fileName, "r")
+			b = ""
+			for lines in a.readlines():
+				if lines.find("ArchivedPath") > -1:
+					if lines.find("ymir work") > -1:
+						b += lines.replace('"ymir work/', '"d:/ymir work/')
+					else:
+						if lines.find('ArchivedPath=""') > -1:
+							continue
+						b += lines
+				else:
+					b += lines
+			a.close()
+			os.remove(fileName)
+			c = open(fileName, "w").write(b)
+		
+		print "XML Files were created"
+		print("")
+	elif f == 3:
+		packName = raw_input("Name of archive or All: ")
+		fileString = ""
+		if packName == "":
+			pass
+		elif packName.lower() == "all":
+			for file in os.listdir(FILES_FOLDER):
+				if file.endswith(".xml"):
+					fileString += FILES_FOLDER+"/%s " % (str(file))
+		else:
+			fileString += FILES_FOLDER+"/%s " % (str(packName)+"_create.xml")
+		if fileString != "":
+			print "Compiling file: "+fileString
+			os.system('"filearchiver" %s' % fileString)
+
+	elif f == 4:
+		print "Creating Index file"
+
+		b = open(PACK_FOLDER+"/Index", "w")
+		for file in os.listdir(PACK_FOLDER):
+			if file == "Index":
+				continue
+			b.write(file+"\n")
+		b.close()
+		print "Index file successfully created"
+		print ""
+	else:
+		print("Wrong command")
+		print("")
+	Start()
+
+Start()

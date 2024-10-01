@@ -5,3 +5,11 @@ pack/effect filter=lfs diff=lfs merge=lfs -text
 pack/etc filter=lfs diff=lfs merge=lfs -text
 pack/monster2 filter=lfs diff=lfs merge=lfs -text
 pack/npc filter=lfs diff=lfs merge=lfs -text
+pack/patch_search filter=lfs diff=lfs merge=lfs -text
+pack/patch_wiki filter=lfs diff=lfs merge=lfs -text
+pack/patch_yohara filter=lfs diff=lfs merge=lfs -text
+pack/pc filter=lfs diff=lfs merge=lfs -text
+pack/p2 filter=lfs diff=lfs merge=lfs -text
+pack/pc2 filter=lfs diff=lfs merge=lfs -text
+pack/terrain filter=lfs diff=lfs merge=lfs -text
+pack/zone filter=lfs diff=lfs merge=lfs -text

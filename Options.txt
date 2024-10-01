@@ -1,0 +1,6 @@
+Weapon: 1
+Armor: 1
+Book: 1
+Stone: 1
+Costume: 1
+Upgrade: 1
