@@ -318,14 +318,7 @@ window = {
 					"default_image" : BTN_PATH + "btn_select_blank.png",
 					"over_image" : BTN_PATH + "btn_select.png",
 					"down_image" : BTN_PATH + "btn_select.png",
-				},
-				{
-					"name" : "logo", "type" : "button",
-					"x" : 815, "y" : 165,
-					"default_image" : BTN_PATH + "logo.png",
-					"over_image" : BTN_PATH + "logo.png",
-					"down_image" : BTN_PATH + "logo.png",
-				},				
+				},			
 				{
 					"name" : "loadAnim",
 					"type" : "ani_image",
