@@ -4,7 +4,7 @@ app.ServerName = None
 
 SRV1 = {
 	"name":localeInfo.SERVERNAME,
-	"host":"192.168.191.103",
+	"host":"89.221.217.50",
 	"auth1":30001,
 	"ch1":30003,
 	"ch2":30011,
@@ -13,7 +13,7 @@ SRV1 = {
 }
 SRV2 = {
 	"name":localeInfo.SERVERNAMETEST,
-	"host":"192.168.191.103",
+	"host":"89.221.217.50",
 	"auth1":30001,
 	"ch1":30003,
 	"ch2":30011,

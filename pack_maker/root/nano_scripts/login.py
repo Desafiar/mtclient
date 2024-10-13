@@ -12,6 +12,8 @@ height = 0
 if SCREEN_HEIGHT <= 1000:
 	height = -120
 
+center_items = 870
+
 window = {
 	"name" : "LoginWindow",
 	"x" : 0, "y" : 0, "width" : SCREEN_WIDTH, "height" : SCREEN_HEIGHT,
@@ -27,17 +29,13 @@ window = {
 				# ID
 				{
 					"name": "placeHolderId", "type": "special_editline",
-					"x": (SCREEN_WIDTH / 2 - 166 / 2) - 5,
-					"y": (SCREEN_HEIGHT / 2 - 20 - 10),
-					"width": 166, "height": 30,
+					"x" : center_items, "y" : 482, "width" : 166, "height" : 20,
 					"input_limit": 24,
 				},
 				# PWD
 				{
 					"name": "placeHolderPw", "type": "special_editline",
-					"x": (SCREEN_WIDTH / 2 - 166 / 2) - 5,
-					"y": (SCREEN_HEIGHT / 2) + 5,
-					"width": 166, "height": 30,
+					"x" : center_items, "y" : 516, "width" : 166, "height" : 20,
 					"secret_flag": 1,
 					"input_limit": 24,
 				},				
@@ -52,8 +50,8 @@ window = {
 					"name" : "saveBtn",
 					"type" : "toggle_button",
 
-					"x": (SCREEN_WIDTH / 2 - 166 / 2) - 5,
-					"y": 547,
+					"x": center_items,
+					"y": 550,
 
 					"default_image": BASE_PATH2+"buttons/remember_me_normal.png",
 					"over_image": BASE_PATH2+"buttons/remember_me_active.png",
@@ -63,8 +61,8 @@ window = {
 					"name" : "saveInf",
 					"type" : "text",
 
-					"x": (SCREEN_WIDTH / 2 - 166 / 2)+10,
-					"y": 545,
+					"x": center_items+15,
+					"y": 547,
 
 					"fontname" : "Tahoma Bold:13",
 					"outline" : 1,
@@ -77,7 +75,7 @@ window = {
 				{
 					"name" : "loginBtn",
 					"type" : "button",
-					"x": (SCREEN_WIDTH / 2 - 166 / 2) - 10,
+					"x" : 860,
 					"y" : 569,
 					"default_image": BASE_PATH2 + "buttons/btn_normal.png",
 					"over_image": BASE_PATH2 + "buttons/btn_active.png",
@@ -104,7 +102,7 @@ window = {
 					"name": "link_user",
 					"type": "nano_text_link_login",
 
-					"x": (SCREEN_WIDTH / 2 - 166 / 2) - 10,
+					"x": center_items - 10,
 					"y": 602,
 					
 					"text" : localeInfo.FORGOT_PASSWORD,
@@ -114,7 +112,7 @@ window = {
 					"name": "link_acc",
 					"type": "nano_text_link_login",
 
-					"x": (SCREEN_WIDTH / 2 - 166 / 2) - 10,
+					"x": center_items - 10,
 					"y": 615,
 					
 					"text" : localeInfo.CREATE_ACCOUNT,

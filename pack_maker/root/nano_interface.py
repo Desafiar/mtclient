@@ -21,7 +21,7 @@ COLOR_LOGIN_TEXT = 0xffe8decb
 COLOR_WHITE = 0xffe5dfcf
 COLOR_HOVER2 = 0xffaca17d
 
-name = "Nethis" #Nombre Del Metin
+name = "Fettin2" #Nombre Del Metin
 name_channel1 = "-Ch1" #Nombre del Channel1
 name_channel2 = "-Ch2" #Nombre del Channel2
 name_channel3 = "-Ch3" #Nombre del Channel3
@@ -30,7 +30,7 @@ name_channel4 = "-Ch4" #Nombre del Channel4
 ## SERVER PORTS
 SERVERS_LIST_DICT = {
 	#0:{'ip':'198.50.239.68','CH1':13360,'CH2':16340,'CH3':18320,'CH4':20380,'auth':11025,'name':'Angel2',}, ##test
-	0:{'ip':'192.168.191.103','CH1':30003,'CH2':30011,'CH3':30019,'CH4':30027,'auth':30001,'name':'Fetin2',}, ##bueno
+	0:{'ip':'89.221.217.50','CH1':30003,'CH2':30011,'CH3':30019,'CH4':30027,'auth':30001,'name':'Fetin2',}, ##bueno
 	#2:{'ip':'11.111.11.113','CH1':25070,'CH2':25070,'CH3':25070,'CH4':25070,'auth':2300,'name':'Server 3',},
 	# 3:{'ip':'11.111.11.111','CH1':25070,'CH2':25070,'CH3':25070,'CH4':25070,'auth_port':2300,'name':'Server 4',},
 
