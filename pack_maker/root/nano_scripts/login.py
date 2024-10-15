@@ -42,7 +42,7 @@ window = {
 				{
 					"name": "loginInfor",
 					"type": "text",
-					"x": SCREEN_WIDTH / 2 - (len("TextTextTextTextTextText") * 6) / 2,
+					"x": SCREEN_WIDTH / 2 + (len("TextTextTextTextTextText") * 6) / 2,
 					"y": 650,
 					"text": "TextTextTextTextTextText",
 				},
